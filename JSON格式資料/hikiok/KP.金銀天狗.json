@@ -1,0 +1,2455 @@
+{
+  "作者": "陳守敬",
+  "出版年": "2001",
+  "出版者": "拱樂社",
+  "文類": "戲劇",
+  "書名": "金銀天狗",
+  "書寫系統": "漢字",
+  "資料": [
+    {
+      "段": [
+        [
+          "〈唱〉跪落墓前哭出聲，何氏磈叫夫君你的名，不是奴家惜性命，卜報冤仇講你聽。",
+          "(Chhiunn3) Kui7 loh8 bong7-cheng5 khau3 chhut-siann, Ho5--si7 teh kio3 hu-kun li2 e5 mia5, m7 si7 nou5-ka sioh sinn3-mia7, beh po3 oan-siu5 kong2 li2 thiann."
+        ],
+        [
+          "啊也！夫君！",
+          "Ah-iah!  Hu-kun!"
+        ],
+        [
+          "關公降漢不降曹，不是妾身驚過刀，補庇冤仇著有報，妾身□□能有功勞。",
+          "Koan-kong hang5 Han3 m7 hang5 Cho5, m7 si7 chhiap-sin kiann ke3-to, po2-pi3 oan-siu5 tioh8 u7 po3, chhiap-sin □□ e7 u7 kong-lo5."
+        ],
+        [
+          "啊喲！何氏腹痛走入墓后生子。囝仔聲。杏仁茶出台。",
+          "Ah-ioh!  Ho5--si7 pak thiann3 chau2 jip8 bong7-au7 sinn-kiann2.  Gin2-a2 siann.  Heng7-jin5-te5 chhut-tai5."
+        ],
+        [
+          "墓后簡有囝仔聲治个哮。起背詞仔聲治个哮",
+          "Bong7-au7 kam2 iu2 gin2-a2 siann ti7 leh hau2.  Khi2 poe7 su5 a2 siann ti7 leh hau2"
+        ],
+        [
+          "〈唱〉店在墓邊來生子，看子加添無心成。",
+          "(Chhiunn3) Tiam3 chai7 bong7-pinn lai5 sinn-kiann2, khoann3 kiann2 ka-thiam bo5 sim-chiann5."
+        ],
+        [
+          "敢不是夫人？〈何氏手比吹介〉",
+          "Kam2 m7 si7 hu-jin5?  (Ho5--si7 chhiu2 pi2 chhoe kai3)"
+        ],
+        [
+          "啊！杏仁茶，你的主人已經被害死，聽我說來。",
+          "Ah!  Heng7-jin5-te5, li2 e5 chu2-lang5 i2-keng pi7 hai7-si2, thiann goa2 soeh lai5."
+        ],
+        [
+          "主人受虧。〈吹介。〉",
+          "Chu2-lang5 siu7-khui. (Chhoe kai3.)"
+        ],
+        [
+          "夫人！事到如今，趕緊逃走就是。",
+          "Hu-jin5!  Su7 kau3 ju5-kim, koann2-kin2 to5-chau2 chiu7 si7."
+        ],
+        [
+          "漫且！二位女兒來出世，野賊若是來見知，你咱若是走賣離，斷絕林家的宗機。",
+          "Ban7-chhiann2!  Ji7 ui7 lu2-ji5 lai5 chhut-si3, ia2-chhat8 na7 si7 lai5 kian3-ti, li2 lan2 na7 si7 chau2 be7-li7, toan7-choat8 Lim5--ka e5 chong-ki."
+        ],
+        [
+          "不如寫了二副的血詩，勸在二位的女兒，萬一被賊充散去，后日相逢者能得見知。",
+          "Put-ju5 sia2-liau2 nng7 hu3 e5 huih-si, khng3 chai7 nng7 ui7 e5 lu2-ji5, ban7-it pi7 chhat8 chhiong-soann3 khi3, au7-jit8 siong-hong5 chiah e7-tit kian3-ti."
+        ],
+        [
+          "〈四句連後自白〉大姊玉蟬伊个名，素秋小妹請你廳，有人抽去甲我痛，當情無母通好沮。",
+          "(Si3-ku3-lian5 au7 chu7-peh8) Toa7-chi2 Giok8-sian5 i e5 mia5, Sou3-chhiu sio2-be7 chhiann2 li2 thiann, u7 lang5 khioh khi3 ka7 goa2 thiann3, tong5-cheng5 bo5 bu2 thang ho2 chhiann5."
+        ],
+        [
+          "此計其妙，快快寫來。",
+          "Chhu2 ke3 ki5-biau7, khoai3-khoai3 sia2--lai5."
+        ],
+        [
+          "杏仁茶，訐平省人來？〈杏仁茶越頭，何氏頭摃墓碑而死。〉",
+          "Heng7-jin5-te5, hit-peng5 siann2-lang5 lai5? (Heng7-jin5-te5 oat8-thau5, Ho5--si7 thau5 kong3 bong7-pi ji5 si2.)"
+        ],
+        [
+          "啊！夫人受虧啊！〈吹介了〉",
+          "Ah!  Hu-jin5 siu7-khui ah!  (Chhoe kai3 liau2)"
+        ],
+        [
+          "聽見腳步聲，鐵頭陀一行出台，杏仁茶大驚，將玉蟬抱落台，放素秋在地上，被鐵頭陀抱起。",
+          "Thiann-kinn3 kha-pou7 siann, Thih-thau5-to5 chit8-kiann5 chhut-tai5, Heng7-jin5-te5 toa7-kiann, chiong Giok8-sian5 pho7 loh8-tai5, pang3 Sou3-chhiu chai7 te7-siong7, pi7 Thih-thau5-to5 pho7 khi2."
+        ],
+        [
+          "何氏死了，留此女孩兒何用，不如將他殺死。",
+          "Ho5--si7 si2 liau2, liu5 chhu2 lu2-hai5-ju5 ho5-eng7, put-ju5 chiong tha sat-si2."
+        ],
+        [
+          "且漫！不可將伊來抬死，將伊收起做女兒。",
+          "Chhiann2-ban7!  Put-kho2 chiong i lai5 thai5-si2, chiong i siu khi2 choe3 lu2-ji5."
+        ],
+        [
+          "你講這條真有理，今日得子也是奇。來啊！死屍收下，再追啊！〈鐵頭陀一行追落台，收幕〉",
+          "Li2 kong2 chit tiau5 chin u7 li2, kim-jit8 tit chu2 ia7 si7 ki5.  Lai5--ah!  Si2-si siu-ha7, chai3 tui ah!  (Thih-thau5-to5 chit8-kiann5 tui loh8-tai5, siu bou7)"
+        ],
+        [
+          "杏仁茶、鐵頭陀、道童、追風入祥過場，杏仁茶抱囝仔走出台，拔倒，將女孩置落水中，鐵頭陀一行追出台欲殺，杏仁茶被崑崙山劍客解救落台。〈以下接新紙本4〉",
+          "Heng7-jin5-te5, Thih-thau5-to5, to7-tong5, tui-hong jip8-siang5 koe3 tiunn5, Heng7-jin5-te5 pho7 gin2-a2 chau2 chhut-tai5, poah8-to2, chiong lu2-hai5 ti3 loh8 chui2-tiong, Thih-thau5-to5 chit8-kiann5 tui chhut-tai5 beh sat, Heng7-jin5-te5 pi7 Khun-lun5-san kiam3-kheh kai2-kiu3 loh8-tai5.  (I2-ha7 chiap sin choa2-pun2 4)"
+        ],
+        [
+          "自一幕經過後幕，經過十六年后，楊玉郎要掛金鎖，楊不吉二个登台。",
+          "Chu7 chit8 bou7 keng-ke3 au7-bou7, keng-ke3 chap8-lak8 ni5 au7, Iunn5 Giok8-long5 iau3 koa3 kim-so2, Iunn5 Put-kiat nng7 e5 teng-tai5."
+        ],
+        [
+          "〈四聯白〉立志攻書觀聖賢，忠心正義無私偏，風雲際會蚊龍變，學得唐朝李白仙。",
+          "(Si3-lian5 peh8) Lip8-chi3 kong-su koan seng3-hian5, tiong-sim cheng3-gi7 bo5 su-phian, hong-hun5 che3-hoe7 bong2-liong5 pian3, oh8-tit Tong5-tiau5 Li2 Pek8 sian."
+        ],
+        [
+          "在下楊玉郎，家童楊不吉。",
+          "Chai7-ha7 Iunn5 Giok8-long5, ka-tang5 Iunn5 Put-kiat."
+        ],
+        [
+          "阿爹三多伊的名，人稱員外在京城，看錢親像伊性命，欺貧重富呆名聲。",
+          "A-tia Sam-to i e5 mia5, jin5-chheng goan5-goe7 chai7 Kiann-siann5, khoann3 chinn5 chhin-chhiunn7 i sinn3-mia7, khi-pin5 tiong7-pu3 phainn2 mia5-siann."
+        ],
+        [
+          "小爺!今日青名的日止，來去迌踏草青，做陣來去看景致，免甲員外伊通知。",
+          "Sio2-ia5!  Kim-jit8 chheng-beng5 e5 jit8-chi2, lai5-khi3 thit-tho5 tah8 chhau2-chhinn, choe3-tin7 lai5-khi3 khoann3 keng2-ti3, bian2 kah oan5-goe7 i thong-ti."
+        ],
+        [
+          "〈唱〉卜去迌看光景，不吉帶路行做前，玉郎做人風流性，卜看美女帶治刀這宮。",
+          "(Chhiunn3) Beh khi3 thit-tho5 khoann3 kong-keng2, Put-kiat tai3-lou7 kiann5 choe3-chian5, Giok8-long5 choe3-lang5 hong-liu5 seng3, beh khoann3 bi2-lu2 toa3 ti7 toh chit8 keng."
+        ],
+        [
+          "玉郎，家童二个落台。杜鵑鵑、小春登台。",
+          "Giok8-long5, ka-tang5 nng7 e5 loh8-tai5.  Tou7 Koan-koan, Sio2-chhun teng-tai5."
+        ],
+        [
+          "〈唱〉三月算來是清明，准備酒禮甲三牲，娘相招到山頂，卜去阿母的墓前。",
+          "(Chhiunn3) Sann-geh8 sng3 lai5 si7 chheng-beng5, chun2-pi7 chiu2-le2 kah sam-seng, niu5-kan2 sio-chio kau3 soann-teng2, beh khi3 a-bu2 e5 bou7-cheng5."
+        ],
+        [
+          "奴家杜鵑鵑，婢杜小春。",
+          "Nou5-ka Tou7 Koan-koan, kan2-pi7 Tou7 Sio2-chhun."
+        ],
+        [
+          "奴家養母死了后，只春養爸在阮投，今日清明日止到，卜磈墓紙上山頭。",
+          "Nou5-ka iunn2-bu2 si2 liau2-au7, chi2 chhun iunn2-pe7 chai7 gun2 tau, kim-jit8 chheng-beng5 jit8-chi2 kau3, beh teh bong7-choa2 chiunn7 soann-thau5."
+        ],
+        [
+          "小姐二八破瓜期，待字閨中有讀詩，美麗妖嬌極無比，勝過貴妃甲西施。",
+          "Sio2-chia2 ji7-pat pho3-koa ki5, tai7-li7 kui-tiong u7 thok8-si, bi2-le7 iau-kiau kek8 bu5-pi2, seng3-ke3 Kui3-hui kah Se-si."
+        ],
+        [
+          "小春，來到阿母的墓前，趕緊退我排三牲，銀紙磈在墓仔頂，拜好咱通回家庭。",
+          "Sio2-chhun, lai5 kau3 a-bu2 e5 bou7-cheng5, koann2-kin2 thoe3 goa2 pai5 sam-seng, gun5-choa2 teh ti7 bong7-a2 teng2, pai3 ho2 lan2 thang hoe5 ke-teng5."
+        ],
+        [
+          "雙人拜墓，不吉、玉郎登台。",
+          "Siang-lang5 pai3-bou7, Put-kiat, Giok8-long5 teng-tai5."
+        ],
+        [
+          "（唱）玉郎行到山頂來，沼路迌迌看花採，墓前二个治呢拜，賣須嫦娥下瑤台。",
+          "(Chhiunn3) Giok8-long5 kiann5 kau3 soann-teng2 lai5, ian5-lou7 thit-tho5 khoann3 hoe-chhai2, bou7-cheng5 nng7 e5 ti7 leh pai3, be7-su Siong5-ngou5 ha7 iau5-tai5."
+        ],
+        [
+          "（用相褒調）一日食飽無頭路，生理卜做刀這途，相人死尪的查某，清明著來墓仔埔。",
+          "(Eng7 sio-po-tiau7) Chit8 jit8 chiah8-pa2 bo5 thau5-lou7, seng-li2 beh choe3 toh chit8 tou5, siann2-lang5 si2 ang e5 cha-bou2, chheng-beng5 tioh8 lai5 bong7-a2-pou."
+        ],
+        [
+          "小姐！今日天神磈下降，簡有二欉青仔欉，無採穿甲金サンサン，看人目睭極拖窗。",
+          "Sio2-chia2!  Kim-jit8 thian-sin5 teh ha7-kang3, kann2 u7 nng7 chang5 chhinn-a2-chang5, bo5-chhai2 chheng7 kah kim sang-sang, khoann3 lang5 bak8-chiu kek8 thoah-thang."
+        ],
+        [
+          "小春緊返來去。",
+          "Sio2-chhun kin2 tng2 lai5-khi3."
+        ],
+        [
+          "漫且！昨方恁有寫批信，叫阮來者有原因，人阮來者真趕緊，大慨敢是恁兩人。",
+          "Ban7-chhiann2!  Cha7-hng lin2 u7 sia2 phoe-sin3, kio3 gun2 lai5 chiah u7 goan5-in, lang5 gun2 lai5 chia chin koann2-kin2, tai7-khai3 kann2 si7 lin2 liong2 jin5."
+        ],
+        [
+          "小春咱是深閏女，你來扒因若許奇？簡無對我來講起，亂主寫批去乎伊。",
+          "Sio2-chhun lan2 si7 chhim-kui-li2, li2 lai5 bat in nah hiah ki5?  Kann2 bo5 tui3 goa2 lai5 kong2 khi2, loan7-chu2 sia2-phoe khi3 hou7 i."
+        ],
+        [
+          "夭壽短命亂主講，對時寫批去私通，講話若卜箱搶榜，你是能食拳頭風。",
+          "Iau2-siu7 te2-mia7 loan7-chu2 kong2, ti7-si5 sia2-phoe khi3 su-thong, kong2-oe7 na7 beh siunn chhiang3-pong3, li2 si7 e7 chiah8 kun5-thau5-hong."
+        ],
+        [
+          "小姐咱マイ甲伊講，伊是奴才有帶空，我來退伊倍罪無冤枉，小生名叫楊玉郎。",
+          "Sio2-chia2 lan2 mai3 kah i kong2, i si7 lou5-chai5 u7 tai3-khong3, goa2 lai5 thoe3 i poe5-choe7 bo5 oan-ong2, sio2-seng mia5 kio3 Iunn5 Giok8-long5."
+        ],
+        [
+          "你是孔子的門生，做人未免無正經，報名乎阮啥路用，男女受授不親你要知代先。",
+          "Li2 si7 Khong2-chu2 e5 bun5-seng, choe3-lang5 bi7-bian2 bo5 cheng3-keng, po3-mia5 hou7 gun2 siann2 lou7-eng7, lam5-lu2 siu-siu7 m7 chhin li2 iau3 chai tai7-seng."
+        ],
+        [
+          "小姐咱返來去，行！",
+          "Sio2-chia2 lan2 tng2 lai5-khi3, kiann5!"
+        ],
+        [
+          "鵑鵑、小春二个走落台，玉郎看不甘放，〈唱紹興調〉",
+          "Koan-koan, Sio2-chhun nng7 e5 chau2 loh8-tai5, Giok8-long5 khoann3 m7-kam pang3, (Chhiunn3 siau7-heng tiau7)"
+        ],
+        [
+          "〈紹興調〉這樣美貌世少有，芙蓉如面眉如柳，眼角流情銷魄處，賓□送情不停留。",
+          "(Siau7-heng tiau7) Chit-iunn7 bi2-mau7 se3 siau2-iu2, phu5-iong5 ju5 bin7 bai5 ju5 liu2, gan2-kak liu5-cheng5 siau-phek chhu3, pin5 □ song3-cheng5 put theng5-liu5."
+        ],
+        [
+          "就是那楊妃出難比，恐怕那西子亦要扺頭。",
+          "Chiu7 si7 nah Iunn5 hui chhut lan5 pi2, khiong2-pha3 nah Se-chu2 iah8 iau3 ti2-thio5."
+        ],
+        [
+          "啊！雨來啊！介再我有攑雨傘來。",
+          "Ah!  Hou7 lai5--ah!  Kai-chai3 goa2 u7 giah8 hou7 soann3 lai5."
+        ],
+        [
+          "小生、三花開傘。",
+          "Sio2-seng, Sann-hoe khui soann3."
+        ],
+        [
+          "鵑鵑、小春由文平走出閃入雨傘內。",
+          "Koan-koan, Sio2-chhun iu5 bun5-peng5 chau2 chhut siam2 jip8 hou7 soann3 lai7."
+        ],
+        [
+          "拜托呢！這磈四面朗無厝，無磈閃雨有恰須，只款西北雨落真久，雨傘借阮掠身軀。",
+          "Pai3-thok neh!  Chit tai3 su3-bin7 long2 bo5 chhu3, bo5 tai3 siam2-hou7 u7 khah-su, chit khoan2 sai-pak-hou7 loh8 chin ku2, hou7 soann3 chioh gun2 jia seng-khu."
+        ],
+        [
+          "（以下接新紙p67）",
+          "(I2-ha7 chiap sin-choa2 p67)"
+        ],
+        [
+          "〈詩〉清明時節雨紛紛，路上玉郎卻斷魂，若問桃源何處有，含情不語杏花村。",
+          "(Si) Chheng-beng5 si5-choeh u2 hun-hun, lou7-siong7 Giok8-long5 khiok toan7-hun5, jiok8 bun7 tho5-goan5 ho5-chhu3 u7, ham5-cheng5 m7 gi2 heng7-hoa-chhun."
+        ],
+        [
+          "〈咬目落串，鵑鵑小春先落台〉",
+          "(Ka7-bak8 loh8-chhoan3, Koan-koan Sio2-chhun seng loh8-tai5)"
+        ],
+        [
+          "嫦娥下凡無者巧，看著強卜帶下消，少爺目睭煞吊吊，歸円憨憨起條條。",
+          "Siong5-ngou5 ha7-hoan5 bo5 chiah khiau2, khoann3 tioh8 kiong5-beh tai3 ha7-siau, siau3-ia5 bak8-chiu soah tiau3-tiau3, kui e5 gong7-gong7 khi2 tiau5-tiau5."
+        ],
+        [
+          "好天是不？",
+          "Ho2-thinn si7 m7?"
+        ],
+        [
+          "實在生去足巧氣，月中丹桂第一美，你咱趕緊磈來去，卜交查某趁這時。",
+          "Sit8-chai7 sinn khi3 chiok kha2-khi3, goat8-tiong tan-kui3 te7-it bi2, li2 lan2 koann2-kin2 te3 lai5-khi3, beh kau cha-bou2 than3 chit-si5."
+        ],
+        [
+          "二个落台。杜鵑鵑、小春、楊不吉、玉郎，緊忙忙追過場。",
+          "Nng7 e5 loh8-tai5.Tou7 Koan-koan, Sio2-chhun, Iunn5 Put-kiat, Giok8-long5, kin2-bang5-bang5 tui koe3 tiunn5."
+        ],
+        [
+          "〈接過頁第三格誤□玉蟬〉",
+          "(Chiap ke3 iah8 te7-sann-keh gou7 □ Giok8-sian5)"
+        ],
+        [
+          "鵑鵑、小春二个走對面前過，落台。",
+          "Koan-koan, Sio2-chhun nng7 e5 chau2 tui3 bin7-cheng5 koe3, loh8-tai5."
+        ],
+        [
+          "玉郎、不吉二个追出。誤會玉嬋是鵑鵑，將他扏住，",
+          "Giok8-long5, Put-kiat nng7 e5 tui chhut.  Gou7 hoe7 Giok8-sian5 si7 Koan-koan, chiong tha giu2-chu7,"
+        ],
+        [
+          "擔閣走去閣！",
+          "Tann koh chau2--khi3 koh!"
+        ],
+        [
+          "你是刀位青仔欉，著愛看乎恰著人，查某身軀亂亂攬，罩底磈變什麼空。",
+          "Li2 si7 toh-ui7 chhinn-a2-chang5, tioh8-ai3 khoann3 hou7 khah tioh8 lang5, cha-bou2 seng-khu loan7-loan7 lam2, tau3-toe2 teh pinn3 sim2-mih khang."
+        ],
+        [
+          "不是在下桃工卜，卜去掠鴨攬著雞，實在對你真呆細，就對小姐禮緊回。",
+          "M7 si7 chai7-ha7 thiau-kang beh, beh khi3 liah8 ah lam2 tioh8 ke, sit8-chai7 tui3 li2 chin phainn2-se3, chiu7 tui3 sio2-chia2 le2 kin2 hoe5."
+        ],
+        [
+          "〈以下接新紙10〉",
+          "(I2-ha7 chiap sin-choa2 10)"
+        ],
+        [
+          "阿爹！後面有二隻黑狗追來啊！",
+          "A-tia!  Au7-bin7 u7 nng7 chiah ou-kau2 tui lai5--ah!"
+        ],
+        [
+          "玉蟬走落台。玉郎、不吉隨後走入。被節炎夫妻趕出。",
+          "Giok8-sian5 chau2 loh8-tai5.  Giok8-long5, Put-kiat sui5-hio7 chau2 jip8.  Pi7 Chiat-iam7 hu-chhe koann2 chhut."
+        ],
+        [
+          "慢且呢！慢且呢！我者不是運動場！",
+          "Ban7-chhiann2 neh!  Ban7-chhiann2 neh!  Goa2 chiah m7 si7 un7-tong7-tiunn5!"
+        ],
+        [
+          "ヱ？你敢不是節炎伯？",
+          "E5?  Li2 kam2 m7 si7 Chiat-iam7 peh?"
+        ],
+        [
+          "ヱ？你著楊玉郎？",
+          "E5?  Li2 tioh8 Iunn5 Giok8-long5?"
+        ],
+        [
+          "我恰早起治你厝邊，離開著無五年，你擔長大者大漢啊！",
+          "Goa2 khah-cha2 khi2 ti7 li2 chhu3-pinn, li7-khui tioh8 bo5 gou7 ni5, li2 tann tiong2-tai7 chiah toa7-han3 ah!"
+        ],
+        [
+          "〈玉蟬再出台。〉[門@丨]啊走入去許个敢是你查某子玉蟬。",
+          "(Giok8-sian5 chai3 chhut-tai5.) Tu2-a2 chau2 jip8 khi3 hit e5 kam2 si7 li2 cha-bou2-kiann2 Giok8-sian5."
+        ],
+        [
+          "是啦！你也忘記，恰早做囝仔時代，甲你治个做上尪个許个啦！",
+          "Si7--lah!  Li2 ia7 bong7-ki3, khah-cha2 choe3 gin2-a2 si5-tai7, ka7 li2 ti7 leh choe3 siong7-ang e5 hit e5 lah!"
+        ],
+        [
+          "著啦！也伊許存五歲，二港鼻搓搓珍，□領開腳褲，拔倒二枝腳抄高起來。",
+          "Tioh8--lah!  Ia7 i hit-chun7 gou7 he3, nng7 kang2 phinn7 chhop-chhop-tin, □ nia2 khui-kha-khou3, poah8-to2 nng7 ki kha chhau koan5--khi2-lai5."
+        ],
+        [
+          "你忘記个，是啦！",
+          "Li2 be7-ki3 e5, si7--lah!"
+        ],
+        [
+          "我想著啊！吻媽水去足希罕，一蕊親像白牡丹，擔我賣用闇再等，卜來拜託阿伯你一層。",
+          "Goa2 siunn7 tioh8 ah!  Chit-ma2 sui2 khi3 chiok hi-han2, chit8 lui2 chhin-chhiunn7 peh8-bou2-tan, tann goa2 boe7 eng7 koh-chai3 tan2, beh lai5 pai3-thok a-peh li2 chit8 chan5."
+        ],
+        [
+          "什麼代志做你講，賣要緊。",
+          "Sim2-mih tai7-chi3 choe3 li2 kong2, be7 iau3-kin2."
+        ],
+        [
+          "〈以下接新紙11〉",
+          "(I2-ha7 chiap sin-choa2 11)"
+        ],
+        [
+          "〈玉蟬再出台〉阿爹有何吩咐？",
+          "(Giok8-sian5 chai3 chhut-tai5) A-tia iu2 ho5 hoan-hu3?"
+        ],
+        [
+          "玉蟬！人講男大當婚，女大當嫁，玉郎愛娶你為妻，不知你的意見不也卜？桃工問你一个。",
+          "Giok8-sian5!  Lang5 kong2 lam5-tai7 tong-hun, lu2-tai7 tong-ke3, Giok8-long5 ai3 chhoa7 li2 ui5 chhe, m7 chai li2 e5 i3-kian3 m7 ia7 beh ?  Thiau-kang mng7 li2 chit8 e5."
+        ],
+        [
+          "卜講女兒的姻緣，長大愛嫁是當年，阿爹你著看現現，不免閣再來延遷。由在阿爹你注意就好。〈玉蟬落台〉",
+          "Beh kong2 lu2-ji5 e5 in-ian5, tiong2-tai7 ai3 ke3 si7 tong-jian5, a-tia li2 tioh8 khoann3 hian7-hian7, m7 bian2 koh-chai3 lai5 ian5-chhian5.  Iu5-chai7 a-tia li2 chu3-i3 to7 ho2.  (Giok8-sian5 loh8-tai5)"
+        ],
+        [
+          "雙年約束有討棟，交換金鎖者有通，緊叫媒人通來講，今日煞娶去洞房。",
+          "Siang-lang5 iok-sok u7 tho3-tong3, kau-oann7 kim-so2 chiah u7 thong, kin2 kio3 hm5-lang5 thang lai5 kong2, kim-jit8 soah chhoa7 khi3 tong7-pong5."
+        ],
+        [
+          "我回去甲我的阿爹講，雖是抓媒人送聘金來娶親。",
+          "Goa2 tng2--khi3 ka7 goa2 e5 a-tia kong2, sui5-si5 liah8 hm5-lang5 sang3 pheng3-kim lai5 chhoa7-chhin."
+        ],
+        [
+          "你請了。〈玉郎、不吉落台。〉",
+          "Li2 chhiann2--liau2. (Giok8-long5, Put-kiat loh8-tai5.)"
+        ],
+        [
+          "玉郎已去，入內准備就是。〈節炎、梁氏二个落台，收幕。〉",
+          "Giok8-long5 i2 khi3, jip8 lai7 chun2-pi7 chiu7 si7. (Chiat-iam7, Niu5--si7 nng7 e5 loh8-tai5, siu bou7.)"
+        ],
+        [
+          "自蝴蝶、李金彪雙人緊戰登台。旗軍，四聯白。",
+          "Peh8 Ou5-tiap8, Li2 Kim-pio siang-lang5 kin2 chian3 teng-tai5.  Ki5-kun, si3-lian5 peh8."
+        ],
+        [
+          "三十六寨齊歸順，眾家兄弟我為尊，有人對我山腳過，卻取行理來平分。",
+          "Sann-chap8-lak8 che7 chiau5 kui-sun7, chiong3-ka hiann-ti7 goa2 ui5 chun, u7 lang5 tui3 goa2 soann-kha ke3, kiap-chhu2 heng5-li2 lai5 pinn5-pun."
+        ],
+        [
+          "掩髮金彪自蝴蝶，兄弟雙人在了九龍寨落草為寇，今日山中缺欠錢糧，合斤下山搶卻就是。",
+          "Am-hoat Kim-pio Peh8 Ou5-tiap8, hiann-ti7 siang-lang5 chai7 liau2 Kiu2-liong5-che7 lok8-chho2 ui5-khou3, kim-jit8 san-tiong khoeh-khiam3 chinn5-niu5, ha5-kun ha7-san chhiunn2-kiap chiu7 si7."
+        ],
+        [
+          "來！帶馬。〈二个落台。楊玉郎、不吉二个登台。〉",
+          "Lai5!  Tai3 ma2.  (nng7 e5 loh8-tai5.  Iunn5 Giok8-long5, Put-kiat nng7 e5 teng-tai5.)"
+        ],
+        [
+          "請慢來！要對山腳過，現出買路錢。",
+          "Chhiann2-ban7 lai5!  Iau3 tui3 soann-kha ke3, hian7-chhut boe2-lou7-chinn5."
+        ],
+        [
+          "省人乎你誥？",
+          "Siann2-lang5 hou7 li2 kho3?"
+        ],
+        [
+          "阮大王。〈金彪、胡蝶二个登台。〉",
+          "Gun2 tai7-ong5.(Kim-pio, Ou5-tiap8 nng7 e5 teng-tai5.)"
+        ],
+        [
+          "有何事情？",
+          "Iu2 ho5 su7-cheng5?"
+        ],
+        [
+          "有人過路。",
+          "U7 lang5 koe3-lou7."
+        ],
+        [
+          "你要何方而去？",
+          "Li2 iau3 ho5-hng ji5 khi3?"
+        ],
+        [
+          "阮愛過此山。",
+          "Gun2 ai3 koe3 chhu2 soann."
+        ],
+        [
+          "若愛過此山，快快買路錢，若無者恁性命難保。",
+          "Na7 ai3 koe3 chhu2 soann, khoai3-khoai3 boe2-lou7-chinn5, na7 bo5--chia2 lin2 sinn3-mia7 lan5 po2."
+        ],
+        [
+          "按哖，恁不賊仔共匪毛澤東的派下。",
+          "An2-ni, lin2 m7 chhat8-a2 kiong7-hui2 Mou5 Tek8-tong e5 phai3-e7."
+        ],
+        [
+          "正是。",
+          "Chiann3-si7."
+        ],
+        [
+          "許平省人來？〈不吉、玉郎二个走落台。〉",
+          "Hit-peng5 siann2-lang5 lai5?(Put-kiat, Giok8-long5 nng7 e5 chau2 loh8-tai5.)"
+        ],
+        [
+          "被他逃脫，追啊！〈一行追落台。〉",
+          "Pi7 tha to5-thoat, tui ah!  (Chit8-kiann5 tui loh8-tai5.)"
+        ],
+        [
+          "楊玉郎、不吉、金彪、白胡蝶、旗軍，風入祥，追過場。",
+          "Iunn5 Giok8-long5, Put-kiat, Kim-pio, peh8 ou5-tiap8, ki5-kun, Hong Jip8-siong5, tui koe3 tiunn5."
+        ],
+        [
+          "玉郎二个走入花園假山洞內閃避，胡蝶二个追出，看無人，追落台。",
+          "Giok8-long5 nng7 e5 chau2 jip8 hoe-hng5 ke2-soann-tong7 lai7 siam2-phiah, Ou5-tiap8 nng7 e5 tui chhut, khoann3 bo5 lang5, tui loh8-tai5."
+        ],
+        [
+          "素秋及女中登台，（唱）",
+          "Sou3-chhiu kah lu2-tiong teng-tai5, (Chhiunn3)"
+        ],
+        [
+          "心問山人後花園，春去夏來日頭長，尾蝶對對治呢算，鴛鴦戲水阮心酸。",
+          "Sim-bun7 san-jin5 hou7 hoe-hng5, chhun--khi3 ha7--lai5 jit8-thau5 tiong2, be2-tiap8 tui3-tui3 ti7 leh sng3, oan-iunn hi3-chui2 gun2 sim-sng."
+        ],
+        [
+          "榮話擔咱不免講，來去賞花第一通，〈長槌介〉花園內面假山洞，此時优西土地公。",
+          "Eng5-oe7 tann lan2 m7 bian2 kong2, lai5-khi3 siunn2-hoe te7-it thang, (Tng5-thui5 kai3) hoe-hng5 lai7-bin7 ke2-soann-tong7, chhu2-si5 iu5-su7 Thou2-ti7-kong."
+        ],
+        [
+          "不吉ビ在假山洞，探頭被女中發見。此時女裝已脫去。",
+          "Put-kiat bih chai7 ke2-soann-tong7, tham-thau5 pi7 lu2-tiong hoat kinn3.  Chhu2-si5 lu2-chong i2 thoah khi3."
+        ],
+        [
+          "阮甲土地公敢有仝樣，土地公是有[毛^火]，阮是無□□。",
+          "Gun2 kah Thou2-ti7-kong kam2 u7 kang5-iunn7, Thou2-ti7-kong si7 u7 chhoa7, gun2 si7 bo5 □□."
+        ],
+        [
+          "我看恁目睭有閣□，著緊尋醫生醫目睭。",
+          "Goa2 khoann3 lin2 bak8-chiu u7 koh □, tioh8 kin2 chhoe7 i-seng i bak8-chiu."
+        ],
+        [
+          "〈以下接新紙11〉",
+          "(I2-ha7 chiap sin-choa2 11)"
+        ],
+        [
+          "不是賊仔也是好，亂入花園來迌，理由著愛講清楚，你有家后也是無？",
+          "M7 si7 chhat8-a2 ia7 si7 ho2, loan7 jip8 hoe-hng5 lai5 thit-tho5, li2-iu5 tioh8-ai3 kong2 chheng-chho2, li2 u7 ke-au7 ia7 si7 bo5?"
+        ],
+        [
+          "家后我是也賣娶，不閣一个磈牽拖，也有甲伊來咒誓，賣用甲伊相放拔。",
+          "Ke-au7 goa2 si7 ia2-be7 chhoa7, m7 koh chit8 e5 teh khan-thoa, ia7 u7 kah i lai5 chiu3-choa7, be7 eng7 ka7 i sio pang3-poah8."
+        ],
+        [
+          "不是做賊這層代，不介走入花園來，罩陣來去房間內，ヘ了不住者英介。",
+          "M7 si7 choe3-chhat8 chit chan5 tai7, put-kai chau2 jip8 hoe-hng5 lai5, tau3-tin7 lai5-khi3 pang5-keng lai7, he7 liau2 put-chu7 chiah eng-kai."
+        ],
+        [
+          "按哖你罵恰早講，害我驚甲心肝亂亂藏，簡塔秀才著討棟，你不免來者有通。",
+          "An2-ni li2 ma7 khah cha2 kong2, hai7 goa2 kiann kah sim-koann loan7-loan7-chong5, kan-ta siu3-chai5 tioh8 tho3-tong3, li2 m7 bian2 lai5 chiah u7 thong."
+        ],
+        [
+          "隨后來。〈素秋、玉郎、女中一行落台。〉",
+          "Sui5-au7 lai5.  (Sou3-chhiu, Giok8-long5, lu2-tiong chit8-kiann5 loh8-tai5.)"
+        ],
+        [
+          "出世生水獨項好，人那卻四人看無，二个相招卜去秀閣，不吉店者唁仙哥。",
+          "Chhut-si3 sinn-sui2 tak8 hang7 ho2, lang5 na2 khiap-si3 lang5 khoann3 bo5, nng7 e5 sio-chio beh khi3 siu3-koh, Put-kiat tiam3 chia gian3-sian-ko."
+        ],
+        [
+          "素秋、玉郎、女中登台。",
+          "Sou3-chhiu, Giok8-long5, lu2-tiong teng-tai5."
+        ],
+        [
+          "這宮我的繡樓房，四面專是西洋窗，〈女中退下〉人阮有話講，只欠秀才伊一人。",
+          "Chit keng goa2 e5 siu3-lau5 pang5, su3-bin7 choan si7 Se-iunn5 thang, (Lu2-tiong thoe3-ha7) Lang5 gun2 u7 oe7 kong2, chi2 khiam3 siu3-chai5 i chit8 lang5."
+        ],
+        [
+          "小姐你是野未嫁，房間只存咱二个，擔我甲你ヘ失禮，你請我擔卜回家。",
+          "Sio2-chia2 li2 si7 ia2-be7 ke3, pang5-keng chi2 chhun lan2 nng7 e5, tann goa2 ka7 li2 he7 sit-le2, li2 chhiann2 goa2 tann beh hoe5-ke."
+        ],
+        [
+          "漫且！我有一項卜相送，卜送秀才你一人。",
+          "Ban7-chhiann2!  Goa2 u7 chit8 hang7 beh sio-sang3, beh sang3 siu3-chai5 li2 chit8 lang5."
+        ],
+        [
+          "小姐不可按哖港，物件相送先不通。",
+          "Sio2-chia2 put-kho2 an2-ni kang2, mih8-kiann7 sio-sang3 sian m7 thang."
+        ],
+        [
+          "〈唱〉素秋心肝稻稻彈，相卜講出能威寒，房間無人治呢看，拜託郎君甲阮打算盤。",
+          "(Chhiunn3) Sou3-chhiu sim-koann tiuh-tiuh-toann5, siunn7 beh kong2 chhut e7 ui3-koann5, pang5-keng bo5 lang5 ti7 leh khoann3, pai3-thok long5-kun ka7 gun2 phah sng3-poann5."
+        ],
+        [
+          "〈唱〉賬櫃我是不八做，卜打算盤我的花，小姐不可相見怪，你請我卜恰失陪。",
+          "(Chhiunn3) Siau3-kui7 goa2 si7 m7 pat choe3, beh phah sng3-poann5 goa2 e7 hoe, sio2-chia2 put-kho2 siunn kian3-koai3, li2 chhiann2 goa2 beh khah sit-poe5."
+        ],
+        [
+          "〈唱〉秀才真憨塔埔子，講甲按哖賣僥聽，卜招你著是卜甲你痛，存意卜求你的親成。",
+          "(Chhiunn3) Siu3-chai5 chin gong7 ta-pou-kiann2, kong2 kah an2-ni be7 hiau2 thiann, beh chio li2 tioh8 si7 beh ka7 li2 thiann3, chhun5-i3 beh kiu5 li2 e5 chhin-chiann5."
+        ],
+        [
+          "我也不是楊宗保，卒仔不敢行過河，小姐有心卜甲我惜，我是不敢乎你益著。",
+          "Goa2 ia7 m7 si7 Iunn5 Chong-po2, chut-a2 m7 kann2 kiann5-koe3 ho5, sio2-chia2 u7 sim beh ka7 goa2 sioh, goa2 si7 m7 kann2 hou7 li2 ek tioh8."
+        ],
+        [
+          "小姐你請，玉郎強欲行出。",
+          "Sio2-chia2 li2 chhiann2, Giok8-long5 kiong5-beh kiann5 chhut."
+        ],
+        [
+          "漫且！我是千金的小姐，男人隨便來到者，秀才文章能僥寫，規舉不知恰煩起。",
+          "Ban7-chhiann2!  Goa2 si7 chhian-kim e5 sio2-chia2, lam5-jin5 sui5-pian7 lai5 kau3 chia, siu3-chai5 bun5-chiunn e7 hiau2 sia2, kui-ku2 m7 chai khah hoan5-chhia."
+        ],
+        [
+          "來仔！將了此人拿起來!來！請我阿爹出來！",
+          "Lai5--ah!  Chiong liau2 chhu2 lang5 na2 khi2--lai5!  Lai5!  Chhiann2 goa2 a-tia chhut--lai5!"
+        ],
+        [
+          "尊命！〈捉住玉郎〉 大人有請。",
+          "Chun-beng7!  (Chhiok-chu7 Giok8-long5) Tai7-jin5 iu2 chhiann2."
+        ],
+        [
+          "〈炳南登台。〉素秋你是為省代，請出阿爹為何來？",
+          "(Peng2-lam5 teng-tai5.) Sou3-chhiu li2 si7 ui7 siann2-tai7, chhiann2 chhut a-tia ui7-ho5 lai5?"
+        ],
+        [
+          "秀才盜走入床內，阿爹做主者英介。",
+          "siu3-chai5 to7-chau2 jip8 chhng5-lai7, a-tia choe3-chu2 chiah eng-kai."
+        ],
+        [
+          "你真好膽！〈打玉郎一个嘴頰。〉",
+          "Li2 chin ho2-tann2!  (Phah Giok8-long5 chit8 e5 chhui3-phe2.)"
+        ],
+        [
+          "〈唱〉者是義部尚書府，杜比也敢少想涵啌龜，今日入來有恰須，者敢卜來甲阮查某子如。",
+          "(Chhiunn3) Chia si7 Gi7-pou7 Siong7-si-hu2, tou7-pit ia7 kann2 siau3-siunn7 am-khang-ku, kim-jit8 jip8--lai5 u7 khah-su, chiah kann2 beh lai5 kah gun2 cha-bou2-kiann2 ju5."
+        ],
+        [
+          "無影真正是無影，白賊我不敢廣你聽，實在不是卜來如恁查某子，這是令愛叫我牽伊行。",
+          "Bo5 iann2 chin-chiann3 si7 bo5 iann2, peh8-chhat8 goa2 m7 kann2 kong2 li2 thiann, sit8-chai7 m7 si7 beh lai5 ju5 lin2 cha-bou2-kiann2, che si7 leng7-ai3 kio3 goa2 khan i kiann5."
+        ],
+        [
+          "乎你廣著者相害，卜敢廣也無小探聽，你是何家人的子，帶治田莊也京城？",
+          "Hou7 li2 kong2 tioh8 chiah siong-hai7, beh kann2 kong2 ia7 bo5 sio2 tham3-thiann, li2 si7 ho5-ka lang5 e5 kiann2, toa3 ti7 chhan5-chng ia7 Kiann-siann5?"
+        ],
+        [
+          "我也帶治京城內，我爹三多通人知，到者會和解望和解，那不雖在大人你推排。",
+          "Goa2 ia7 toa3 ti7 Kiann-siann5 lai7, goa2 tia Sam-to thong-lang5 chai, kau3 chiah e7 ho5-kai2 bang7 ho5-kai2, na7 m7 sui5-chai7 tai7-jin5 li2 chhui-pai5."
+        ],
+        [
+          "阿爹！素秋仆在耳邊及炳南言語。",
+          "A-tia!  Sou3-chhiu phak chai7 hinn7-pinn kah Peng2-lam5 gian5-gi2."
+        ],
+        [
+          "按哖隨我進入公堂。",
+          "An2-ni sui5 goa2 chin3-jip8 kong-tng5."
+        ],
+        [
+          "炳南一行巡一円至公堂，打鼓昇堂。炳南昇堂。",
+          "Peng2-lam5 chit8-kiann5 seh8 chit8 lin3 chi3 kong-tng5, phah-kou2 seng-tng5.  Peng2-lam5 seng-tng5."
+        ],
+        [
+          "將軍近前聽交帶，叫因父親三多來，弔伊入來本衛內，有事卜講乎伊知。",
+          "Chiong-kun kin7-chian5 thiann kau-tai3, kio3 in hu7-chhin Sam-to lai5, tiau3 i jip8--lai5 pun2 oe7 lai7, iu2 su7 beh kong2 hou7 i chai."
+        ],
+        [
+          "尊命！〈下又上〉 楊三多傳到。",
+          "Chun-beng7!  (Ha7 iu7 siong7) Iunn5 Sam-to thoan5 kau3."
+        ],
+        [
+          "傳伊入內。",
+          "Thoan5 i jip8 lai7."
+        ],
+        [
+          "大人有令，傳楊三刀入內。三刀上。",
+          "Tai7-jin5 iu2 leng7, thoan5 Iunn5 Sam-to jip8 lai7.  Sam-to siong7."
+        ],
+        [
+          "參見大人有禮，省事乎喚我一个？",
+          "Chham-kian3 tai7-jin5 iu2-le2, seng2-su7 hou-hoan3 goa2 chit8 e5?"
+        ],
+        [
+          "員外請你店許坐，你的子兒走入我厝宅。事情聽我說來。〈吹介〉",
+          "Oan5-goe7 chhiann2 li2 tiam3 hia che7, li2 e5 kiann2-ji5 chau2 jip8 goa2 chhu3-theh8.  Su7-cheng5 thiann goa2 soeh--lai5.  (Chhoe kai3)"
+        ],
+        [
+          "玉郎你那會者無正經，私入小姐个房宮，戲弄查某罪一等，你是為著省事情。",
+          "Giok8-long5 li2 nah e7 chiah bo5 cheng3-keng, su jip8 sio2-chia2 e5 pang5-keng, hi3-lang7 cha-bou2 choe7 it-teng2, li2 si7 ui7 tioh8 siann2 su7-cheng5."
+        ],
+        [
+          "阿爹！三國孔明小神仙，注死去[門@丨]著魏延，玉郎英介失体面，辦解也是加延遷。",
+          "A-tia!  Sam-kok Khong2-beng5 sio2 sin5-sian, chu3-si2 khi3 tu2 tioh8 Gui7 Ian5, Giok8-long5 eng-kai sit the2-bian7, pian7-kai2 ia7 si7 ke ian5-chhian5."
+        ],
+        [
+          "事情就是按哖，聽我稟來。〈吹介。〉",
+          "Su7-cheng5 chiu7 si7 an2-ni, thiann goa2 pin2--lai5.  (Chhoe kai3.)"
+        ],
+        [
+          "這閣...",
+          "Chit ko5..."
+        ],
+        [
+          "這閣不這閣免沈吟，我也無愛相頂真，到者車盤無路用，我有看你在房宮。",
+          "chit ko5 m7 chit ko5 bian2 tim5-gim5, goa2 ia7 bo5 ai3 siunn teng2-chin, kau3 chia chhia-poann5 bo5 lou7-eng7, goa2 u7 khoann3 li2 chai7 pang5-keng."
+        ],
+        [
+          "大家省事來事省。",
+          "Tai7-ke seng2-su7 lai5 su7-seng2."
+        ],
+        [
+          "雙方就按呢來結緣，對頭也是卜顧體面，意見如何請恁講分明，",
+          "Siang-hong chiu7 an2-ni lai5 kiat-ian5, tui3-thau5 ia7 si7 beh kou3 the2-bian7, i3-kian3 ju5-ho5 chhiann2 lin2 kong2 hun-beng5,"
+        ],
+        [
+          "王剪去入五雷內，屈原盡忠通人知，若卜做親我也愛，締結良緣是英介。",
+          "Ong5 Chian2 khi3 jip8 Ngou2-lui5 lai7, Khut Goan5 chin7-tiong thong-lang5 chai, na7 beh choe3-chhin goa2 ia7 ai3, te7-kiat liong5-ian5 si7 eng-kai."
+        ],
+        [
+          "子牙下山磈著命，出手去掠琵琶精，這層明明冤枉子，叫我娶伊那有成。",
+          "Chu2-ga5 ha7-san teh tioh8-beng7, chhut-chhiu2 khi3 liah8 Pi5-pe5-chiann, chit chan5 beng5-beng5 oan-ong2 kiann2, kio3 goa2 chhoa7 i nah u7 chiann5."
+        ],
+        [
+          "三國虎將趙子龍，長板救主尚盡忠，我來答應著能用，不免閣在加參商。",
+          "Sam-kok hou2-chiong3 Tio7 Chu2-liong5, Tiong5-pan2 kiu3 chu2 siong7 chin7-tiong, goa2 lai5 tah-eng3 tioh8 e7 iong7, m7 bian2 koh-chai3 ke chham-siong5."
+        ],
+        [
+          "丁山失誤射死爹，長毛大戰鐵公雞，玉蟬小姐野未嫁，我有定緣伊一个。",
+          "Teng-san sit-gou7 sia7-si2 tia, Tiong5-mou5 tai7-chian3 thih-kong-ke, Giok8-sian5 sio2-chia2 ia2-be7 ke3, goa2 u7 teng7-ian5 i chit8 e5."
+        ],
+        [
+          "你也不扒來講起，那个臨時有妻兒？",
+          "Li2 ia7 m7 bat lai5 kong2 khi2, nah e7 lim5-si5 u7 chhe-ji5?"
+        ],
+        [
+          "迌走對因投去，代志對者是起枝。",
+          "Thit-tho5 chau2 tui3 in tau khi3, tai7-chi3 tui3 chia si7 khi2-ki."
+        ],
+        [
+          "玉蟬事情〈吹介〉，卜不著愛廣伊好，這是您來呆不著，不免□□甲所大套，那不著卜甲你□罪坐監牢。",
+          "Giok8-sian5 su7-cheng5 (Chhoe kai3), beh m7 tioh8-ai3 kong2 i ho2, che si7 lin2 lai5 phainn2 m7 tioh8, m7 bian2 □□ kah chiah toa7-tho3, na7 m7 tioh8 beh ka7 li2 □ choe7 che7 kann-lo5."
+        ],
+        [
+          "（以下接新紙12）",
+          "(I2-ha7 chiap sin-choa2 12)"
+        ],
+        [
+          "我問你那是知影，月娘叫做什麼名？月宮牌扁掛正正，有寫省字講我聽。",
+          "Goa2 mng7 li2 na7 si7 chai-iann2, goeh8-niu5 kio3-choe3 sim2-mih mia5? goat8-kiong pai5-pian2 koa3 chiann3-chiann3, u7 sia2 siann2 ji7 kang2 goa2 thiann."
+        ],
+        [
+          "你問無講野賣用，兩虎相爭有一傷，名叫常娥免相兩，牌扁有寫廣寒宮。",
+          "Li2 mng7 bo5 kong2 ia2- boe7 iong7, liong2 hou2 siong-cheng iu2 it siong, mia5 kio3 Siong5-ngou5 bian2 sio-jiong2, pai5-pian2 u7 sia2 Kong2-han5-kiong."
+        ],
+        [
+          "果然小姐有打算，文章飽北真十全，我卜閣在共你問，省仙磈顧南天門。",
+          "Ko2-jian5 sio2-chia2 u7 phah-sng3, bun5-chiunn pa2-pak chin chap8-chng5, goa2 beh koh-chai3 ka7 li2 mng7, siann2 sian teh kou3 Lam5-thian-mng5."
+        ],
+        [
+          "報乎你聽腳利便，去把南門猿齊天，東門李靖顧賣善，我無甲你亂主唁。",
+          "Po3 hou7 li2 thiann khah li7-pian7, khi3 pe2 Lam5-mng5 Kau5 Che5-thian, Tang-mng5 Li2 Cheng7 kou3 be7 sian7, goa2 bo5 ka7 li2 loan7-chu2 gian5."
+        ],
+        [
+          "一句最后問常細，對著顧須你一个，西北不知首人把，請你講出不可提。",
+          "Chit8 ku3 choe3-au7 mng7 siong5-se3, tui3 tioh8 kou3 su li2 chit8 e5, sai-pak m7 chai siann2-lang5 pe2, chhiann2 li2 kong2 chhut put-kho2 the."
+        ],
+        [
+          "金銀天狗第一本。",
+          "Kim-gun5 Thian-kau2 te7-it pun2."
+        ],
+        [
+          "你問我著甲你講，題目出去足成通，關公顧北尚討棟，去把西門上帝公。",
+          "Li2 mng7 goa2 tioh8 ka7 li2 kong2, te5-bak8 chhut--khi3 chiok siann5 thong, Koan-kong kou3 pak siong7 tho3-tong3, khi3 pe2 Se-mng5 Siong7-te3-kong."
+        ],
+        [
+          "柴梳省設若知影，者來讓你結親成，省人帶先設痷嶺？請你講出乎我聽。",
+          "Chha5-se siann2 siat na7 chai-iann2, chiah lai5 niu7 li2 kiat chhin-chiann5, siann2-lang5 tai7-seng siat am7-nia2?  Chhiann2 li2 kong2 chhut hou7 goa2 thiann."
+        ],
+        [
+          "這號不是磈滾笑，來設柴梳女仔腰，設了痷嶺不免靈，女禍娘娘無不著，",
+          "chit-ho7 m7 si7 teh kun2-chhio3, lai5 siat chha5-se Liu2-a2-io, siat liau2 am7-nia2 m7 bian2 ioh, Lu2-o Niu5-niu5 bo5 m7 tioh8."
+        ],
+        [
+          "不知省人來設粉，閣在設鼎乎人裙，敢來你著靈能准，者免乎人趕出門。",
+          "m7 chai siann2-lang5 lai5 siat hun2, koh-chai3 siat tiann2 hou7 lang5 kun5, kann2 lai5 li2 tioh8 ioh e7 chun2, chiah bian2 hou7 lang5 koann2 chhut bun5."
+        ],
+        [
+          "雖然我是田庄子，敢來定著我不驚，七寶仙君來設鼎，五娘設粉常出名",
+          "Sui-jian5 goa2 si7 chhan5-chng kiann2, kam2 lai5 tiann7-tioh8 goa2 m7 kiann, Chhit-po2 sian-kun lai5 siat tiann2, gou7-niu5 siat hun2 siong7 chhut-mia5."
+        ],
+        [
+          "設轎啥做甲我港，投底這是什麼人，不知省人設魚網，亦著甲我報對筒。",
+          "siat kio7 siann2 choe3 kah goa2 kang2, tau3-toe2 che si7 sim2-mih lang5, m7 chai siann2-lang5 siat hi5-bang7, iah8 tioh8 kah goa2 po3 tui3-tang5."
+        ],
+        [
+          "問我設轎聽我稟，著是唐朝李世民，來設魚網真趕緊，這是海瑞伊一人。",
+          "Mng7 goa2 siat kio7 thiann goa2 pin2, tioh8 si7 Tong5-tiau5 Li2 Se3-bin5, lai5 siat hi5-bang7 chin koann2-kin2, che si7 Hai2 Sui7 i it jin5."
+        ],
+        [
+          "（以下接16在新紙P17）",
+          "(I2-ha7 chiap 16 chai7 sin-choa2 P17)"
+        ],
+        [
+          "這是奸臣食阮到，用計卜來作對頭，賣且乎君作家后，可惜前情放水流。",
+          "Che si7 kan-sin5 chiah8 gun2 kau3, iong7 ke3 beh lai5 choe3 tui3-thau5, be7 chiann5 hou7 kun choe3 ke-au7, kho2-sioh chian5-cheng5 pang3 chui2 lau5."
+        ],
+        [
+          "罷！罷了！事到如今，見機而做就是。",
+          "Pa3!  Pa3--liau2!  Su7 kau3 ju5-kim, kinn3-ki ji5 choe3 chiu7 si7."
+        ],
+        [
+          "請貴人穿宮衣，玉蟬穿口裝鳳帽。",
+          "Chhiann2 kui3-jin5 chheng7 kiong-i, Giok8-sian5 chheng7 khau2-chong hong7-bo7."
+        ],
+        [
+          "來啊！帶馬。",
+          "Lai5--ah!  Tai3 ma2."
+        ],
+        [
+          "玉蟬欲上馬，玉郎及不吉登台，玉郎扏住玉蟬馬鞭念詩。",
+          "Giok8-sian5 beh chiunn7 be2, Giok8-long5 kah Put-kiat teng-tai5, Giok8-long5 giu2-chu7 Giok8-sian5 be2-pian liam7-si."
+        ],
+        [
+          "〈詩〉怨鶴怨鸞絕可憐，與卿離別淚痕新，宮門一入深似海，從此肅郎是路人。",
+          "(Si) Oan3 hoh8 oan3 loan5 choat8 kho2-lin5, i2 kheng li7-piat8 lui7-hun5 sin, kiong-bun5 it jip8 chhim-su7-hai2, chiong5-chhu2 Siau-long5 si7 lou7-jin5."
+        ],
+        [
+          "傷悲鸞鳳各東西，出關今日草淒淒，妾身可比杜鵑鳥，也學衰愁半夜啼。",
+          "Siong-pi loan5-hong7 kok tong-si, chhut-koan kim-jit8 chho2 chhi-chhi, chhiap-sin kho2-pi2 tou7-koan-niau2, ia7 oh8 ai-chhiu5 poan3-ia7 thi5."
+        ],
+        [
+          "欽差、玉蟬一行上馬落台。三進三退。小生倒地，不吉扶起。",
+          "Khim-chhe, Giok8-sian5 chit8-kiann5 chiunn7 be2 loh8-tai5.  Sam chin3 sam thoe3.  Sio2-seng to2-te7, Put-kiat hu5 khi2."
+        ],
+        [
+          "我牽馬乎你騎。〈玉郎上馬追落台。〉",
+          "Goa2 khan-be2 hou7 li2 khia5.  (Giok8-long5 chiunn7 be2 tui loh8-tai5.)"
+        ],
+        [
+          "我擔恨落去！〈節炎恨倒。〉",
+          "Goa2 tann hun7--loh8-khi3! (Chiat-iam7 hun7-to2.)"
+        ],
+        [
+          "山景。 玉蟬、欽差、宮女、旗軍、玉郎、不吉， 走緊疊仔落台。追緊疊仔落台。",
+          "Soann keng2.  Giok8-sian5, khim-chhe, kiong-li2, ki5-kun, Giok8-long5, Put-kiat, chau2 kin2-tiap8-a2 loh8-tai5.  Tui kin2-tiap8-a2 loh8-tai5."
+        ],
+        [
+          "山景。玉蟬一行先出台。玉郎、不吉追出台。緊疊仔唱完。小生、小旦下馬雙入水。□腳相抱跪下。吹介。",
+          "Soann keng2.  Giok8-sian5 chit8-kiann5 seng chhut-tai5.  Giok8-long5, Put-kiat tui chhut-tai5.  Kin2-tiap8-a2 chhiunn3 oan5.  Sio2-seng, sio2-toann3 ha7 be2 siang jip8-chui2. □ kha sio-pho7 kui7-ha7.  Chhoe kai3."
+        ],
+        [
+          "〈哮〉欽差居中躂腳。生旦開去。劍出綃。",
+          "(Hau2) Khim-chhe ki-tiong that kha.  Seng toann3 khui--khi3.  Kiam3 chhut chhiau3."
+        ],
+        [
+          "〈唱〉你去了！照君出寨無者滲，玉郎心肝那能甘，一去禁城擔絕望，親像票鳥關落湳。",
+          "(Chhiunn3) Li2 khi3--liau2!  Chiau-kun chhut-che7 bo5 chiah chham2, Giok8-long5 sim-koann nah e7 kam, it khi3 kim3-siann5 tann choat8-bang7, chhin-chhiunn7 chhek-chiau2 koainn loh8 lam."
+        ],
+        [
+          "〈瑞祥登台。〉愛情愈好事愈多，無疑情海起風波，入宮為妃賣返到，這也三聲無奈何。",
+          "(Sui7-siong5 teng-tai5.) Ai3-cheng5 ju2 ho2 su7 ju2 che7, bo5-gi5 cheng5-hai2 khi2 hong-pho, jip8 kiong ui5 hui be7 tng2-to3, che ia7 sann siann bo5 nai7-ho5."
+        ],
+        [
+          "能來發生這層代，你罵講乎玉郎知，這是奸臣來所害，這是叫你禍從天來。",
+          "E7 lai5 hoat-seng chit chan5 tai7, li2 ma7 kong2 hou7 Giok8-long5 chai, che si7 kan-sin5 lai5 sou2 hai7, che si7 kio3 li2 ho7 chiong5 thian lai5."
+        ],
+        [
+          "容稟。〈手比吹介。〉",
+          "Iong5-pin2.  (Chhiu2 pi2 chhoe kai3.)"
+        ],
+        [
+          "打破鴛鴦好眠夢，莫非兩方相爭尪，大概不免閣再港，罵知對手什麼人。",
+          "Phah-phoa3 oan-iunn ho2 bin5-bang7, bok8-hui liong2-hong sio-chinn ang, tai7-khai3 m7 bian2 koh-chai3 kang2, ma7 chai tui3-chhiu2 sim2-mih lang5."
+        ],
+        [
+          "我來考教若當選，玉郎能得中將元，見伊玉蟬看省欵，事情著能知原全。",
+          "Goa2 lai5 kho2-kau3 na7 tong3-soan2, Giok8-long5 e7-chit tiong3 chiong7-goan5, kinn3 i Giok8-sian5 khoann3 siann2 khoan2, su7-cheng5 tioh8 e7 chai goan5-choan5."
+        ],
+        [
+          "你請。〈玉郎、不吉二个落台。〉",
+          "Li2 chhiann2.  (Giok8-long5, Put-kiat nng7 e5 loh8-tai5.)"
+        ],
+        [
+          "玉郎卜去應考。回家後等就是。〈瑞祥落台。〉",
+          "Giok8-long5 beh khi3 eng3-kho2.  Hoe5-ke hau7-tan2 chiu7 si7.  (Sui7-siong5 loh8-tai5.)"
+        ],
+        [
+          "金殿。皇帝、太監吹介登台。林炳南、楊鶴年，御使兩个登台。",
+          "Kim-tian7.  Hong5-te3, thai3-kam3 chhoe kai3 teng-tai5.  Lim5 Peng2-lam5, Iunn5 Hoh8-lian5, gi7-su2 nng7 e5 teng-tai5."
+        ],
+        [
+          "啟稟萬歲！臣奉旨宣吊玉蟬已在午門候旨，請主上定奪。",
+          "Khe2-pin2 Ban7-soe3!  Sin5 hong7-chi2 soan-tiau3 Giok8-sian5 i2 chai7 Ngou2-bun5 hau7 chi2, chhiann2 Chu2-siong7 teng7-toat8."
+        ],
+        [
+          "豈然如此，宣上金展。",
+          "Kiam2 na7 ju5-chhu2, soan siong7 kim-tian7."
+        ],
+        [
+          "領旨！隨上展。",
+          "Nia2-chi2!  Sui5 siong7 tian7."
+        ],
+        [
+          "領旨！",
+          "Nia2-chi2!"
+        ],
+        [
+          "〈引〉萬歲有旨意，漫步進丹池。玉蟬參見君王萬歲。",
+          "(In2)Ban7-soe3 u7 chi2-i3, ban7-pou7 chin3 tan-ti5.  Giok8-sian5 chham-kian3 Kun-ong5 Ban7-soe3."
+        ],
+        [
+          "愛妃平身！",
+          "Ai3-hui peng5-sin!"
+        ],
+        [
+          "謝萬歲！",
+          "Sia7 Ban7-soe3!"
+        ],
+        [
+          "果然傾國的紅粉，勝過早前王昭君，這是寡人的福份，注介醉倒石榴裙。",
+          "Ko2-jian5 kheng-kok e5 hong5-hun2, seng3-ke3 cha2-cheng5 Ong5 Chiau-kun, che si7 koa2-jin5 e5 hok-hun7, chu3-kai chui3-to2 siah8-liu5-kun5."
+        ],
+        [
+          "請愛妃進入東宮，寡人隨後就到。",
+          "Chhiann2 ai3-hui chin3-jip8 Tong-kiong, koa2-jin5 sui5-hio7 chiu7 kau3."
+        ],
+        [
+          "謝聖恩。〈玉蟬退下。〉",
+          "Sia7 seng3-un.  (Giok8-sian5 thoe3-ha7.)"
+        ],
+        [
+          "今日考期已到，楊卿！",
+          "Kim-jit8 kho2-ki5 i2 kau3, Iunn5-kheng!"
+        ],
+        [
+          "臣在。令你為做主考官，前去挑選賢士。",
+          "Sin5 chai7.  Leng7 li2 ui5 choe3 chu2-kho2-koann, chian5 khi3 thiau-soan2 hian5-su7."
+        ],
+        [
+          "為臣領旨。",
+          "Ui5-sin5 nia2-chi2."
+        ],
+        [
+          "有事再奏，無事退班。〈皇帝一行落台，後宮演說。〉",
+          "Iu2 su7 chai3 chau3, bo5 su7 thoe3-pan.  (Hong5-te3 chit8-kiann5 loh8-tai5, au7-kiong ian2-soat.)"
+        ],
+        [
+          "〈唱〉行入后宮流目屎，呆命玉蟬對者來，這是奸臣來所害，害阮尪某分東西。",
+          "(Chhiunn3) Kiann5 jip8 au7-kiong lau5 bak8-sai2, phainn2-mia7 Giok8-sian5 tui3 chia lai5, che si7 kan-sin5 lai5 sou2 hai7, hai7 gun2 ang-bou2 hun tang-sai."
+        ],
+        [
+          "皇帝與太監登台，皇帝用手比，叫太監退下，自己行近玉蟬身邊。",
+          "Hong5-te3 i2 thai3-kam3 teng-tai5, Hong5-te3 eng7 chhiu2 pi2, kio3 thai3-kam3 thoe3-ha7, chu7-ki2 kiann5 kin7 Giok8-sian5 sin-pinn."
+        ],
+        [
+          "君王到。",
+          "Kun-ong5 kau3."
+        ],
+        [
+          "愛妃身體無保重，為省緣故帶悲傷？",
+          "Ai3-hui sin-the2 bo5 po2-tiong7, ui7 siann2 ian5-kou3 tai3 pi-siong?"
+        ],
+        [
+          "請了聖君你原諒，人阮思念著家鄉。",
+          "chhiann2 liau2 Seng3-kun li2 goan5-liong7, lang5 gun2 su-liam7 tioh8 ka-hiong."
+        ],
+        [
+          "男大當婚女當嫁，寡人心肝為你迷，有緣卜甲你做伙，進了龍床來去提。",
+          "Lam5 tai7 tong hun lu2 tong ke3, koa2-jin5 sim-koann ui7 li2 be5, u7 ian5 beh kah li2 choe3-he2, chin3 liau2 leng5-chhng5 lai5-khi3 the."
+        ],
+        [
+          "我的身體有不好，大慨賣堪箱過勞，啟奏聖上知清楚，結婚延期意如何。",
+          "Goa2 e5 sin-the2 u7 m7 ho2, tai7-khai3 boe7 kham siunn koe3 lo5, khe2-chau3 Seng3-siong7 chai chheng-chho2, kiat-hun ian5-ki5 i3 ju5-ho5."
+        ],
+        [
+          "延期結婚這條案，若是身體有欠安，寡人也是甘願等，再延七天無相干。",
+          "Ian5-ki5 kiat-hun chit tiau5 an3, na7 si7 sin-the2 u7 khiam3-an, koa2-jin5 ia7 si7 kam-goan7 tan2, chai3 ian5 chhit thian bo5 siong-kan."
+        ],
+        [
+          "〈內臣排駕入正宮。〉奉送。",
+          "(lai7-sin5 pai5 ka3 jip8 Cheng3-kiong.) Hong7-sang3."
+        ],
+        [
+          "被我瞞騙已經返，漸時假病在宮門，再閣幾日者打算，想著前途心頭酸。〈玉蟬入床放幕。〉",
+          "Pi7 goa2 moa5-phian3 i2-keng tng2, chiam7-si5 ke2-pinn7 chai7 kiong-mng5, chai3-koh kui2 jit8 chiah phah-sng3, siunn7 tioh8 chian5-tou5 sim-thau5 sng.  (Giok8-sian5 jip8 chhng5-pang3 bou7.)"
+        ],
+        [
+          "公堂。楊鶴年、旗軍吹介登台。",
+          "Kong-tng5.  Iunn5 Hoh8-lian5, ki5-kun chhoe kai3 teng-tai5."
+        ],
+        [
+          "〈四聯白〉奉旨開科選賢才，各省通知舉子來，文章飽學我尚愛，欲得槐名待榜開。",
+          "(Si3-lian5 peh8) Hong7-chi2 khai-kho soan2 hian5-chai5, kok seng2 thong-ti ki2-chu2 lai5, bun5-chiunn pa2-hak8 goa2 siong7 ai3, beh tit khoe-beng5 thai7 pong2 khai."
+        ],
+        [
+          "本官楊鶴年，官拜御史之職，今日奉了聖君旨意，開科取士，漸時候等就是。",
+          "Pun2-koann Iunn5 Hoh8-lian5, koan-pai3 gi7-su2 chi chit, kim-jit8 hong7 liau2 Seng3-kun chi2-i3, khai-kho chhu2 su7, chiam7-si5 hau7-tan2 chiu7 si7."
+        ],
+        [
+          "玉郎、三花，公子壱名登。",
+          "Giok8-long5, Sann-hoe, kong-chu2 it mia5 teng."
+        ],
+        [
+          "參見大人。",
+          "Chham-kian3 tai7-jin5."
+        ],
+        [
+          "舉子投來了，有文章罵？",
+          "Ki2-chu2 tou lai5 liau2, u7 bun5-chiunn mah?"
+        ],
+        [
+          "文章在此。",
+          "Bun5-chiunn chai7-chhu2."
+        ],
+        [
+          "待我觀來。〈吹介。〉",
+          "Tai7 goa2 koan--lai5.  (Chhoe kai3.)"
+        ],
+        [
+          "果然文章做得好，錦繡文章世間無，口才咱來當面考，者知腹內是如何。",
+          "Ko2-jian5 bun5-chiunn choe3-tit ho2, gim2-siu3 bun5-chiunn se3-kan bo5, khau2-chai5 lan2 lai5 tng-bin7 kho2, chiah chai pak-lai7 si7 ju5-ho5."
+        ],
+        [
+          "請大人出題。",
+          "Chhiann2 tai7-jin5 chhut-toe5."
+        ],
+        [
+          "玉帝行兵，雷鼓雲旗，雨箭風刀，天作陣。",
+          "Giok8-te3 heng5-peng, lui5-kou2 hun5-ki5, u2-chinn3 hong-to, thian chok chun7."
+        ],
+        [
+          "龍王夜宴，月燭星燈，山殽海酒，地為盆。",
+          "Leng5-ong5 ia7-ian3, goat8-chiok seng-teng, san-giau5 hai2-chiu2, te7 ui5 phun5."
+        ],
+        [
+          "才子飽學有決斷，實在文章真正高，對答如流有當選，可堪頭名的狀元。漸時在官房等候。",
+          "Chai5-chu2 pa2-hak8 u7 koat-toan7, sit8-chai7 bun5-chiunn chin-chiann3 koan5, tui3-tap ju5 liu5 u7 tong3-soan2, kho2-kham thau5-mia5 e5 chiong7-goan5.  Chiam7-si5 chai7 koann pang5 tan2-hau7."
+        ],
+        [
+          "謝大人。〈玉郎退下。〉",
+          "Sia7 tai7-jin5.  (Giok8-long5 thoe3-ha7.)"
+        ],
+        [
+          "趙舉子，本官與你面對。",
+          "Tio7 ki2-chu2, pun2-koann i2 li2 bian7-tui3."
+        ],
+        [
+          "請大人出題。",
+          "Chhiann2 tai7-jin5 chhut-toe5."
+        ],
+        [
+          "二度梅花，杏元得伊奸臣罪，尪某者著去鬼釵。",
+          "Ji7-tou7 moe5-hoe, heng7-goan5 tit i kan-sin5 choe7, ang-bou2 chiah tioh8 khi3 kui2-chhe."
+        ],
+        [
+          "六畜興旺，通奸店个灶前搶，極心著是灶煙公。",
+          "Liok8-thiok heng-ong7, thang-kan tiam3 e5 chau3-cheng5 chhiunn2, kek8-sim tioh8 si7 Chau3-ian-kong."
+        ],
+        [
+          "樓頂有小姐，樓下有百花，投底人恰水也花恰水。",
+          "Lau5-teng2 u7 sio2-chia2, lau5-ha7 u7 pah-hoe, tau3-toe2 lang5 kah sui2 ia7 hoe khah sui2."
+        ],
+        [
+          "厝前有便所，厝後有尿壺，不知屎恰臭也尿恰臭。",
+          "Chhu3-cheng5 u7 pian7-sou2, chhu3-au7 u7 jio7-ou5, m7 chai sai2 khah chhau3 ia7 jio7 kah chhau3."
+        ],
+        [
+          "不對！將他緊趕出去。來啊！打轎入朝。鶴年落台。",
+          "Put tui3!  Chiong tha kin2 koann2--chhut-khi3.  Lai5--ah!  Phah kio7 jip8 tiau.  Hoh8-lian5 loh8-tai5."
+        ],
+        [
+          "金殿。皇帝、太監吹介登台，楊鶴年隨後進殿。",
+          "Kim-tian7.  Hong5-te3, thai3-kam3 chhoe kai3 teng-tai5, Iunn5 Hoh8-lian5 sui5-au7 chin3-tian7."
+        ],
+        [
+          "啟奏萬歲！下官奉旨開科，取得楊玉郎為頭名將元，請聖上定奪。",
+          "Khe2-chau3 Ban7-soe3!  Ha7-koann hong7-chi2 khai-kho, chhu2-tit Iunn5 Giok8-long5 ui5 thau5-mia5 chiong7-goan5, chhiann2 Seng3-siong7 teng7-toat8."
+        ],
+        [
+          "宣他進殿。",
+          "Soan tha chin3-tian7."
+        ],
+        [
+          "萬歲有旨，宣新科將元穿官攷進殿。〈玉郎登台。〉",
+          "Ban7-soe3 iu2 chi2, sng sin-kho chiong7-goan5 chheng7 koann-hok8 chin3-tian7.  (Giok8-long5 teng-tai5.)"
+        ],
+        [
+          "領旨。",
+          "Nia2-chi2."
+        ],
+        [
+          "〈引〉腳踏九五門，入朝拜至尊。玉郎參見我主萬歲。",
+          "(In2) Kha tah8 kiu2-ngou2-bun5, jip8-tiau5 pai3 chi3-chun.  Giok8-long5 chham-kian3 ngou2 chu2 Ban7-soe3."
+        ],
+        [
+          "寡人龍心大喜，封卿為新科將元之職，進入東宮針花。",
+          "Koa2-jin5 liong5-sim tai7-hi2, hong kheng ui5 sin-kho chiong7-oan5 chi chit, chin3-jip8 Tong-kiong cham-hoa."
+        ],
+        [
+          "謝聖恩。玉郎行出台前。",
+          "Sia7 seng3-un.  Giok8-long5 kiann5 chhut tai5-cheng5."
+        ],
+        [
+          "照我希望郎無蛇，賜我東宮卜針花，玉蟬今日見著我，話語定著一大拖。〈玉郎落台。〉",
+          "Chiau3 goa2 hi-bong7 long2 bo5 choa5, su3 goa2 Tong-kiong beh cham-hoa, Giok8-sian5 kim-jit8 kian3 tioh8 goa2, oe7-gi2 tiann7-tioh8 chit8 toa7-thoa.  (Giok8-long5 loh8-tai5.)"
+        ],
+        [
+          "有事再奏，無事退班。〈皇帝一行落台。〉",
+          "Iu2 su7 chai3 chau3, bo5 su7 thoe3-pan.  (Hong5-te3 chit8-kiann5 loh8-tai5.)"
+        ],
+        [
+          "〈后宮連金殿。〉光陰如箭那眠夢，入宮已經有五工。",
+          "(Au7-kiong Lian5-kim-tian7.) Kong-im ju5 chinn3 na2 bin5-bang7, jip8 kiong i2-keng u7 gou7 kang."
+        ],
+        [
+          "奸臣害阮心頭問，玉蟬者著入宮門，每日假病治呢睏，莫非為著塔心君。",
+          "Kan-sin5 hai7 gun2 sim-thau5 bun7, Giok8-sian5 chiah tioh8 jip8 kiong-bun5, moe2-jit8 ke2-pinn7 ti7 leh khun3, bok8-hui ui7 tioh8 tah-sim kun."
+        ],
+        [
+          "〈報仔〉新科狀元入宮針花。",
+          "(Pou3-a2) Sin-kho chiong7-goan5 jip8 kiong cham-hoa."
+        ],
+        [
+          "將元針花， 宣他進宮。",
+          "Chiong7-goan5 cham-hoa.  Soan tha chin3-keng."
+        ],
+        [
+          "娘娘有旨，宣新科將元進宮。",
+          "Nia5-nia5 iu2 chi2, soan sin-kho chiong7-goan5 chin3-keng."
+        ],
+        [
+          "領旨。",
+          "Nia2-chi2."
+        ],
+        [
+          "（引）玉郎有所想，針花進后宮。〈玉郎入宮，面向人客敬禮〉",
+          "(In2) Giok8-long5 iu2-sou2 siong2, cham-hoa chin3 au7-kiong.  (Giok8-long5 jip8 kiong, bin7 hiong3 lang5-kheh keng3-le2)"
+        ],
+        [
+          "參見娘娘千秋。",
+          "Chham-kian3 Niu5-niu5 chhian-chhiu."
+        ],
+        [
+          "宮娥進金花來。〈宮娥捧金花一封及玉蟬。玉蟬欲押了金花。〉",
+          "Kiong-ngou5 chin3 kim-hoe lai5.  (Kiong-ngou5 phang5 kim-hoe chit8 hong hou7 Giok8-sian5.  Giok8-sian5 beh ah liau2 kim-hoe.)"
+        ],
+        [
+          "玉郎吟詩。〈詩〉怨鶴愁鶯絕可憐，與卿分別淚痕新，宮門一入深如海，從此蕭郎是路人。",
+          "Giok8-long5 gim5-si.  (Si) Oan3 hoh8 chhiu5 eng choat8 kho2-lin5, i2 kheng hun-piat8 lui7-hun5 sin, kiong-bun5 it jip8 chhim ju5 hai2, chiong5-chhu2 Siau-long5 si7 lou7-jin5."
+        ],
+        [
+          "挍鼓，玉蟬著驚，行出文武平看。",
+          "Khau-kou2, Giok8-sian5 tioh8-kiann, kiann5 chhut bun5-bu2 peng5 khoann3."
+        ],
+        [
+          "宮娥退下！",
+          "Kiong-ngou5 thoe3-ha7!"
+        ],
+        [
+          "尊命。〈宮娥退下〉",
+          "Chun-beng7.  (Kiong-ngou5 thoe3-ha7)"
+        ],
+        [
+          "玉郎哥請起。〈玉郎扒起。〉",
+          "Giok8-long5 ko chhiann2 khi2.  (Giok8-long5 peh khi2.)"
+        ],
+        [
+          "卜甲娘娘你恭喜，榮華富貴做一時，透早著是越溪女，暮做王妃是西施。",
+          "Beh kah Niu5-niu5 li2 kiong-hi2, eng5-hoa5 hu3-kui3 choe3 chit8-si5, thau3-cha2 tioh8 si7 Oat8-khe-li2, bou7 choe3 ong5-hui si7 Se-si."
+        ],
+        [
+          "郎君不可來誤解，被奸所害對者來，做了王妃我無愛，入宮假病也未結和偕。",
+          "Long5-kun put-kho2 lai5 gou7-kai2, pi7 kan sou2 hai7 tui3 chia lai5, choe3 liau2 ong5-hui goa2 bo5 ai3, jip8 kiong ke2-pinn7 ia2-boe7 kiat ho5-hai5."
+        ],
+        [
+          "此事董真？",
+          "Chhu2 su7 tong2-chin?"
+        ],
+        [
+          "無錯！",
+          "Bo5 chho3!"
+        ],
+        [
+          "玉蟬我妻。",
+          "Giok8-sian5 goa2 chhe."
+        ],
+        [
+          "玉郎哥哥。",
+          "Giok8-long5 ko-ko."
+        ],
+        [
+          "雙人相抱哮",
+          "Siang-lang5 sio-pho7 hau2"
+        ],
+        [
+          "〈運河笑〉〈唱〉愛情無人咱者深，想著不甘抱來吻，這世無緣睏同枕，你敢放我的落心。",
+          "(Un7-ho5-chhiau3) (Chhiunn3) Ai3-cheng5 bo5 lang5 lan2 chiah chhim, siunn7 tioh8 m7 kam pho7 lai5 chim, chit se3 bo5 ian5 khun3 kang5 chim2, li2 kam2 pang3 goa2 e7 loh8-sim."
+        ],
+        [
+          "〈運河笑〉〈唱〉望卜甲君好甲老，早死奸臣作對頭，害阮瞑日治呢哭，怨恨有頭無尾抄。",
+          "(Un7-ho5-chhiau3) (Chhiunn3) Bang7 beh kah kun ho2 kah lau7, cha2-si2 kan-sin5 choe3 tui3-thau5, hai7 gun2 me5-jit8 ti7 leh khau3, oan3-hun7 u7 thau5 bo5 be2-sau."
+        ],
+        [
+          "〈都馬〉有恨奸臣做不正，打呆人的姻緣七代貧，害人夫妻未斗陣，待我拼命來去甲伊牽。",
+          "(Tou-ma2) U7 hun7 kan-sin5 choe3 put-cheng3, phah-phainn2 lang5 e5 in-ian5 chhit tai7 pin5, hai7 lang5 hu-chhe be7 tau3-tin7, thai7 goa2 piann3-mia7 lai5-khi3 kah i khian."
+        ],
+        [
+          "〈都馬〉慢呢！玉郎不可想淺見，你是有望的青年，著想將來會發展，注定今世咱無緣。",
+          "(Tou-ma2) Ban7 neh!  Giok8-long5 put-kho2 siunn7 chhian2-kian3, li2 si7 iu2-bong7 e5 chheng-lian5, tioh8 siunn7 chiong-lai5 e7 hoat-tian2, chu3-tiann7 kim-se3 lan2 bo5 ian5."
+        ],
+        [
+          "〈都馬〉無緣在世省路用，失戀永遠心賣清，無了理想的女性，甘願死在你面前。",
+          "(Tou-ma2) Bo5 ian5 chai7-se3 siann2 lou7-eng7, sit-loan5 eng2-oan2 sim boe7 chheng, bo5 liau2 li2-siong2 e5 li2-seng3, kam-goan7 si2 chai7 li2 bin7-cheng5."
+        ],
+        [
+          "〈都馬〉郎君不通者網黨，枉費你十年苦讀在寒窗，君著小□聽我廣，先娶別人通傳宗。",
+          "(Tou-ma2) Long5-kun m7 thang chiah bang2-tong2, ong2-hui3 li2 chap8 ni5 khou2-thok8 chai7 han5-chhong, kun tioh8 sio2 □ thiann goa2 kong2, seng chhoa7 pat8-lang5 thang thoan5-chong."
+        ],
+        [
+          "〈都馬〉說什麼傳宗接代，那無小妹我的死，別人恰水我不碟，玉郎已經有決意，今世絕無娶妻兒。",
+          "(Tou-ma2) Soeh sim2-mih thoan5-chong chiap-tai7, na7 bo5 sio2-be7 goa2 e7 si2, pat8-lang5 khah sui2 goa2 m7 tih8, Giok8-long5 i2-keng u7 koat-i3, kim-se3 choat8 bo5 chhoa7 chhe-ji5."
+        ],
+        [
+          "烈女定無兩擺嫁，自盡報答你一个，郎君愛顧楊家的香火，親成著閣選別家。",
+          "Liat8-lu2 teng7 bo5 liong2 pai2 ke3, chu7-chin7 po3-tap li2 chit8 e5, long5-kun ai3 kou3 Iunn5--ka e5 hiunn-he2, chhin-chiann5 tioh8 koh soan2 pat8 ke."
+        ],
+        [
+          "愛妻講話那有准，玉郎未應你大恩，愛情深淺無分寸，擔我卜來出宮門。",
+          "Ai3-chhe kong2-oe7 na7 u7 chun2, Giok8-long5 be7 in3 li2 tai7-in, ai3-cheng5 chhim-chhian2 bo5 hun-chhun3, tann goa2 beh lai5 chhut kiong-bun5."
+        ],
+        [
+          "漫且！〈宮娥進酒來， 宮娥捧酒出，玉蟬接酒。〉宮娥退下。",
+          "Ban7-chhiann2! (Kiong-ngou5 chin3 chiu2 lai5, kiong-ngou5 phang5 chiu2 chhut, Giok8-sian5 chiap chiu2.) Kiong-ngou5 thoe3-ha7."
+        ],
+        [
+          "曉得。〈宮娥再落台〉",
+          "Hiau2-tit.  (Kiong-ngou5 chai3 loh8-tai5)"
+        ],
+        [
+          "郎君！你咱最后饒這[石+區]，從今尪某卜絕交，若是礁埔子不可哭，萬般怨恨放落水流。",
+          "Long5-kun!  Li2 lan2 choe3-au7 lim chit au, chiong5-kim ang-bou2 beh choat8-kau, na7 si7 ta-pou-kiann2 m7 thang khau3, ban7-poann oan3-hun7 pang3 loh8 chui2 liu5."
+        ],
+        [
+          "尪某今日卜分離，恰慘霸王磈別姬，玉蟬你著要能記，後世娶你做妻兒。",
+          "Ang-bou2 kim-jit8 beh hun-li7, khah chham2 Pa3-ong5 teh piat8 Ki, Giok8-sian5 li2 tioh8 ai3 e7-ki3, au7-si3 chhoa7 li2 choe3 chhe-ji5."
+        ],
+        [
+          "〈詩〉斷腸割愛在金朝，未有言辭慰叔廖，若問兩人情好處，天南地北末長遙。",
+          "(Si) Toan7-tiong5 koah-ai3 chai7 kim-tiau, be7-iu7 gian5-su5 ui3 chek-liau5, na7 mng7 liong2-jin5 cheng5 ho5-chhu3, thian-lam5 te7-pak boat8 tiong5-iau5."
+        ],
+        [
+          "無端情海客停車，惜別人來徐目華，杯酒豈謀今日醉，明朝門外即天[疒@圭]。",
+          "Bu5-toan cheng5-hai2 khek theng5-chhia, sioh-piat8 lang5 lai5 Chhi5 Bok8-hoa5, pai chiu2 khi2 bou5 kim-jit8 chui3, beng5-tiau mng5-goa7 chiah thian-gai5."
+        ],
+        [
+          "唱漁光曲詞，詩後用黃梅調樓台會尾節。",
+          "Chhiunn3 hi5-kong-khek-su5, si au7 eng7 ng5-mui5-tiau7 lou5-tai5-hoe7 boe2 chat."
+        ],
+        [
+          "玉郎切莫太傷神，珍重年輕有用身，放下婚姻談友愛，何時你再到這宮廷？",
+          "Giok8-long5 chhiat-bok8 thai3 siong-sin5, tin-tiong7 ni5-khin iu2-iong7 sin, hong3-ha7 hun-in tam5 iu2-ai3, ho5-si5 li2 chai3 kau3 chit kiong-teng5?"
+        ],
+        [
+          "將來有命再議論，無命今世難做群，只有向陽關道途，認新墳！",
+          "Chiong-lai5 u7 beng7 chai3 gi7-lun7, bo5 mia7 kim-se3 lan7 choe3-kun5, chi2-u7 hiong3-iong5 koan-to7-tou5, jin7 sin-phun5!"
+        ],
+        [
+          "〈合唱〉認新墳！認新墳！",
+          "(Hap8-chhiunn3) Tin7 sin phun5!  Jin7 sin phun5!"
+        ],
+        [
+          "碑上留名刻兩人，楊玉郎與關玉蟬，生不成雙死不分。",
+          "Pi-siong7 lau5-mia5 khek nng7 lang5, Iunn5 Giok8-long5 i2 Koan Giok8-sian5, seng put seng5-siang si2 put hun."
+        ],
+        [
+          "〈西樂：悲戀途中〉〈唱〉卜送郎君你回返，想著前情心頭酸，你我親成來無映，恰慘攑刀割腹腸。",
+          "(Se-gak8: Pi-loan5 tou5-tiong) (Chhiunn3) Beh sang3 long5-kun li2 hoe5-tng2, siunn7 tioh8 cheng5-cheng5 sim-thau5 sng, li2 goa2 chhin-chiann5 lai5 bo5 ng3, khah chham2 giah8 to koah pak-tng5."
+        ],
+        [
+          "〈唱〉尪某今日來離開，永遠無緣再做堆，無風無雨做大水，青天白日陳掀雷。",
+          "(Chhiunn3) Ang-bou2 kim-jit8 lai5 li7-khui, eng2-oan2 bo5 ian5 chai3 choe3-tui, bo5 hong bo5 hou7 choe3 toa7-chui2, chheng-thian peh8-jit8 tan5 hiang2-lui5."
+        ],
+        [
+          "雙人唱漫頭，分開。玉郎落台。皇帝出台盜看入去。",
+          "Siang-lang5 chhiunn3 ban7-thau5, pun-khui.  Giok8-long5 loh8-tai5.  Hong5-te3 chhut-tai5 to7 khoann3--jip8-khi3."
+        ],
+        [
+          "〈報仔〉聖駕到！聖駕到！",
+          "(Pou3-a2) Seng3-ka3 kau3!  Seng3-ka3 kau3!"
+        ],
+        [
+          "有請。宮娥出台迎接聖駕入內。",
+          "Iu2 chhiann2.  Keng-ngo5 chhut-tai5 geng5-chiap Seng3-ka3 jip8 lai7."
+        ],
+        [
+          "愛妃你的病如何？不知有恰好也無？",
+          "Ai3-hui li2 e5 pinn7 ju5-ho5?  M7 chai u7 khah ho2 a2 bo5?"
+        ],
+        [
+          "君王罵能知清楚，我的心內野真槽。",
+          "Kun-ong5 ma7 e7 chai chheng-chho2, goa2 e5 sim-lai7 ia2 chin cho."
+        ],
+        [
+          "結婚何時再舉行，愛妃甲我來挑明。",
+          "Kiat-hun ho5-si5 chai3 ku2-heng5, ai3-hui kah goa2 lai5 thiau-beng5."
+        ],
+        [
+          "再閣寬限者能用，請了萬歲你知情。",
+          "Chai3-koh khoan-an7 chiah e7 eng7, chhiann2 liau2 Ban7-soe3 li2 chai-cheng5."
+        ],
+        [
+          "寡人對你無冷淡，為何目眶那紅紅？",
+          "Koa2-jin5 tui3 li2 bo5 leng2-tam7, ui7-ho5 bak8-khou nah ang5-ang5?"
+        ],
+        [
+          "這野無為著別項，思念家鄉的眾人。",
+          "Chit ia2 bo5 ui7 tioh8 pat8-hang7, su-liam7 ka-hiong e5 cheng3-lang5."
+        ],
+        [
+          "人講天上神仙府，人間帝王家。宮內榮華恰富貴，寡人做寵是愛妃，接掌東宮之職位，思念家中是何為？",
+          "Lang5 kong2 thian-siong7 sin5-sian hu2, jin5-kan te3-ong5 ka.  Kiong-loe7 eng5-hoa5 kah hu3-kui3, koa2-jin5 choe3 thiong2 si7 ai3-hui, chiap-chiang2 Tong-kiong chi chit ui7, su-liam7 ke-tiong si7 ho5-ui5?"
+        ],
+        [
+          "人生志氣三不等，玉蟬無貪省虛榮，榮華富貴省路用，不及人間的愛情。",
+          "Jin5-seng chi3-khi3 sam-put-teng2, Giok8-sian5 bo5 tham siann2 hu-eng5, eng5-hoa5 hu3-kui3 siann2 lou7-eng7, put-kip8 jin5-kan e5 ai3-cheng5."
+        ],
+        [
+          "〈唱〉三霄去排黃河陣，卜掠十二的門人，今暗著愛來仝枕，不可提辭來成親。",
+          "(Chhiunn3) Sam-siau khi3 pai5 hong5-ho5-tin7, beh liah8 sip8-ji7 e5 bun5-jin5, kim-am3 tioh8-ai3 lai5 kang5 chim2, put-kho2 the-si5 lai5 seng5-chhin."
+        ],
+        [
+          "〈唱〉孔子悲傷留目屎，顏回早死天推排，不是玉蟬講無愛，身體無好報你知。",
+          "(Chhiunn3) Khong2-chu2 pi-siong lau5 bak8-sai2, Gan5 Hoe5 cha2-si2 thinn chhui-pai5, m7 si7 Giok8-sian5 kong2 bo5 ai3, sin-the2 bo5 ho2 po3 li2 chai."
+        ],
+        [
+          "甲是身體欠安，寡人也不敢相強，請愛妃入床宿困。",
+          "Kah si7 sin-the2 khiam3-an, koa2-jin5 a7 m7 kann2 bian2-kiong2, chhiann2 ai3-hui jip8 chhng5 hioh-khun3."
+        ],
+        [
+          "謝君王。玉蟬入床。",
+          "Sia7 Kun-ong5.  Giok8-sian5 jip8 chhng5."
+        ],
+        [
+          "內臣排駕上金鸞。大監巡円至金鸞殿，挍了金鐘龍鳳鼓。",
+          "Loe7-sin5 pai5 ka3 siong7 kim-loan5.  Thai3-kam3 seh8-lin3 chi3 kim-loan5-tian7, khau3 liau2 kim-cheng leng5-hong7 kou2."
+        ],
+        [
+          "宣眾卿進殿。",
+          "Soan chiong3 kheng chin3-tian7."
+        ],
+        [
+          "領旨。挍了金鐘龍鳳鼓。",
+          "Nia2-chi2.  Khau liau2 kim-cheng leng5-hong7-kou2."
+        ],
+        [
+          "林炳南、楊鶴年、九門提督李元虎，再一名三花官，四人分兩邊登台。",
+          "Lim5 Peng2-lam5, Iunn5 Hoh8-lian5, Kiu2-bun5 The5-tok Li2 Goan5-hou2, chai3 chit8 mia5 Sann-hoe-koann, si3 lang5 hun nng7 peng5 teng-tai5."
+        ],
+        [
+          "聖君打起龍鳳鐘，不知為著省事情？",
+          "Seng3-kun phah khi2 leng5-hong7-cheng, m7 chai ui7 tioh8 siann2 su7-cheng5?"
+        ],
+        [
+          "這是宮內大不幸，者有宣佈恁眾卿。",
+          "Che si7 kiong-lai7 tai7-put-heng7, chiah u7 soan-pou3 lin2 cheng3 kheng."
+        ],
+        [
+          "請問萬歲，不知後宮有什麼不幸？",
+          "Chhiann2-mng7 Ban7-soe3, m7 chai au7-kiong u7 sim2-mih put-heng7?"
+        ],
+        [
+          "只因為東宮貴妃自將選入宮，郎不甲寡人成親，說什麼身體欠安，那知今日楊狀元入宮針花，反甲伊談的親親蜜蜜，被寡人所見，聽我說來！〈吹排〉。",
+          "Chi2 in-ui7 Tong-kiong Kui3-hui chu7-chiong5 soan2 jip8 kiong, long2 m7 kah koa2-jin5 seng5-chhin, soeh sim2-mih sin-the2 khiam3-an, nah chai kim-jit8 Iunn5 chiong7-goan5 jip8 kiong cham-hoa, hoan2 kah i tam5-tit chhin-chhin bit8-bit8, pi7 koa2-jin5 sou2 kinn3, thiann goa2 soeh--lai5!  (Chhoe pai5)."
+        ],
+        [
+          "十面埋伏尚介通，九里山前敗霸王，臣有一計聽我講，包充萬歲通洞房。",
+          "Sip8-bin7 bai5-hok8 siong7 kai3 thong, Kiu2-li2-san cheng5 pai7 Pa3-ong5, sin5 iu2 it ki3 thiann goa2 kong2, pau-un2 Ban7-soe3 thang tong7-pong5."
+        ],
+        [
+          "萬里江山無希罕，若無美人心賣安。林卿你想按盞辦，趕緊說出無相干。",
+          "Ban7-li2 kang-san bo5 hi-han2, na7 bo5 bi2-jin5 sim be7 an.  Lim5 kheng li2 siunn7 an3-choann2 pan7, koann2-kin2 soeh chhut bo5 siong-kan."
+        ],
+        [
+          "現在東宮娘娘假病，不肯甲著君王成親，若是強制迫他，萬一發生自盡，君王失了愛妃，豈不可惜？",
+          "Hian7-chai7 Tong-kiong Niu5-niu5 ke2-pinn7, m7 kheng2 kah tioh8 Kun-ong5 seng5-chhin, na7 si7 kiong5-che3 pek tha, ban7-it hoat-seng chu7-chin7, Kun-ong5 sit liau2 ai3-hui, khi2 put kho2-sioh?"
+        ],
+        [
+          "不如傳旨下去，宣了新科將元登殿問明上細，騙他講卜將了玉蟬賜他為妻，限於七天即來娶親。",
+          "Put-ju5 thoan5-chi2 loh8--khi3, soan liau2 sin-kho chiong7-goan5 teng-tian7 mng7-beng5 siang5-se3, phian3 tha kong2 beh chiong liau2 Giok8-sian5 su3 tha ui5 chhe, han7-i5 chhit thian chiah lai5 chhoa7-chhin."
+        ],
+        [
+          "一方面通知東宮娘娘，再限於三天賜他與玉郎結婚，娘娘必定歡喜，無有歉疑。",
+          "Chit8 hong-bin7 thong-ti Tong-kiong Niu5-niu5, chai3 han7-i5 sam thian su3 tha i2 Giok8-long5 kiat-hun, Niu5-niu5 pit-teng7 hoann-hi2, bo5 iu2 hiam5-gi5."
+        ],
+        [
+          "到了當日結婚的日子，君王即來打辦新郎，與了娘娘拜堂。許个時存，娘娘進退兩難，不能再閣裝病，君王就能達成希望，與了娘娘成了百世良緣，不知君皇意見如何？",
+          "Kau3-liau2 tong-jit8 kiat-hun e5 jit8-chi2, Kun-ong5 chiah lai5 tann2-pan7 sin-long5, i2 liau2 Niu5-niu5 pai3-tng5.  Hit e5 si5-chun7, Niu5-niu5 chin3-thoe3 liong2-lan5, put-leng5 chai3-koh chng-pinn7, Kun-ong5 chiu7 leng5 tat8-seng5 hi-bang7, i2-iau2 Niu5-niu5 seng5 liau2 pek-se3 liong5-ian5, m7 chai Kun-hong5 i3-kian3 ju5-ho5?"
+        ],
+        [
+          "哈！哈！〈笑。〉卿用韓信背水陣，此計必定可成親，若卜進行著趕緊。",
+          "Hah!  Hah!  (Chhio3.)  Kheng eng7 Han5 Sin3 poe7-sui2-tin7, chhu2 ke3 pit-teng7 kho2 seng5-chhin, na7 beh chin3-heng5 tioh8 koann2-kin2."
+        ],
+        [
+          "萬歲有旨，宣楊玉郎進殿。",
+          "Ban7-soe3 iu2 chi2, soan Iunn5 Giok8-long5 chin3-tian7."
+        ],
+        [
+          "領旨。引旨。傳楊玉郎入殿見君王。",
+          "Nin2 chi2. In2 chi2. Thoan5 Iunn5 Giok8-long5 jip8 tian7 kinn3 Kun-ong5."
+        ],
+        [
+          "玉郎參見我主萬歲。",
+          "Giok8-long5 chham-kian3 ngou2 chu2 Ban7-soe3."
+        ],
+        [
+          "楊卿你也免埋怨，東宮與你有私戀，事情實在是省款，對了寡人說原全。",
+          "Iunn5 kheng li2 ia7 bian2 bai5-oan3, Tong-kiong i2 li2 u7 su-loan5, su7-cheng5 sit8-chai7 si7 siann2 khoan2, tui3 liau2 koa2-jin5 soeh goan5-choan5."
+        ],
+        [
+          "人講烈女無再嫁，為君無來奪臣妻，我問你愛講松細，寡人賜恁去歸家。",
+          "Lang5 kong2 liat8-lu2 bo5 chai3-ke3, ui5-kun bo5 lai5 toat8 sin5-chhe, goa2 mng7 li2 ai3 kong2 siong5-se3, koa2-jin5 su3 lin2 khi3 kui-ke."
+        ],
+        [
+          "（玉郎跑向外面。唱）玉郎啟奏你聖君，娘娘甲我有定昏，為臣有恰無福份，者能被選入宮門。",
+          "(Giok8-long5 phau2 hiong3 goa7-bin7. Chhiunn3) Giok8-long5 khe2-chau3 li2 Seng3-kun, Niu5-niu5 kah goa2 u7 teng7-hun, ui5-sin5 u7 khah bo5 hok-hun7, chiah e7 pi7 soan2 jip8 kiong-bun5."
+        ],
+        [
+          "〈唱〉卿你心肝不免問，又閤少年當青春，再閣七天的時存，賜恁尪某去結婚。",
+          "(Chhiunn3) Kheng li2 sim-koann m7 bian2 bun7, iu7 koh siau3-lian5 tng chheng-chhun, chai3-koh chhit thian e5 si5-chun7, su3 lin2 ang-bou2 khi3 kiat-hun."
+        ],
+        [
+          "謝聖恩。〈玉郎落台。〉",
+          "Sia7 seng3-un.  (Giok8-long5 loh8-tai5.)"
+        ],
+        [
+          "李卿聽令。",
+          "Li2 kheng thiann leng7."
+        ],
+        [
+          "臣在。令你再三天寡人結婚當日，帶了五百名御林軍前去圍捉新科將元，將他殺來。",
+          "Sin5 chai7.  Leng7 li2 chai3 sam thian koa2-jin5 kiat-hun tong-jit8, toa3 liau2 gou7-pah mia5 gi7-lim5-kun chian5-khi3 ui5-chhiok sin-kho chiong7-goan5, chiong tha sat--lai5."
+        ],
+        [
+          "領旨。元虎落台。",
+          "Nia2-chi2.  Goan5-hou2 loh8-tai5."
+        ],
+        [
+          "內侍！",
+          "Loe7-si7!"
+        ],
+        [
+          "奴婢在。",
+          "Lou5-pi7 chai7."
+        ],
+        [
+          "命你前去東宮讀旨。",
+          "Beng7 li2 chian5-khi3 Tong-kiong thok8-chi2."
+        ],
+        [
+          "領旨。監落台。",
+          "Nia2-chi2.  Kam3 loh8-tai5."
+        ],
+        [
+          "軍師孔明賢用計，三國聞名伊一个，陣圖按排足好勢，準備落海掠龍蝦。",
+          "Kun-su Khong2-beng5 gau5 eng7-ke3, Sam-kok bun5-beng5 i chit8 e5, tin7-tou5 an-pai5 chiok ho2-se3, chun2-pi7 loh8-hai2 liah8 liong5-he5."
+        ],
+        [
+          "內臣退下。后宮。玉蟬、宮娥登台。可以再唱一柳歌。",
+          "Loe7-sin5 thoe3-ha7.  Au7-kiong. Giok8-sian5, kiong-ngou5 teng-tai5.  Kho2-i2 chai3 chhiunn3 It-liu2-koa."
+        ],
+        [
+          "無疑被選入后宮，目屎滴落歸胸前，可比照君上馬頂，琵琶彈出斷腸聲。",
+          "Bo5-gi5 pi7 soan2 jip8 au7-keng, bak8-sai2 tih loh8 kui heng-cheng5, kho2-pi2 Chiau-kun chiunn7 be2-teng2, pi5-pe5 toann5 chhut toan7-tiong5 seng."
+        ],
+        [
+          "〈報仔〉聖旨到。",
+          "(Pou3-a2) Seng3-chi2 kau3."
+        ],
+        [
+          "不知何故聖旨來后宮，代先迎接打算，迎接太監登台。",
+          "M7 chai ho5-kou3 seng3-chi2 lai5 au7-kiong, tai7-seng geng5-chiap phah-sng3, geng5-chiap thai3-kam3 teng-tai5."
+        ],
+        [
+          "聖旨下。寡人出旨一道，自古君無奪臣妻，玉蟬乃是新科將元楊玉郎的未婚妻，寡人不知誤娶入宮，合介賜您尪某團圓，再三天，在金殿舉行結婚式。聖旨讀罷，叩頭謝恩。",
+          "Seng3-chi2 ha7. Koa2-jin5 chhut chi2 chit8 to7, chu7-kou2 Kun bo5 toat8 sin5-chhe, Giok8-sian5 nai2 si7 sin-kho chiong7-goan5 Iunn5 Giok8-long5 e5 bi7-hun-chhe, koa2-jin5 put-ti gou7 chhoa7 jip8 kiong, hap8-kai su3 lin2 ang-bou2 thoan5-oan5, chai3 sam thian, chai7 kim-tian7 ku2-heng5 kiat-hun-sek.  Seng3-chi2 thok8-pa7, khau3-thau5 sia7-un."
+        ],
+        [
+          "謝聖恩。",
+          "Sia7 seng3-un."
+        ],
+        [
+          "奴婢要回金階覆旨，你請。",
+          "lou5-pi7 iau3 hoe5 kim-kai hok-chi2, li2 chhiann2."
+        ],
+        [
+          "奉送。",
+          "Hong7-sang3."
+        ],
+        [
+          "奉天庇佑真恭喜，賜阮結成連理枝，擔我入內好准備，通做玉郎的妻兒。",
+          "Hong7-thian pi3-iu7 chin kiong-hi2, su3 gun2 kiat-seng5 lian5-li2-ki, tann goa2 jip8 lai7 ho2 chun2-pi7, thang choe3 Giok8-long5 e5 chhe-ji5."
+        ],
+        [
+          "玉郎，旗軍登台。",
+          "Giok8-long5, ki5-kun teng-tai5."
+        ],
+        [
+          "〈唱〉介在聖君出恩旨，乎阮夫妻卜團圓，閣再四天的日止，就是結婚的日期。",
+          "(Chhiunn3) Kai-chai3 Seng3-kun chhut un-chi2, hou7 gun2 hu-chhe beh thoan5-oan5, koh-chai3 si3 thian e5 jit8-chi2, chiu7 si7 kiat-hun e5 jit8-ki5."
+        ],
+        [
+          "〈不吉登台。〉大人大志不好了！",
+          "(Put-kiat teng-tai5.) Tai7-jin5 tai7-chi3 m7 ho2--liau2!"
+        ],
+        [
+          "是什麼代志？",
+          "Si7 sim2-mih tai7-chi3?"
+        ],
+        [
+          "著是少爺甲玉蟬的親成，萬歲爺出旨卜乎恁結婚，不知怎樣閣再變卦！出旨滿城張燈偈綵，今日萬歲爺卜甲玉蟬行結婚禮。",
+          "Tioh8 si7 siau3-ia5 kah Giok8-sian5 e5 chhin-chiann5, Ban7-soe3-ia5 chhut chi2 beh hou7 lin2 kiat-hun, m7 chai choann2-iunn7 koh-chai3 pian3-koa3!  Chhut chi2 moa2-siann5 tiunn-teng kat-chhai2, kim-jit8 Ban7-soe3-ia5 beh kah Giok8-sian5 heng5 kait-hun-le2."
+        ],
+        [
+          "此事董真？",
+          "Chhu2 su7 tong3-chin?"
+        ],
+        [
+          "無定擔。",
+          "Bo5 teng5-tann5."
+        ],
+        [
+          "君無虛言。",
+          "Kun bo5 hi-gian5."
+        ],
+        [
+          "臣無亂奏。",
+          "Sin5 bo5 loan7 chau3."
+        ],
+        [
+          "君來佔臣的某子，萬古留傳真臭名。",
+          "Kun lai5 chiam3 sin5 e5 bou2-kiann2, ban7-kou2 liu5-thoan5 chin chhau3-mia5."
+        ],
+        [
+          "我來去看著知影，不免店個狂偏偏。",
+          "Goa2 lai5 khi3 khoann3 tioh8 chai-iann2, m7 bian2 tiam3 leh kong5-phiann-phiann."
+        ],
+        [
+          "嵌死囝仔治个睏中罩，中計不知通越頭，主人這時想無到，這去定著挽草連根挍。",
+          "Gam7-si2 gin2-a2 ti7 leh khun3 tiong-tau3, tiong3-ke3 m7 chai thang oat8-thau5, chu2-lang5 chit-si5 siunn7 bo5 kau3, chit khi3 tiann7-tioh8 ban2-chhau2 lian5 kin khau."
+        ],
+        [
+          "我緊隨后來甲看這个。〈不吉落台。〉",
+          "Goa2 kin2 sui5-au7 lai5 ka7 khoann3 chit e5.  (Put-kiat loh8-tai5.)"
+        ],
+        [
+          "金殿。金殿要繡中燈兩个掛入仙樓，用西樂結婚曲伴奏。",
+          "Kim-tian7.  Kim-tian7 iau3 siu3-tiong-teng nng7 e5 koa3 jip8 sian-lau5, eng7 se-gak8 kiat-hun-khek phoann7-chau3."
+        ],
+        [
+          "男女分雙平出台。皇帝行進前。林炳南排第二。扶皇帝。第三个楊鶴年。第四个九門提督。盡尾个三花官。",
+          "Lam5-lu2 hun siang-peng5 chhut-tai5.  Hong5-te3 kiann5 chin3-cheng5.  Lim5 Peng2-lam5 pai5 te7-ji7.  Hu5 Hong5-te3.  Te7-sann e5 Iunn5 Hoh8-lian5.  Te7-si3 e5 Kiu2-bun5 The5-tok.  Chin7-boe2 e5 Sann-hoe-koann."
+        ],
+        [
+          "玉蟬這平要四名宮娥扶出拜堂。玉蟬頭殼要置新娘綢。雙方行到中央拜堂，玉蟬始知被諞，不是玉郎，大驚流淚，此要用表情。",
+          "Giok8-sian5 chit-peng5 iau3 si3 mia5 kiong-ngou5 hu5 chhut pai3-tng5.  Giok8-sian5 thau5-khak iau3 ti3 sin-niu5-tiu5.  Siang-hong kiann5 kau3 tiong-ng pai3-tng5, Giok8-sian5 si2 chai pi7 pian3, m7 si7 Giok8-long5, toa7-kiann liu5-lui7, chhu2 iau3 eng7 piau2-cheng5."
+        ],
+        [
+          "雙方拜堂完欲落台，玉郎兇狂走出台，看見皇帝，皇帝向他冷笑，玉郎趕緊敬禮。",
+          "Siang-hong pai3-tng5 oan5 beh loh8-tai5, Giok8-long5 hiong-kong5 chau2 chhut-tai5, khoann3-kinn3 Hong5-te3, Hong5-te3 hiong3 tha leng2-chhio3, Giok8-long5 koann2-kin2 keng3-le2."
+        ],
+        [
+          "皇帝文武百官下台。九門提督立在后面看玉郎動靜。玉郎看雙平。",
+          "Hong5-te3 bun5-bu2 pah-koann ha7-tai5.  Kiu2-bun5 The5-tok khia7 chai7 au7-bin7 khoann3 Giok8-long5 tong7-cheng7.  Giok8-long5 khoann3 siang-peng5."
+        ],
+        [
+          "（詩）神仙一別便迢遙，近隔蓬瀛水一條，雙裝風橫人不□，皇樓殘夢可憐宵。",
+          "(Si) Sin5-sian it piat8 pian7 tiau3-iau5, kin7 keh pong5-eng5 chui2 it tiau5, siong-chng hong-hoainn5 jin5 put □, hong5-lau5 chan5-bong7 kho2-lin5 siau."
+        ],
+        [
+          "玉郎念詩完，極面昏落去。不吉走出台將他扶住。元虎舉刀抬來。覆面天狗出台喚漫且，將刀架住。天狗出現。",
+          "Giok8-long5 liam7-si oan5, kek8-bin7 hun7--loh8-khi3.  Put-kiat chau2 chhut-tai5 chiong tha hu5-chu7.  Goan5-hou2 giah8 to thai5 lai5.  Hok8-bin7 Thian-kau2 chhut-tai5 hoah ban7-chhiann2, chiong to ke3-chu7.  Thian-kau2 chhut-hian7."
+        ],
+        [
+          "圍起來！看鏢！劍關放幕。",
+          "Ui5--khi2-lai5!  Khoann3 pio!  Kiam3-tau3 pang3 bou7."
+        ],
+        [
+          "真正驚人个代志，天狗真正出現。",
+          "Chin-chiann3 kiann-lang5 e5 tai7-chi3, Thian-kau2 chin-chiann3 chhut-hian7."
+        ],
+        [
+          "外幕：金面天狗、楊不吉、楊玉郎、李元虎、御林軍四名。奏西樂。チャンバラ追過場。不吉扶玉郎，用青電火。收幕。",
+          "Goa7 bou7.  Kim-bin7 Thian-kau2, Iunn5 Put-kiat, Iunn5 Giok8-long5, Li2 Goan5-hou2, gi7-lim5-kun si3 mia5.  Chau3 se-gak8.  チ-ャ-ン-バ-ラ tui koe3 tiunn5.  Put-kiat hu5 Giok8-long5, eng7 chheng tian7-hoe2.  Siu bou7."
+        ],
+        [
+          "城。用青電火，巡更一名手提一个燈籠登台。",
+          "Siann5.  Eng7 chheng tian7-hoe2, sun5-kinn chit8 mia5 chhiu2 theh8 chit8 e5 teng-lang2 teng-tai5."
+        ],
+        [
+          "巡更！巡更！金面天狗走出台與巡更相撞。",
+          "Sun5-kinn !  Sun5-kinn !  Kim-bin7 Thian-kau2 chau2 chhut-tai5 i2 sun5-kinn sio-tng7."
+        ],
+        [
+          "啊喲！巡更看著金面天狗驚倒在地，九門提督一行追出台再劍鬥。不吉扶玉郎落台。",
+          "Ah-ioh!  Sun5-kinn khoann3 tioh8 kim-bin7 Thian-kau2 kiann to2 chai7-te7, Kiu2-bun5 The5-tok chit8-kiann5 tui chhut-tai5 chai3 kiam3-tau3.  Put-kiat hu5 Giok8-long5 loh8-tai5."
+        ],
+        [
+          "巡更燈籠倒地發生大人元虎手受傷，金面天狗逃走落台。奏西樂乎チャンバラ追過場。不吉扶玉郎過場",
+          "Sun5-kinn teng-lang2 to2-te7 hoat-seng tai7-jin5 Goan5-hou2 chhiu2 siu7-siong, kim-bin7 Thian-kau2 to5-chau2 loh8-tai5.  Chau3 se-gak8 hou7 チ-ャ-ン-バ-ラ tui koe3 tiunn5.  Put-kiat hu5 Giok8-long5 koe3 tiunn5"
+        ],
+        [
+          "且慢！想我是奉萬歲有旨卜刣伊玉郎，那知乎天狗救走，叫我卜如何回朝儌旨？這這這〈亂介〉有了！不如來去對林尚西求計就是，來仔！",
+          "Chhiann2-ban7!  Siunn7 goa2 si7 hong7 Ban7-soe3 iu2 chi2 beh thai5 i Giok8-long5, nah chai hou7 Thian-kau2 kiu3 chau2, kio3 goa2 beh ju5-ho5 hoe5 tiau kiau2 chi2?  Che che che (Loan7 kai3) U7--liau2!  Put-ju5 lai5-khi3 tui3 Lim5 Siong7-si kiu5 ke3 chiu7 si7, lai5--ah!"
+        ],
+        [
+          "有！",
+          "U7!"
+        ],
+        [
+          "收兵！",
+          "Siu-peng!"
+        ],
+        [
+          "外幕：不吉扶玉蟬登台。",
+          "Goa7 bou7: Put-kiat hu5 Giok8-sian5 teng-tai5."
+        ],
+        [
+          "醒來！〈起背思仔。〉",
+          "Chhinn2--lai5!  (Khi2 poe7-su-a2.)"
+        ],
+        [
+          "〈唱〉今日到底為成代，你咱那會對者來？",
+          "(Chhiunn3) Kim-jit8 tau3-toe2 ui7 siann2 tai7, li2 lan2 nah e7 tui3 chia lai5?"
+        ],
+        [
+          "擔妳簡會炁未征，萬歲娶玉蟬做妻兒，你在金展昏落去，只時暈迷不見知。",
+          "Tann li2 kann2 e7 soah bi7 chhinn2, Ban7-soe3 chhoa7 Giok8-sian5 choe3 chhe-ji5, li2 chai7 kim-tian7 hun--loh8-khi3, chit8-si5 hun7-be5 put kian3-ti."
+        ],
+        [
+          "兵士卜將你刣死，帶隊九門提督伊，介再天狗來救你，無你性命報水彼。",
+          "Peng-su7 beh chiong li2 thai5-si2, tai3-tui7 Kiu2-bun5 The5-tok i, kai-chai3 Thian-kau2 lai5 kiu3 li2, bo5 li2 sinn3-mia7 po3 chui2-pinn."
+        ],
+        [
+          "咳！吐氣！可惜我惕玉郎，愛著伊關玉蟬，雙人相思相愛，在天愿做比翼鳥，在地愿為連理枝。",
+          "Haih!  Thou2-khui3!  Kho2-sioh goa2 Iunn5 Giok8-long5, ai3 tioh8 i Koan Giok8-sian5, siang-lang5 siong-su siong-ai3, chai7 thian goan7 choe3 pi2-ek8-niau2, chai7-te7 goan7 ui5 lian5-li2 ki."
+        ],
+        [
+          "叫了媒人關家送定，萬歲聽了奸臣林炳南所奏，將了愛妻玉蟬選入宮中為東宮嬪妃，奪了玉郎愛情。",
+          "Kio3 liau2 hm5-lang5 Koan--ka sang3-tiann7, Ban7-soe3 thiann liau2 kan-sin5 Lim5 Peng2-lam5 sou2 chau3, chiong liau2 ai3-chhe Giok8-sian5 soan2 jip8 kiong-tiong ui5 Tong-kiong pin5-hui, toat8 liau2 Giok8-long5 ai3-cheng5."
+        ],
+        [
+          "我為卜見玉蟬一面，者去考試中了狀元入宮招花。見著玉蟬，者知伊為我玉郎假病瞞騙君王。省知此事，被了萬歲見知。",
+          "Goa2 ui7 beh kinn3 Giok8-sian5 chit8-bin7, chia khi3 kho2-chhi3 tiong3 liau2 chiong7-goan5 jip8 kiong cham-hoa.  Kinn3 tioh8 Giok8-sian5, chiah chai i ui7 goa2 Giok8-long5 ke2-pinn7 moa5-phian3 Kun-ong5.  Siann2 chai chhu2 su7, pi2 liau2 Ban7-soe3 kian3-ti."
+        ],
+        [
+          "奸臣用計騙廣卜賜乎阮兩个結婚;一方面萬歲騙出玉蟬出來拜堂，者出旨乎九門提督李元虎卜將我斬來。",
+          "Kan-sin5 eng7 ke3 phian3 kong2 beh su3 hou7 gun2 nng7 e5 kiat-hun; chit8 hong-bin7 Ban7-soe3 phian3 chhut Giok8-sian5 chhut lai5 pai3-tng5, chiah chhut chi2 hou7 Kiu2-bun5 The5-tok Li2 Goan5-hou2 beh chiong goa2 cham3 lai5."
+        ],
+        [
+          "幸得金面天狗出現改救，雖然玉郎有性命，失了愛妻嗎無心成。活我一人卜傖省？卡慘蔡陽被殺在古城。",
+          "Heng7-tit kim-bin7 Thian-kau2 chhut-hian7 kai2-kiu3, sui-jian5 Giok8-long5 u7 sinn3-mia7, sit liau2 ai3-chhe ma7 bo5 sim-chiann5.  Oah8 goa2 chit8 lang5 beh chhong3 siann2?  Khah chham2 Chhoa3 Iong5 pi7 sat chai7 kou2-siann5."
+        ],
+        [
+          "〈唱〉失了玉蟬尚不幸，千金難買真愛情，君奪臣妻足好景，叫我心肝那未凝。",
+          "(Chhiunn3) Sit liau2 Giok8-sian5 siong7 put-heng7, chhian-kim lan7 be2 chin ai3-cheng5, kun toat8 sin5-chhe chiok ho2-keng2, kio3 goa2 sim-koann nah be7 geng5."
+        ],
+        [
+          "男兒不可來失志，著想楊家的宗機，看破擔著返來去，空思夢想無了時。",
+          "Lam5-ju5 put-kho2 lai5 sit-chi3, tioh8 siunn7 Iunn5--ka e5 chong-ki, khoann3-phoa3 tann tioh8 tng2--lai5-khi3, khang-su bong7-siong2 bo5 liau2-si5."
+        ],
+        [
+          "罷了！玉蟬已經來改嫁，未冬閣娶伊為妻，想著楊家的香火，漸時偷走返回家。〈玉郎、不吉下。〉",
+          "Pa7--liau2!  Giok8-sian5 i2-keng lai5 kai2-ke3, be7-tang3 koh chhoa7 i ui5 chhe, siunn7 tioh8 Iunn5--ka e5 hiunn-he2, chiam7-si5 thau-chau2 tng2 hoe5-ke.  (Giok8-long5, Put-kiat ha7.)"
+        ],
+        [
+          "后宮。皇帝牽玉蟬登台，宮娥作前提燈引路，太監隨後保護。文平落串仔。",
+          "Au7-kiong.  Hong5-te3 khan Giok8-sian5 teng-tai5, kiong-ngou5 choh cheng5 the5 teng in2-lou7, thai3-kam3 sui5-hio7 po2-hou7.  Bun5-peng5 loh8 chhng3-a2."
+        ],
+        [
+          "內侍退下。",
+          "Loe7-si7 thoe3-ha7."
+        ],
+        [
+          "尊旨！〈太監宮娥下。〉",
+          "Chun chi2!  (Thai3-kam3 kiong-ngou5 ha7.)"
+        ],
+        [
+          "玉蟬！〈唱〉你比貴妃尚介通，寡人可比唐明皇，這是一生的希望，今暗會得通洞房。",
+          "Giok8-sian5!  (Chhiunn3) Li2 pi2 Kui3-hui siong7 kai3 thong, koa2-jin5 kho2-pi2 Tong5 Beng5-hong5, che si7 it-seng e5 hi-bong7, kim-am3 e7-tit thang tong7-pong5."
+        ],
+        [
+          "自古君是無戲言，國家者有太平年，婚姻忽然來轉變，聖旨為何來變遷。",
+          "Chu7-kou2 kun si7 bu5 hi3-gian5, kok-ka chiah u7 thai3-peng5-lian5, hun-in hut-jian5 lai5 choan2-pian3, seng3-chi2 ui7-ho5 lai5 pian3-chhian."
+        ],
+        [
+          "愛妃定定來假病，寡人者著按呢生，若無用計按呢變，也無你咱來團圓。",
+          "Ai3-hui tiann7-tiann7 lai5 ke2-pinn7, koa2-jin5 chiah tioh8 an2-ni-sinn, na7 bo5 eng7 ke3 an2-ni pinn3, ia7 bo5 li2 lan2 lai5 thoan5-inn5."
+        ],
+        [
+          "君奪臣妻世間無，萬歲未免箱天討，合該乎奴回返倒，乎阮尪某再合和。",
+          "Kun toat8 sin5-chhe se3-kan bo5, Ban7-soe3 bi7-bian2 siunn thian-tho2, hap8-kai hou7 nou5 hoe5 tng2-to3, hou7 gun2 ang-bou2 chai3 hap8-ho5."
+        ],
+        [
+          "寡人江山無要緊，只愛甲妃你成親，千言萬語講甲一句盡，不愛江山愛美人。",
+          "Koa2-jin5 kang-san bo5 iau3-kin2, chi2 ai3 kah hui li2 seng5-chhin, chheng-gian5 ban7-gi2 kong2 kah chit8 ku3 chin7, put ai3 kang-san ai3 bi2-jin5."
+        ],
+        [
+          "三十六宮的美女，七十二院若西施，朗無君皇你甲意，選我玉蟬野恰奇。",
+          "Sann-chap8-lak8 kiong e5 bi2-li2, chhit-chap8-ji7 inn7 na7 Se-si, long2 bo5 Kun-hong5 li2 kah-i3, soan2 goa2 Giok8-sian5 ia2 khah ki5."
+        ],
+        [
+          "寡人一國的君皇，總無不及小小的玉郎，愛妃你著聽我講，對我冷淡恰無通。",
+          "Koa2-jin5 it kok e5 Kun-hong5, chong2 bo5 put-kip8 sio2-sio2 e5 Giok8-long5, ai3-hui li2 tioh8 thiann goa2 kong2, tui3 goa2 leng2-tam7 khah bo5 thong."
+        ],
+        [
+          "〈唱〉織女無意會牛郎，苦苦相迫那有通，赦免玉蟬恰搶傍，我無欣喜你君皇。",
+          "(Chhiunn3) Chit-li2 bo5 i3 hoe7 gu5-long5, khou2-khou2 siong-pek nah u7 thong, sia3-bian2 Giok8-sian5 kah chhong2-pong7, goa2 bo5 him-hi2 li2 Kun-hong5."
+        ],
+        [
+          "喉乾嘴喝孤不終，愛妃何必閣參商，寡人查某尚介重，你若不肯敢行兇。",
+          "Au5-ta chhui3-khoah kou-put-chiong, ai3-hui ho5-pit koh chham-siong5, koa2-jin5 cha-bou2 siong7 kai3 tiong7, li2 na7 m7 kheng2 kann2 heng5-hiong."
+        ],
+        [
+          "啊也君皇，不可！",
+          "Ah-iah Kun-hong5, put-kho2!"
+        ],
+        [
+          "皇帝卜掠玉蟬，掠來掠去，太監出台，皇帝抱著太監。",
+          "Hong5-te3 beh liah8 Giok8-sian5, liah8 lai5 liah8 khi3, thai3-kam3 chhut-tai5, Hong5-te3 pho7 tioh8 thai3-kam3."
+        ],
+        [
+          "擔閣走去。",
+          "Tann koh chau2--khi3."
+        ],
+        [
+          "君皇是我。",
+          "Kun-hong5 si7 goa2."
+        ],
+        [
+          "你者好閣你。",
+          "Li2 chiah ho2 koh li2."
+        ],
+        [
+          "臣是內監秀娟。",
+          "Sin5 si7 loe7-kam3 Siu3-koann."
+        ],
+        [
+          "寡人[門@丨]當塊打拼，你來怎樣免出聲，到底來者卜創省，趕緊講乎寡人聽。",
+          "Koa2-jin5 tu2 tng teh phah-piann3, li2 lai5 choann2-iunn7 bian2 chhut-siann, tau3-toe2 lai5 chia beh chhong3 siann2, koann2-kin2 kang2 hou7 koa2-jin5 thiann."
+        ],
+        [
+          "九門提督不敢來到者，有事啟稟萬歲爺。",
+          "Kiu2-bun5 The5-tok m7 kann2 lai5 kau3 chia2, iu2 su7 khe2-pin2 Ban7-soe3-ia5,"
+        ],
+        [
+          "叫伊請店外口立，寡人隨後著去許。",
+          "Kio3 i chhiann2 tiam3 goa7-khau2 khia7, koa2-jin5 sui5-hio7 tioh8 khu3 hi2."
+        ],
+        [
+          "尊旨。〈太監落台。〉",
+          "Chun chi2.  (Thai3-kam3 loh8-tai5.)"
+        ],
+        [
+          "愛妃擔你少等候，寡人有事出外頭，馬上我就隨時到，心肝不可亂抄抄。〈皇帝落台。〉",
+          "Ai3-hui tann li2 sio2 tan2-hau7, koa2-jin5 iu2 su7 chhut goa7-thau5, ma2-siong7 goa2 chiu7 sui5-si5 kau3, sim-koann put-kho2 loan7-chhau-chhau.(Hong5-te3 loh8-tai5.)"
+        ],
+        [
+          "啊！罷了！人講一生一世，如草木一春。",
+          "Ah!  Pa7--liau2!  Lang5 kong2 it-seng-it-se3, ju5 chho2-bok8 it-chhun."
+        ],
+        [
+          "萬項看破擔了離，情海切斷愛情詩，甘願自盡來身死，不乎君皇做妻兒。",
+          "Ban7-hang7 khoann3-phoa3 tann liau2-li7, cheng5-hai2 chhiat-tng7 ai3-cheng5 si, kam-goan7 chu7-chin7 lai5 sin si2, put hou7 Kun-hong5 choe3 chhe-ji5."
+        ],
+        [
+          "罷了！",
+          "Pa7--liau2!"
+        ],
+        [
+          "玉蟬手提索仔，極面欲自盡。太醫登。棟住。",
+          "Giok8-sian5 chhiu2 the5 soh-a2, kek8 bin7 beh chu7-chin7.  Thai3-i teng.  Tong3-chu7."
+        ],
+        [
+          "慢且！",
+          "Ban7-chhiann2!"
+        ],
+        [
+          "你是何人者哖好膽量，無有傳旨入后宮。",
+          "Li2 si7 ho5-jin5 chiah-nih8 ho2 tam2-liong7, bo5 u7 thoan5-chi2 jip8 au7-kiong."
+        ],
+        [
+          "娘娘赦免不通嚷，臣是有話來參商。",
+          "Nia5-nia5 sia3-bian2 m7 thang jiang2, sin5 si7 u7 oe7 lai5 chham-siong5."
+        ],
+        [
+          "若有理由通好講，赦你無罪著無[冫+廣]。",
+          "Na7 u7 li2-iu5 thang ho2 kong2, sia3 li2 bo5 choe7 tioh8 bu5-hong5."
+        ],
+        [
+          "不是臣下恰罔黨，娘娘想卜自盡那有通？我是太醫名叫火車棟，專門塊醫國母甲君皇，臣有辦法卜來甲你講，乎你再閣見玉郎。",
+          "M7 si7 sin5--e5 kah bong2-tong7, Niu5-niu5 siunn7 beh chu7-chin7 nah u7 thong?  Goa2 si7 thai3-i mia5 kio3 He2-chhia Tong3, choan-bun5 teh i Kok-bo2 kah Kun-hong5, sin5 u7 pan7-hoat beh lai5 ka7 li2 kong2, hou7 li2 chai3-koh kinn3 Giok8-long5."
+        ],
+        [
+          "魚仔一旦掠落鼎，插羽難飛出宮城，你能講話敢無影，加乎奴家費心成。",
+          "Hi5-a2 it-tan3 liah8 loh8-tiann2, chhap-sit8 lan5 poe chhut kiong-siann5, li2 e5 kong2-oe7 kam2 bo5 iann2, ke hou7 lou5-ke hui3 sim-chiann5."
+        ],
+        [
+          "臣是入宮來看國母娘娘的病體，治卜離開宮中，來到娘娘宮房外，聽見娘娘哀怨的聲音。",
+          "Sin5 si7 jip8 kiong lai5 khoann3 Kok-bo2 Niu5-niu5 e5 pinn7-the2, tih-beh li7-khui kiong-tiong, lai5 kau3 Niu5-niu5 kiong-pang5 goa7, thiann-kinn3 Niu5-niu5 ai-oan3 e5 siann-im."
+        ],
+        [
+          "我在房外真久，一切的代志朗知影。人講貴人快賣記，我火車棟早前野未做太醫許个時存，倚在恁關家的厝邊真久，娘娘聽我稟來啊！",
+          "Goa2 chai7 pang5-goa7 chin ku2, it-chhe3 e5 tai7-chi3 long2 chai-iann2.  Lang5 kong2 kui3-jin5 khoai3 be7-ki3, goa2 He2-chhia Tong3 cha2-cheng5 ia2-be7 choe3 thai3-i hit e5 si5-chun7, khia7 chai7 lin2 Koan--ka e5 chhu3-pinn chin ku2, Niu5-niu5 thiann goa2 pin2--lai5 ah!"
+        ],
+        [
+          "〈唱〉講起早前的代志，我的阿爹歸陰司，家貧棺材買未起，小姐同情我這散赤兒。",
+          "(Chhiunn3) Kong2 khi2 cha2-cheng5 e5 tai7-chi3, goa2 e5 a-tia kui im-si, ka pin5 koann-chha5 boe2 boe7 khi2, sio2-chia2 tong5-cheng5 goa2 che san3-chhiah-ji5."
+        ],
+        [
+          "〈什唸仔〉援助金錢你賣記，後來我者入宮做太醫，今日人情卜來報答你，救你出宮去尋玉郎伊。",
+          "(Chap8-liam7-a2) Oan7-chou7 kim-chinn5 li2 be7-ki3, au7-lai5 goa2 chiah jip8 kiong choe3 thai3-i, kim-jit8 jin5-cheng5 beh lai5 po3-tap li2, kiu3 li2 chhut kiong khi3 chhoe7 Giok8-long5 i."
+        ],
+        [
+          "〈接什唸唱〉雖然是你的好意，卜報人情在這時，禁城衛兵塊守備，有何計智緊通知。",
+          "(Chiap chap8-liam7 chhiunn3) Sui-jian5 si7 li2 e5 ho2-i3, beh po3 jin5-cheng5 chai7 chit-si5, kim3-siann5 oe7-peng teh siu2-pi7, iu2 ho5 ke3-ti3 kin2 thong-ti."
+        ],
+        [
+          "〈接什唸唱〉小姐你著來假死，萬歲一定無嫌疑，將你台了皇陵去，逃出京城那有奇!",
+          "(Chiap chap8-liam7 chhiunn3) Sio2-chia2 li2 tioh8 lai5 ke2-si2, Ban7-soe3 it-teng7 bo5 hiam5-gi5, chiong li2 tai5 liau2 Hong5-leng5 khi3, to5 chhut Kiann-siann5 nah u7 ki5!"
+        ],
+        [
+          "〈接什唸唱〉叫我假死這計智，君皇來看能見知，許存加來拖累你，反悔你著能恰遲。",
+          "(Chiap chap8-liam7 chhiunn3) Kio3 goa2 ke2-si2 chit ke3-ti3, Kun-hong5 lai5 khoann3 e7 kian3-ti, hit-chun7 ke lai5 thoa-lui7 li2, hoan2-hoe2 li2 tioh8 e7 khah ti5."
+        ],
+        [
+          "〈接什唸唱〉我有藥円乎你食落去，活人能來變死屍，經過七工的日止，再閣活起不免醫。",
+          "(Chiap chap8-liam7 chhiunn3) goa2 u7 ioh8-tan hou7 li2 chiah8--loh8-khi3, oah8-lang5 e7 lai5 pian3 si2-si, keng-ke3 chhit kang e5 jit8-chi2, chai3-koh oah8 khi2 m7 bian2 i."
+        ],
+        [
+          "（接什唸唱）玉蟬聽著足歡喜，一計用去真正奇，算阮尪某有福氣，野有見面的時期。",
+          "(Chiap chap8-liam7 chhiunn3) Giok8-sian5 thiann tioh8 chiok hoann-hi2, chit8 ke3 eng7 khi3 chin-chiann3 ki5, sng3 gun2 ang-bou2 u7 hok-khi3, ia2 u7 kinn3-bin7 e5 si5-ki5."
+        ],
+        [
+          "一粒叫做起死回魂丹，娘娘趕緊來收起，卜用著愛恰張池，做你放心來假死，我能去甲玉郎伊通知，。",
+          "Chit8 liap8 kio3-choe3 khi2-su2 hoe5-hun5 tan, Niu5-niu5 koann2-kin2 lai5 siu khi2, beh eng7 tioh8-ai3 khah tiunn-ti5, choe3 li2 hong3-sim lai5 ke2-si2, goa2 e7 khi3 kah Giok8-long5 i thong-ti,."
+        ],
+        [
+          "七工著緊來開棺，性命者能得安全。",
+          "Chhit kang tioh8 kin2 lai5 khui-koan, sinn3-mia7 chiah e7 tit an-choan5."
+        ],
+        [
+          "娘娘做你有決斷，祝恁尪某通團圓。",
+          "Nia5-nia5 choe3 li2 u7 koat-toan7, chiok lin2 ang-bou2 thang thoan5-oan5."
+        ],
+        [
+          "你請！〈太醫落台。〉",
+          "Li2 chhiann2!  (Thai3-i loh8-tai5.)"
+        ],
+        [
+          "太醫已經出宮去，介在無被人見知，奴家擔野通準備，若卜食藥趁這時。",
+          "Thai3-i i2-keng chhut kiong khi3, kai-chai3 bo5 pi7 lang5 kian3-ti, nou5-ka tann ia2 thang chun2-pi7, na7 beh chiah8-ioh8 than3 chit-si5."
+        ],
+        [
+          "玉蟬食藥落床，收幕。",
+          "Giok8-sian5 chiah8-ioh8 loh8-chhng5, siu bou7."
+        ],
+        [
+          "皇帝太監吹上。元虎亦隨後登台。",
+          "Hong5-te3 thai3-kam3 chhoe siong7.  Goan5-hou2 iah8 sui5-hio7 teng-tai5."
+        ],
+        [
+          "李卿令汝帶御林軍圍困狀元府，斬殺楊玉郎，事情如何？",
+          "Li2 kheng leng7 li2 toa3 gi7-lim5-kun ui5-khun3 chiong7-goan5-hu2, cham2-sat Iunn5 Giok8-long5, su7-cheng5 ju5-ho5?"
+        ],
+        [
+          "臣奉旨卜殺楊玉郎，那知天狗出現，被伊改救。",
+          "Sin5 hong7-chi2 beh sat Iunn5 Giok8-long5, nah chai Thian-kau2 chhut-hian7, pi7 i kai2-kiu3."
+        ],
+        [
+          "什麼！天狗出現改救。算來卿有疏匆之罪。",
+          "Sim2-mih!  Thian-kau2 chhut-hian7 kai2-kiu3.  Sng3 lai5 kheng iu2 sou-chhong chi choe7."
+        ],
+        [
+          "來仔！",
+          "Lai5--ah!"
+        ],
+        [
+          "有！",
+          "U7!"
+        ],
+        [
+          "催出斬！",
+          "Thui chhut cham2!"
+        ],
+        [
+          "且慢！",
+          "Chhiann2-ban7!"
+        ],
+        [
+          "天狗雖是卜救楊玉郎，反被阮刣的大敗逃走。玉郎被臣追到山嶺，迫落萬丈深坑一命死亡，連屍首著無冬尋。",
+          "Thian-kau2 sui si7 beh kiu3 Iunn5 Giok8-long5, hoan2 pi7 gun2 thai5 tit tai7-pai7 to5-chau2.  Giok8-long5 pi7 sin5 tui kau3 soann-nia2, pek loh8 ban7-tng7 chhim-khinn chit8 mia7 si2-bong5, lian5 si-siu2 tioh8 bo5-tang3 chhoe7."
+        ],
+        [
+          "吓!玉郎甲有迫死，卿立大功不少，另日封賞。但是天狗不該，敢入禁城救人，罪大惡極，令卿再去追提回朝，查其真名正姓。",
+          "Heh!  Giok8-long5 kah u7 pek-si2, kheng lip8 tai7-kong put-siau2, leng7-jit8 hong-siunn2.  Tan7-si7 Thian-kau2 put-kai, kam2 jip8 kim3-siann5 kiu3-lang5, choe7-tai7 ok-kek8, leng7 kheng chai3 khi3 tui-the5 hoe5 tiau, cha ki5 chin-mia5 chiann3-sinn3."
+        ],
+        [
+          "為臣領旨。下。",
+          "Ui5-sin5 nia2-chi2.  Ha7."
+        ],
+        [
+          "代志武甲者年大，玉蟬未各同心肝，好歹著閣入宮試淺看，死死心肝也卜弄甲活。內侍排駕東宮。",
+          "Tai7-chi3 bu2 kah chiah-nih8 toa7, Giok8-sian5 be7 koh kang5 sim-koann, ho2-phainn2 tioh8 koh jip8 kiong chhi3 chhian2-khoann3, si2-si2 sim-koann ia7 beh lang7 kah oah8.  Loe7-si7 pai5 ke3 Tong-kiong."
+        ],
+        [
+          "領旨。",
+          "Nia2-chi2."
+        ],
+        [
+          "連台至後宮。玉蟬死屍倒在床中。",
+          "Lian5 tai5 chi3 au7-kiong.  Giok8-sian5 si2-si to2 chai7 chhng5-tiong."
+        ],
+        [
+          "內侍退下。",
+          "Loe7-si7 thoe3-ha7."
+        ],
+        [
+          "尊旨！",
+          "Chun-chi2!"
+        ],
+        [
+          "下！",
+          "Ha7!"
+        ],
+        [
+          "皇帝看無玉蟬，掀開蚊帳，見玉蟬倒在床。",
+          "Hong5-te3 khoann3 bo5 Giok8-sian5, hian-khui bang2-tiunn3, kinn3 Giok8-sian5 to2 chai7 chhng5."
+        ],
+        [
+          "愛妃睏甲者年緊，睏甲空空郎無翻，大慨伊是願意應，允各是見羞做睏落眠。",
+          "Ai3-hui khun3 kah chiah-nih8 kin2, khun3 kah khang-khang long2 bo5 lin3, tai7-khai3 i si7 goan7-i3 in3, un2 koh si7 kian3-siau3 choe3 khun3-loh8-bin5."
+        ],
+        [
+          "〈皇帝以手[人+麻]身，發覺不對。〉",
+          "(Hong5-te3 i2 chhiu2 bong sin, hoat-kak put-tui3.)"
+        ],
+        [
+          "奇怪？因何歸身冰冷？內侍何在？",
+          "Ki5-koai3?  In-ho5 kui-sin peng-leng2?  Loe7-si7 ho5-chai7?"
+        ],
+        [
+          "奴婢在。",
+          "Lou5-pi7 chai7."
+        ],
+        [
+          "緊宣太醫進後宮。",
+          "Kin2 sng thai3-i chin3 au7-kiong."
+        ],
+        [
+          "領旨。宣太醫入宮。",
+          "Nia2-chi2.  Soan thai3-i jip8 kiong."
+        ],
+        [
+          "內侍領旨。〈太醫上。〉",
+          "Loe7-si7 nia2-chi2.  (Thai3-i siong7.)"
+        ],
+        [
+          "萬歲宣臣入後宮，有何緊急的事情？",
+          "Ban7-soe3 sng sin5 jip8 au7-kiong, iu2 ho5 kin2-kip e5 su7-cheng5?"
+        ],
+        [
+          "愛妃不知成病症，趕緊甲伊看分明。",
+          "Ai3-hui m7 chai siann2 pinn7-cheng3, koann2-kin2 ka7 i khoann3 hun-beng5."
+        ],
+        [
+          "領旨。〈太監掀蚊罩與太醫觀視。〉",
+          "Nia2-chi2.  (Thai3-kam3 hian bang2-ta3 i2 thai3-i koan-si7.)"
+        ],
+        [
+          "萬歲為臣看真透，這是心臟麻脾的症頭，解救的人相慢到，已經別世足克喉",
+          "Ban7-soe3 ui5-sin5 khoann3 chin thau3, che si7 sim-chong7 ba5-pi3 e5 cheng3-thau5, kai2-kiu3 e5 lang5 siunn ban7 kau3, i2-keng piat8-se3 chiok khek-au5"
+        ],
+        [
+          "什麼仔？愛妃死了！啊！受虧。〈吹排。〉",
+          "Sim2-mih ah?  Ai3-hui si2--liau2!  Ah!  Siu7-khui.  (Chhoe pai5.)"
+        ],
+        [
+          "〈唱〉這是寡人無福氣，未冬甲妳做妻兒，可惜青春著來死，實在乎人會傷悲。",
+          "(Chhiunn3) Che si7 koa2-jin5 bo5 hok-khi3, be7-tang3 kah li2 choe3 chhe-ji5, kho2-sioh chheng-chhun tioh8 lai5 si2, sit8-chai7 hou7 lang5 e7 siong-pi."
+        ],
+        [
+          "傳旨下去:通知文武百官總知情，愛妃臨終在後宮，莫非這也是天命，明天出葬埋皇陵。",
+          "Thoan5-chi2 loh8--khi3: thong-ti bun5-bu2 pah-koann chong2 ti-cheng5, ai3-hui lim5-chiong chai7 au7-keng, bok8-hui che ia7 si7 thian-beng7, beng5-thian chhut-chong3 bai5 Hong5-leng5."
+        ],
+        [
+          "慢且！聖上那甲對貴妃者重情，應該著慢者埋落土，留在皇陵勤棺三個月，而後安葬以存惜念之情。不知聖裁如何？",
+          "Ban7-chhiann2!  Seng3-siong7 na7 kah tui3 Kui3-hui chiah tiong7-cheng5, eng-kai tioh8 ban7-chiann2 tai5 lok8-thou2, lau5 chai7 Hong5-leng5 khng3 koann sann ko3 geh8, ji5-hou7 an-chong3 i2 chun5 sioh-liam7 chi-cheng5.  M7 chai seng3-chhai5 ju5-ho5?"
+        ],
+        [
+          "卿奏有理。傳旨下去:將靈柩送往皇陵，停棺三個月而後安葬。",
+          "Kheng chau3 iu2-li2.  Thoan5-chi2 loh8--khi3: chiong leng5-kiu7 sang3 ong2 Hong5-leng5, theng5-koann sann ko3 goeh8 ji5-au7 an-chong3."
+        ],
+        [
+          "領旨。",
+          "Nia2-chi2."
+        ],
+        [
+          "后宮領旨後用。",
+          "Au7-kiong nia2-chi2 hou7-iong7."
+        ],
+        [
+          "啊！愛妃呀！〈皇帝、太監下。太醫雙平看。〉",
+          "Ah!  Ai3-hui iah!  (Hong5-te3, thai3-kam3 ha7.  Thai3-i siong-peng5 khoann3.)"
+        ],
+        [
+          "閣然萬歲中著我計智，我著趕緊來去通知玉郎，好通破棺救出玉蟬。",
+          "Ko2-jian5 Ban7-soe3 tiong3 tioh8 goa2 ke3-ti3, goa2 tioh8 koann2-kin2 lai5-khi3 thong-ti Giok8-long5, ho2 thang pho3-koann kiu3 chhut Giok8-sian5."
+        ],
+        [
+          "欲下，巡一円與元虎昭角。驚下。",
+          "Iok8 ha7, seh8 chit8 lin3 i2 Goan5-hou2 chio3-kak.  Kiann ha7."
+        ],
+        [
+          "奇怪？太醫今日見著我，那會鬼鬼祟祟？敢是我甲因媒歪尾桃偷來暗去的代志乎伊知影是不？",
+          "Ki5-koai3?  Thai3-i kim-jit8 kian3 tioh8 goa2, nah e7 kui2-kui2 sui7-sui7?  Kam2 si7 goa2 kah in bou2 Oai-boe2 Tho5 thau lai5 am3 khi3 e5 tai7-chi3 hou7 i chai-iann2 si7 m7?"
+        ],
+        [
+          "吓？我著隨伊背後來甲看覓。下。",
+          "Eh?  Goa2 tioh8 sui5 i poe7-au7 lai5 kah khoann3-mai7.  Ha7."
+        ],
+        [
+          "外床。太醫獨上。",
+          "Goa7-chhng5.  Thai3-i tok8 siong7."
+        ],
+        [
+          "走！（入門介）",
+          "Chau2! (Jip8-mng5 kai3)"
+        ],
+        [
+          "牽手吓！〈桃仔上。〉",
+          "Khan-chhiu2--e5!  (Tho5--a2 siong7.)"
+        ],
+        [
+          "是不目叫著是不？者麼狂補傖成？",
+          "Si7 m7-bat kio3 tioh8 si7 m7?  Chiah-nih8 kong5-pou2 chhong3 siann2?"
+        ],
+        [
+          "我有要緊的代志，卜緊來去甲人通知，回家交代你言語，往回大概三日期。",
+          "Goa2 u7 iau3-kin2 e5 tai7-chi3, beh kin2 lai5-khi3 ka7 lang5 thong-ti, hoe5-ke kau-tai7 li2 gian5-gi2, ong2-hoe5 tai7-khai3 sann jit8 ki5."
+        ],
+        [
+          "是什麼代志嗎著廣乎阮知影，那到者麼狂偏偏？",
+          "Si7 sim2-mih tai7-chi3 ma7 tioh8 kong2 hou7 gun2 chai-iann2, na2 kau3 chiah-nih8 kong5-phiann-phiann?"
+        ],
+        [
+          "關係抄家的事件，廣了妳是不通廣乎人聽。",
+          "Koan-he7 chhiau-ke e5 su7-kiann7, kong2 liau2 li2 si7 m7 thang kong2 hou7 lang5 thiann."
+        ],
+        [
+          "未拉！是什麼代志？",
+          "Be7 lah!  Si7 sim2-mih tai7-chi3?"
+        ],
+        [
+          "是卜救玉蟬的代志。耳語按呢按呢。",
+          "Si7 beh kiu3 Giok8-sian5 e5 tai7-chi3.  Hinn7-gi2 an2-ni an2-ni."
+        ],
+        [
+          "□我卜緊來去尋玉蟬，請了！下。",
+          "□ goa2 beh kin2 lai5-khi3 chhoe7 Giok8-sian5, chhiann2--liau2!  Ha7."
+        ],
+        [
+          "〈元虎上。隨看入門。〉",
+          "(Goan5-hou2 siong7.  Sui5 khoann3 jip8-mng5.)"
+        ],
+        [
+          "噯也！我只一仔虎仔。〈對元虎抱肩□。〉",
+          "Aih-iah!  Goa2 chit chit8 e5 Hou2-a2.  (Tui3 Goan5-hou2 pho7 keng □.)"
+        ],
+        [
+          "桃仔！我卜問你，您尪是返來廣什麼？",
+          "Tho5--a2!  Goa2 beh mng7 li2, lin2 ang si7 tng2 lai5 kong2 sim2-mih?"
+        ],
+        [
+          "伊著教我不通廣乎人聽，說什麼卜救東宮玉蟬的代志。容稟。〈吹排。〉",
+          "I tioh8 ka3 goa2 m7 thang kong2 hou7 lang5 thiann, soeh sim2-mih beh kiu3 Tong-kiong Giok8-sian5 e5 tai7-chi3.  Iong5-pin2.  (Chhoe pai5.)"
+        ],
+        [
+          "有影只款大膽火車棟，敢來欺君瞞聖，我著緊隨背後，掠伊玉郎甲太醫來治罪。",
+          "U7-iann2 chit khoan2 toa7-tann2 He2-chhia Tong3, kann2 lai5 khi-kun moa5-seng3, goa2 tioh8 kin2 sui5 poe7-au7, liah8 i Giok8-long5 kah thai3-i lai5 ti7-choe7."
+        ],
+        [
+          "〈將下，桃仔扭住。〉 擔嗎不免去者緊，甲來不著來心色一此？",
+          "(Chiong ha7, Tho5--a2 giu2-chu7.) Tann ma7 m7 bian2 khi3 chiah kin2, kah lai5 m7 tioh8 lai5 sim-sek chit8 e5?"
+        ],
+        [
+          "未用的，我著緊暗中帝伊來去，一為也通掠玉郎報功，二來也通將恁尪定罪，將來咱著通做長久夫妻，妳請！〈下。切幕。〉",
+          "Be7 eng7-tit, goa2 tioh8 kin2 am3-tiong te3 i lai5-khi3, it ui7-iau2 thang liah8 Giok8-long5 po3-kong, ji7--lai5 ia7 thang chiong lin2 ang teng7-choe7, chiong-lai5 lan2 tioh8 thang choe3 tng5-ku2 hu-chhe, li2 chhiann2!  (Ha7.  Chhiat bou7.)"
+        ],
+        [
+          "〈外公堂〉想著玉蟬強卜哭，無疑尪某未透流，炁乎聖君強佔去作家後，一幅恨氣卜刀會消!",
+          "(goa7 kong-tng5) Siunn7 tioh8 Giok8-sian5 kiong5-beh khau3, bo5-gi5 ang-bou2 be7 thau3-lau5, soah hou7 Seng3-kun kiong5-chiam3 khi3 choh ke-au7, chit8 pak hun7-khi3 beh toh e7 siau!"
+        ],
+        [
+          "噯也！且慢呀！想未到萬歲者無信用，出旨乎我玉郎，七日內卜乎我甲玉蟬完婚。 那知未到七日，池只三日內，萬歲著強甲玉蟬拜堂。",
+          "Aih-iah!  Chhiann2-ban7 iah!  Siunn7 be7 kau3 Ban7-soe3 chia bo5 sin3 eng7, chhut chi2 hou7 goa2 Giok8-long5, chhit jit8 lai7 beh hou7 goa2 kah Giok8-sian5 oan5-hun, nah chai be7 kau3 chhit jit8, ti5 chit sann jit8 lai7, Ban7-soe3 tioh8 kiong5 kah Giok8-sian5 pai3-tng5."
+        ],
+        [
+          "又兼暗派九門提督李元虎卜將我斬殺，幸好金面天狗將我改救。",
+          "Iu7 kiam am3 phai3 Kiu2-bun5 The5-tok Li2 Goan5-hou2 beh chiong goa2 cham3 sat, heng7 ho2 kim-bin7 Thian-kau2 chiong goa2 kai2-kiu3."
+        ],
+        [
+          "遂是無死，四處戒嚴，將我當作欽犯，那乎因掠著，性命一定難能保全。",
+          "Sui si7 bo5 si2, si3-chhu3 kai3-giam5, chiong goa2 tong3-choe3 khim hoan7, na2 hou7 in liah8 tioh8, sinn3-mia7 it-teng7 lan5 e7 po2-choan5."
+        ],
+        [
+          "到者來，卜返又閣不敢返去，漸時閃在只鄉間，看池時者會的出身。咳！",
+          "Kau3 chia lai5, beh tng2 iu7-koh m7 kann2 tng2--khi3, chiam7-si5 siam2 chai7 che hiunn-keng, khoann3 ti5 si5 chia hoe7-tiah chhut-sin.  Ka!"
+        ],
+        [
+          "〈唱〉如想實在如末曉，愛情未成變水泡，那卜抵抗無才調，雞蛋卜怎樣扛石頭。",
+          "(Chhiunn3) ju2 siunn7 sit8-chai7 ju5 boat8 hiau2, ai3-cheng5 be7-siann5-pinn3 chui2-pho, na2 beh ti2-khong3 bo5 chai5-tiau7, ke tan3 beh choann2-iunn7 kng chioh8-thau5."
+        ],
+        [
+          "〈不吉急走上。〉主人仔！大志不好了！",
+          "(Put-kiat kip chau2 siong7.) Chu2-lang5 ah!  Tai7-chi3 m7 ho2--liau2!"
+        ],
+        [
+          "是官軍閣進來是不？",
+          "Si7 koann kun koh chin3 lai5 si7 m7?"
+        ],
+        [
+          "不是！不是！聽廣玉蟬已經死在東宮。",
+          "M7 si7!  M7 si7!  Thiann kong2 Giok8-sian5 i2-keng si2 chai7 Tong-kiong."
+        ],
+        [
+          "你廣什麼？死在東宮！玉郎暈介。",
+          "Li2 kong2 sim2-mih?  Si2 chai7 Tong-kiong!  Giok8-long5 hun7 kai3."
+        ],
+        [
+          "醒來！醒介！",
+          "Chhinn2--lai5!  Chhinn2 kai3!"
+        ],
+        [
+          "（黃梅調永訣）玉蟬呀！啊！我哭！哭一聲我妻啊！實指望甲你結鸞鳳，那會知棒打鴛鴦各西東，東宮一別成永訣，為夫害妳來歸亡，無道之命如羅網，奸臣好比虎狼兇。",
+          "(Ng5-mui5-tiau7 eng2-koat) Giok8-sian5 iah!  Ah!  Goa2 khau3!  Khau3 chit8 siann goa2 chhe ah!  Sit8 chi2-bang7 kah li2 kiat loan5-hong7, nah e7 chai pang7 tann2 oan-iunn kok se-tong, Tong-kiong it piat8 seng5 eng2-koat, ui5-hu hai7 li2 lai5 kui-bong5, bu5-to7 chi beng7 ju5 lo5-bong7, kan-sin5 ho2-pi2 hou2-long5 hiong."
+        ],
+        [
+          "玉蟬啊！我妻呀！雖然空做陽台夢，就是那十八層地獄我也卜跟從。",
+          "Giok8-sian5 ah!  Goa2 chhe iah!  Sui-jian5 khang3 choe3 iong5-tai5 bong7, chiu7 si7 na2 chap8-poeh chan3 te7-gek8 goa2 ia7 beh kun-chong5."
+        ],
+        [
+          "主人你嗎不通哭甲者傷重，死著死路免悲傷，聽廣現時無卜安葬，勸棺店皇陵三个月後者欲落土作□公。",
+          "Chu2-lang5 li2 ma7 m7 thang khau3 kah chiah siong-tiong7, si2 tioh8 si2 louh bian2 pi-siong, thiann kong2 hian7-si5 bo5 beh an-chong3, khng3 koan tiam3 Hong5-leng5 sann ko3 geh8 au7 chiah beh loh8-thou2 choh □ kang."
+        ],
+        [
+          "有影只款？",
+          "U7-iann2 chit khoan2?"
+        ],
+        [
+          "且慢呀！想我玉郎甲玉蟬的愛情堅如銅鐵，今日伊會來死，也是為我所致，是卜表白伊清白身份。",
+          "Chhiann2-ban7 iah!  Siunn7 goa2 Giok8-long5 kah Giok8-sian5 e5 ai3-cheng5 kian ju5 tang5-thih, kim-jit8 i e7 lai5 si2, ia7 si7 ui7 goa2 sou2-ti3, si7 beh piau2-pek8 i chheng-peh8 sin-hun7."
+        ],
+        [
+          "伊甲有只款的真情，我那會用的放伊店在皇陵，無依無越帝做孤魂，對我良心敢會的過！敢會的過！曖也！(亂介。)",
+          "I kah u7 chit khoan2 e5 chin-cheng5, goa2 nah e7 eng7-tit pang3 i tiam3 chai7 Hong5-leng5, bo5-i-bo5-oa2 teh choe3 kou-hun5, tui3 goa2 liong5-sim kam2 e7-tit ke3!  Kam2 e7-tit ke3!  Ai3-ah!  (Loan7 kai3. )"
+        ],
+        [
+          "有了！不吉，我想今冥三更，妳我偷偷拼上皇陵，開棺偷回玉蟬屍首，甲我埋做一位，者未辜負伊的真情真意。",
+          "U7--liau2!  Put-kiat, goa2 siunn7 kim-mi5 sann-kinn, li2 goa2 thau-thau piann3 chiunn7 Hong5-leng5, khai koan thau-hoe5 Giok8-sian5 si-siu2, kah goa2 tai5 choe3 chit8 ui7, chiah be7 kou-hu7 i e5 chin-cheng5 chin-i3."
+        ],
+        [
+          "主人仔！千萬不通。",
+          "Chu2-lang5 ah!  Chhian-ban7 m7 thang."
+        ],
+        [
+          "死奴才！這是阮尪某情感，你！",
+          "Si2 lou5-chai5!  Che si7 gun2 ang-bou2 cheng5-kam2, li2!"
+        ],
+        [
+          "主人仔！你雖是卜存情感，但是你現時是欽犯，官兵四處卜掠你，又兼皇陵四面眙有軍隊把守，咱卜多有法度通上皇陵？",
+          "Chu2-lang5 ah!  Li2 sui si7 beh chun5 cheng5-kam2, tan7-si7 li2 hian7-si5 si7 khim-hoan7, koann-peng su3-chhu3 beh liah8 li2, iu7-kiam Hong5-leng5 su3-bin7 bai5 iu2 kun-tui7 pe2-siu2, lan2 beh thai3 u7 hoat-tou7 thong chiunn7 Hong5-leng5?"
+        ],
+        [
+          "這真幹單，你那為奴有盡忠者，著帝我偷上皇陵。",
+          "Chit chin kan2-tan, li2 na7 ui5 lou5 u7 chin7-tiong--chia2, tioh8 te3 goa2 thau chiunn7 Hong5-leng5."
+        ],
+        [
+          "[口+異]！不過聽廣皇陵全是鬼怪僵屍，閣是三更半瞑，這我著......",
+          "Enn! Put-ko3 thiann kong2 Hong5-leng5 choan5 si7 kui2-koai3 kiong-si, koh si7 sann-kinn poann3-mi5, che goa2 tioh8......"
+        ],
+        [
+          "著什麼？",
+          "Tioh8 sim2-mih?"
+        ],
+        [
+          "[口+異]？",
+          "enn?"
+        ],
+        [
+          "不敢是不？",
+          "M7 kann2 si7 m7?"
+        ],
+        [
+          "[口+異]？咳咳。",
+          "Enn? Khu3-khu3."
+        ],
+        [
+          "好，你甲不敢，你我主僕就只存炁脫離關係，你也免認我是你的主人，我也無認你是。",
+          "Ho2, li2 kah m7 kann2, li2 goa2 chu2-pok8 chiu7 chit chun7 soa3 thoat-li7 koan-he7, li2 ia7 bian2 jin7 goa2 si7 li2 e5 chu2-lang5, goa2 ia7 bo5 jin7 li2 si7."
+        ],
+        [
+          "[口+異]、[口+異]、[口+異]。",
+          "Enn, enn, enn."
+        ],
+        [
+          "[口+異]什麼？ 那卜，帝我行；那不，做你去。〈推之。〉去！去！〈不吉不敢退。〉",
+          "Enn sim2-mih? Na7 beh, te3 goa2 kiann5; na7 m7, choe3 li2 khi3.  (Thui--chi.) Khi3!  Khi3!  (Put-kiat m7 kann2 thoe3.)"
+        ],
+        [
+          "主人仔！你嗎不通者受氣，我是絕對不敢對你無盡忠，不過我一生是第一驚鬼，除起叫我上皇陵而外，叫我去死我嗎著去死。",
+          "Chu2-lang5 ah!  Li2 ma7 m7 thang chiah siu7-khi3, goa2 si7 choat8-tui3 m7 kann2 tui3 li2 bo5 chin7-tiong, put-ko3 goa2 it-seng si7 te7-it kiann kui2, tu5-khi2 kio3 goa2 chiunn7 Hong5-leng5 ji5-goa7, kio3 goa2 khi3 si2 goa2 ma7 tioh8 khi3 si2."
+        ],
+        [
+          "這，按呢好。你免上皇陵，只到山腳，不著無鬼通驚。，",
+          "Che, an2-ni ho2.  Li2 bian2 chiunn7 Hong5-leng5, chi2 kau3 soann-kha, m7 tioh8 bo5 kui2 thang kiann.,"
+        ],
+        [
+          "是廣到山腳敢有什麼路用？",
+          "Si7 kong2 kah soann-kha kam2 u7 sim2-mih lou7-eng7?"
+        ],
+        [
+          "當然是有，你那肯帝我到山腳，我著會得用〈耳語〉如此如此上皇陵。",
+          "Tong-jian5 si7 u7, li2 na2 kheng2 te3 goa2 kau3 soann-kha, goa2 tioh8 e7-tit eng7 (Hinn7-gi2) ju5-chhu2 ju5-chhu2 chiunn7 Hong5-leng5."
+        ],
+        [
+          "那甲者幹單,我著敢。",
+          "Na7 kah chiah kan2-tan, goa2 tioh8 kann2."
+        ],
+        [
+          "甲敢來去準備。行！",
+          "Kah kann2 lai5-khi3 chun2-pi7.  Kiann5!"
+        ],
+        [
+          "出門介。太醫入門介。元虎暗帝在外。",
+          "Chhut-mng5 kai3.  Thai3-i jip8-mng5 kai3.  Goan5-hou2 am3 te3 chai7 goa7."
+        ],
+        [
+          "玉郎仔！玉郎仔！[口+異]奇怪！明明人著報我池只間，那會無呀？敢是返去因兜？吓？不如我拼來去因兜。",
+          "Giok8-long5--a2!  Giok8-long5--a2!  Enn ki5-koai3!  Beng5-beng5 lang5 tioh8 po3 goa2 ti7 chit keng, nah e7 bo5 iah?  Kam2 si7 tng2 khi3 in tau?  Heh?  Put-ju5 goa2 piann3 lai5-khi3 in tau."
+        ],
+        [
+          "將出門，元虎與昭面，太醫驚巡一円。",
+          "Chiong chhut-mng5, Goan5-hou2 i2 chiau3-bin7, thai3-i kiann seh8 chit8 lin3."
+        ],
+        [
+          "（冷笑）嗄吓。",
+          "(leng2-chhio3) Siann2-he3?"
+        ],
+        [
+          "原來著太醫。",
+          "Goan5-lai5 tioh8 thai3-i."
+        ],
+        [
+          "著是提督大人。",
+          "Tioh8 si7 The5-tok tai7-jin5."
+        ],
+        [
+          "太醫！你在朝庭來只草厝，敢是？",
+          "Thai3-i!  Li2 chai7 tiau5-teng5 lai5 chi2 chhau2-chhu3, kann2 si7?"
+        ],
+        [
+          "無無無，我是過路，尿緊卜來借小便",
+          "Bo5 bo5 bo5, goa2 si7 ke3-lou7, jio7 kin2 beh lai5 chioh sio2-pian7"
+        ],
+        [
+          "借小便？那會叫玉郎的名。",
+          "Chioh sio2-pian7?  Nah e7 kio3 Giok8-long5 e5 mia5."
+        ],
+        [
+          "我那有叫玉郎？我是叫親堂。",
+          "Goa2 nah u7 kio3 Giok8-long5?  Goa2 si7 kio3 chhin-tong5."
+        ],
+        [
+          "真是冷牙利口，這明明你是有甲玉郎暗通消息，那無掠你來去乎尚書大人辦，你也不知我的利害。〈對太醫手扏之行，連出公堂。鼓之。〉",
+          "Chin si7 leng5-ge5 li7-khio2, che beng5-beng5 li2 si7 u7 kah Giok8-long5 am3-thong siau-sit, na7 bo5 liah8 li2 lai5-khi3 hou7 Siong7-si tai7-jin5 pan7, li2 ia7 m7 chai goa2 e5 li7-hai7.  (Tui3 thai3-i chhiu2 giu2 leh kiann5, lian5 chhut kong-tng5.  Kou2--chi.)"
+        ],
+        [
+          "林炳南，旗牌吹上。元虎扏太醫入公堂，提督來到公堂頂。",
+          "Lim5 Peng2-lam5, ki5-pai5 chhoe siong7.  Goan5-hou2 giu2 thai3-i jip8 kong-tng5, The5-tok lai5 kau3 kong-tng5 teng2."
+        ],
+        [
+          "罩底為著成事情，掠伊太醫卜來審？",
+          "Tau3-toe2 ui7 tioh8 siann2 su7-cheng5, liah8 i thai3-i beh lai5 sim2?"
+        ],
+        [
+          "事關娘娘假死的原因，容稟。〈吹排。〉",
+          "Su7 koan Niu5-niu5 ke2-si2 e5 goan5-in, iong5-pin2.  (Chhoe pai5.)"
+        ],
+        [
+          "有影只款？",
+          "U7-iann2 chit khoan2?"
+        ],
+        [
+          "堵，大膽太醫也敢作只款期君瞞聖，該當何罪？",
+          "Tou2, toa7-tann2 thai3-i ia7 kann2 choh chit khoan2 ki5-kun moa5-seng3, kai-tong ho5-choe7?"
+        ],
+        [
+          "大人冤枉，下官那敢做只號代志！",
+          "Tai7-jin5 oan-ong2, ha7-koann nah kann2 choe3 chit-ho7 tai7-chi3!"
+        ],
+        [
+          "也敢說無！明明你有對您媒桃仔廣出，閣乎我掠著甲玉郎暗通消息，無？打著有。",
+          "Ia7 kann2 soeh bo5!  Beng5-beng5 li2 u7 tui3 lin2 bou2 Tho5--a2 kong2 chhut, koh hou7 goa2 liah8 tioh8 kah Giok8-long5 am3-thong siau-sit, bo5?  Phah tioh8 u7."
+        ],
+        [
+          "慢者！提督大人你廣我有甲阮媒廣，請尚書大人吊阮媒來問，有無著會知。",
+          "Ban7-chiann2!  The5-tok tai7-jin5 li2 kong2 goa2 iu2 kah gun2 bou2 kong2, chhiann2 Siong7-si tai7-jin5 tiau3 gun2 bou2 lai5 mng7, u7 bo5 tioh8 e7 chai."
+        ],
+        [
+          "按呢好。來仔！",
+          "An2-ni ho2.  Lai5--ah!"
+        ],
+        [
+          "有！",
+          "U7!"
+        ],
+        [
+          "傳吊歪尾桃上公堂。",
+          "Thoan5-tiau3 Oan-be2 Tho5 siong7 kong-tng5."
+        ],
+        [
+          "尊命！〈下。帶桃仔上。〉",
+          "Chun-beng7!  (Ha7.  Tai3 Tho5--a2 siong7.)"
+        ],
+        [
+          "〈入公堂桃仔與元虎作暗示。〉叩見大人。吊阮來公堂不知有什麼事？",
+          "(jip8 kong-tng5 Tho5--a2 i2 Goan5-hou2 choh am3-si7.) Khau3-kinn3 tai7-jin5.  Tiau3 gun2 lai5 kong-tng5 m7 chai u7 sim2-mih su7?"
+        ],
+        [
+          "因為提督大人掠著您尪偷救玉蟬，用藥假死，暗通玉郎卜來改救，你敢知只增的內容？",
+          "In-ui7 The5-tok tai7-jin5 liah8 tioh8 lin2 ang thau kiu3 Giok8-sian5, eng7 ioh8 ke2-si2, am3-thong Giok8-long5 beh lai5 kai2-kiu3, li2 kam2 chai chit chan5 e5 loe7-iong5?"
+        ],
+        [
+          "媒仔，知不知你著照實廣。〈以手撞之。〉",
+          "Bou2--a2, chai m7 chai li2 tioh8 chiau3-sit8 kong2. (I2 chhiu2 long3--chi.)"
+        ],
+        [
+          "大人仔！只著短命親嘴甲我廣，容稟。〈吹排。〉",
+          "Tai7-jin5 ah!  Chit ko5 te2-mia7 chhin-chhui3 ka7 goa2 kong2, iong5-pin2.  (Chhoe pai5.)"
+        ],
+        [
+          "太醫，到者有什通閣退辭。",
+          "Thai3-i, kau3 chiah u7 siann2 thang koh the-si5."
+        ],
+        [
+          "冤枉！阮媒伊是神經錯亂，請大人不通聽伊所講",
+          "Oan-ong2!  Gun2 bou2 i si7 sin5-keng chho3-loan7, chhiann2 tai7-jin5 m7 thang thiann i sou2 kong2"
+        ],
+        [
+          "真是鐵口硬牙！不打量你不招。來仔！",
+          "Chin si7 thih-khau2 ngi7-ge5!  M7 phah liong7 li2 put chiau.  Lai5--ah!"
+        ],
+        [
+          "有！",
+          "U7!"
+        ],
+        [
+          "重打四十大板。",
+          "Tang7-tann2 si3-chap8 toa7-pan2."
+        ],
+        [
+          "尊令！〈將太醫打打。〉",
+          "Chun-leng7!  (Chiong thai3-i tann2-phah.)"
+        ],
+        [
+          "曖喲！曖喲！大人真冤枉。",
+          "Aih-ioh!  Aih-ioh!  Tai7-jin5 chin oan-ong2."
+        ],
+        [
+          "明明你妻堂堂指征，也敢說什麼冤枉，那無重刑量你不招。來仔！",
+          "Beng5-beng5 li2 chhe tong5-tong5 ki2-cheng3, ia7 kann2 soeh sim2-mih oan-ong2, na7 bo5 tang7-heng5 liong7 li2 put chiau.  Lai5--ah!"
+        ],
+        [
+          "有！用亂棍打。",
+          "U7!  Eng7 loan7-kun3 phah."
+        ],
+        [
+          "尊令！用亂棍打。〈太醫挍水死介。〉",
+          "Chun-leng7!  Eng7 loan7-kun3 phah.  (Thai3-i kau3 chui2 si2 kai3.)"
+        ],
+        [
+          "啟稟大人，太醫受刑不過，一命身死。",
+          "Khe2-pin2 tai7-jin5, thai3-i siu7-heng5 put-ko3, chit8-mia7 sin si2."
+        ],
+        [
+          "死就罷，將死屍扶一邊。",
+          "Si2 chiu7 pa7, chiong si2-si hu5 chit8 pinn."
+        ],
+        [
+          "尊令！〈扛屍下。〉",
+          "Chun-leng7!  (Kng si ha7.)"
+        ],
+        [
+          "桃仔！甲你無干，回去！",
+          "Tho5--a2!  Ka7 li2 bo5 kan, tng2--khi3!"
+        ],
+        [
+          "謝大人！〈將下，暗對元虎笑介下。〉",
+          "Sia7 tai7-jin5!  (Chiong ha7, am3 tui3 Goan5-hou2 chhio3 kai3 ha7.)"
+        ],
+        [
+          "提督，準備大隊人馬來去包圍皇陵",
+          "The5-tok, chun2-pi7 toa7-tui7 jin5-ma2 lai5-khi3 pau-ui5 Hong5-leng5"
+        ],
+        [
+          "尊令！〈切幕。〉",
+          "Chun-leng7!  (Chhiat bou7.)"
+        ],
+        [
+          "外幕。二旗軍甲乙巡羅。不吉假解上，手持酒菜。官府送調。",
+          "Goa7 bou7.  Ji7 ki5-kun kah it sun5-lo5.  Put-kiat ke2 kai2 siong7, chhiu2 ti5 chiu2-chhai3.  Koann-hu2-sang3 tiau7."
+        ],
+        [
+          "兄弟呀！燒酒呀！真閣真者香，香甲實在會叫人，您那卜飲不免等，一人三杯著愛乾。碟碟冬！碟碟冬！碟碟冬！碟冬碟冬人珍冬珍冬！",
+          "Hiann-ti7 iah!  Sio-chiu2 iah!  Chin koh chin-chiann3 phang, phang kah sit8-chai7 e7 kio3 lang5, lin2 na7 beh lim m7 bian2 tan2, chit8 lang5 sann poe tioh8 ai3 kan.  Tih8-tih8-tong!  Tih8-tih8-tong!  Tih8 tih8-tong!  Tih8-tong tih8-tong lang5 tin-tong tin-tong!"
+        ],
+        [
+          "你是刀位的痴人，三更半冥對只皇陵來帝哭爸哭母，緊走！緊走！",
+          "Li2 si7 toh-ui7 e5 chhi-jin5, sann-kinn poann3-mi5 tui3 che Hong5-leng5 lai5 teh khau3-pe7 khau3-bu2, kin2 chau2!  Kin2 chau2!"
+        ],
+        [
+          "兄弟仔！我不是痴人！是食酒漢。看你兩个空空店者守甲那帝守孝男。者有燒酒捾兩瓶，甲一隻燒雞香香香，挑來甲您望談滲。您嗎不通喝甲驚死人!",
+          "Hiann-ti7 ah!  Goa2 m7 si7 thi-lang5!  Si7 chiah8-chiu2-han3.  Khoann3 li2 nng7 e5 khang-khang tiam3 chia chiu2 kah na2 teh chiu2 hau3-lam5.  Chia u7 sio-chiu2 koann7 nng7 pan5, kah chit8 chiah sio-ke phang-phang-phang, thiau lai5 kah lin2 bong2 tam7-sam2.  Lin2 ma m7 thang hoah kah kiann-si2 lang5!"
+        ],
+        [
+          "是有影無？",
+          "Si7 u7 iann2 bo5?"
+        ],
+        [
+          "那會無影！",
+          "Nah e7 bo5 iann2!"
+        ],
+        [
+          "搭您者放在地卜炁越來。（珍酒與兩旗軍介。）",
+          "Tah lin2 che pang3 chai7 te7 beh soah oa2--lai5. (Thin5-chiu2 i2 nng7 ki5-kun kai3.)"
+        ],
+        [
+          "是廣不相不扒，真□細，四海之內皆兄弟，小弟名叫不栽，以後萬事拜託。來！乾乾乾！乾乾乾！今日初相逢，一人閣乎我敬三杯。請！請！〈二旗軍醉介。〉",
+          "Si7 kong2 bo5-sio bo5-bat, chin □ se3, su3-hai2 chi-lai7 kai hiann-ti7, sio2-ti7 mia5 kio3 M7 chai, i2-au7 ban7-su7 pai3-thok.  Lai5!  Kan kan kan!  Kan kan kan!  Kim-jit8 chhou siong-hong5, chit8 lang5 koh hou7 goa2 keng3 sann poe.  Chhiann2!  Chhiann2!  (nng7 ki5-kun chui3 kai3.)"
+        ],
+        [
+          "來來來！閣乾一杯！",
+          "Lai5 lai5 lai5!  Koh kan chit8 poe!"
+        ],
+        [
+          "醉拉！飲未去拉！〈嚝嚝嚝！兩旗軍醉倒介。〉",
+          "Chui3 lah!  Lim be7 khi3 lah!  (Khong-khong-khong!  Liong2 ki5-kun chui3-to2 kai3.)"
+        ],
+        [
+          "〈玉郎手扏斧出台亮相，由文平下。〉",
+          "Giok8-long5 chhiu2 gia5 pou2 chhut-tai5 liang7-siong7, iu5 bun5-peng5 ha7.)"
+        ],
+        [
+          "擔好，我也著且閃一邊。〈下。〉",
+          "Tann ho2, goa2 ia7 tioh8 chhiann2 siam2 chit8 pinn.  (Ha7.)"
+        ],
+        [
+          "〈炳南、元虎、旗牌上。〉來到皇陵，因何無半个帝守。",
+          "(Peng2-lam5, Goan5-hou2, ki5-pai5 siong7.) Lai5 kau3 Hong5-leng5, in-ho5 bo5 poann3 e5 teh siu2."
+        ],
+        [
+          "〈元虎看介。〉許甘不是守皇陵的衛兵，起來！起來！",
+          "(Goan5-hou2 khoann3 kai3.) He kam2 m7 si7 siu2 Hong5-leng5 e5 oe7-peng, khi2--lai5!  Khi2--lai5!"
+        ],
+        [
+          "醉拉！飲未落去拉！〈打旗軍耳介。〉",
+          "Chui3 lah!  Lim be7 loh8--khi3 lah!  (Phah ki5-kun hinn7 kai3.)"
+        ],
+        [
+          "狗奴才！令您來守皇陵，你炁池帝顧飲酒呼！",
+          "Kau2 lou5-chai5!  Leng7 lin2 lai5 siu2 Hong5-leng5, li2 soah ti7 teh kou3 lim-chiu2 honnh!"
+        ],
+        [
+          "〈跪介〉原來著是尚書大人，敢罪！敢罪！",
+          "(Kui7 kai3) goan5-lai5 tioh8 si7 Siong7-si tai7-jin5, kam2 choe7!  Kam2 choe7!"
+        ],
+        [
+          "什麼人請您飲燒酒？",
+          "Sim2-mih lang5 chhiann2 lin2 lim sio-chiu2?"
+        ],
+        [
+          "仔著不栽。",
+          "Ah tioh8 M7 chai."
+        ],
+        [
+          "死奴才！〈打耳介〉成人請你飲酒，",
+          "Si2 lou5-chai5!  (Phah hinn7 kai3) Siann2-lang5 chhiann2 li2 lim-chiu2,"
+        ],
+        [
+          "著有影是不裁。（打介。）",
+          "Tioh8 u7-iann2 si7 m7 chai.  (Phah kai3.)"
+        ],
+        [
+          "可惡！連什麼人請你也不栽",
+          "Kho2-onn3!  Lian5 sim2-mih lang5 chheng2 li2 ia7 m7 chai"
+        ],
+        [
+          "著是不栽。",
+          "Tioh8 si7 M7 chai."
+        ],
+        [
+          "真是可惡至極！〈將再打，元虎擋住。〉",
+          "Chin si7 kho2-onn3 chi3-kek8!  (Chiong chai3 phah, Goan5-hou2 tong3-chu7.)"
+        ],
+        [
+          "大人慢且受氣，這恐驚是楊玉郎的鬼把戲，將守衛灌醉，上皇陵去劫棺。",
+          "Tai7-jin5 ban7-chhiann2 siu7-khi3, che khiong2-kiann si7 Iunn5 Giok8-long5 e5 kui2-pa2-hi3, chiong siu2-oe7 koan3-chui3, chiunn7 Hong5-leng5 khi3 kiap-koan."
+        ],
+        [
+          "甲是只款，緊上皇陵，四面包圍上山。",
+          "Kah si7 chit khoan2, kin2 chiunn7 Hong5-leng5, su3-bin7 pau-ui5 chiunn7-soann."
+        ],
+        [
+          "尊令！〈一行下。〉",
+          "Chun-leng7!  (Chit8-kiann5 ha7.)"
+        ],
+        [
+          "皇陵，山景加一棺木。玉郎扏斧出場，以磨搜身段至棺邊破棺。行動至扶棺蓋後，玉蟬將棺中起立，挍鼓巡円，玉郎喜之。",
+          "Hong5-leng5, soann-keng2 ke chit8 koan-bok8.  Giok8-long5 gia5 pou2 chhut-tiunn5, i2 bo7-chhiau sin-toann7 chi3 koan-pinn pho3-koan.  Heng5-tong7 chi3 hu5 koan-koa3 au7, Giok8-sian5 chiong koan-tiong khi2-lip8, khau-kou2 seh8-lin3, Giok8-long5 hi2--chi."
+        ],
+        [
+          "敢是我妻無死？",
+          "Kam2 si7 goa2 chhe bo5 si2?"
+        ],
+        [
+          "是拉！〈玉郎夫君雙人抱哭。吹排。炳南一行上。〉",
+          "Si7 lah!  (Giok8-long5 hu-kun siang-lang5 pho7-khau3.  Chhoe pai5.  Peng2-lam5 chit8-kiann5 siong7.)"
+        ],
+        [
+          "原來您著是假死！無走！看刀！〈玉郎暈倒。天狗出獻格之。〉",
+          "Goan5-lai5 lin2 tioh8 si7 ke2-si2!  Mai3 chau2!  Khoann3 to!  (Giok8-long5 hun7-to2.  Thian-kau2 chhut-hian7 kek--chi.)"
+        ],
+        [
+          "慢者！天狗出現。來仔！圍起來！雙方劍鬥。完止。",
+          "Ban7-chiann2!  Thian-kau2 chhut-hian7.  Lai5--ah!  Ui5--khi2-lai5!  Siang-hong kiam3-tau3.  Oan5 chi2."
+        ]
+      ],
+      "篇名": "金銀天狗"
+    }
+  ]
+}

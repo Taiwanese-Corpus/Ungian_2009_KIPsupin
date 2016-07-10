@@ -1,0 +1,819 @@
+{
+  "作者": "",
+  "出版年": "0",
+  "出版者": "嘉義玉珍書店",
+  "文類": "歌仔冊",
+  "書名": "最新百果歌",
+  "書寫系統": "漢字",
+  "資料": [
+    {
+      "段": [
+        [
+          "且念百果个歌詩，出在盤古開天時，崑崙山頂出菓子，列位恁想奇無奇。",
+          "Chhiann2 liam7 pah-ko2 e5 koa-si, chhut chai7 Phoan5-kou2 khai-thian si5, Khun-lun5-soann teng2 chhut koe2-chi2, liat8-ui7 lin2 siunn7 ki5 bo5 ki5."
+        ],
+        [
+          "海外一个百果山，所在袂熱小可寒，建造三城真好看，批把皇帝管百官。",
+          "Hai2-goa7 chit8 e5 Pah-ko2-soann, sou2-chai7 boe7 joah8 sio2-khoa2 koann5, kian3-cho7 sann siann5 chin ho2-khoann3, Pi5-pe5 hong5-te3 koan2 pah-koann."
+        ],
+        [
+          "百果扶伊做皇帝，文武百官數百个，謝榴右相賢想計，西瓜左相岸國家。",
+          "Pah-ko2 hu5 i cho3 hong5-te3, bun5-bu2 pah-koann sou3 pah e5, sia7-liu5 iu7-siong3 gau5 siunn7-ke3, Si-koe cho2-siong3 hoann7 kok-ke."
+        ],
+        [
+          "兵是芎蕉元帥管，王萊將軍故金鑾，國內太平無反亂，柴檨正是文狀元。",
+          "Peng si7 Kin-chio goan5-soe3 koan2, Ong5-lai5 chiong-kun kou3 Kim-loan5, kok-lai7 thai3-peng5 bo5 hoan2-loan7, chha5-soainn chiann3 si7 bun5-chiong7-goan5."
+        ],
+        [
+          "十五皇帝坐殿時，凸柑皇后隻奏伊，想卜行香竹林寺，庇佑君王萬萬年。",
+          "Chap8-gou7 hong5-te3 che7-tian7 si5, Phong3-kam hong5-hio7 chiah chau3 i, siunn7 beh heng5-hiunn Tek-lim5-si7, pi3-iu7 kun-ong5 ban7-ban7 ni5."
+        ],
+        [
+          "皇帝聽着伊亦愛，隨時扒起入宮內，就叫宮娥排酒菜，夫妻食酒坐相排。",
+          "Hong5-te3 thiann tioh8 i iah8 ai3, sui5-si5 peh khi2 jip8 kiong-lai7, chiu7 kio3 kiong-ngou5 pai5 chiu2-chhai3, hu-chhe chiah8-chiu2 che7 sio-pai5."
+        ],
+        [
+          "燒酒食未到三歐，玉箸跌落土腳兜，皇后跪下着緊奏，明日不可出外頭。",
+          "Sio-chiu2 chiah8 be7 kau3 sann au, gek8-ti7 poah8 loh8 thou5-kha tau, hong5-hio7 kui7-e7 tioh8 kin2 chau3, beng5-jit8 put-kho2 chhut goa7-thau5."
+        ],
+        [
+          "君王聽着應一聲，我叫武士保汝行，好呆亦是人个命，做汝行香不免驚。",
+          "Kun-ong5 thiann tioh8 in3 chit8 siann, goa2 kio3 bu2-su7 po2 li2 kiann5, ho2-phainn2 iah8 si7 lang5 e5 mia7, cho3 li2 heng5-hiunn m7 bian2 kiann."
+        ],
+        [
+          "三更酒席食了後，夫妻一人困一頭，看見五更一个到，皇后扒起緊梳頭。",
+          "Sann-kinn chiu2-sek8 chiah8 liau2-au7, hu-chhe chit8 lang5 khun3 chit8-thau5, khoann3-kinn3 gou7-kinn chit8-e7 kau3, hong5-hio7 peh khi2 kin2 se-thau5."
+        ],
+        [
+          "皇帝透早來教場，緊點武士保娘娘，柑后打辨真好樣，竹林寺中來行香。",
+          "Hong5-te3 thau3-cha2 lai5 kau3-tiunn5, kin2 tiam2 bu2-su7 po2 niu5-niu5, Kam-hio7 tann2-pan7 chin ho2-iunn7, Tek-lim5-si7 tiong lai5 heng5-hiunn."
+        ],
+        [
+          "娘娘到位入殿內，楊桃禪師行出來，看着柑后有意愛，歡喜心內無人知。",
+          "Niu5-niu5 kau3-ui7 jip8 tian7-lai7, Iunn5-to5 sian7-su kiann5--chhut-lai5, khoann3 tioh8 Kam-hio7 u7 i3-ai3, hoann-hi2 sim-lai7 bo5 lang5 chai."
+        ],
+        [
+          "禪師看着柑后水，緊緊符咒那塊摧，忽然狂風就到位，飛砂走石一大堆。",
+          "Sian7-su khoann3 tioh8 Kam-hio7 sui2, kin2-kin2 hu5-chiu3 na2 teh chhui, hut-jian5 kong5-hong chiu7 kau3-ui7, poe-soa chau2-chioh8 chit8 toa7-tui."
+        ],
+        [
+          "飛砂走石過了後，季瓜太子入內頭，聽着宮女那塊哮，不見娘娘亂抄抄。",
+          "Poe-soa chau2-chioh8 koe3 liau2-au7, Kui3-koe thai3-chu2 jip8 lai7-thau5, thiann tioh8 kiong-li2 na2 teh hau2, put kian3 niu5-niu5 loan7-chhau-chhau."
+        ],
+        [
+          "太子隨時聽一見，即謹拔卦就知機，妖僧實在真無理，汝力娘娘是卜哖。",
+          "Thai3-chu2 sui5-si5 thiann chit8 kinn3, chiah kin2 poah8-koa3 chiu7 chai-ki, iau-cheng sit8-chai7 chin bo5 li2, li2 liah8 niu5-niu5 si7 beh nih8."
+        ],
+        [
+          "太子即時弔兵馬，將軍元帥盡點齊，馬齒豆兵吊上多，卜力夭僧伊一个。",
+          "Thai3-chu2 chek-si5 tiau3 peng-be2, chiong-kun goan5-soe3 chin7 tiam2 che5, be2-khi2-tau7 peng tiau3 siong7 che7, beh liah8 iau-cheng i chit8 e5."
+        ],
+        [
+          "楊桃力后入房內，即共娘娘伊講知，看汝生水我真愛，隻用法術力汝來。",
+          "Iunn5-to5 liah8 hio7 jip8 pang5-lai7, chiah ka7 niu5-niu5 i kong2 chai, khoann3 li2 sinn-sui2 goa2 chin ai3, chiah eng7 hoat-sut8 liah8 li2 lai5."
+        ],
+        [
+          "娘娘聽着就發性，開嘴大罵野奸僧，和尚汝敢做不正，不驚阮子吊大兵。",
+          "Niu5-niu5 thiann tioh8 chiu7 hoat-seng3, khui-chhui3 toa7 ma7 ia2-kan-cheng, hoe5-siunn7 li2 kann2 cho3 put-cheng3, m7 kiann gun2 kiann2 tiau3 tai7-peng."
+        ],
+        [
+          "妖僧招伊入床內，娘娘柑汁噴出來，噴着目周隻知害，聽着外平喊相刣。",
+          "Iau-cheng chio i jip8 chhng5-lai7, niu5-niu5 kam-chiap phun3--chhut-lai5, phun3 tioh8 bak8-chiu chiah chai hai7, thiann tioh8 goa7 peng5 hoah sio-thai5."
+        ],
+        [
+          "楊桃看着鬧猜猜，手舉禪杖跳出來，芎蕉元帥追入內，二人相[門@丨]出手刣。",
+          "Iunn5-to5 khoann3 tioh8 nau7-chhai-chhai, chhiu2 giah8 sian7-tiong7 thiau3--chhut-lai5, Kin-chio goan5-soe3 tui jip8 lai7, nng7 lang5 sio-tu2 chhut-chhiu2 thai5."
+        ],
+        [
+          "芎蕉假敗就緊走，外皮脫落土腳兜，妖僧後面一个到，滑倒十擺緊回頭。",
+          "Kin-chio ke2 pai7 chiu7 kin2 chau2, goa7-phe5 thng3 loh8 thou5-kha tau, iau-cheng au7-bin7 chit8-e7 kau3, kut8-to2 chap8 pai2 kin2 hoe5-thau5."
+        ],
+        [
+          "楊桃扒起典真寶，風鼓个葉恰利刀，偕再元形乎伊課，一件寶貝別人無。",
+          "Iunn5-to5 peh khi2 tian2 chin-po2, hong-kou2 e5 iap8 khah li7 to, kai-chai3 goan5-heng5 hou7 i kho3, chit8 kiann7 po2-poe3 pat8-lang5 bo5."
+        ],
+        [
+          "芎蕉看見寶利害，蕉葉个扇拔出來，煽伊賣退就知呆，緊走不敢甲伊刣。",
+          "Kin-chio khoann3-kinn3 po2 li7-hai7, chio-hioh8 e5 sinn3 poeh8--chhut-lai5, sian3 i boe7 the3 chiu7 chai phainn2, kin2 chau2 m7 kann2 kah i thai5."
+        ],
+        [
+          "王萊將軍[門@丨][門@丨]到，就叫芎蕉到回頭，少將法寶甲伊鬪，加力楊桃來刣頭。",
+          "Ong5-lai5 chiong-kun tu2-tu2 kau3, chiu7 kio3 Kin-chio kau3 hoe5-thau5, chiah chiong hoat-po2 kah i tau3, ka7 liah8 Iunn5-to5 lai5 thai5-thau5."
+        ],
+        [
+          "王萊粗皮甲厚殼，萊心个棍甲伊鑿，萊棍大目三十六，小目一百○八目。",
+          "Ong5-lai5 chhou-phe5 kah kau7-khak, lai5-sim e5 kun3 kah i chhak8, lai5-kun3 toa7-bak8 sann-chap8-lak8, se3-bak8 chit8-pah khong3 peh bak8."
+        ],
+        [
+          "二人甲伊鬪一困，刣到日落烏暗昏，風鼓个葉勝萊棍，王萊大愧力塊噴。",
+          "Nng7 lang5 kah i tau3 chit8-khun3, thai5 kau3 jit8-loh8 ou-am3 hun, hong-kou2 e5 iap8 seng3 lai5-kun3, Ong5-lai5 toa7-khui3 liah8 teh phun3."
+        ],
+        [
+          "兵馬敗到金峰崎，紅棗員外真好額，豬羊緊刣數十隻，煞排酒宴乎因食。",
+          "Peng-be2 pai7 kau3 Kim-hong-kia7, Ang5-cho2 goan5-goe7 chin ho2-giah8, ti-iunn5 kin2 thai5 sou3 chap8 chiah, soa3 pai5 chiu2-ian3 hou7 in chiah8."
+        ],
+        [
+          "季瓜太子想無字，且阮師父來力伊，桂林山頂數千里，緊來燒香皆通知。",
+          "Kui3-koe thai3-chu2 siunn7 bo5 ji7, chhiann2 gun2 su-hu7 lai5 liah8 i, Kui3-lim5 soann-teng2 sou3 chhian-li2, kin2 lai5 sio-hiunn kai5 thong-ti."
+        ],
+        [
+          "荔芝仙姑在洞內，鼻着香烟伊就知，明知柑后被人害，提起法寶謹趕來。",
+          "Nai7-chi sian-kou chai7 tong7-lai7, phinn7 tioh8 hiunn-ian i chiu7 chai, beng5-chai Kam-hio7 pi7 lang5 hai7, theh8 khi2 hoat-po2 kin2 koann2 lai5."
+        ],
+        [
+          "隔日楊桃再出戰，和尚个兵排相連，荔芝仙姑看現現，知影楊桃成半仙。",
+          "Keh-jit8 Iunn5-to5 chai3 chhut-chian3, hoe5-siunn7 e5 peng pai5 sio-lian5, Nai7-chi sian-kou khoann3 hian7-hian7, chai-iann2 Iunn5-to5 seng5 poan3-sian."
+        ],
+        [
+          "和尚閣再際法寶，風鼓个葉直直鵝，仙姑脫出龍鱗襖，芝殼粗粗棟楊桃。",
+          "Hoe5-siunn7 koh-chai3 che3 hoat-po2, hong-kou2 e5 iap8 tit8-tit8 go5, sian-kou thng3 chhut leng5-lan5-o3, chi-khak chhou-chhou tong3 Iunn5-to5."
+        ],
+        [
+          "太子看着袂得勝，即時着緊再收兵，恰伊鬪法無路用，想計力伊隻能成。",
+          "Thai3-chu2 khoann3 tioh8 boe7 tek-seng3, chek-si5 tioh8 kin2 chai3 siu-peng, khah i tau3-hoat bo5 lou7-eng7, siunn7-ke3 liah8 i chiah e7 seng5."
+        ],
+        [
+          "太子用計運糧草，運來下在大路頭，楊桃看見大冇豆，搶去車來到因兜。",
+          "Thai3-chu2 eng7 ke3 un7 niu5-chhau2, un7 lai5 he7 chai7 toa7-lou7 thau5, Iunn5-to5 khoann3-kinn3 toa7-phann3-tau7, chhiunn2 khi3 chhia lai5 kau3 in tau."
+        ],
+        [
+          "返去即時叫人炒，食到半夜皆嘴墘，扒起冷水飲真飽，屎煞放到歸土腳。",
+          "Tng2 khi3 chek-si5 kio3 lang5 chha2, chiah8 kau3 poann3-ia7 kai chhui3-ta, peh khi2 leng2-chui2 lim chin pa2, sai2 soa3 pang3 kau3 kui thou5-kha."
+        ],
+        [
+          "想着近位鐵紫山，藍拔大王有交盤，叫人且伊緊來看，講起流屎只因單。",
+          "Siunn7 tioh8 kin7-ui7 Thih-chi2-soann, Na5-poat8 tai7-ong5 u7 kau-poann5, kio3 lang5 chhiann2 i kin2 lai5 khoann3, kong2 khi2 lau3-sai2 chit in-toann."
+        ],
+        [
+          "拔仔大王兵隨點，三千兵馬行相廉，橄欖軍師頭尖尖，鑽地免驚人凡嫌。",
+          "Poat8-a2 tai7-ong5 peng sui5 tiam2, sann chheng peng-be2 kiann5 sio-liam5, Kann-na2 kun-su thau5 chiam-chiam, chng3-te7 bian2 kiann lang5 hoan7-hiam5."
+        ],
+        [
+          "拔仔大王到寺內，外皮个殼脫落來，乎恁煎茶食看眉，能好賣好汝就知。",
+          "Poat8-a2 tai7-ong5 kau3 si7-lai7, goa7-phe5 e5 khak thng3--loh8-lai5, hou7 lin2 choann-te5 chiah8 khoann3-bai7, e7 ho2 boe7 ho2 li2 chiu7 chai."
+        ],
+        [
+          "和尚緊緊群一鼎，一人三碗食就行，食了正實瀉就定，勸咱大家免着驚。",
+          "Hoe5-siunn7 kin2-kin2 kun5 chit8 tiann2, chit8 lang5 sann oann2 chiah8 chiu7 kiann5, chiah8 liau2 chiann3-sit8 sia3 chiu7 tiann7, khng3 lan2 tai7-ke bian2 tioh8-kiann."
+        ],
+        [
+          "大王寶貝拔仔子，打着無法通好醫，恰早有人乎打死，佛手大仙來力去。",
+          "Tai7-ong5 po2-poe3 poat8-a2-chi2, phah tioh8 bo5 hoat thang-ho2 i, khah-cha2 u7 lang5 hou7 phah-si2, Hut8-chhiu2 tai7-sian lai5 liah8 khi3."
+        ],
+        [
+          "力去吞入腹肚內，隻對大便放出來，拔仔个子入肚內，閣再發出拔仔栽。",
+          "Liah8 khi3 thun jip8 pat-tou2 lai7, chiah tui3 toa7-pian7 pang3--chhut-lai5, poat8-a2 e5 chi2 jip8 tou7-lai7, koh-chai3 hoat chhut poat8-a2-chai."
+        ],
+        [
+          "出世了後也是呆，自己臭名伊不知，近來藍拔無人拜，三界壇前無愛排。",
+          "Chhut-si3 liau2-au7 ia7 si7 phainn2, chu7-ki2 chhau3-mia5 i m7 chai, kin7-lai5 na5-poat8 bo5 lang5 pai3, Sam-kai3-toann5 cheng5 bo5 ai3 pai5."
+        ],
+        [
+          "大王鐵子真利害，拔仔个兵排歸排，王萊乎伊打大敗，兵馬走到倒頭栽。",
+          "Tai7-ong5 thih-chi2 chin li7-hai7, poat8-a2 e5 peng pai5 kui pai5, Ong5-lai5 hou7 i phah toa7-pai7, peng-be2 chau2 kau3 to3-thau5-chai."
+        ],
+        [
+          "批把皇帝無主意，李仔夫人來奏伊，龍眼仙姑度我去，仙法有學二三年。",
+          "Pi5-pe5 hong5-te3 bo5 chu2-i3, Li2-a2 hu-jin5 lai5 chau3 i, Leng5-geng2 sian-kou tou7 goa2 khi3, sian-hoat u7 oh8 nng7 sann ni5."
+        ],
+        [
+          "賜我一面福員鏡，叫我下山配親成，芎蕉元帥來過定，今年[毛^火]我入京城。",
+          "Su3 goa2 chit8 bin7 hok-oan5-kiann3, kio3 goa2 ha7-san phoe3 chhin-chiann5, Kin-chio goan5-soe3 lai5 koe3-tiann7, kin-ni5 chhoa7 goa2 jip8 Kiann-siann5."
+        ],
+        [
+          "皇帝聽着就發令，馬齒豆兵點五千，夫人手執雞心等，騎馬隨時到陣前。",
+          "Hong5-te3 thiann tioh8 chiu7 hoat leng7, be2-khi2-tau7 peng tiam2 gou7 chheng, hu-jin5 chhiu2 chip ke-sim-teng2, khia5-be2 sui5-si5 kau3 tin7-cheng5."
+        ],
+        [
+          "大王妖僧皆出陣，拔仔大王戰夫人，刣到五十回合盡，大王閣再變元帥。",
+          "Tai7-ong5 iau-cheng kai chhut-tin7, poat8-a2 tai7-ong5 chian3 hu-jin5, thai5 kau3 gou7-chap8 hoe5-hap8 chin7, tai7-ong5 koh-chai3 pian3 goan5-soe3."
+        ],
+        [
+          "夫人提出福員鏡，照着鐵子打賣行，李仔夫人打大拼，馬齒豆兵煞刣營。",
+          "Hu-jin5 theh8 chhut hok-oan5-kiann3, chio3 tioh8 thih-chi2 phah boe7 kiann5, Li2-a2 hu-jin5 phah toa7-piann3, be2-khi2-tau7 peng soa3 thai5-iann5."
+        ],
+        [
+          "大王夭僧大家走，夫人刣入到內頭，柑后看見正人到，想着目滓雙港流。",
+          "Tai7-ong5 iau-cheng tai7-ke chau2, hu-jin5 thai5 jip8 kau3 lai7-thau5, Kam-hio7 khoann3-kinn3 cheng3-ang5 kau3, siunn7 tioh8 bak8-sai2 siang-kang2 lau5."
+        ],
+        [
+          "夫人近前加改勸，叫伊心頭不免酸，大家相[毛^火]來去返，報仇日止亦久長。",
+          "Hu-jin5 kin7 cheng5 ka7 kai2-khng3, kio3 i sim-thau5 m7 bian2 sng, tai7-ke sio-chhoa7 lai5-khi3 tng2, po3-siu5 jit8-chi2 iah8 ku2-tng5."
+        ],
+        [
+          "楊桃走來水波山，山腳一个清水泉，有路無寺卜安盞，氣到自己搥心肝。",
+          "Iunn5-to5 chau2 lai5 Chui2-pho-soann, soann-kha chit8 e5 chheng-chui2-choann5, u7 lou7 bo5 si7 beh an3-choann2, khi3 kau3 chu7-ki2 tui5 sim-koann."
+        ],
+        [
+          "[門@丨]着輦霧个道人，赶謹共伊說元因，無影个話講不盡，講到嘴爛直直珍。",
+          "Tu2 tioh8 Lian2-bu7 e5 to7-jin5, koann2-kin2 ka7 i seh goan5-in, bo5-iann2 e5 oe7 kong2 put-chin7, kong2 kau3 chhui3-noa7 tit8-tit8 tin."
+        ],
+        [
+          "輦霧叫伊免煩惱，心肝做汝不免遭，我个毒霧若練好，甲汝下山來迌。",
+          "Lian2-bu7 kio3 i bian2 hoan5-lo2, sim-koann cho3 li2 m7 bian2 cho, goa2 e5 tok8-bu7 na7 lian7 ho2, kah li2 ha7-san lai5 thit-tho5."
+        ],
+        [
+          "帶到八日過了後，二人相[毛^火]落山頭，半路[門@丨]着關刀豆，塊教兵馬練群頭。",
+          "Toa3 kau3 peh jit8 koe3 liau2-au7, nng7 lang5 sio-chhoa7 loh8 soann-thau5, poann3-lou7 tu2 tioh8 Koan-to-tau7, teh ka3 peng-be2 lian7 kun5-thau5."
+        ],
+        [
+          "輦霧加伊叫一聲，楊桃代志講乎聽，來甲批把伊併命，今日好時謹起行。",
+          "Lian2-bu7 ke i kio3 chit8 siann, Iunn5-to5 tai7-chi3 kong2 hou7 thiann, lai5 kah Pi5-pe5 i piann3-mia7, kim-jit8 ho2-si5 kin2 khi2-kiann5."
+        ],
+        [
+          "關刀大王亦謹性，鴛鴦豆兵點三千，糧草兵馬盡齊整，過了三日就起程。",
+          "Koan-to tai7-ong5 iah8 kin2-seng3, Oan-iunn-tau7 peng tiam2 sann chheng, niu5-chhau2 peng-be2 chin7 che5-cheng2, koe3 liau2 sann jit8 chiu7 khi2-theng5."
+        ],
+        [
+          "且講紅棗个代志，紅柿是伊親女兒，十四隻塊伊講起，共汝招親正合宜。",
+          "Chhiann2 kong2 Ang5-cho2 e5 tai7-chi3, Ang5-khi7 si7 i chhin lu2-ji5, chap8 si3 chiah teh i kong2 khi2, ka7 li2 chio-chhin chiann3 hap8-gi5."
+        ],
+        [
+          "即時叫人搭彩樓，搭在街中大路頭，十六日止一能到，樓腳个人亂抄抄。",
+          "Chek-si5 kio3 lang5 tah chhai2-lau5, tah chai7 koe-tiong toa7-lou7 thau5, chap8-lak8 jit8-chi2 chit8-e7 kau3, liu7-kha e5 lang5 loan7-chhau-chhau."
+        ],
+        [
+          "霜柑丫環且小姐，且伊仝陣在錦車，到位扒上彩樓徛，霜柑捧茶乎伊食。",
+          "Sng-kam ia-hoan5 chhiann2 sio2-chia2, chhiann2 i kang7-tin7 chai7 gim2-chhia, kau3-ui7 peh chiunn7 chhai2-lau5 khia7, Sng-kam phang5-te5 hou7 i chiah8."
+        ],
+        [
+          "霜柑女婢先講起，小姐招親卜做詩，真才个人隻來試，無才个人且甲辭。",
+          "Sng-kam lu2-pi7 seng kong2 khi2, sio2-chia2 chio-chhin beh cho3-si, chin-chai5 e5 lang5 chiah lai5 chhi3, bo5 chai5 e5 lang5 chhiann2 kah si5."
+        ],
+        [
+          "謝榴个子是馬薯，即時討筆就做詩，小姐看了不歡喜，巔倒做詩巢撻伊。",
+          "Sia7-liu5 e5 kiann2 si7 Be2-chi5, chek-si5 tho2 pit chiu7 cho3-si, sio2-chia2 khoann3 liau2 m7 hoann-hi2, tian-to3 cho3-si chau-that i."
+        ],
+        [
+          "馬薯公子無体面，謹走不敢再延迂，正人將詩看一遍，知影做丟大啞言。",
+          "Be2-chi5 kong-chu2 bo5 the2-bian7, kin2 chau2 m7 kam2 chai3 ian5-chhian5, cheng3-ang5 chiong si khoann3 chit8 pian3, chai-iann2 cho3-tiu toa7 a2-gian5"
+        ],
+        [
+          "[門@丨]好孟瓜公子到，雙腳一跳上彩樓，詩做四首大禮斗，又閣人才真緣投。",
+          "Tu2-ho2 Beng7-koe kong-chu2 kau3, siang-kha chit8 thiau3 siong7 chhai2-lau5, si cho3 si3 siu2 toa7 le3-tau2, iu7-koh jin5-chai5 chin ian5-tau5."
+        ],
+        [
+          "員外叫伊再練武，正實有影好工夫，出手就夯石精臼，一款力量恰大牛。",
+          "Goan5-goe7 kio3 i chai3 lian7-bu2, chiann3-sit8 u7-iann2 ho2 kang-hu, chhut-chhiu2 chiu7 gia5 chioh8 cheng-khu7, chit8 khoan2 lek8-liong7 khah toa7 gu5."
+        ],
+        [
+          "員外看着真歡喜，謹將紅柿匹配伊，煞問伊厝某鄉里，西瓜左相个子兒。",
+          "Goan5-goe7 khoann3 tioh8 chin hoann-hi2, kin2 chiong Ang5-khi7 phi2-phoe3 i, soa3 mng7 i chhu3 bou2 hiunn-li2, Si-koe cho2-siong3 e5 kiann2-ji5."
+        ],
+        [
+          "員外厝內就修整，即時結彩甲點燈，歸千提出來開用，親戚朋友請大先。",
+          "Goan5-goe7 chhu3-lai7 chiu7 siu-cheng2, chek-si5 kat-chhai2 kah tiam2-teng, kui chheng theh8 chhut lai5 khai-eng7, chhin-chiann5 peng5-iu2 chhiann2 tai7-seng."
+        ],
+        [
+          "尫某出來拜天地，煞拜父母伊二个，拜了入去綉房坐，關門大戰鐵公雞。",
+          "Ang-bou2 chhut lai5 pai3 thinn-te7, soa3 pai3 pe7-bu2 i nng7 e5, pai3 liau2 jip8 khi3 siu3-pang5 che7, koainn-mng5 tai7-chian3 thih-kong-ke."
+        ],
+        [
+          "夫妻二人都袂呆，次日通批因厝知，皆再雙人相意愛，滿月相[毛^火]入城來。",
+          "Hu-chhe nng7 lang5 to boe7 phainn2, chhu3-jit8 thong-phoe in chhu3 chai, kai-chai3 siang-lang5 sio i3-ai3, moa2-goeh8 sio-chhoa7 jip8 siann5 lai5."
+        ],
+        [
+          "西瓜左相大歡喜，看着心婦真合宜，又閣精神甲冷利，也能做對兼做詩。",
+          "Si-koe cho2-siong3 toa7 hoann-hi2, khoann3 tioh8 sim-pu7 chin hap8-gi5, iu7-koh cheng-sin5 kah leng2-li7, ia7 e7 cho3-tui3 kiam cho3-si."
+        ],
+        [
+          "一時歡喜在心內，外口奴才來報知，外面一个道士派，自稱伊是仙山來。",
+          "Chit8-si5 hoann-hi2 chai7 sim-lai7, goa7-khau2 lou5-chai5 lai5 po3 chai, goa7 bin7 chit8 e5 to7-su7 phai3, chu7-chheng i si7 sian-soann lai5."
+        ],
+        [
+          "西瓜隨時出來請，請卜大仙入大廳，左相目周亦鏡鏡，請問仙長是乜名。",
+          "Si-koe sui5-si5 chhut lai5 chhiann2, chhiann2 beh tai7-sian jip8 toa7-thiann, cho2-siong3 bak8-chiu iah8 kiann3-kiann3, chhiann2-mng7 sian-tiunn2 si7 mih mia5."
+        ],
+        [
+          "水梨老祖報名姓，順煞就共伊通知，半路聽人有講起，楊桃卜閣來交纏。",
+          "Chui2-lai5 Lo2-chou2 po3 mia5-sinn3, sun7-soa3 chiu7 ka7 i thong-ti, poann3-lou7 thiann lang5 u7 kong2 khi2, Iunn5-to5 beh koh lai5 kau-tinn5."
+        ],
+        [
+          "頂日我去遊山界，一陣兵馬對者來，廣卜打入皇城內，我隻趕來報汝知。",
+          "Teng-jit8 goa2 khi3 iu5 soann-kai3, chit8 tin7 peng-be2 tui3 chia lai5, kong2 beh phah jip8 Hong5-siann5 lai7, goa2 chiah koann2 lai5 po3 li2 chai."
+        ],
+        [
+          "西瓜聽着就知代，謹招老祖入朝來，二人來到金殿內，奏乎批把皇帝知。",
+          "Si-koe thiann tioh8 chiu7 chai tai7, kin2 chio Lo2-chou2 jip8 tiau5 lai5, nng7 lang5 lai5 kau3 kim-tian7 lai7, chau3 hou7 Pi5-pe5 hong5-te3 chai."
+        ],
+        [
+          "皇帝一時聽見講，隨時赶謹點先峰，謹派大兵恰伊棟，未來咱着先知防。",
+          "Hong5-te3 chit8-si5 thiann-kinn3 kong2, sui5-si5 koann2-kin2 tiam2 sian-phong, kin2 phai3 tai7-peng khah i tong3, be7 lai5 lan2 tioh8 seng ti5-hong5."
+        ],
+        [
+          "皇帝卜考先峰才，卜甲楊桃伊相刣，着射三箭紅心內，閣夯千斤个石獅。",
+          "Hong5-te3 beh kho2 sian-phong chai5, beh kah Iunn5-to5 i sio-thai5, tioh8 sia7 sann chinn3 ang5-sim lai7, koh gia5 chhian kun e5 chioh8-sai."
+        ],
+        [
+          "王萊將軍好步數，連射三箭着紅箍，石獅夯起十外步，紅紅个面煞反烏。",
+          "Ong5-lai5 chiong-kun ho2 pou7-sou3, lian5 sia7 sann chinn3 tioh8 ang5-khou, chioh8-sai gia5 khi2 chap8 goa7 pou7, ang5-ang5 e5 bin7 soa3 hoan2-ou."
+        ],
+        [
+          "孟瓜公子出來比，王萊將軍不及伊，夯行百步即停止，面無變色隻有奇。",
+          "Beng7-koe kong-chu2 chhut lai5 pi2, Ong5-lai5 chiong-kun put-kip8 i, gia5 kiann5 pah pou7 chiah theng5-chi2, bin7 bo5 pian3-sek chiah u7 ki5."
+        ],
+        [
+          "公子隻做正先峰，王萊副个卻無防，皇帝再閣點把總，出兵城外去底當。",
+          "Kong-chu2 chiah cho3 chiann3 sian-phong, Ong5-lai5 hu3 e5 khiok bu5-hong5, hong5-te3 chai3 koh tiam2 pe2 chong2, chhut-peng siann5 goa7 khi3 te2-tong."
+        ],
+        [
+          "出城[門@丨]着關刀豆，兩平兵馬眉撞頭，二人戰到百合後，大家大汗直直流。",
+          "Chhut siann5 tu2 tioh8 Koan-to-tau7, liong2-peng5 peng-be2 bi5 tng7-thau5, nng7 lang5 chian3 kau3 pah hap8 au7, tai7-ke toa7-koann7 tit8-tit8 lau5."
+        ],
+        [
+          "關刀大王際法寶，伊个元形人看無，孟瓜公子叫不好，左肩忽然着關刀。",
+          "Koan-to tai7-ong5 che3 hoat-po2, i e5 goan5-heng5 lang5 khoann3 bo5, Beng7-koe kong-chu2 kio3 m7 ho2, cho2 keng hut-jian5 tioh8 Koan-to."
+        ],
+        [
+          "痛入骨底那刀刈，水梨用手謹加捺，煞吐梨汁加伊抹，過了一時隨快活。",
+          "Thiann3 jip8 kut-te2 na2 to koah, Chui2-lai5 eng7 chhiu2 kin2 ka7 loah8, soa3 thou3 lai5-chiap ka7 i boah, koe3 liau2 chit8-si5 sui5 khuinn3-oah8."
+        ],
+        [
+          "王萊不冇伊利害，手夯來棍甲伊刣，關刀法寶際一擺，將軍馬頂翻落來。",
+          "Ong5-lai5 m7 phann3 i li7-hai7, chhiu2 gia5 lai5-kun3 kah i thai5, Koan-to hoat-po2 che3 chit8 pai2, chiong-kun be2-teng2 hoan--loh8-lai5."
+        ],
+        [
+          "水梨老祖皆扶起，再吐梨汁謹加醫，芎蕉元帥大受氣，關刀寶貝簡隻奇。",
+          "Chui2-lai5 Lo2-chou2 kai5 hu5 khi2, chai3 thou3 lai5-chiap kin2 ka7 i, Kin-chio goan5-soe3 toa7 siu7-khi3, Koan-to po2-poe3 kan2 chiah ki5."
+        ],
+        [
+          "元帥點出馬齒兵，本身出戰到陣前，關刀知影芎蕉猛，謹用法寶際大先。",
+          "Goan5-soe3 tiam2 chhut be2-khi2 peng, pun2 sin chhut-chian3 kau3 tin7-cheng5, Koan-to chai-iann2 Kin-chio beng2, kin2 eng7 hoat-po2 che3 tai7-seng."
+        ],
+        [
+          "元帥就謹抽法寶，蕉葉个扇煽關刀，關刀大王敗返到，[門@丨]着輦霧甲楊桃。",
+          "Goan5-soe3 chiu7-kin2 thiu hoat-po2, chio-hioh8 e5 sinn3 sian3 Koan-to, Koan-to tai7-ong5 pai7 tng2 kau-to3, tu2 tioh8 Lian2-bu7 kah Iunn5-to5."
+        ],
+        [
+          "輦霧道人亦利害，出手就甲元帥刣，大露連連吐三擺，芎蕉馬頂拔落來。",
+          "Lian2-bu7 to7-jin5 iah8 li7-hai7, chhut-chhiu2 chiu7 kah goan5-soe3 thai5, toa7-bu7 lian5-lian5 thou3 sann pai2, Kin-chio be2-teng2 poah8--loh8-lai5."
+        ],
+        [
+          "水梨老祖大受氣，跳出陣前底敵伊，水梨金釘謹際起，大霧敗到無半糸。",
+          "Chui2-lai5 Lo2-chou2 toa7 siu7-khi3, thiau3 chhut tin7-cheng5 te2-tek8 i, Chui2-lai5 kim-teng kin2 che3 khi2, toa7-bu7 pai7 kau3 bo5 poann3-si."
+        ],
+        [
+          "輦霧敗兵入營內，赶謹講乎楊桃知，水梨致硬大利害，加請樹梅仙姑來。",
+          "Lian2-bu7 pai7 peng jip8 iann5-lai7, koann2-kin2 kong2 hou7 Iunn5-to5 chai, Chui2-lai5-ti3 ngi7 toa7 li7-hai7, ka7 chhiann2 Chhiu7-m5 sian-kou lai5."
+        ],
+        [
+          "輦霧駕雲到洞內，就將仙姑請落來，叫人辨酒加款代，煞將代志講乎知。",
+          "Lian2-bu7 ka3 hun5 kau3 tong7-lai7, chiu7 chiong sian-kou chhiann2--loh8-lai5, kio3 lang5 pan7 chiu2 ka7 khoan2-tai7, soa3 chiong tai7-chi3 kong2 hou7 chai."
+        ],
+        [
+          "天光關刀緊點兵，鴛鴦豆兵點三千，樹梅仙姑到陣前，水梨出來戰大先。",
+          "Thinn-kng Koan-to kin2 tiam2 peng, Oan-iunn-tau7 peng tiam2 sann chheng, Chhiu7-m5 sian-kou kau3 tin7-cheng5, Chui2-lai5 chhut lai5 chian3 tai7-seng."
+        ],
+        [
+          "仙姑際出樹梅莿，一領親象萬針衣，水梨老祖走無離，刺入肉內血淋漓。",
+          "Sian-kou che3 chhut chhiu7-m5-chhi3, chit8 nia2 chhin-chhiunn7 ban7-chiam-i, Chui2-lai5 Lo2-chou2 chau2 bo5 li7, chhi3 jip8 bah-lai7 huih lim5-li5."
+        ],
+        [
+          "好得櫻桃聖母到，看着水梨血那流，謹將水梨加救走，仙姑追赶梨後頭。",
+          "Ho2-tit Eng-tho5 seng3-bio2 kau3, khoann3 tioh8 Chui2-lai5 huih na2 lau5, kin2 chiong Chui2-lai5 ka7 kiu3 chau2, sian-kou tui koann2 lai5 au7-thau5."
+        ],
+        [
+          "櫻桃露出桃核子，樹梅个莿不及伊，桃子一粒恰定鐵，莿伊賣入半分厘。",
+          "Eng-tho5 lou7 chhut tho5 hut8-chi2, Chhiu7-m5 e5 chhi3 put-kip8 i, tho5-chi2 chit8 liap8 khah tiann7 thih, chhi3 i boe7 jip8 poann3 hun li5."
+        ],
+        [
+          "仙姑法寶無路用，兩平大家隻收兵，歸尾不知省人勝，下本再閣說分明。",
+          "Sian-kou hoat-po2 bo5 lou7-eng7, liong2-peng5 tai7-ke chiah siu peng, kui-be2 m7 chai siann2-lang5 seng3, ha7-pun2 chai3 koh seh hun-beng5."
+        ],
+        [
+          "紙短停筆且宿困，且食一支敷島烟，后日再閣接下本，也有鬪法个戲文。",
+          "Choa2 te2 theng5-pit chhiann2 hioh-khun3, chhiann2-chiah8 chit8 ki Hu-to2 hun, au7-jit8 chai3 koh chiap ha7-pun2, ia7 u7 tau3-hoat e5 hi3-bun5."
+        ],
+        [
+          "下本鬪法有恰好，佛手大仙來廣和，有榮我着緊來做，限恁不免驚看無。",
+          "Ha7-pun2 tau3-hoat u7 khah ho2, Hut8-chhiu2 tai7-sian lai5 kong2-ho5, u7 eng5 goa2 tioh8 kin2 lai5 cho3, han7 lin2 m7 bian2 kiann khoann3 bo5."
+        ],
+        [
+          "頭集阮兄親手做，國安卜來續尾回，種種歌仔真正多，百果个歌恰笑科。",
+          "Thau5 chip8 gun2 hiann chhin chhiu2 cho3, Kok-an beh lai5 soa3-be2 hoe5, chiong2-chiong2 koa-a2 chin-chiann3 choe7, pah-ko2 e5 koa khah chhio3-khoe."
+        ],
+        [
+          "歌仔好聽眾人愛，玉珍發行印出來，着念隻能知好呆，外哖笑科汝敢知。",
+          "Koa-a2 ho2 thiann cheng3-lang5 ai3, Giok8-tin hoat kiann5 in3--chhut-lai5, tioh8 liam7 chiah e7 chai ho2-phainn2, goa7 nih8 chhio3-khe li2 kam2 chai."
+        ],
+        [
+          "榮話加廣無路用，水梨老祖刣着傷，楊桃禪師真正暢，樹梅仙姑有恰雄。",
+          "Eng5-oe7 ke-kong2 bo5 lou7-eng7, Chui2-lai5 Lo2-chou2 thai5 tioh8-siong, Iunn5-to5 sian7-su chin-chiann3 thiong3, Chhiu7-m5 sian-kou u7 khah hiong5."
+        ],
+        [
+          "樹梅祭出蛾眉莿，水梨身軀軟如綿，着傷入營強卜死，櫻桃看着可憐伊。",
+          "Chhiu7-m5 che3 chhut Ngou5-bi5 chhi3, Chui2-lai5 seng-khu nng2 ju5 mi5, tioh8-siong jip8 iann5 kiong5 beh si2, Eng-tho5 khoann3 tioh8 kho2-lin5 i."
+        ],
+        [
+          "看着水梨敢能害，暗塊煩惱無人知，想着藥師一層代，騰雲駕霧仙山來。",
+          "Khoann3 tioh8 Chui2-lai5 kann2 e7 hai7, am3 teh hoan5-lo2 bo5 lang5 chai, siunn7 tioh8 Ioh8-su chit8 chan5 tai7, theng5-hun5 ka3-bu7 sian-soann lai5."
+        ],
+        [
+          "來到珠皮銀膚洞，紅白甘蔗二藥王，共咱櫻桃同一黨，蔗汁救人變神通。",
+          "Lai5 kau3 Chu-phe5 gun5-hu-tong7, ang5 peh8 Kam-chia3 nng7 ioh8-ong5, ka7 lan2 Eng-tho5 kang5 chit8 tong2, chia3-chiap kiu3 lang5 pian3 sin5-thong."
+        ],
+        [
+          "仙童號做竹仔蔗，櫻桃駕雲來到者，仙童洞口店塊立，拜託通報說一聲。",
+          "Sian-tong5 ho7-cho3 Tek-a2-chia3, Eng-tho5 ka3 hun5 lai5 kau3 chia, sian-tong5 tong7 khau2 tiam3 teh khia7, pai3-thok thong-po3 seh chit8 siann."
+        ],
+        [
+          "說廣混元太乙洞，櫻桃求見二藥王，藥師聽着仙童廣，帶念櫻桃同道宗。",
+          "Seh kong2 Hun7-goan5 thai3-it-tong7, Eng-tho5 kiu5-kian3 ji7 ioh8-ong5, Ioh8-su thiann tioh8 sian-tong5 kong2, toa3 liam7 Eng-tho5 kang5 to7-chong."
+        ],
+        [
+          "紅白甘蔗出來請，請伊櫻桃入中廳，因為水梨卜無命，到者懇求我道兄。",
+          "Ang5 peh8 Kam-chia3 chhut lai5 chhiann2, chhiann2 i Eng-tho5 jip8 tiong-thiann, in-ui7 Chui2-lai5 beh bo5 mia7, kau3 chia khun2-kiu5 goa2 to7-hiann."
+        ],
+        [
+          "望汝下山救伊命，紅白甘蔗甲伊行，水梨着傷塊哭痛，甘蔗藥師勸免驚。",
+          "Bang7 li2 ha7-san kiu3 i mia7, ang5 peh8 Kam-chia3 kah i kiann5, Chui2-lai5 tioh8-siong teh khau3-thiann3, Kam-chia3 Ioh8-su khng3 bian2 kiann."
+        ],
+        [
+          "謹吐蔗汁醫水梨，藥到病除眾人知，那無此藥着呆代，病体好好能起來。",
+          "Kin2 thou3 chia3-chiap i Chui2-lai5, ioh8 kau3 pinn7 tu5 cheng3-lang5 chai, na7 bo5 chhu2 ioh8 tioh8 phainn2-tai7, pinn7-the2 ho2-ho2 e7 khi2--lai5."
+        ],
+        [
+          "蔗汁食落人着醒，敢謝蔗仙汝來醫，那無貧道着能死，即層恩情大如天。",
+          "Chia3-chiap chiah8 loh8 lang5 tioh8 chhinn2, kam2-sia7 Chia3-sian li2 lai5 i, na7 bo5 pin5-to7 tioh8 e7 si2, chiah chan5 un-cheng5 toa7 ju5 thinn."
+        ],
+        [
+          "蔗仙漸請帶營內，二回出戰卜相刣，兩平擺陣人立在，就罵樹梅大不皆。",
+          "Chia3-sian chiam7-chhiann2 toa3 iann5-lai7, ji7 hoe5 chhut-chian3 beh sio-thai5, liong2-peng5 pai2-tin7 lang5 khia7-chai7, chiu7 ma7 Chhiu7-m5 toa7 put-kai."
+        ],
+        [
+          "卜刣主帥先出陣，樹梅櫻桃柄認真，兩平戰鼓摧真緊，兵卒死傷足可憐。",
+          "Beh thai5 chu2-soe3 seng chhut-tin7, Chhiu7-m5 Eng-tho5 piann3 jin7-chin, liong2-peng5 chian3-kou2 chhui chin kin2, peng-chut si2-siong chiok kho2-lin5."
+        ],
+        [
+          "樹梅手拋蛾眉莿，櫻桃桃劍執一枝，二人柄命不驚死，刣甲無日甲無冥。",
+          "Chhiu7-m5 chhiu2 phau Ngou5-bi5-chhi3, Eng-tho5 tho5-kiam3 chip chit8 ki, nng7 lang5 piann3-mia7 m7 kiann-si2, thai5 kah bo5 jit8 kah bo5 mi5."
+        ],
+        [
+          "樹梅有人通好誥，相刣不驚歪尾桃，暖霧陣內看好好，暗祭毒霧腹那搜。",
+          "Chhiu7-m5 u7 lang5 thang-ho2 kho3, sio-thai5 m7 kiann oai-be2 tho5, Loan2-bu7 tin7-lai7 khoann3 ho2-ho2, am3 che3 tok8-bu7 pak na2 so."
+        ],
+        [
+          "櫻桃故刣被伊害，暖霧寒冰噴出來，櫻桃糊着暖霧屎，敗陣着傷大聲哀。",
+          "Eng-tho5 kou3 thai5 pi7 i hai7, Loan2-bu7 han5-peng phun3--chhut-lai5, Eng-tho5 kou5 tioh8 Loan2-bu7 sai2, pai7-tin7 tioh8-siong toa7-siann ai."
+        ],
+        [
+          "暖霧刣營塊故暢，水梨祭寶共伊傷，七寶仙釘硬又勇，祭在空中真正雄。",
+          "Loan2-bu7 thai5-iann5 teh kou3 thiong3, Chui2-lai5 che3 po2 ka7 i siong, chhit-po2 sian-teng ngi7 iu7 iong2, che3 chai7 khong-tiong chin-chiann3 hiong5."
+        ],
+        [
+          "金釘着是水梨致，千變萬化能大枝，暖霧野閣不知死，老祖打伊無張遲。",
+          "Kim-teng tioh8 si7 Chui2-lai5-ti3, chheng-pian3 ban7-hoa3 e7 toa7-ki, Loan2-bu7 iah koh m7 chai si2, Lo2-chou2 phah i bo5 tiunn-ti5."
+        ],
+        [
+          "兩平出戰通刣敗，鳴羅收兵回營來，櫻桃起寒強卜害，病頭沉重人不知。",
+          "Liong2-peng5 chhut-chian3 thong thai5-pai7, beng5-lo5 siu-peng hoe5 iann5 lai5, Eng-tho5 khi2-koann5 kiong5 beh hai7, pinn7-thau5 tim5-tang7 lang5 m7 chai."
+        ],
+        [
+          "櫻桃着病卜夭壽，紅蔗冷氣緊來收，藥師有影真妙手，食着蔗汁好鰍鰍。",
+          "Eng-tho5 tioh8-pinn7 beh iau2-siu7, ang5-chia3 leng2-khi3 kin2 lai5 siu, Ioh8-su u7-iann2 chin biau7-chhiu2, chiah8 tioh8 chia3-chiap ho2 liu-liu."
+        ],
+        [
+          "樹梅着傷直卜死，身軀那綿飛上天，飛甲乎人看不見，加治不知死野生。",
+          "Chhiu7-m5 tioh8-siong tit8 beh si2, seng-khu na2 mi5 poe chiunn7-thinn, poe kah hou7 lang5 khoann3 put-kian3, ke-ti7 m7 chai si2 iah sinn."
+        ],
+        [
+          "墜落看着日月洞，洞內菱角做天王，桑才夫人治塊廣，外口故友愛相逢。",
+          "Tui7-loh8 khoann3 tioh8 Jit8-goat8-tong7, tong7-lai7 Leng5-kak cho3 thian-ong5, Sng-chai5 hu-jin5 ti7 teh kong2, goa7-khau2 kou3-iu2 ai3 sio-hong5."
+        ],
+        [
+          "桑才夫人出來請，請伊樹梅入內廳，呵老桑才上好命，菱角天王有出名。",
+          "Sng-chai5 hu-jin5 chhut lai5 chhiann2, chhiann2 i Chhiu7-m5 jip8 lai7-thiann, o-lo2 Sng-chai5 siong7 ho2-mia7, Leng5-kak thian-ong5 u7 chhut mia5."
+        ],
+        [
+          "天王生成二个角，黑面兇惡甲吐目，人雄愛卜甲人觸，性弟罔夫未孤獨。",
+          "Thian-ong5 sinn-seng5 nng7 e5 kak, ou-bin7 hiong-ok kah thou3-bak8, lang5 hiong5 ai3 beh kah lang5 tak, seng3-te7 bong2-hu be7 kou-tak8."
+        ],
+        [
+          "樹梅好嘴共伊請，三人下山做陣行，此塹水梨卜呆命，菱角出戰陣陣營。",
+          "Chhiu7-m5 ho2-chhui3 ka7 i chhiann2, sann lang5 ha7-san cho3-tin7 kiann5, chhu2 cham7 Chui2-lai5 beh phainn2-mia7, Leng5-kak chhut-chian3 tin7-tin7 iann5."
+        ],
+        [
+          "菱角討戰緊排陣，八門金鎖訓煉真，敵將入陣旗摧緊，尋無門路通出身。",
+          "Leng5-kak tho2 chian3 kin2 pai5-tin7, peh mng5 kim-so2 hun3-lian7 chin, tek8-chiong3 jip8 tin7 ki5 chhui kin2, chhoe7 bo5 mng5-lou7 thang chhut-sin."
+        ],
+        [
+          "水梨會兵出來戰，陣藏八卦按先天，六爻發動肴轉變，不驚菱角塊假仙。",
+          "Chui2-lai5 hoe7-peng chhut lai5 chian3, tin7 chong5 pak-koa3 an3 sian-thian, liok8-ngau5 hoat-tong7 gau5 choan2-pian3, m7 kiann Leng5-kak teh ke2-sian."
+        ],
+        [
+          "菱角出陣戰水梨，老祖祭釘無人知，梨致上天真利害，菱角看了笑咳咳。",
+          "Leng5-kak chhut-tin7 chian3 Chui2-lai5, Lo2-chou2 che3 teng bo5 lang5 chai, lai5-ti3 chiunn7-thinn chin li7-hai7, Leng5-kak khoann3 liau2 chhio3-hai-hai."
+        ],
+        [
+          "別人塊驚梨仔致，我不驚汝外大枝，菱角个皮親像鐵，卜是別人無身屍。",
+          "Pat8-lang5 teh kiann lai5-a2-ti3, goa2 m7 kiann li2 goa7 toa7-ki, Leng5-kak e5 phe5 chhin-chhiunn7 thih, beh si7 pat8-lang5 bo5 sin-si."
+        ],
+        [
+          "菱角个殼那鐵甲，水梨祭釘大爭差，[門@丨]着天王着教飽，梨致倒段落土腳。",
+          "Leng5-kak e5 khak na2 thih-kah, Chui2-lai5 che3 teng toa7 cheng-chha, tu2 tioh8 thian-ong5 tioh8 ka3 pa2, lai5-ti3 to3 toann7 loh8 thou5-kha."
+        ],
+        [
+          "水梨敗陣叫不好，二回出戰是櫻桃，菱角鐵甲通好誥，硬如鋼鐵不驚刀。",
+          "Chui2-lai5 pai7-tin7 kio3 m7 ho2, nng7 hoe5 chhut-chian3 si7 Eng-tho5, Leng5-kak thih-kah thang-ho2 kho3, ngi7 ju5 kng3-thih m7 Kiann-tou."
+        ],
+        [
+          "櫻桃桃劍執在手，刣着菱角刀煞球，看着刣須難得受，桃只來打伊目周。",
+          "Eng-tho5 tho5-kiam3 chip chai7 chhiu2, thai5 tioh8 Leng5-kak to soa3 khiu5, khoann3 tioh8 thai5-su lan5-tit siu7, tho5-chi2 lai5 phah i bak8-chiu."
+        ],
+        [
+          "天王看伊祭桃只，菱角爾目無半糸，櫻桃野閣不知死，乎伊菱角喬一裂。",
+          "Thian-ong5 khoann3 i che3 tho5-chi2, Leng5-kak nih-bak8 bo5 poann3-si, Eng-tho5 iah koh m7 chai si2, hou7 i Leng5-kak kiau7 chit8 lih8."
+        ],
+        [
+          "現部桃仔有紀念，不是編歌效肯添，天地生成未走閃，身來一裂尾占占。",
+          "Hian7-pou7 tho5-a2 u7 ki3-liam7, m7 si7 pian-koa hau-siau5 thiam, thinn-te7 sinn-seng5 be7 chau2-siam2, sin lai5 chit8 lih8 be2 chiam-chiam."
+        ],
+        [
+          "菱角網夫界不好，受氣來喬歪尾桃，櫻桃敗陣回返到，芎蕉看了心內遭。",
+          "Leng5-kak bong2-hu kai3 m7 ho2, siu7-khi3 lai5 kiau7 oai-be2 tho5, Eng-tho5 pai7-tin7 hoe5-tng2 kau3, Kin-chio khoann3 liau2 sim-lai7 cho."
+        ],
+        [
+          "櫻桃敗返入營內，芎蕉煩惱無人知，連連刣須足利害，元帥心悶回府來。",
+          "Eng-tho5 pai7 tng2 jip8 iann5-lai7, Kin-chio hoan5-lo2 bo5 lang5 chai, lian5-lian5 thai5-su chiok li7-hai7, goan5-soe3 sim-bun7 hoe5 hu2 lai5."
+        ],
+        [
+          "芎蕉回返未外久，李仔來接伊丈夫，看伊六神全無主，元帥搖頭廣刣須。",
+          "Kin-chio hoe5-tng2 be7 goa7-ku2, Li2-a2 lai5 chiap i tiong7-hu, khoann3 i liok8-sin5 choan5 bu5 chu2, goan5-soe3 io5-thau5 kong2 thai5-su."
+        ],
+        [
+          "李仔勸伊免煩惱，妾身替汝建功勞，漸請夫君床內倒，萬般有妾通伐落。",
+          "Li2-a2 khng3 i bian2 hoan5-lo2, chhiap-sin the3 li2 kian3 kong-lo5, chiam7-chhiann2 hu-kun chhng5-lai7 to2, ban7-poann u7 chhiap thang hoat8-loh8."
+        ],
+        [
+          "元帥聽了心歡喜，呵老李仔好妻兒，[門@丨]好紅柿來到止，卜來補助李仔伊。",
+          "Goan5-soe3 thiann liau2 sim hoann-hi2, o-lo2 Li2-a2 ho2 chhe-ji5, tu2-ho2 Ang5-khi7 lai5 kau3 chi2, beh lai5 pou2-chou7 Li2-a2 i."
+        ],
+        [
+          "紅柿小姐是查某，為救娘娘回帝都，小姐領兵做前部，開路先峰開路途。",
+          "Ang5-khi7 sio2-chia2 si7 cha-bou2, ui7 kiu3 niu5-niu5 hoe5 Te3-tou, sio2-chia2 nia2-peng cho3-chian5-pou7, khui lou7 sian-phong khai lou7-tou5."
+        ],
+        [
+          "紅柿身騎桃花馬，主帥李仔伊一个，出兵軍旗代先祭，即擺出戰為國家。",
+          "Ang5-khi7 sin khia5 tho5-hoe-be2, chu2-soe3 Li2-a2 i chit8 e5, chhut-peng kun-ki5 tai7-seng che3, chit pai2 chhut-chian3 ui7 kok-ke."
+        ],
+        [
+          "大隊兵馬卜起行，來到盡聽戰鼓聲，桑才夫人即知影，出來卜共伊須營。",
+          "Toa7-tui7 peng-be2 beh khi2-kiann5, lai5 kau3 chin7 thiann chian3-kou2 siann, Sng-chai5 hu-jin5 chiah chai-iann2, chhut lai5 beh ka7 i su-iann5."
+        ],
+        [
+          "桑才櫻桃塊相刣，祭起桑葉上天胎，櫻桃桃劍頭上蓋，僥倖桑風漸漸來。",
+          "Sng-chai5 Eng-tho5 teh sio-thai5, che3 khi2 sng-hioh8 siong7 thian-the, Eng-tho5 tho5-kiam3-thau5-siong7 kai3, hiau-heng7 sng hong chiam7-chiam7 lai5."
+        ],
+        [
+          "桑葉扇風極絕頂，櫻桃被煽現原形，恰廣亦是桃仔性，桑砂飛來目未明。",
+          "Sng-iap8 sian3-hong kek8 choat8-teng2, Eng-tho5 pi7 sian3 hian7 goan5-heng5, khah kong2 iah8 si7 tho5-a2 seng3, sng-soa poe lai5 bak8 be7 beng5."
+        ],
+        [
+          "眾人被煽目未金，菱角天王起淫心，看着紅柿那花錦，意愛在心想卜淫。",
+          "Cheng3-lang5 pi7 sian3 bak8 be7 kim, Leng5-kak thian-ong5 khi2 im5-sim, khoann3 tioh8 Ang5-khi7 na2 hoe-gim2, i3-ai3 chai7 sim siunn7 beh im5."
+        ],
+        [
+          "看着紅柿李仔水，痴哥菱角成古錐，兩平个角來到位，好塊李仔脫離開。",
+          "Khoann3 tioh8 Ang5-khi7 Li2-a2 sui2, chhi-ko Leng5-kak chiann5 kou2-chui, liong2-peng5 e5 kak lai5 kau3-ui7, ho2 teh Li2-a2 thoat-li7 khui."
+        ],
+        [
+          "菱角喬着紅柿致，紅柿生水紅支支，小姐驚着半小死，天王甲伊羔羔纏。",
+          "Leng5-kak kiau7 tioh8 Ang5-khi7 ti3, Ang5-khi7 sinn-sui2 ang5-ki3-ki3, sio2-chia2 kiann tioh8 poann3-sio2-si2, thian-ong5 kah i ko-ko-tinn5."
+        ],
+        [
+          "紅柿被力入營內，看汝生水專工來，我勸汝着罔親彩，那不着卜共汝刣。",
+          "Ang5-khi7 pi7 liah8 jip8 iann5-lai7, khoann3 li2 sinn-sui2 choan-kang lai5, goa2 khng3 li2 tioh8 bong2 chhin3-chhai2, na7 m7 tioh8 beh ka7 li2 thai5."
+        ],
+        [
+          "天王意愛強卜小，貪汝生水真妖嬌，少年做代免見肖，僥倖菱角棟未朝。",
+          "Thian-ong5 i3-ai3 kiong5 beh sio2, tham li2 sinn-sui2 chin iau-kiau, siau3-lian5 cho3 tai7 bian2 kian3-siau3, hiau-heng7 Leng5-kak tong3 be7 tiau5."
+        ],
+        [
+          "小姐被扭未行走，氣甲目滓雙港流，被伊交纏開聲哭，罵伊菱角着症頭。",
+          "Sio2-chia2 pi7 giu2 be7 heng5-chau2, khi3 kah bak8-sai2 siang-kang2 lau5, pi7 i kau-tinn5 khui-siann khau3, ma7 i Leng5-kak tioh8 cheng3-thau5."
+        ],
+        [
+          "菱角千般來喜弄，意愛紅柿結成雙，手來皆抱不甘放，未須蝴蝶採花蜂。",
+          "Leng5-kak chheng-poann lai5 hi2-lang7, i3-ai3 Ang5-khi7 kiat-seng5 siang, chhiu2 lai5 kai5 pho7 m7 kam pang3, be7-su ou5-tiap8 chhai2-hoe-phang."
+        ],
+        [
+          "好得桑才走來救，不放菱角伊干休，天王第一驚牽手，看着伊某煞球球。",
+          "Ho2-tit Sng-chai5 chau2 lai5 kiu3, m7 pang3 Leng5-kak i kan-hiu, thian-ong5 te7-it kiann khan-chhiu2, khoann3 tioh8 i bou2 soa3 khiu5-khiu5."
+        ],
+        [
+          "菱角呆死煞驚某，那無伊敢做乎途，[門@丨]着即款無法度，查某不驚伊乾埔。",
+          "Leng5-kak bai2-si2 soa3 kiann-bou2, na7 bo5 i kann2 cho3 hou7-tou5, tu2 tioh8 chit khoan2 bo5 hoat-tou7, cha-bou2 m7 kiann i ta-pou."
+        ],
+        [
+          "櫻桃敗陣回營內，尋無紅柿隻能知，小姐被力敢能害，緊致香案請仙來。",
+          "Eng-tho5 pai7-tin7 hoe5 iann5-lai7, chhoe7 bo5 Ang5-khi7 chiah e7 chai, sio2-chia2 pi7 liah8 kann2 e7 hai7, kin2 ti3 hiunn-an3 chhiann2 sian lai5."
+        ],
+        [
+          "誠心卜請龍眼娘，直日功曹接信香，將伊个香執在手，騰雲駕霧出戰場。",
+          "Seng5-sim beh chhiann2 Leng5-geng2-niu5, tit8-jit8 kong-cho5 chih sin3-hiunn, chiong i e5 hiunn chip chai7 chhiu2, theng5-hun5 ka3-bu7 chhut chian3-tiunn5."
+        ],
+        [
+          "來到團圓金丸洞，龍眼座禪訓練功，功曹送香專不廣，仙姑鼻香情難當。",
+          "Lai5 kau3 Thoan5-oan5 Kim-oan5-tong7, Leng5-geng2 cho7-sian7 hun3-lian7 kong, kong-cho5 sang3 hiunn choan m7 kong2, sian-kou phinn7 hiunn cheng5 lan5-tong."
+        ],
+        [
+          "龍眼掘指就知影，仙娥下凡大植營，眾人迎請葡萄子，卜共桑才大須營。",
+          "Leng5-geng2 khut-chainn2 chiu7 chai-iann2, Sian-ngou5 ha7-hoan7 toa7-sit8 iann5, cheng3-lang5 ngia5 chhiann2 Phu5-to5-kiann2, beh ka7 Sng-chai5 toa7 su-iann5."
+        ],
+        [
+          "葡萄仙娥就出陣，奉師法旨下凡塵，陣內戰鼓摧真緊，共伊桑才柄認真。",
+          "Phu5-to5 Sian-ngou5 chiu7 chhut-tin7, hong7 su hoat-chi2 ha7 hoan5-tin5, tin7-lai7 chian3-kou2 chhui chin kin2, kang7 i Sng-chai5 piann3 jin7-chin."
+        ],
+        [
+          "桑才伊執桑葉扇，仙娥藤根執一枝，二人上陣柄生死，各人祭寶真出奇。",
+          "Sng-chai5 i chip sng-hioh8-sinn3, Sian-ngou5 tin5-kin chip chit8 ki, nng7 lang5 chiunn7-tin7 piann3 sinn-si2, kok-lang5 che3-po2 chin chhut-ki5."
+        ],
+        [
+          "桑才敗陣祭桑葉，扇葉个風真正燒，葡萄仙娥想愛笑，罵伊桑才禍自招。",
+          "Sng-chai5 pai7-tin7 che3 sng-hioh8, sinn3-hioh8 e5 hong chin-chiann3 sio, Phu5-to5 Sian-ngou5 siunn7 ai3 chhio3, ma7 i Sng-chai5 ho7 chu7 chio."
+        ],
+        [
+          "葡萄祭石緊開嘴，五光石頭吐歸追，祭在空中真正水，五彩神光格相隨。",
+          "Phu5-to5 che3 chioh8 kin2 khui-chhui3, ngou2-kong chioh8-thau5 thou3 kui-tui, che3 chai7 khong-tiong chin-chiann3 sui2, ngou2-chhai2 sin5-kong kek siong-sui5."
+        ],
+        [
+          "桑才刣須走回營，葡萄遁入不做聲，乎伊桑才不知影，看無紅柿隻大驚。",
+          "Sng-chai5 thai5-su chau2 hoe5 iann5, Phu5-to5 tun7 jip8 m7 cho3-siann, hou7 i Sng-chai5 m7 chai-iann2, khoann3 bo5 Ang5-khi7 chiah toa7-kiann."
+        ],
+        [
+          "所致菱角不成鬼，被人偷回無克虧，仙娥背返來到位，芎蕉暢甲嘴開開。",
+          "Sou2-ti3 Leng5-kak m7-chiann5 kui2, pi7 lang5 thau hoe5 bo5 khek-khui, Sian-ngou5 ainn7 tng2 lai5 kau3-ui7, Kin-chio thiong3 kah chhui3 khui-khui."
+        ],
+        [
+          "敢謝葡萄汝來救，那無紅柿生命休，大家塊食慶賀酒，菱角想卜報冤仇。",
+          "Kam2-sia7 Phu5-to5 li2 lai5 kiu3, na7 bo5 Ang5-khi7 sinn3-mia7 hiu, tai7-ke teh chiah8 kheng3-ho7 chiu2, Leng5-kak siunn7 beh po3 oan-siu5."
+        ],
+        [
+          "菱角不願閣出戰，現出原形變代先，仙娥着驚煞未變，喬着葡萄狂狂顛。",
+          "Leng5-kak m7 goan7 koh chhut-chian3, hian7-chhut goan5-heng5 pian3 tai7-seng, Sian-ngou5 tioh8-kiann soa3 be7 pian3, kiau7 tioh8 Phu5-to5 khong5-khong5 tian."
+        ],
+        [
+          "葡萄敗陣起腳走，食落仙丹閣回頭，即部乎人想未到，走入敵營用暗偷。",
+          "Phu5-to5 pai7-tin7 khi2-kha chau2, chiah8 loh8 sian-tan koh hoe5-thau5, chit pou7 hou7 lang5 siunn7 be7 kau3, chau2 jip8 tek8-iann5 eng7 am3-thau."
+        ],
+        [
+          "遁入內面偷看了，葡萄仙藤祭一條，桑才力返算大賬，想着即恨罪難消。",
+          "Tun7 jip8 lai7-bin7 thau-khoann3 liau2, Phu5-to5 sian-tin5 che3 chit8 tiau5, Sng-chai5 liah8 tng2 sng3 toa7-siau3, siunn7 tioh8 chiah hun7 choe7 lan5 siau."
+        ],
+        [
+          "卜刣正人勸不好，代念養蠶个功勞，禁在監牢免伊到，以后水梨卜伐落。",
+          "Beh thai5 cheng3-ang5 khng3 m7 ho2, tai3-liam7 iunn2-chham5 e5 kong-lo5, kim3 chai7 kann-lo5 bian2 i to3, i2-au7 Chui2-lai5 beh hoat8-loh8."
+        ],
+        [
+          "來將桑才來皆放，解勸菱角來投降，損軍了糧真害桶，不免眾仙費了工。",
+          "Lai5 chiong Sng-chai5 lai5 kai5 pang3, kai2-khng3 Leng5-kak lai5 tau5-hang5, sun2-kun liau2- niu5 chin hai7-thang2, m7 bian2 chiong3-sian hui3-liau2 kang."
+        ],
+        [
+          "桑才放回性不解，閣去仙山請人來，加己不知能呆代，專卜逆天甲人刣。",
+          "Sng-chai5 hong3-hoe5 seng3 put-kai2, koh khi3 sian-soann chhiann2 lang5 lai5, ka-ki7 m7 chai e7 phainn2-tai7, choan beh gek8-thinn kah lang5 thai5."
+        ],
+        [
+          "來到金峰黃花島，金光洞內金柑姑，即个又閣是查某，桑才共伊廣歸埔。",
+          "Lai5 kau3 Kim-hong Ng5-hoe-to2, Kim-kong-tong7 lai7 Kim-kam kou, chit e5 iu7-koh si7 cha-bou2, Sng-chai5 kang7 i kong2 kui-pou."
+        ],
+        [
+          "金柑聽了大受氣，提出寶貝在身邊，楊桃樹梅不知死，串做代志卜逆天。",
+          "Kim-kam thiann liau2 toa7 siu7-khi3, theh8 chhut po2-poe3 chai7 sin-pinn, Iunn5-to5 Chhiu7-m5 m7 chai si2, chhoan3 cho3 tai7-chi3 beh gek8-thinn."
+        ],
+        [
+          "金柑手執黃金莿，相刣即款做家施，閣能運動人元氣，金光燦爛真正奇。",
+          "Kim-kam chhiu2 chip ng5-kim-chhi3, sio-thai5 chit khoan2 cho3 ke-si, koh e7 un7-tang7 lang5 goan5-khi3, kim-kong chhan3-lan7 chin-chiann3 ki5."
+        ],
+        [
+          "金柑出陣祭金光，葡萄着驚亂亂藏，敗陣走返通不廣，暗暗偷ビ在后方。",
+          "Kim-kam chhut-tin7 che3 kim-kong, Phu5-to5 tioh8-kiann loan7-loan7 chong5, pai7-tin7 chau2 tng2 thong m7 kong2, am3-am3 thau bih chai7 au7-hong."
+        ],
+        [
+          "仙娥暗祭葡萄藤，金柑被伊梱在身，縛在身軀綑緊緊，寶貝利害實非輕。",
+          "Sian-ngou5 am3 che3 phu5-to5-tin5, Kim-kam pi7 i khun2 chai7 sin, pak8 chai7 seng-khu khun2 kin2-kin2, po2-poe3 li7-hai7 sit8 hui khin."
+        ],
+        [
+          "金柑被禁在后營，桑才聞報着大驚，廣乎正人伊知影，閣去請仙來須營。",
+          "Kim-kam pi7 kim3 chai7 au7-iann5, Sng-chai5 bun5 po3 tioh8 toa7-kiann, kong2 hou7 cheng3-ang5 i chai-iann2, koh khi3 chhiann2 sian lai5 su-iann5."
+        ],
+        [
+          "來到翠藍黃瓜洞，金桔仙姑瓦西方，桑才入洞緊去廣，被伊格甲氣蒼蒼。",
+          "Lai5 kau3 Chhui3-na5 Ng5-koe-tong7, Kim-kiat sian-kou oa2 se-hong, Sng-chai5 jip8 tong7 kin2 khi3 kong2, pi7 i kek kah khi3 chhong-chhong."
+        ],
+        [
+          "桑才效肖上不好，格伊金桔心火刀，共伊桑才做陣到，不是伊死我命無。",
+          "Sng-chai5 hau-siau5 siong7 m7 ho2, kek i Kim-kiat sim-hoe2 toh, kang7 i Sng-chai5 cho3-tin7 to3, m7 si7 i si2 goa2 mia7 bo5."
+        ],
+        [
+          "即擺兩平來出陣，戰法大家閣換新，金桔莿捧摧真謹，仙娥伊拋葡萄藤。",
+          "Chit pai2 liong2-peng5 lai5 chhut-tin7, chian3-hoat tai7-ke koh oann7-sin, Kim-kiat chhi3-pang7 chhui chin kin2, Sian-ngou5 i pha phu5-to5 tin5."
+        ],
+        [
+          "葡萄來戰伊金桔，刣甲身燒頭面烈，二人拜師所訓練，為着楊桃仙柄仙。",
+          "Phu5-to5 lai5 chian3 i Kim-kiat, thai5 kah sin sio thau5-bin7 liat8, nng7 lang5 pai3-su sou2 hun3-lian7, ui7 tioh8 Iunn5-to5 sian piann3 sian."
+        ],
+        [
+          "金桔祭出桔仔搥，仙娥藤仔展開開，祭在空中來到位，能縛桔仔足古錐。",
+          "Kim-kiat che3 chhut kiat-a2-thui5, Sian-ngou5 tin5-a2 tian2 khui-khui, che3 chai7 khong-tiong lai5 kau3-ui7, e7 pak8 kiat-a2 chiok kou2-chui."
+        ],
+        [
+          "葡萄仙藤那綑索，縛入桔仔在天羅，櫻桃水梨成呵老，專是葡萄个功勞。",
+          "Phu5-to5 sian-tin5 na2 khun2-soh, pak8 jip8 kiat-a2 chai7 thian-lo5, Eng-tho5 Chui2-lai5 chiann5 o-lo2, choan si7 Phu5-to5 e5 kong-lo5."
+        ],
+        [
+          "桑才即擺上青慘，連失金桔甲金柑，煩惱失神不知暗，定定領須足不甘。",
+          "Sng-chai5 chit pai2 siong7 chhinn-chham2, lian5 sit Kim-kiat kah Kim-kam, hoan5-lo2 sit sin5 m7 chai am3, tiann7-tiann7 nia2-su chiok m7 kam."
+        ],
+        [
+          "管糧來報無糧草，桑才煩惱亂抄抄，無通食過七下罩，摧糧个人分雙頭。",
+          "Koan2-niu5 lai5 po3 bo5 niu5-chhau2, Sng-chai5 hoan5-lo2 loan7-chhau-chhau, bo5 thang chiah8 koe3 chhit e7-tau3, chhui-niu5 e5 lang5 hun siang-thau5."
+        ],
+        [
+          "去摧藍拔關刀豆，叫伊運糧謹來交，菱角一生極肴走，天王走甲無曰頭。",
+          "Khi3 chhui Na5-poat8 Koan-to-tau7, kio3 i un7-niu5 kin2 lai5 kau, Leng5-kak it-seng kek8 gau5 chau2, thian-ong5 chau2 kah bo5 oat8-thau5."
+        ],
+        [
+          "藍拔橄欖運糧草，運來大營謹來交，到位[門@丨]好日頭罩，二人交令入內頭。",
+          "Na5-poat8 Kann-na2 un7 niu5-chhau2, un7 lai5 toa7-iann5 kin2 lai5 kau, kau3-ui7 tu2-ho2 jit8-thau5 tau3, nng7 lang5 kau leng7 jip8 lai7-thau5."
+        ],
+        [
+          "就問出戰勝亦敗，藍拔聽說笑咳咳，那廣出戰我上愛，明日我去甲伊刣。",
+          "Chiu7 mng7 chhut-chian3 seng3 iah8 pai7, Na5-poat8 thiann seh chhio3-hai-hai, na7 kong2 chhut-chian3 goa2 siong7 ai3, beng5-jit8 goa2 khi3 kah i thai5."
+        ],
+        [
+          "出陣就招關刀豆，二位大王出外頭，不知好呆開步走，鴛鴦豆兵代先抄。",
+          "Chhut-tin7 chiu7 chio Koan-to-tau7, nng7 ui7 tai7-ong5 chhut goa7-thau5, m7 chai ho2-phainn2 khui-pou7 chau2, Oan-iunn tau7-peng tai7-seng chhau."
+        ],
+        [
+          "兩平通批卜出戰，王萊將軍箭做前，瓜子武藝亦卜展，[門@丨]着藍拔隻了然。",
+          "Liong2-peng5 thong-phoe beh chhut-chian3, Ong5-lai5 chiong-kun chinn3 cho3-chian5, Koe-chi2 bu2-ge7 iah8 beh tian2, tu2 tioh8 Na5-poat8 chiah liau2-jian5."
+        ],
+        [
+          "王萊瓜子通刣敗，卜知伊亦不敢來，二將知了能呆代，葡萄祭寶無人知。",
+          "Ong5-lai5 Koe-chi2 thong thai5-pai7, beh chai i iah8 m7 kann2 lai5, nng7 chiong3 chai liau2 e7 phainn2-tai7, Phu5-to5 che3-po2 bo5 lang5 chai."
+        ],
+        [
+          "仙娥暗祭葡萄藤，無彩二个成認真，將伊拔豆縛謹謹，任汝先走未脫身。",
+          "Sian-ngou5 am3 che3 phu5-to5-tin5, bo5-chhai2 nng7 e5 chiann5 jin7-chin, chiong i phoah8 tau7 pak8 kin2-kin2, jim7 li2 sian chau2 be7 thoat-sin."
+        ],
+        [
+          "力着藍拔關刀豆，即漸柚仔卜出頭，桑才親身請伊到，官兵刣須亂抄抄。",
+          "Liah8 tioh8 Na5-poat8 Koan-to-tau7, chit cham7 Iu7-a2 beh chhut-thau5, Sng-chai5 chhin-sin chhiann2 i kau3, koann-peng thai5-su loan7-chhau-chhau."
+        ],
+        [
+          "柚仔出陣連連勝，櫻桃刣須大不明，專用柚汁个本頂，[門@丨]着甘蔗難同情。",
+          "Iu7-a2 chhut-tin7 lian5-lian5 seng3, Eng-tho5 thai5-su toa7 put-beng5, choan eng7 iu7-chiap e5 pun2-teng2, tu2 tioh8 Kam-chia3 lan5 tong5-cheng5."
+        ],
+        [
+          "眾人刣須通通走，甘蔗祭出甘蔗頭，打着斗柚開聲哭，葡萄仙娥后頭包。",
+          "Cheng3-lang5 thai5-su thong-thong chau2, Kam-chia3 che3 chhut kam-chia3-thau5, phah tioh8 Tau2-iu7 khui-siann khau3, Phu5-to5 Sian-ngou5 au7-thau5 pau."
+        ],
+        [
+          "仙娥祭出葡萄藤，柚仔先走未脫身，斗柚員員黃皮面，禁在監牢足可憐。",
+          "Sian-ngou5 che3 chhut phu5-to5-tin5, Iu7-a2 sian chau2 be7 thoat-sin, Tau2-iu7 inn5-inn5 ng5 phe5-bin7, kim3 chai7 kann-lo5 chiok kho2-lin5."
+        ],
+        [
+          "桑才聽着知呆代，無花果仙加治來，即位仙長帶上界，未來過去專能知。",
+          "Sng-chai5 thiann tioh8 chai phainn2-tai7, Bu5-hoa-ko2-sian ke-ti7 lai5, chit ui7 sian-tiunn2 toa3 siong7-kai3, bi7-lai5 koe3-khi3 choan5 e7 chai."
+        ],
+        [
+          "僥倖加治來討死，見着葡萄無半糸，[門@丨]着油柑來到止，走來出陣卜救伊。",
+          "Hiau-heng7 ke-ti7 lai5 tho2-si2, kinn3 tioh8 Phu5-to5 bo5 poann3-si, tu2 tioh8 Iu5-kam lai5 kau3 chi2, chau2 lai5 chhut-tin7 beh kiu3 i."
+        ],
+        [
+          "油柑卜救戰龍眼，龍眼个殼祭代先，油柑走入車拔炳，二人被力難做情。",
+          "Iu5-kam beh kiu3 chian3 Leng5-geng2, Leng5-geng2 e5 khak che3 tai7-seng, Iu5-kam chau2 jip8 chhia-poah8-peng2, nng7 lang5 pi7 liah8 lan5 cho3-cheng5."
+        ],
+        [
+          "頻苞親來賊營內，自領出爭愛相刣，紅棗進貢上介愛，棗棍執對大營來。",
+          "Pin5-po5 chhin lai5 chhat8-iann5 lai7, chu7 nia2 chhut-cheng ai3 sio-thai5, Ang5-cho2 chin3-kong3 siong7-kai3 ai3, cho2-kun3 chip tui3 toa7-iann5 lai5."
+        ],
+        [
+          "頻苞第一驚棗莿，紅棗員外紅綿綿，頻苞戇面不知死，被打大空甲小裂。",
+          "Pin5-po5 te7-it kiann cho2-chhi3, Ang5-cho2 goan5-goe7 ang5-mi5-mi5, Pin5-po5 gong7-bin7 m7 chai si2, pi7 phah toa7-khang kah se3-lih8."
+        ],
+        [
+          "凸柑皇后有災難，身体有病不平安，批把求醫店塊等，佛手大仙下凡間。",
+          "Phong3-kam hong5-hio7 u7 chai-lan7, sin-the2 u7 pinn7 m7 peng5-an, Pi5-pe5 kiu5-i tiam3 teh tan2, Hut8-chhiu2 tai7-sian ha7 hoan5-kan."
+        ],
+        [
+          "仙草道童甲水梨，西竺山中師徒來，卜請二仙做好代，到京釋迦上金階。",
+          "Sian-chhau2 to7-tong5 kah Chui2-lai5, Se-tiok soann-tiong su-tou5 lai5, beh chhiann2 nng7 sian cho3 ho2-tai7, kau3 Kiann Sek-khia chiunn7 kim-kai."
+        ],
+        [
+          "批把救某命要謹，款待二仙做上賓，醫治柑后入內面，釋迦佛手染凡塵。",
+          "Pi5-pe5 kiu3 bou2 mia7 iau3-kin2, khoan2 thai7 nng7 sian cho3 siong7-pin, i-ti7 Kam-hio7 jip8 lai7-bin7, Sek-khia Hut8-chhiu2 jiam2 hoan5-tin5."
+        ],
+        [
+          "柑后病体醫好好，相刣二仙煞廣和，即款一國廣百果，佛手釋迦藝術高。",
+          "Kam-hio7 pinn7-the2 i ho2-ho2, sio-thai5 nng7 sian soa3 kong2-ho5, chit khoan2 chit8 kok kong2 pah-ko2, Hut8-chhiu2 Sek-khia ge7-sut8 ko."
+        ],
+        [
+          "香員个手變千丈，去力眾仙在中央，兩平和解伊即返，代志到者編盡門。",
+          "Hiunn-inn5 e5 chhiu2 pian3 chhian tng7, khi3 liah8 chiong3 sian chai7 tiong-ng, liong2-peng5 ho5-kai2 i chiah tng2, tai7-chi3 kau3 chia pian chin7-mng5."
+        ]
+      ],
+      "篇名": "最新百果歌"
+    }
+  ]
+}

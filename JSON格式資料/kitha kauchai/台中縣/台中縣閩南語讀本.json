@@ -1,0 +1,510 @@
+{
+  "出版年": "1999",
+  "出版者": "台中縣政府",
+  "年級別": "無",
+  "文類": "其他教材",
+  "書名": "台中縣本土語文教材－閩南語讀本",
+  "書寫系統": "漢字",
+  "資料": [
+    {
+      "段": [
+        [
+          "一、台灣竹枝詞",
+          "It4, Tai5-uan5 tik4-ki1-su5"
+        ],
+        [
+          "半種花園半種田，兒家生計總由天。楝花風後黃梅雨，滿地珍珠不計錢。",
+          "Puan3 tsiong3 hua1-uan5 puan3 tsiong2 tian5, ji5 ka1 sing1-ke3 tsong2 iu5-thian1. lian7-hua1 hong1 hoo7 hong5-mui5-u2, buan2-tue7 tin1-tsu1 put4-ke3 tsian5."
+        ],
+        [
+          "二、台南竹枝詞",
+          "Ji7, Tai5-lam5 tik4-ki1-su5"
+        ],
+        [
+          "散步閒吟萬葉歌，翩翩裙履任婆娑。美人樓畔推窗看，拍手相和喚艷多。",
+          "San3-poo7 han5 gim5 ban7 iap8 ko1, phian1-phian1 kun5-li2 jim7 po5-so1. bi2-jin5 loo5 puan7 thui1-thang1 khuann3, phik4-siu2 siong1-ho5 huan3 iam7 to1."
+        ],
+        [
+          "三、台中竹枝詞",
+          "Sann1, Tai5-tiong1 tik4-ki1-su5"
+        ],
+        [
+          "下山採茶日欲沈，上山伐木雲未深。山歌一曲誰家女，半帶漳音半粵音。",
+          "Ha7-san1 tshai2-tsha5 jit8 iok8 tim5, siong7-san1 huat8-bok8 hun5 bi7 tshim1. san1-ko1 it4-khiok4 sui5-ka1 lu2, puan3-tai3 tsiong1-im1 puann3 uat8-im1."
+        ],
+        [
+          "四、泰雅族竹枝詞",
+          "Si3, Thai3-nga2-tsok8 tik4-ki1-su5"
+        ],
+        [
+          "溪水清澄捕有魚，樹懸瓜果地陳蔬。族人厭捲甜酸味，呼嘯山中獵野豬。",
+          "Khe1-tsui2 tshing1-ting5 poo7 iu2 gu5, su7 hian5 kua1-ko2 te7 tin5 su1. tsok8-jin5 iam3-kuan7 tiam5-suan1 bi7, hoo1-siau3 san1-tiong liap8 ia2-tu1"
+        ]
+      ],
+      "篇名": "第一課  竹枝詞選粹四首"
+    },
+    {
+      "段": [
+        [
+          "一、易水歌",
+          "It, ik8-sui2 kua1"
+        ],
+        [
+          "風蕭蕭兮易水寒，壯士一去兮不復還。",
+          "Hong1 siau1-siau1 he5 ik8-sui2 han5, tsong3-su7 it-khi3 he5 put4 hiu3-huan5."
+        ],
+        [
+          "二、登鸛鵲樓",
+          "Ji7,Ting kuan3-tshiok4-loo5"
+        ],
+        [
+          "白日依山盡，黃河入海流。欲窮千里目，更上一層樓。",
+          "Pik8-jit8 i1 san1 tsin7, hong5-ho5 jip8 hai2 liu5. iok8 kiong5 tshian1-li2 bok8, king7 siong7 it4 tsing5 liu5."
+        ],
+        [
+          "三、楓橋夜泊",
+          "Sann1, Hong1-kiau5 ia7 poh8"
+        ],
+        [
+          "月落烏啼霜滿天，江楓漁火對愁眠。姑蘇城外寒山寺，夜半鐘聲到客船。",
+          "Guat8 lok8 oo1 the5 song1 bua2-thian1, kang1 hong1 gu5-hoe2 tui3 tshiu5 bian5. koo1-soo1 sing5-gue7 han5-san1-si7, ia7 puann3 tsiong1 sing1 to3 khik4 suan5."
+        ],
+        [
+          "四、春望",
+          "Si3, tshun1 bong7"
+        ],
+        [
+          "國破山河在，城春草木深。感時花濺淚，恨別鳥驚心。烽火連三月，家書抵萬金。白頭搔更短，渾欲不勝簪。",
+          "Kok4 pho3 san1-ho5 tsai7, sing5 tshun1 tsho2-bok8 tshim1. kam2 si5 hua1 tsian7 lui7, hun7 piat8 niau2 king1-sim1. hong1-honn2 lian5 sam1-guat8, ka1-su1 ti2 ban7-kim1. pik8-thoo5 so1 king3 tuan2, hun5 iok8 put4-sing1 tsim1."
+        ],
+        [
+          "五、登金陵鳳凰臺",
+          "Goo7,Ting1 kim-ling5 hong7-hong5-tai5"
+        ],
+        [
+          "鳳凰臺上鳳凰遊，鳳去臺空江自流。吳宮花草埋幽徑，晉代衣冠成古丘。三山半落青天外，二水中分白鷺洲。總為浮雲能蔽日，長安不見使人愁。",
+          "Hong7-hong5 tai5-siong7 hong7-hong5 iu5, hong7 khu3 tai5 khong1 kang1 tsu7 liu5. ngoo5-kiong1 hua1-tsho2 bai5 iu1-king3, tsin3-tai7 i1-kuan1 sing5 koo2-khiu1. sam1 san1 puann3-lok8 tshing1-thian gue7, ji7 sui2 tiong1 hun1 pik8-loo7-tsiu1. tsong2 ui7 hoo5-un5 ling5 pe3-jit8, tiong5-an1 put4-kinn3 su2-jin5 tshiu5."
+        ],
+        [
+          "六、相見歡",
+          "Lak8, siong1-kian3-huann1"
+        ],
+        [
+          "林花謝了春紅，太匆匆。無奈朝來寒雨，晚來風。胭脂淚，留人醉，幾時重。自是人生長恨，水長東。",
+          "Lim5 hua1 sia7 liau2 tshun1 hong5, thai3-tshong1-tshong1. bu5-nai7 tiau1 lai5 han5 u2, buan2 lai5 hong1. ian1-tsi1 lui7, liu5 jin5 tsui3, ki2-si5 tiong5. tsu7-si7 jin5-sing1 tiong2 hun7, sui2 tiong2 tong1."
+        ],
+        [
+          "七、天淨沙",
+          "Tshit4, Thian-tsing7-sa1"
+        ],
+        [
+          "枯藤老樹昏鴉。小橋流水人家。古道西風瘦馬。夕陽西下，斷腸人在天涯。",
+          "Koo1-ting5 lo2-su7 hun1-a1. siau2 kiau5 liu5-sui2 jin5-ka1. koo2 to7 se1-hong1 soo2 ma2. sik8-iong5 se ha7, tuan7-tiong5-jin5 tsai7 thian1-gai5."
+        ]
+      ],
+      "篇名": "第二課  古詩文選粹七首"
+    },
+    {
+      "段": [
+        [
+          "一、三字經節錄",
+          "It4, sam-ju7-king1 tsiat4-liok8"
+        ],
+        [
+          "人之初，性本善；性相近，習相遠。苟不教，性乃遷；教之道，貴以專。昔孟母，擇鄰處；子不學，斷機杼。竇燕山，有義方；教五子，名俱揚。養不教，父之過；教不嚴，師之惰。子不學，非所宜；幼不學，老何為。玉不琢，不成器；人不學，不知義。為人子，方少時，親師友，習禮儀。",
+          "Jin5 tsi1 tshoo1, sing3 pun2 sian7; sing3 siong3 kun7, sip8 siong3 uan2. koo2 put4 kau3, sing3 nai2 tshian1; kau3 tsi1 to7, kui3 i2 tsuan1. sik4 bing7-bu2, tik8 lin5 tshu2; tsu2 put4 hak8, tuan7 ki1-thu2. too7 ian3-san1, iu2 gi7 hong1; kau3 ngoo2 tsu2, bing5 ku7 iong5. iong2 put4 kau3, hu7 tsi1 ko3; kau3 put4 giam5, su1 tsi1 to7. tsu2 put4 hak8, hui1 soo2 gi5; iu3 put4 hak8, lo2 ho5 ui7. gik8 put4 tok4, put4 sing5 khi3; jin5 put4 hak8, put4 ti1 gi7. ui5 jin5 tsu2, hong1 siau3 si5, tshin1 su1 iu2, sip8 le2-gi5."
+        ],
+        [
+          "二、千字文節錄",
+          "Ji7, tshian1-ju7-bun5 tsiat4-liok8"
+        ],
+        [
+          "天地玄黃，宇宙洪荒；日月盈昃，辰宿列張。寒來暑往，秋收冬藏；閏餘成歲，律呂調陽。雲騰致雨，露結為霜；金生麗水，玉出崑岡。劍號巨闕，珠稱夜光；果珍李柰，菜重芥薑。",
+          "Thian1-te7 han5-hong5, u2-tiu7 hong5-hong1; jit8-guat8 ing5-tsik4, sin5-siu3 liat8 tiong1. han5 lai5 su2 ong2, tshiu1 siu tong1 tsong5; jun7 u5 sing5 sue3, lut8 lu7 tiau7 iong5. hun5 ting5 ti3 u2, loo7 kiat4 ui5 song1; kim1 sing1 le7 sui2, gik8 tshut4 khun1 kong1. kiam3 ho7 ku7 khuat4, tsu1 tshing1 ia7 kong1; ko2 tin1 li2 nai7, tshai3 tiong7 kai3 kiong1."
+        ]
+      ],
+      "篇名": "第三課  傳統蒙書選粹"
+    },
+    {
+      "段": [
+        [
+          "較早有一個看錢若生命的人，有一工，於路頂捨著一貫錢，伊非常的歡喜。就此以後，伊攏頭[氐+頁][氐+頁]地行路，看路頂猶有錢當捨無？",
+          "Khah4-tsa2 u7 tsit8 e5 khuann3 tsinn5 na7 sinn3-mia7 e5 lang5, u7 tsit8 kang1, ti7 loo7-ting2 khioh4 tioh8 it4 kuan3 tsinn5, i1 hui1-siong5 e5 huann1-hi2. tsiu7 tshu2 i2-au7, i1 long2 thau5-le5-le5 te7 kiann5-loo7, khuann3 loo7-ting2 iau2 u7 tsinn5 tang3 khioh4 bo5?"
+        ],
+        [
+          "有一擺，於十五暝，伊合平常時仔共款頭[氐+頁][氐+頁]行到水池仔邊。遑遑，伊看著水池仔內金光閃閃，目珠斟酌一看，伊歡喜到大叫：「啊！一塊大金角！」就安爾，伊鞋仔也無褪，褲骹也無撆，就趕緊的蹌入水池仔內，欲去捊彼塊大金角。伊於水池仔內又捎又捊，將原本清氣的池仔水撓濁去矣，而且弄到歸身軀垃圾哩囉，卻猶是撓著彼塊大金角。伊非常失望，就爬起來岸頂坐咧。",
+          "U7 tsit8 pai2, ti7 tsap8-goo7-mi5, i1 kah4 ping5-siong5-si5-a2 kang7-khuan2 thau5-le5-le5 kiann5 kau3 tsui2-ti5-a2 pinn1. hiong5-hiong5, i1 khuann3 tioh8 tsui2-ti5-a2 lai7 kim1-kong1-siam2-siam2, bak8-tsiu1 tsim1-tsiok4 tsit8 khuann3, i1 huann1-hi2 kah4 tua7 kio3: 'a2! tsit8 te3 tua7 kim1-kak4! ' tsiu7 an2-ne1, i1 e5-a2 ma7 bo5 thng3, khoo3-kha1 ma7 bo5 pih4 , tio7 kuann2-kin2 e5 tsong5 jip8 tsui2-ti5-a2 lai7, beh4 khi3 hoo5 hit4 te3 tua7 kim1-kak4. i1 ti7 tsui2-ti5-a2 lai7 iu7 sa1 iu7 hoo5, tsiong1 guan5-pun2 tshing-khi3 e5 ti5-a2 tsui2 la7 lo5--khi3 a3, ji5-tshiann2 long7 kah4 kui1-sing1-khu1 lah4-sap4-li2-lo5, khiok4 iau2 si7 la7 be7 tioh8 hit4 te3 tua7 kim1-kak4. i1 hui1-siong5 sit4-bong7, tio7 peh4 khi2 lai5 huann7-ting2 tse7--leh4."
+        ],
+        [
+          "過一時仔，水池仔內的水又復變清氣囉，伊復看著彼塊大金角，就安爾伊馬上走入水池仔內捊大金角，但是猶原無法度捊著。適好這個時陣，有一個人由水池仔邊經過，看著伊於水池仔內撈來撈去，真好奇給伊問講：「你在創什麼？」伊指水池仔底講：「我在捊金角啦！」彼個人看一下仔水面。就指天頂的月娘講：「戇人，彼個是月娘的影啦！」這時陣，伊才發現原來費了歸暗的時間，捊的竟然是水中的月娘。",
+          "Kue3 tsit8-si5-a2, tsui2-ti5-a2 lai7 e5 tsui2 iu7-koh4 pian3 tshing1-khi3 loo3, i1 koh4 khuann3 tioh8 hit4 te3 tua7 kim1-kak4, tio7 an2-ne1 i1 ma2-siong7 tsau2 jip8 tsui2-ti5-a2 lai7 hoo5 tua7 kim1-kak4, tan7-si7 iu5-guan5 bo5 huat4-too7 hoo5--tioh8. tu2-ho2 tsit4 e5 si5-tsun7, u7 tsit8 e5 lang5 tui3 tsui2-ti5-a2 pinn1 king1-kue3, khuann3 tioh8 i1 ti7 tsui2-ti5-a2 lai7 la7 lai5 la7 khi3, tsin1 honn3-ki5 kah4 i1 mng7 kong2: 'li2 le1 tshong3 siann2-mih8? ' i1 tsi2 tsui2-ti5-a2 te2 kong2: 'gua2 le1 hoo5 kim1-kak4 la3! ' hit4 e5 lang5 khuann3 tsit8-e7 a2 tsui2-bin7. tio7 tsi2 thinn1-ting2 e5 gueh8-niu5 kong2: 'gong7-lang5, hit4 e5 si7 gueh8-niu5 e5 iann2 la3! ' tsit4-si5-tsun7, i1 tsiah4 huat4-hian7 guan5-lai5 hui3 liau2 kui1-am3 e5 si5-kan1, hoo5 e5 king3-jian5 si7 tsui2-tiong1 e5 gueh8-niu5."
+        ],
+        [
+          "這個故事的主角因為缺乏知識，才會將月娘的影當做大金角，浪費了真濟的時間和體力，做出令人可笑的事志。由這會當了解，知識會當幫助咱知影真濟事物的道理，充實咱的人生。所以咱要輒學、輒讀、輒看、輒聽，安爾才會當做一個有智慧的人。",
+          "Tsit4 e5 koo3-su7 e5 tsu2-kak4 in1-ui7 khuat4-huat8 ti3-sik4, tsiah4 e7 tsiong3 gueh8-niu5 e5 iann2 tong3-tso3 tua7 kim1-kak4, long7-hui3 liau2 tsin1 tse7 e5 si5-kan1 ham7 the2-lik8, tso3 tshut4 ling7-jin5 kho2-tshio3 e5 tai7-tsi3. tui3 tsia1 e7-tang3 liau2-kai2, ti3-sik4 e7-tang3 pang1-tsoo7 lan2 tsai1-iann2 tsin1 tse7 su7-but8 e5 to7-li2, tshiong1-sit8 lan2-e5 jin5-sing1. soo2-i2 lan2 ai3 tsiap8 oh8, tsiap8 tok8, tsiap8 khuann3, tsiap8 thiann1, an2-ne1 tsiah4 e7-tang3 tso3 tsit8 e5 u7 ti3-hui7 e5 lang5."
+        ]
+      ],
+      "篇名": "第四課  水底捊月"
+    },
+    {
+      "段": [
+        [
+          "古早有一位將軍帶領著軍隊欲去前方作戰，將軍胸有成竹充滿了信心，認為這擺的戰爭一定會打贏，但是伊的部下就無伊那麼樂觀，一點仔都無勝利的把握。將軍看著部下士氣真低，心內想講安爾是欲安怎相刣呢？將軍一粒頭兩粒大，想啊想，遂去予伊想出辦法來。有一工，將軍召集所有的將士，於一間廟前，合講：「各位部將，咱今仔日就欲出陣矣，到底會打贏抑是戰輸？咱來懇求神明給咱做指示。我這有一個銅錢仔，將伊擲落土骹，若是正面向頂懸，就表示神明指示這場戰爭一定勝利；若是反面向面頂，就表示這場戰爭會失敗。」",
+          "Koo2-tsa2 u7 tsit8 ui7 tsiong1-kun1 tua3-nia2 tioh8 kun1-tui7 beh4 khi3 tsian5-hong1 tsok4-tsian3, tsiong1-kun1 hiong1-iu2-sing5-tiok4 tshiong1-mua2 liau2 sin3-sim1, jin7-ui5 tsit4 pai2 e5 tsian3-tsing1 it4-ting7 e7 phah4 iann5, tan7-si7 i1 e5 poo7-ha7 tio7 bo5 i1 hiah4-ni7 lok8-kuan1, tsit8-tiam2-a2 to bo5 sing3-li7 e5 pa2-ak4. tsiong1-kun1 khuann3 tioh8 poo7-ha7 su7-khi3 tsin1 ke7, sim1-lai7 siunn7 kong2 an2-ne1 si7 beh4 an1-tsuann2 sio1-thai5 ne1? Tsiong1-kun1 tsit8 liap8 thau5 nng7 liap8 tua7, siunn7 a2 siunn7, suah4 khi3 hoo7 i1 siunn7 tshut4 pan7-huat4 lai5. u7 tsit8 kang1, tsiong1-kun1 tiau3-tsip8 soo2-u7 e5 tsiong3-su7, ti7 tsit8 king1 bio7 tsing5, kah4 in1 kong2: 'kok4-ui7 poo7-tsiong3, lan2 kin1-a2-jit8 tio7 beh4 tshut4-tin7 a7, tau3-te2 e7 tann2 iann5 iah4 si7 tsian3 su1? lan2 lai5 khun2-kiu5 sin5-bing5 kah4 lan2 tso3 tsi2-si7. gua2 tsia1 u7 tsit8 e5 tang5-tsinn5-a2, tsiong1 i1 tan3 lok8 thoo5-kha1, na7 si7 tsiann3-bin7 hiong3 ting2-kuan5, tio7 piau2-si7 sin5-bing5 tsi2-si7 tsit4 tiunn5 tsian3-tsing1 it4-ting7 sing3-li7; na7 si7 huan2-bin7 hiong3 bin7-ting2, tio7 piau2-si7 tsit4 tiunn5 tsian3-tsing1 e7 sit4-pai7."
+        ],
+        [
+          "聽著這些話了後，部將及兵仔攏真虔誠在祈禱磕頭禮拜，求神明指示。將軍把一個銅錢仔向天頂擲去，落落來一看，銅錢仔的正面於頂面，逐家看著非常的歡喜振奮，認為神明指示這場戰爭一定會打贏。",
+          "Thiann1 tioh8 tsiah4-e5 ue7 liau2-au7, poo7-tsiong3 kah4 ping1-a2 long2 tsin1 khian5-sing5 teh ki5-to2 khap8-thau5 le2-pai3, kiu5 sin5-bing5 tsi2-si7. tsiong1-kun1 kah4 tsit8 e5 tang5-tsinn5-a2 hiong3 thinn1-ting2 tan3--khi3, lak4--loh8-lai5 tsit8 khuann3, tang5-tsinn5-a2 e5 tsiann3-bin7 ti7 ting2-bin7, tak8-ke1 khuann3 tioh8 hui1-siong5 e5 huann1-hi2 tsin3-hun3, jin7-ui5 sin5-bing5 tsi2-si7 tsit4 tiunn5 tsian3-tsing1 it4-ting7 e7 phah4 iann5."
+        ],
+        [
+          "後來，部隊去到前方，每一個兵仔士氣攏真高昂，個個攏信心十足，奮勇作戰，最後，果然打贏。班師回朝了後，有部將就對將軍講：「真感謝神明指示咱今仔日打贏。」彼位將軍才老實合伊講：「免感謝神明，其實要感謝的是這塊銅錢。」伊把身軀邊的這塊銅錢撏出來予部將看，逐家才發現原來銅錢的兩面攏是正面。",
+          "Au7-lai5, poo7-tui7 khi3 kau3 tsian5-hong1, mui2 tsit8 e5 ping1-a2 su7-khi3 long2 tsin1 ko1-gong5, ko3-ko3 long2 sin3-sim1 tsap8-tsiok4, hun3-iong2 tsok4-tsian3, tsue3-au7, ko2-jian5 phah4 iann5. pan1-su1-hue5-tiau5 liau2-au7, u7 poo7-tsiong3 tio7 tui3 tsiong1-kun1 kong2: 'tsin1 kam2-sia7 sin5-bing5 tsi2-si7 lan2 kin1-a2-jit8 phah4 iann5. ' hit4 ui7 tsiong1-kun1 tsiah4 lau2-sit8 kah4 i1 kong2: 'bian2 kam2-sia7 sin5-bing5, ki5-sit8 ai3 kam2-sia7 e5 si7 tsit4 te3 tang5-tsinn5. ' i1 kah4 sin1-khu1-pinn1 e5 tsit4 te3 tang5-tsinn5 jim5 tshut4 lai5 hoo7 poo7-tsiong3 khuann3, tak8-ke1 tsiah4 huat4-hian7 guan5-lai5 tang5-tsinn5 e5 nng7 bin7 long2 si7 tsiann3-bin7."
+        ],
+        [
+          "這個故事原來是合咱講：「咱的信心非常重要，咱迭迭合各自的成敗，寄託於別人的身上，安爾就成功。」古早人講：「自助人助，若各自無信心，只靠別人是行通的。咱有時拜觀音求佛祖，不如各自做一個真正的觀音佛祖。」",
+          "Tsit4 e5 koo3-su7 guan5-lai5 si7 kah4 lan2 kong2: 'lan2 e5 sin3-sim1 hui1-siong5 tiong7-iau3, lan2 tiann7-tiann7 kah4 ka-ti7 e5 sing5-pai7, kia3-thok4 ti7 pat8-lang5 e5 sin1-siong7, an2-ne1 tio7 be7 sing5-kong1. ' koo2-tsa2-lang5 kong2: 'tsu7-tsoo7 jin5-tsoo7, na7 ka-ti7 bo5 sin3-sim1, tsi2 kho3 pat8-lang5 si7 kiann5 be7 thong1 e5. lan2 u7-si5 pai3 kuan1-im1 kiu5 hut8-tsoo2, put4-ju5 ka-ti7 tso3 tsit8 e5 tsin1-tsiann3 e5 kuan1-im1 hut8-tsoo2. '"
+        ]
+      ],
+      "篇名": "第五課  勝敗操之在我"
+    },
+    {
+      "段": [
+        [
+          "細漢的時陣，圍於阮莊外的彼條溪，溪水真清，水質真甘甜，溪底有真多的魚、蝦及蜊仔。",
+          "Se3-han3 e5 si5-tsun7, ui5 ti7 guan2 tsng1 gua7 e5 hit4 liau5 khe, khe1-tsui2 tsin1 tshing1, tsui2-tsit4 tsin1 kam1-tinn1, khe1-te2 u7 tsin1 tse7 e5 hi5, he5 kah4 la5-a2."
+        ],
+        [
+          "熱天的唯晡時，阮阿爸攏會用腳踏車，載阮兄弟去溪邊洗身軀，阮攏褪到剩一領內褲，於水較淺的所在，戽水逸陶，四邊攏無人，僅但有鳥仔聲、蟬仔聲及阮的笑聲，作伙響起，有時陣，阮阿爸會叫我，覆於伊的尻脊骿，挺咧予我學泅水，泅呀泅，阮阿爸遑遑藏匿落去，我失去倚靠，腳手自然就烏白翸，幾擺了後，我就復食水，各自會曉泅囉！到尾仔，生作烏焦瘦的我，遂變成莊內泅水的第一勇將。",
+          "Juah8-thinn1 e5 e7-poo1 si5, gun2 a1-pa3 long2 e7 iong7 kha1-tah8-tshia1, tsai3 gun2 hiann1-ti7 khi3 khe1-pinn1 se2-sing1-khu1, gun2 long2 thng3 ka3 sin7 tsit8 nia2 lai7-khoo3, ti3 tsui2 khah4 tshian2 e5 soo2-tsai7, hoo3-tsui2 tshit4-tho5, si3-pinn1 long2 bo5 lang5, kan2-na7 u7 tsiau2-a2 siann1, sian5-a2 siann1 kah gun2 e5 tshio3-siann1, tso3-hue2 hiang2-khi2, u7-si5-tsun7, gun2 a1-pa3 e7 kio3 gua2, phak4 ti7 i1 e5 kha1-tsiah4-phiann1, thenn3 le1 hoo7 gua2 oh8 siu5-tsui2, siu5 ah4 siu5, gun2 a1-pa3 hiong5-hiong5 tshang3-bi7 loh8--khi3, gua2 sit4-khi3 ua2-kho3, kha1-tshiu2 tsu7-jian5 tsiu7 oo1-peh8 phun2, kui2 pai2 liau2-au7, gua2 tsiu7 be7 koh4 tsiah8-tsui2, ka-ti7 e7-hiau2 siu5 loo3! kau3-bue2--a2, sinn1-tso3 oo1-ta-san2 e5 gua2, suah4 pian3-sing5 tsng1 lai7 siu5-tsui2 e5 te7-it4 iong2-tsiong3."
+        ],
+        [
+          "日頭欲落山彼時，阮也耍水耍到真過癮，就開始摸蜊仔、獵蝦仔、拋魚仔，因為水內真多，無偌久，就一篋仔貯到滇滇滇，返去了後，提予阿娘煮，阮趕緊去換一襲清氣的衫褲，晚飯就配這些物配，因為適才獵著的，感覺滋味特別無同款，實在有夠好食。",
+          "Jit8-thau5 beh4 loh8-suann1 hit4-si5, gun2 ma7 sng2-tsui2 sng2 kau3 tsin1 kue3-gian3, tsiu7 khai1-si2 bong1 la5-a2, liah8 he5-a2, pha1 hi5-a2, in1-ui7 tsui2 lai7 tsin1 tse7, bo5 lua7 ku2, tsiu7 tsit8 kheh4-a2 te2 kau3 tinn7-tinn7-tinn7, tng2--khi3 liau2-au7, the5 hoo7 a1-nia5 tsu2, gun2 kuann2-kin2 khi3 uann7 tsit8 su1 tshing1-khi3 e5 sann1-khoo3, am3-png7 tsiu7 phue3 tsia1-e5 mi7-phue3, in1-ui7 tu2 tsiah4 liah8 tioh8 e5, kam2-kak4 tsu1-bi7 tik8-piat8 bo5 kang5-khuan2, sit8-tsai7 u7-kau3 ho2-tsiah8."
+        ],
+        [
+          "十外冬前，我才娶婦彼時，我合牽手講起細漢的事志，伊真欣羨，我隨挈伊去摸蜊仔，因為伊是山內人，頭一遍享受這種逸陶法，歡喜到大細聲咻，就若親像細漢時陣的我，可惜，彼回獵著的蜊仔，已經未當食囉，歸鼎攏臭油漬味！",
+          "Tsap8 gua7 tang1 tsing5, gua2 tsiah4 tshua7-boo2 hit4-si5, gua2 kah4 khan1-tshiu2 kong2-khi2 se3-han3 e5 tai7-tsi3, i1 tsin1 him1-sian7, gua2 sui5 tshua7 i1 khi3 bong1 la5-a2, in1-ui7 i1 si7 suann1-lai7-lang5, thau5-tsit8 pian3 hiang2-siu7 tsit4 tsiong2 tshit4-tho5 huat4, huann1-hi2 kau3 tua7-se3-siann1 hiu1, tsiu7 na2 tshin1-tshiunn7 se3-han3 si5-tsun7 e5 gua2, kho2-sioh4, hit4 hue5 liah8 tioh8 e5 la5-a2, i2-king1 be7-tang3 tsiah8--lo3, kui1 tiann2 long2 tshau3-iu5-ai1 bi7!"
+        ],
+        [
+          "今仔，我合阮子講，伊欣羨以外，遂在合母仔食醋，講：「阿爸疼婦無疼子」，我聽著這些話，就應伊：「戇子，你實在是誣賴觀音媽偷食鹹鮭，恁兩個我攏也平平疼，不是我不挈你去，實在是今仔的溪水烏復臭，連行過都要掩鼻，哪猶會有蜊仔當摸！」",
+          "Tsim1-a2, gua2 kah4 gun2 kiann2 kong2, i1 him1-sian7 i2-gua7, suah le1 kap4 in1 bu2--a2 tsiah8-tshoo3, kong2: 'a1-pa3 thiann3 boo2 bo5 thiann3 kiann2' , gua2 thiann1 tioh8 tsia1-e5 ue7, tsiu7 in3 i1: 'gong7 kiann2, li2 sit8-tsai7 si7 bu5-lua7 kuan1-im1-ma2 thau1-tsiah8 kiam5-ke5, lin2 nng7 e5 gua2 long2 ma7 pinn5-pinn5 thiann3, m7 si7 gua2 m7 tshua7 li2 khi3, sit8-tsai7 si7 tsim1-a2 e5 khe1-tsui2 oo1 koh4 tshau3, lian5 kiann5 kue3 to1 ai3 am1-phinn7, na2 iau2 e7 iu2 la5-a2 thang bong1! '"
+        ],
+        [
+          "真怨嘆，我無當親像阮老父安爾，挈子去溪邊，「一兼二顧，摸蜊仔兼洗褲」囉！",
+          "Tsin1 uan3-than3, gua2 bo5-tang3 tshin1-tshiunn7 gun2 lau7-pe7 an1-ni2, tshua7 kiann2 khi3 khe1-pinn1, 'it4-kiam1-ji7-koo3, bong1 la5-a2 kiam1 se2 khoo3' loo3!"
+        ]
+      ],
+      "篇名": "第六課  摸蜊仔兼洗褲"
+    },
+    {
+      "段": [
+        [
+          "「阿滿，妳看！伊會見笑哦！」五歲的阿滿，看阿母用指頭仔摸一下葉仔，葉仔就合起來，若像睏去，阿滿真歡喜，頭殼內記得伊的名：「見笑草」。",
+          "'a1-buan2, li2 khuann3! I1 e7 \"kian3-siau3\" oo5! ' goo7 hue3 e5 a1-buan2, khuann3 a1-bu2 iong7 tsng2-thau5-a2 bong1 tsit8-e7 hioh8-a2, hioh8-a2 tsiu7 hap8--khi2-lai5, na2 tshiunn7 khun3--khi3, a1-buan2 tsin1 huann1-hi2, thau5-khak4 lai7 ki3-tit4 i1 e5 mia5: 'kian3-siau3-tshau2' ."
+        ],
+        [
+          "以後，遇著阿滿無要去睏，阿母就牽伊的手，行去看庭邊的見笑草，叫伊用指頭仔摸摸咧，歸欉見笑草的葉仔就合起來，阿母緩聊仔講：「見笑草睏去囉，妳也去睏。」阿滿就笑瞇瞇行去睏囉。",
+          "I2-au7, tu2 tioh8 a1-buan2 bo5-ai3 khi3 khun3, a1-bu2 tsiu7 khan1 i1 e5 tshiu2, kiann5 khi3 khuann3 ting5-pinn1 e5 kian3-siau3-tshau2, kio3 i1 iong7 tsng2-thau5-a2 bong1-bong1--le3, kui1 tsang5 kian3-siau3-tshau2 e5 hioh8-a2 tsiu7 hap8--khi2-lai5, a1-bu2 un7-liau5-a2 kong2: 'kian3-siau3-tshau2 khun3--khi3 loo3, li2 ma7 khi3 khun3. ' a1-buan2 tsiu7 tshio3-bi1-bi1 kiann5 khi3 khun3 loo3."
+        ],
+        [
+          "有一屆，阿母真無閒，阿姊攏在做功課，無人和伊耍，阿滿真無聊，踞於見笑草頭前伸手摸葉仔，葉仔予伊的手摸過，隨一葉一葉合起來。阿滿踞在等伊復開，等到腳酸，葉仔猶合咧，哼！連你也不睬我。阿滿真氣，用手大力給打去，喝講：「起來！起來！」手遂疼一下，「哇……」",
+          "U7 tsit8 kai3, a1-bu2 tsin1 bo5-ing5, a1-tse2 in1 long2 le1 tso3 kong1-kho3, bo5 lang5 ham7 i1 sng2, a1-buan2 tsin1 bo5-liau5, ku1-ti5 kian3-siau3-tshau2 thau5-tsing5 tshun1-tshiu2 bong1 hioh8-a2, hioh8-a2 hoo7 i1 e5 tshiu2 bong1--kue3, sui5 tsit8 hioh8 tsit8 hioh8 hap8--khi2-lai5. a1-buan2 ku1-le1 tan2 i1 koh4 khui1, tan2 kau3 kha1-sng1, hioh8-a2 ia1 kap8--le1, hng2! lian5 li2 ia7 m7 tshap4 gua2. a1-buan2 tsin1 khi3, ing7 tshiu2 tai7-lek8 ka7 phah4--khi3, huah4 kong2: 'khi2--lai5! khi2--lai5! ' tshiu2 suah4 thiann3 tsit8-e7, 'ua1……'"
+        ],
+        [
+          "阿母聽著哭聲，趕緊走來，牽伊的手撫撫咧，拭去伊的目滓，講：「阿滿仔，你要溫溫仔摸伊，你若大力給打，伊就會鑿你，不當講爛土無刺，會記得哦！」",
+          "A1-bu2 thiann1 tioh8 khau3-siann1, kuann2-kin2 tsau2--lai5, khan1 i1 e5 tshiu2 hu1-hu1 le1, tshit4 khi3 i1 e5 bak8-sai2, kong2: 'a1-buan2-a2, li2 ai3 un1-un1-a2 bong1 i1, li2 na7 tua7-lat8 ka7 phah4, i1 tsiu7 e7 tshak8 li2, m7-thang1 kong2 nua7-thoo5 bo5 tshi3, e7-ki3-tit4 oo1"
+        ],
+        [
+          "今仔，已經有四個子的阿滿，歸日予囝仔吵到心狂火著，脾氣真[禾+黑]。伊真懊惱，伊哪未當親像阿母安爾，那麼好性地。阿滿想起彼欉陪伊大的見笑草，伊想，我應該要為子種一欉，僅但於俑仔冊內看著；僅但知影彼是一種摸著就會把葉仔合起來的植物，攏猶不曾真正看過、摸過。",
+          "Tsim1-a2, i2-king1 u7 si3 e5 kiann2 e5 a1-buan2, kui1-jit8 hoo7 gin2-a2 tsha2 kah sim1-kong5-hue2-toh8, phi5-khi3 tsin1 bai2. i1 tsin1 au3-nau2, i1 na2 bue7-tang3 tshin1-tshiunn7 in1 a1-bu2 an2-ne1, hiah-ni7 ho2-sing3-te7. a1-buan2 siunn7-khi2 hit4 tsang5 pue5 i1 tua7 e5 kian3-siau3-tshau2, i1 siunn7, gua2 ing1-kai1 ai3 ui7 kiann2 tsiong2 tsit8 tsang5, in1 kan2-na7 ti7 ang1-a2-tsheh4 lai7 khuann3--tioh8; kan2-na7 tsai1-iann2 he1 si7 tsit8 tsiong2 bong1 tioh8 tsiu7 e7 kah4 hioh8-a2 hap8--khi2-lai5 e5 sit8-but8, long2 ia1 m7 bat4 tsin1-tsiann3 khuann3--kue3, bong1--kue3."
+        ],
+        [
+          "阿滿痴狂找，路邊、草埔遂無底復看著，也拜託朋友、厝邊，給伊湊相共，若找著挖返來予伊種，歸莊攏知影阿滿欲為子種一欉見笑草。",
+          "A1-buan2 tshinn-kong5 tshue7, loo7-pinn, tshau2-poo1 suah4 bo5 te3 koh4 khuann3--tioh8, ma7 pai3-thok4 ping5-iu2, tshu3-pinn1, kah4 i1 tau3-sann1-kang7, na2 tshue7 tioh8 oo2 tng2 lai5 hoo7 i1 tsing3, kui1 tsng1 long2 tsai1-iann2 a1-buan2 beh4 ui7 in1 kiann2 tsing3 tsit8 tsang5 kian3-siau3-tshau2."
+        ],
+        [
+          "找一冬外，才於一間大學找著，全家人真歡喜，挖返來種於庭邊。阿滿真溫柔給五歲的子講：「駿仔，你看！伊會見笑哦！若牛同款的子，攏不聽話，逐屆攏用手大細下打。得要予伊一屆教示，阿滿等待舊戲重演。",
+          "Tshue7 tsit8 tang1 gua7, tsiah4 ti7 tsit8 king1 tai7-hak8 tshue7--tioh8, tsuan5-ke1-lang5 tsin1 huann1-hi2, oo2 tng2 lai5 tsiong2 ti7 ting5-pinn1. a1-buan2 tsin1 un1-jiu5 kah4 goo7 hue3 e5 kiann2 kong2: 'tsun3-a2, li2 khuann3! I1 e7 \"kian3-siau3\" oo1! Na2 gu5 kang5-khuan2 e5 kiann2, long2 m7 thiann-ue7, tak8-kai2 long2 iong7 tshiu2 tua7-sue3-e7 phah4. tioh8 ai3 hoo7 i1 tsit8 kai2 ka3-si7, a1-buan2 tan2-thai7 ku7-hi3-tiong7-ian2."
+        ],
+        [
+          "駿仔又復在使性地囉，欺負軟者的見笑草。「哇……」來囉，時刻到囉！阿滿學阿母安爾，用真溫柔的口氣講：「駿仔，你要溫溫仔摸伊，你若大力給打，伊就會鑿你，不當講爛土無刺，會記得哦！」擋未牢復惡伊一句：「看你後屆欲聽話否？」",
+          "Tsun3-a2 iu7-koh4 le1 sai2-sing3-te7 loo3, khi-hu7 nng2-tsia2 e5 kian3-siau3-tshau2. 'ua1……' lai5 loo3, si5-khik4 kau3 loo3! A1-buan2 oh8 in1 a1-bu2 an2-ne1, ing7 tsin1 un1-jiu5 e5 khau2 khi3 kong2: 'tsun3-a2, li2 ai3 un1-un1-a2 bong1 i1, li2 na7 tua7-lat8 kah4 phah4, i1 tsiu7 e7 tshak8 li2, m7-thang kong2 nua7-thoo5 bo5 tshi3, e7-ki3-tit4 oo1! ' tong3-bue7-tiau5 koh4 ok4 i1 tsit8 ku3: 'khuann3 li2 au7-kai3 beh4 thiann-ue7 boo3? '"
+        ],
+        [
+          "子變較乖囉，至少會好禮仔摸見笑草。",
+          "Kiann2 pian3 khah4 kuai1 loo3, tsi3-tsio2 e7 ho2-le2-a2 bong1 kian3-siau3-tshau2."
+        ],
+        [
+          "阿滿心肝內在想：「子大漢以後，一定也會替伊的子種一欉見笑草。」",
+          "A1-mua2 sim1-kuann1-lai7 le1 siunn7: 'kiann2 tua7-han3 i2-au7, it4-ting7 ia7 e7 the3 i1 e5 kiann2 tsiong2 tsit8 tsang5 kian3-siau3-tshau2. '"
+        ]
+      ],
+      "篇名": "第七課  種一欉見笑草"
+    },
+    {
+      "段": [
+        [
+          "細漢的時，山頂的物質真缺乏，阮逐工放學的時陣，沿路行沿路挽野菜，若無就去糞掃堆挖土蚓，菜叢仔掠蟲、返去予鵝仔、鴨仔食，沃菜、掠蟲、摳草，甚至準備暗頓，攏是阮兄妹的工課，彼個時陣會當食飽是一件真幸福的事志。",
+          "Se3-han3 e5 si5, suann1-ting2 e5 but8-tsit4 tsin1 khuat4-huat8, gun2 tak8-kang1 pang3-oh8 e5 si5-tsun7, ian5-loo7 kiann5 ian5-loo7 ban2 ia2-tshai3, na7-bo5 tsiu7 khi3 pun3-so3-tui1 oo2 too5-un2, tshai3-tsang5-a2 liah8-thang5, tng2 khi3 hoo7 go5-a2, ah4-a2 tsiah8, ak4 tshai3, liah8-thang5, khau1 tshau2, sim7-tsi3 tsun2-pi7 am3-tng3, long2 si7 gun2 hiann1-mue7 e5 khang1-khue3, hit4 e5 si5-tsun7 e7-tang3 tsiah8-pa2 si7 tsit8 kiann7 tsin1 hing7-hok4 e5 tai7-tsi3."
+        ],
+        [
+          "學校邊有一叢紅柿，聽同窗在講，彼叢紅柿的肉紅紅紅，甜沕沕，軟糗糗，講偌好食就有偌好食。",
+          "Hak8-hau7 pinn1 u7 tsit8 tsang5 ang5-khi7, thiann1 tong5-tshong1 le1 kong2, hit4 tsang5 ang5-khi7 e5 bah4 ang5-ang5-ang5, tinn1-but4-but4, nng2-khiu7-khiu7, kong2 lua7 ho2-tsiah8 tsiu7 u7 lua7 ho2-tsiah8."
+        ],
+        [
+          "我給問：「欲安怎才會當食著紅柿？」",
+          "Gua2 kah4 mng7: 'beh4 an1-tsuann2 tsiah4 e7-tang3 tsiah8 tioh8 ang5-khi7?"
+        ],
+        [
+          "伊講：「去給阿婆湊沃菜！」",
+          "I1 kong2: 'khi3 kah4 a1-po5 tau3 ak4 tshai3! '"
+        ],
+        [
+          "自彼工起，若放學，阮兄妹仔就趕緊去給阿婆湊沃菜，彼時陣我才讀國校一年仔，生做烏、焦、瘦，有時陣無小心滑倒去，歸身軀湛漉漉，於寒天更加要忍受許麼冷的霜風，為著欲食紅柿，一切攏要忍耐。",
+          "Tsu7 hit4 kang1 khi2, na7 pang3-oh8, gun2 hiann1-mue7-a2 tsiu7 kuann2-kin2 khi3 kah4 a1-po5 tau3 ak4 tshai3, hit4 si5-tsun7 gua2 tsiah4 thak8 kok4-hau7 tsit8 ni5 a2, sinn1-tso3 oo1, ta1, san2, u7-si5-tsun7 bo5 sio2-sim1 kut8-to2--khi3, kui1-sin1-khu1 tam5-lok4-lok4, ti7 kuann5-thinn1 king3-ka1 ai3 jim2-siu7 hiah4-nih ling2 e5 sng1-hong1, ui7 tioh8 beh4 tsiah8 ang5-khi7, it4-tshe3 long2 ai3 jim2-nai7."
+        ],
+        [
+          "熱天欲到的時，伊開黃黃的花，果子圓圓扁扁，由青變黃才復變紅，猶未全紅的時，阿婆攏給挽來，伊講：「要復沓沓仔蘊一暫仔才會好食。」想著紅柿，阮更加打拚來沃菜！",
+          "Juah8-thinn1 beh4 kau3 e5 si5, i1 khui1 ng5-ng5 e5 hue1, kue2-tsi2 inn5-inn5 pinn2-pinn2, tui3 tshinn1 pian3 ng5 tsiah4 koh4 pian3 ang5, iau2-bue7 tsuan5 ang5 e5 si5, a1-po5 long2 kah4 ban2 lai5, i1 kong2: 'ai3 koh4 tauh8-tauh8-a2 un2 tsit8-tsam7-a2 tsiah4 e7 ho2-tsiah8. ' siunn7 tioh8 ang5-khi7, gun2 king3-ka1 phah4-piann3 lai5 ak4 tshai3!"
+        ],
+        [
+          "有一工，阿婆按房間出來，手內提一項物件，阮兄妹仔同齊講：「紅柿！」阿兄腳手較緊，一下仔按阿婆的手裡搶去彼粒紅柿，合阿姐兩個，「咻」一下無看人，我猶戇戇仔徛於遐。",
+          "U7 tsit8 kang1, a1-po5 an3 pang5-king1 tshut4--lai5, tshiu2-lai7 the5 tsit8 hang7 mih8-kiann7, gun2 hiann1-mue7-a2 tang5-tse5 kong2: 'ang5-khi7! ' a1-hiann1 kha1-tshiu2 kah4 kin2, tsit8-e7-a2 an3 a1-po5 e5 tshiu2--li3 tshiunn2 khi3 hit4 liap8 ang5-khi7, kah4 a1-tse2 nng7 e5, 'siu1' tsit8-e7 bo5 khuann3 lang5, gua2 iau2 gong7-gong7-a2 khia7 ti7 hia1."
+        ],
+        [
+          "阿婆講：「你緊返去啊！」我給阿婆講：「你敢會使復一粒予我，我想欲提返去予阮阿母食！」",
+          "A1-po5 kong2: 'li2 kin2 tng2--khi3 a3! ' gua2 kah4 a1-po5 kong2: 'li2 kam2 e7-sai2 koh4 tsit8 liap8 hoo7 gua2, gua2 siunn7 beh4 the5 tng2 khi3 hoo7 gun2 a1-bu2 tsiah8! '"
+        ],
+        [
+          "阿婆摸著我的頭，入去房間復提一粒紅柿予我。使我歡喜到三步做兩步走，遠遠看著阮阿母於橋彼爿的菜園仔，我大聲叫講：「阿母啊！我提著一粒紅柿欲予您食！」不知是不是各自歡喜了過頭，無小心跋一倒，目珠金金看著彼粒紅柿輪對吊橋腳，予水流去……我大聲哭，一直搥心肝，也不知當時，阮阿母行來橋頂，給我牽起來！",
+          "A1-po5 bong1 tioh8 gua2 e5 thau5, jip8 khi3 pang5-king1 koh4 the5 tsit8 liap8 ang5-khi7 hoo7 gua2. su2 gua2 huann1-hi2 kau3 sann1 poo7 tso3 nng7 poo7 tsau2, hng7-hng7 khuann3 tioh8 guan2 a-bu2 ti7 kio5 hit4-ping5 e5 tshai3 hng5-a2, gua2 tua7-siann1 kio3 kong2: 'a1-bu2 a2! gua2 the5 tioh8 tsit8 liap8 ang5-khi7 beh4 hoo7 li2 tsiah8! ' m7 tsai1 si7 m7 si7 ka-ti7 huann1-hi2 liau2 kue3-thau5, bo5 sio2-sim1 puah8-tsit8-to2, bak8-tsiu1 kim1-kim1 khuann3 tioh8 hit4 liap8 ang5-khi7 lian3 tui3 tiau3-kio5-kha1, hoo7 tsui2 lau5 khi3…… gua2 tua7-siann1 khau3, it4-tit8 tui5-sim1-kuann1, ma7 m7 tsai1 tong1-si5, gun2 a1-bu2 kiann5 lai5 kio5-ting2, kah4 gua2 khan1--khi2-lai5 !"
+        ],
+        [
+          "我乃哭乃講：「這半年來我攏比別人的囝仔較慢一下仔返來，就是去阿婆遐，替伊沃水，今仔日足無簡單提著一粒紅柿，想欲予您食……。」",
+          "Gua2 na2 khau3 na2 kong2: 'tsit4 puann3 ni5 lai5 gua2 long2 pi2 pat8-lang5 e5 gin2-a2 khah4 ban7 tsit8-e7-a2 tng2--lai5, tsiu7-si7 khi3 a1-po5 hia1, the3 i1 ak4 tsui2, kin1-a2-jit8 tsiok4 bo5 kan2-tan1 the5 tioh8 tsit8 liap8 ang5-khi7, siunn7 beh4 hoo7 li2 tsiah8……. '"
+        ],
+        [
+          "阮阿母含著目屎講：「佳哉落落去的只是一粒紅柿，不是我的心肝寶貝！」",
+          "Gun2 a1-bu2 kam5 tioh8 bak8-sai2 kong2: 'ka1-tsai3 lak--loh8-khi3 e5 tsi2-si7 tsit8 liap8 ang5-khi7, m7 si7 gua2 e5 sim1-kuann1-po2-pue3! '"
+        ],
+        [
+          "隔日透早，阮阿母行來我的眠床頭，輕聲給我講：「阿妹！昨暝我夢見一位仙女，伊講妳真乖，伊欲送一粒紅柿予妳，我囥佇妳的冊包內底。」我緊爬起來，去看我的冊包，真正有影，有一粒又復紅，又復大粒的紅柿於我的冊包仔內。",
+          "Keh4-jit8 thau3-tsa2, gun2 a1-bu2 kiann5 lai5 gua2 e5 bin5-tshng5-thau5, khin1-siann1 kah4 gua2 kong2: 'a1-mue7! Tsa1-mi5 gua2 bang7-kinn3 tsit8 ui7 sian1-lu2, i1 kong2 li2 tsin1 kuai1, i1 beh4 sang3 tsit8 liap8 ang5-khi7 hoo7 li2, gua2 khng3 ti7 li2 e5 tsheh4-pau1 lai7-te2. ' gua2 kin2 peh4--khi2-lai5, khi3 khuann3 gua2 e5 tsheh4-pau1, tsin1-tsiann3 u7-iann2, u7 tsit8 liap8 iu7-koh4 ang5, iu7-koh4 tua7 liap8 e5 ang5-khi7 ti7 gua2 e5 tsheh4-pau1-a2 lai7."
+        ],
+        [
+          "了後，阮阿爸於菜園邊種足多叢的紅柿。",
+          "Liau2-au7, gun2 a1-pa3 ti7 tshai3-hng5 pinn1 tsing3 tsiok4 tse7 tsang5 e5 ang5-khi7."
+        ]
+      ],
+      "篇名": "第八課  紅柿的滋味"
+    },
+    {
+      "段": [
+        [
+          "（一）美麗島",
+          "(it4) Bi2-le7-to2"
+        ],
+        [
+          "你看咧！一、二、三，水牛食草過田岸，烏鶖娘仔來作伴，尻脊頂騎咧看高山。美麗島、美麗島，咱台灣。",
+          "li2 khuann3 le3! tsit8, nng7, sann1, tsui2-gu5 tsiah8-tshau2 kue3 tshan5-huann7, oo1-tshiu1-niu5-a2 lai5 tso3-phuann7, kha1-tsiah4-ting2 khia5 le3 khuann3 kuan5-suann1. bi2-le7-to2, bi2-le7-to2, lan2 tai5-uan5."
+        ],
+        [
+          "（二）播田期",
+          "(ji7) Poo3-tshan5 ki5"
+        ],
+        [
+          "農村的播田期，有時是正月天，有時是交春時，風微微，汗水滴，秧仔一叢一叢播落去，田水有時燒熱有時冷劇劇，親像田莊的生活味，有時苦澀，有時也有甜，點心籃囥於田岸邊，一鍋是米笞目，一鍋是錄豆煮蕃薯，茶鈷裏，泡的雖然不是凍頂的茶米，總也是有淡薄的清芳味。",
+          "long5-tshuan1 e5 poo3-tshan5 ki5, u7-si5 si7 tsiann1--gueh8 thinn1, u7-si5 si7 kau1-tshun1 si5, hong1-bi5-bi5, kuann7-tsui2 tih4, ng1-a2 tsit8 tsang5 tsit8 tsang5 po3--loh8-khi3, tshan5-tsui2 u7-si5 sio1-juah8 u7-si5 ling2-ki1-ki1, tshin1-tshiunn7 tshan5-tsng e5 sing-uah8-bi7, u7-si5 khoo2-siap u7-si5 ma7 u7 tinn1. tiam2-sim1-na5 khng3 ti7 tshan5-huann7 pinn, tsit8 ue1 si7 bi2-thai1-bak8, chit8 ue1 si7 lik8-tau7 tsu2 han1-tsi5, te5-koo2 lin3, phau3 e5 sui1-jian5 m7 si7 tang3-ting2 e5 te5-bi2, tsong2 a7 si7 u7 tam7-poh8 e5 tshing1-phang1 bi7."
+        ]
+      ],
+      "篇名": "第九課  美麗島的播田期"
+    },
+    {
+      "段": [
+        [
+          "一、苦楝若開花",
+          "It4, khoo2-ling7 na7 khui1-hue1"
+        ],
+        [
+          "苦楝若開花，就會出雙葉，就會出芳味，紫色的花蕊隨風搖隨雨落，苦楝若開花，春天就會來，白頭殼仔樹頂做藪，蜻蛉停於厝邊角，「天牛」匿於樹仔頭。苦楝若開花，就會結成粒粒子，拾來做銃子，樹枝會變鳥搏仔，厝角鳥不知活抑死，苦楝若開花，一陣囝仔，店於樹仔跤，掠蟋蟀仔在相咬，拍干轆好逸陶。",
+          "Khoo2-ling7 na7 khui1-hue1, tio7 e7 tshut4 siang1-hioh8, tio7 e7 tshut4 phang1-bi7, tsi2-sik4 e5 hue1-lui2, sui5-hong1 io5 sui5-hoo7 loh8, khoo2-ling7 na7 khui1-hue1, tshun1-thinn1 tio7 e7 lai5, peh8-thau5-khok4-a2 tshiu7-ting2 tso3-siu7, tshan5-inn1 thing5 ti7 tshu3-pinn1-kak4, 'thian1-gu5' bih4 ti7 tshiu7-a2-thau5. khoo2-ling7 na7 khui1-hue1, tio7 e7 kiat4-sing5 liap8 liap8 tsi2, khioh lai5 tso3 tshing3-tsi2, tshiu7-ki e7 pinn3 tsiau2-phiak4-a2, tshu3-kak4-tsiau2 m7 tsai1 uah8 a7 si2, khoo2-ling7 na7 khui1-hue1, tsit8 tin7 gin2-a2, tiam3 ti7 tshiu7-a2-kha1, liah8 sik4-sut4-a2 le1 sio1-ka7, phah4-kan1-lok8 ho2 tshit4-tho5."
+        ],
+        [
+          "二、故鄉的小火車站",
+          "Ji7, Koo3-hiong1 e5 sio2 hue2-tshia1-tsam7"
+        ],
+        [
+          "故鄉的小火車站，野草將伊掩，掩過伊的面，掩過昔日，購票的小窗，故鄉的小火車站，載人的五分車，夜夜駛入阮的夢，思念的目屎，愈來愈重，故鄉的小火車站，寂寞的形影，大人的心，沈重，囝仔的心，茫茫。",
+          "Koo3-hiong1 e5 sio2 hue2-tshia1-tsam7, ia2-tshau2 tsiong1 i1 am1, am1-kue3 i1 e5 bin7, am1-kue3 sik4-jit8, kuah4-phio3 e5 sio2 thang1, koo3-hiong1 e5 sio2 hue2-tshia1-tsam7, tsai3 lang5 e5 goo7-hun1-tshia1, ia7-ia7 sai2 jip8 gun2 e5 bang7, su-liam7 e5 bak8-sai2, ju2 lai5 ju2 tang7, koo3-hiong e5 sio2 hue2-tshia1-tsam7, tsik8-bok8 e5 hing5-iann2, tua7-lang5 e5 sim1, tim5-tang7, gin2-a2 e5 sim1, bang5-bang5."
+        ]
+      ],
+      "篇名": "第十課  火車站前的苦楝仔樹"
+    },
+    {
+      "段": [
+        [
+          "一、草仔枝",
+          "It4, Tshau2-a2-ki1"
+        ],
+        [
+          "日頭，曝未死，大水，淹未死，風颱，吹未死，落霜，寒未死，有露水，我就活落去，春風來，我就出頭天！我若出頭天，世界就青青，青──青青，青──青青！葉會凋，根未爛，代代爻生湠！",
+          "Jit8-thau5, phak8 be7 si2, tua7-tsui2, im1 be7 si2, hong1-thai1, tshue1 be7 si2, loh8-sng1, kuann5 be7 si2, u7 loo7-tsui2, gua2 tio7 uah8--loh8-khi3, tshun1-hong1 lai5, gua2 tio7 tshut4-thau5-thinn1! gua2 na7 tshut4-thau5-thinn1, se3-kai3 tio7 tshinn1-tshinn1, tshinn1──tshinn1-tshinn1, tshinn1──tshenn-tshenn! hioh8 e7 ta1, kun1 be7 nua7, tai7-tai7 gau5 sinn1-thuann3!"
+        ],
+        [
+          "二、鹽埕",
+          "Ji7, Iam5-tiann5"
+        ],
+        [
+          "炎熱的三月天，貼心的鹹濕味，隨風飄於無樹木遮影的海墘。當逼人的熱氣，逼到連海鳥都走去匿。對恁來講，造鹽的人啊！生活適適才開始。於恬恬的世界，逐日面對無言的大海。於無色的暗暝，孤寂咬心的滋味啥人知，只有頭頂的草笠，手中的土耙，恬恬陪恁耙出一片閃光的天地，當身軀的熱汗，換做一粒一粒若晶的白沙，於台灣西南的海岸，吟出彼首盤古以來就有的詩歌，一個有味的社會，由遐漸漸來生湠。",
+          "Iam5-juah8 e5 sann1-geh8-thinn1, tah4-sim1 e5 kiam5 sip4 bi7, sui5-hong1 phiau1 ti7 bo5 tshiu7-bak8 jia1-iann2 e5 hai2-kinn5. tong1 pik4-lang5 e5 jiat8-khi3, pik4 kau3 lian5 hai2-tsiau2 to tsau2 khi3 bih. tui3 lin2 lai5 kong2, tso7 iam5 e5 lang5 a3! Sing1-uah8 tu2-tu2 tsiah4 khai1-si2. ti7 tiam7-tiam7 e5 se3-kai3, tak8-jit8 bin7-tui3 bo5-gian5 e5 tua7 hai2. ti7 bo5 sik4 e5 am3-mi5, koo1-tsik8 ka7-sim1 e5 tsu1-bi7 siann2-lang5 tsai1, tsi2-u7 thau5-ting2 e5 tshau2-leh8, tshiu2-tiong e5 thoo5-pe5, tiam7-tiam7 pue5 lin2 pe5 tshut4 tsit8 phinn3 siam2-kng1 e5 thinn1-te7, tong1 sing1-khu1 e5 jiat8 kuann7, uann7-tso3 tsit8 liap8 tsit8 liap8 na2 tsinn1 e5 peh8 sua1, ti7 tai5-uan5 sai1-lam5 e5 hai2-huann7, gim5 tshut4 hit4 siu2 phuan5-koo2 i2-lai5 tio7 u7 e5 si1-kua1, tsit8 e5 u7 bi7 e5 sia7-hue7, tui3 hia1 tsiam7-tsiam7 lai5 sinn1-thuann3."
+        ]
+      ],
+      "篇名": "第十一課  鹽埕邊的草仔枝"
+    },
+    {
+      "段": [
+        [
+          "（一）勸世歌（江湖調）",
+          "(it4) Khng3-se3 kua1 (kang1-oo5 tiau7)"
+        ],
+        [
+          "我來唸歌予恁聽，無欲醵錢免著驚，勸恁做人得端正，虎死留皮人留名。講到當今的世界，鳥為食亡人為財，想真做人得海海，死從何去生何來。咱來出世無半項，返去雙手也空空，住於世間若眠夢，死了江山讓別人。做人道德得要守，榮華富貴難得求，不當欲貪財子壽，萬事開化免憂愁。勸恁朋友得做好，世間暫時來迌，做好做歹攏有報，天理昭昭不是無。天下的人數千萬，領憑出世在世間，也有出世就免趁，也有度日都為難。當今世間講盡，富貴由命不由人，有人勸我我勸你，咱來出世有領憑。人有真大的志氣，無運未得通逢時，萬項總是罔罔是，度這腹肚枵饑。馬有千里的賢走，無人得到人兜，勸人不免甚計較，命運予人所賢。火在於炎無偌久，火炭著過變火灰，世間萬項大小事，未曾想贏先想輸。好花苦伊不常開，好月苦伊不常圓，好夢心適快打醒，做人得意有幾時。散赤實在真福氣，無煩無惱少縈纏，不比好額煩半死，操心扒腹為著錢。牛就快牽人惡料，無福趁錢居牢，有當食穿好了了，百般為著腹肚枵。社會全是錢做人，所致濫用先不當，有錢講話才會動，無錢講話輕鬆。在人心肝的志氣，山是可改性難移，有的厝內散到死，不義錢財無愛持。節儉兩字是真理，先算收入才開支，有錢不儉開未是，終久經濟歹維持。總講勤儉才有底，甚過浪費不成家，濫開濫用久負債，生活就會起問題。有的一生盡孝義，富而無怨貧無欺，甘願度苦過日子，艱苦往有出頭時。做人奸雄無路用，這世搶人後世還，善惡到頭有報應，遠在千里近目前。世間事業百百款，良心做事免操煩，萬事合人會圓滿，子孫代代出狀元。",
+          "gua2 lai5 liam7-kua1 hoo7 lin2 thiann1, bo5 beh4 khioh4 tsinn5 bian2 tioh8-kiann1, khng3 lin2 tso3-lang5 tioh8 tuan1-tsiann3, hoo2 si2 lau5-phue5 lang5 lau5-mia5. kong2 kau3 tong1-kim1 e5 se3-kai3, niau2 ui5 sit8 bong5 jin5 ui5 tsai5, siunn7 tsin1 tso3-lang5 tioh8 hai2-hai2, si2 tsing7 ho5 khi3 sing1 ho5 lai5. lan2 lai5 tshut4-si3 bo5 puann3 hang7, tng2--khi3 siang1-tshiu2 ia7 khang1-khang1, tua3 ti7 se3-kan1 na2 bin5-bang7, si2 liau2 kang1-san1 niu7 pat8-lang5. tso3-lang5 to7-tik4 tioh8 ai3 siu2, ing5-hua5 hu3-kui3 lan5-tit4 kiu5, m7-thang1 beh4 tham1 tsai5 tsi2 siu7, ban7-su7 khai1-hua3 bian2 iu1-tshiu5. khng3 lin2 ping5-iu2 tioh8 tso3-ho2, se3-kan1 tsiam7-si5 lai5 tshit4-tho5, tso3-ho2 tso3-phainn2 long2 u7 po3, thian1-li2-tsiau1-tsiau1 m7 si7 bo5. thinn1-ha7 e5 lang5 soo3 tshian1-ban7, nia2 pin5 tshut4-si3 tsai7 se3-kan1, ma7 u7 tshut4-si3 tio7 bian2 than3, ma7 u7 too7-jit8 to7 ui5-lan5. tong1-kim1 se3-kan1 kong2 bue7 tsin7, hu3-kui3 iu5 bing7 put4 iu5 lang5, u7 lang5 khng3 gua2 gua2 khng3 li2, lan2 lai5 tshut4-si3 u7 nia2 pin5. lang5 u7 tsin1 tua7 e5 tsi3-khi3, bo5 un7 bue7-tit4 thang1 hong5-si5, ban7-hang7  tsong2-si7 bong2-bong2-si7, too7 tse1 pak4-too2 bue7 iau1-ki1. be2 iu2 tshian1-li2 e5 gau5 tsau2, bo5 lang5 bue7-tit4 kau3 lang5 tau1, khng3 lang5 m7 bian2 siunn1 ke3-kau3, mia7-un7 hoo7 lang5 soo2 bue7 gau5. hue2 ti7 leh4 iam7 bo5 lua7 ku2, hue2-thuann3 tioh8 kue3 pian3 hue2-hu1, se3-kan1 ban7-hang7 tua7-sio2-su7, be7-tsing5 siunn7 iann5 sing1 siunn7 su1. ho2-hue1 khoo2 i1 put4-siong5 khui1, ho2-gueh8 khoo2 i1 put4-siong5 inn5, ho2-bang7 sim1-sik4 khuai3 phah4-tshinn2, tso3-lang5 tik4-i3 u7 kui2 si5. san3-tshiah4 sit8-tsai7 tsin1 hok4-khi3, bo5-huan5-bo5-lo2 tsio2 inn5-tinn5, put4-pi2 ho2-giah8 huan5 puann3-si2, tshau1-sim1 peh4-pak4 ui7-tioh8 tsinn5. gu5 tio7 khuai3 khan1 lang5 oh4 liau7, bo5 hok4 than3-tsinn5 ki1-bue7-tiau5, u7-thang1 tsiah8-tshing7 ho2-liau2-liau2, pah4-puann1 ui7 tioh8 pak4-too2 iau1. sia7-hue7 tsuan5 si7 tsinn5 tso3-lang5, soo2-ti3 lam7-ing7 sian1 m7-thang1, u7-tsinn5 kong2-ue7 tsiah e7 tang7, bo5 tsinn5 kong2-ue7 bue7 khin1-sang1. tsai7--lang5 sim1-kuann1 e5 tsi3-khi3, suann1 si7 kho2 kai2 sing3 lan5 i5, u7 e5 tshu3-lai7 san3 kau3 si2, put4-gi7 tsinn5-tsai5 bo5-ai3 tinnh8. tsiat4-khiam7 nng7 ji7 si7 tsin1-li2, sing1-sng3 siu1-jip8 tsiah4 khai1-tsi1, u7 tsinn5 m7 khiam7 khai1 bi7 si7, tsiong1-ku2 king1-tse3 phainn2 ui5-tshi5. tsong2-kong2 khin5-khiam7 tsiah4 u7 te2, siunn1-kue3 long7-hui3 put4 sing5-ke1, lam7-khai1 lam7-ing7 ku2 hu7-tse3, sing1-uah8 tsiu7-e7 khi2 bun7-te5. u7 e5 it4-sing1 tsin7 hau3 gi7, hu3 ji5 bo5 uan3 pin5 bo5 khi1, kam1-guan7 too7-khoo2 kue3 jit8-tsi2, kan1-khoo2 ing2 u7 tshut4-thau5 si5. tso3-lang5 kan1-hiong5 bo5-loo7-ing7, tsit4-si3 tshiunn2 lang5 au7-se3 hing5, sian7-ok4 to3-thau5 u7 po3-ing3, hng7 tsai7 tshian1-li2 kin7 bok8-tsian5. se3-kan1 su7-giap8 pah4-pah4-khuan2, liong5-sim1 tso3-su7 bian2 tshau1-huan5, ban7-su7 kah4 lang5 e7 uan5-buan2, kiann2-sun1 tai7-tai7 tshut4 tsiong7-guan5."
+        ]
+      ],
+      "篇名": "第十二課  勸世歌"
+    },
+    {
+      "段": [
+        [
+          "（一）挨噓噓",
+          "(it4) E1-hu7-hu7"
+        ],
+        [
+          "挨噓噓，宰雞請阿舅，阿舅食無了，剩一枝雞腳爪，阿媽捧去囥，嬰仔桌腳亟亟軁，軁欲食，撞著頭殼額。",
+          "E1-hu7-hu7, tai2-ke1 tshiann2 a1-ku7, a1-ku7 tsiah8 bo5 liau2, tshun1 chit8 ki1 ke1-kha1-jiau2, a1-ma2 phang5 khi3 khng3, inn1-a2 toh4-kha1 khok8-khok8-nng3, nng3 beh4 tsiah8, long3 tioh8 thau5-khak4-hiah8."
+        ],
+        [
+          "（二）一的炒米芳",
+          "(ji7) It4--e5 tsha2 bi2-phang1"
+        ],
+        [
+          "一的炒米芳，二的炒韭菜，三的沖沖滾，四的炒米粉，五的五將軍，六的攬子孫，七的七蝦米，八的縖兜鞬，九的倒在蠕，十的徛起來看。打你千，打你萬，打你一千過五萬，老鼠仔欲啁就緊啁。不啁給你打到啁。",
+          "It4 e5 tsha2 bi2-phang1, ji7 e5 tsha2 ku2-tshai3, sann e5 tshiang5-tshiang5-kun2, si3 e5 tsha2 bi2-hun2, goo7 e5 goo7 tsiong1-kun1, liok8 e5 lam2 kiann2-sun1, tshit4 e5 tshit4 he5-bi2, pueh4 e5 ha5-too2-kuann7, kau2 e5 to2 leh4 nua3, tsap8 e5 khia7 khi2 lai5 khuann3. phah4 li2 tshing1, tann2 li2 ban7, phah4 li2 tsit8-tshing1 kue3 goo7-ban7, niau2-tshi2-a2 beh4 tsiuh8 tio7 kin2 tsiuh8. m7 tsiuh8 ka7 li2 phah4 kau3 tsiuh8."
+        ],
+        [
+          "（三）一放雞",
+          "(sann1) It4 pang3 ke1"
+        ],
+        [
+          "一放雞，二放鴨，三分開，四相貼，五搭胸，六拍手，七紡紗，八摸鼻，九咬耳，十摸腳，十一摸土跤，十二攏總捎。",
+          "It4 pang3 ke1, ji7 pang3 ah4, sann1 pun1-khui1, si3 sio1-thah8, goo7 tah4 hing1, lak8 phah4-tshiu2, tshit4 phang2-se1, pueh4 bong1 phinn7, kau2 ka7 hi7, tsap8 bong1 kha1, tsap8-it4 bong1 thoo5-kha1, tsap8-ji7 long2-tsong2 sa1."
+        ],
+        [
+          "（四）掩嘓雞",
+          "(si3) Ng1-kok4-ke1"
+        ],
+        [
+          "掩嘓雞，走白卵，樹仔腳，一粒卵，嘓嘓雞仔，[目+聶]目眉，一支刀，一支劍，劍無尾，龜咬粿，老鼠公，咬肉骨，溜溜鬚鬚，掠著掩目睭。",
+          "Ng1-kok4-ke1, tsau2 peh8-nng7, tshiu7-a2-kha1, tsit8 liap8 nng7, kok4-kok4 ke1-a2, nih8 bak8-bai5, tsit8 ki1 to1, tsit8 ki1 kiam3, kiam3 bo5 be2, ku1 ka7 kue2, niau2-tshu2-kong1, ka7 bah4-kut4, liu3-liu3-tshiu1-tshiu1, liah8 tioh8 ng1 bak8-tsiu1."
+        ]
+      ],
+      "篇名": "第十三課臺灣童謠（一）遊戲篇  四首"
+    },
+    {
+      "段": [
+        [
+          "（一）樹頂一隻猴",
+          "(it4) Tshiu7-ting2 tsit8 tsiah4 kau5"
+        ],
+        [
+          "樹頂一隻猴，樹腳一隻狗，猴跋落來撞著狗，狗吠猴哮，猴走狗也走，不知是猴驚狗，抑是狗驚猴。",
+          "Tshiu7-ting2 tsit8 tsiah4 kau5, tshiu7-kha1 tsit8 tsiah4 kau2, kau5 puah8--loh8-lai5 long3 tioh8 kau2, kau2 pui7 kau5 hau2, kau5 tsau2 kau2 ma7 tsau2, m7 tsai1 si7 kau5 kiann1 kau2, ia3 si7 kau2 kiann1 kau5."
+        ],
+        [
+          "（二）和尚弄破鼓",
+          "(ji7) Hue5-siunn7 long3 phua3 koo2"
+        ],
+        [
+          "和尚弄破鼓，提褲來補鼓，鼓破褲補，褲破布補，到底是布補鼓，抑是褲補鼓。",
+          "Hue5-siunn7 long3 phua3 koo2, the5 khoo3 lai5 poo2 koo2, koo2 phua3 khoo3 poo2, khoo3 phua3 poo3 poo2, tau3-te2 si7 poo3 poo2 koo2, ia3 si7 khoo3 poo2 koo2."
+        ]
+      ],
+      "篇名": "第十四課  臺灣童謠（二）繞口令篇  二首"
+    },
+    {
+      "段": [
+        [
+          "（一）大箍呆",
+          "(it4) Tua7-khoo-tai1"
+        ],
+        [
+          "大箍呆，炒韭菜，燒燒一碗來！冷冷我無要。",
+          "Tua7-khoo-tai1, tsha2 ku2-tshai3, sio1-sio1 tsit8 uann2 lai5! ling2-ling2 gua2 bo5 ai3."
+        ],
+        [
+          "（二）do re mi",
+          "(ji7) do re mi"
+        ],
+        [
+          "do re mi ，大頭的拈蜻蛉，蜻蛉天頂高，大頭的賣肉圓，肉圓苦苦不好食，大頭的賣木屐，木屐不好穿，大頭的真儌倖。",
+          "do re mi, tua7-thau5--e5 liam tshan5-inn1, tshan5-inn1 thinn1-ting2 kuan5, tua7-thau5--e5 be7 bah4-uan5, bah4-uan5 khoo2-khoo2 m7 ho2 tsiah8, tua7-thau5--e5 be7 bak8-kiah8, bak8-kiah8 m7 ho2 tshing7, tua7-thau5--e5 tsin1 hiau1-hing7."
+        ],
+        [
+          "（三）阿財",
+          "(sann1) A1-tsai5"
+        ],
+        [
+          "阿財、阿財，天頂跋落來，有嘴齒，無下頦，有腹肚，無肚臍，叫先生，叫來，叫覡公，拖去埋。",
+          "A1-tsai5, a1-tsai5, thinn1-ting2 puah8--loh8-lai5, u7 tshui3-khi2, bo5 e7-huai5, u7 pak4-too2, bo5 too7-tsai5, kio3 sian1-sinn1, kio3 be7 lai5, kio3 sai1-kong1, thua1 khi3 tai5"
+        ]
+      ],
+      "篇名": "第十五課  台灣童謠（三）戲謔篇  三首"
+    },
+    {
+      "段": [
+        [
+          "（一）天烏烏",
+          "(it4) Thinn1-oo1-oo1"
+        ],
+        [
+          "天烏烏，欲落雨，舉鋤頭，清水路，清著一尾鯽仔魚，欲娶婦，龜擔燈，鱉打鼓，蜻蛉舉旗叫艱苦，毛蟹擔燈雙目吐，水蛙扛轎大腹肚，一碗圓仔湯予你補。",
+          "Thinn1-oo1-oo1, beh4 loh8-hoo7, gia5 ti5-thau5, tshing1 tsui2-loo7, tshing tioh8 tsit4 bue2 tsit4-a2-hi5, beh4 tshua7-boo2, ku1 tann1 ting1, pih4 phah4 koo2, tshan5-inn1 gia5 ki5 kio3 kan1-khoo2, moo-he7 tann1 ting1 siang1-bak8-thoo2, tsui2-ke1 kng1 kio7 tua7-pak4-too2, tsit8 uann2 inn5-a2 thng1 hoo7 li2 poo2."
+        ],
+        [
+          "（二）普渡歌",
+          "(ji7) Phoo2-too7 kua1"
+        ],
+        [
+          "普渡來，欲做戲，吩付三，吩咐四，吩咐親家親姆十五來看戲。由竹跤，到竹刺；由溪邊，驚跋死；由大路，嫌費氣，無就攏莫去。",
+          "Phoo2-too7 lai5, beh4 tso3-hi3, huan1-hu3 sann1, huan1-hu3 si3, huan1-hu3 tshin1-ke1 tshinn1-m2 tsap8-goo7 lai5 khuann3-hi3. tui3 tik4-kha1, kau3 tik4-tshi3; tui3 khe1-pinn1, kiann1 puah8-si2; tui3 tua7-loo7, hiam5 hui3-khi3, bo5 to7 long2 mai3 khi3."
+        ],
+        [
+          "（三）火金姑",
+          "(sann1) Hue2-kim1-koo1"
+        ],
+        [
+          "火金姑，來食茶，茶燒燒，配芎蕉，茶冷冷，配龍眼，龍眼會開花，匏仔換冬瓜，冬瓜好煮湯，匏仔換粗糠，粗糠欲起火，九嬸婆仔[敖^力]炊粿，炊到臭焦兼著火。",
+          "Hue2-kim1-koo1, lai5 tsiah8-te5, te5 sio1-sio1, phue3 kin1-tsio1, te5 ling2-ling2, phue3 ling5-king2, ling5-king2 e7 khui1-hue1, pu5-a2 uann7 tang1-kue1, tang1-kue1 ho2 tsu2-thng1, pu5-a2 uann7 tshoo1-khng1, tshoo1-khng1 beh4 khi2-hue2, kau2-tsim2-po5-a2 gau5 tshue1-kue2, tshue1 kau3 tshau3-ta1 kiam1 toh8-he2."
+        ],
+        [
+          "（四）臺灣出甜粿",
+          "(si3) Tai5-uan5 tshut4 tinn1-kue2"
+        ],
+        [
+          "喂！喂！喂！臺灣出甜粿，甜粿真好食，臺灣出木屐，木屐真好穿，臺灣出鴐鴒，鴐鴒會講話，臺灣出棉被，棉被蓋會燒，臺灣出芎蕉，芎蕉真大比，臺灣出蕃薯，蕃薯會止飢，臺灣出飛機，飛機真[敖^力]飛，臺灣出鼓吹，鼓吹歕會[耳+真]，臺灣出炸彈，炸彈真厲害，歹人不敢來。",
+          "Ue2! ue2! ue2! tai5-uan5 tshut4 tinn1-kue2, tinn1-kue2 tsin1 ho2 tsiah8, tai5-uan5 tshut4 bak8-kiah8, bak8-kiah8 tsin1 ho2 tshing7, tai5-uan5 tshut4 ka1-ling7, ka1-ling7 e7 kong2-ue7, tai5-uan5 tshut4 mi5-phue7, mi5-phue7 kah4 e7 sio1, tai5-uan5 tshut4 kin1-tsio1, kin1-tsio1 tsin1 tua7 pi5, tai5-uan5 tshut4 han1-tsi5, han1-tsi5 e7 tsi2-ki1, tai5-uan5 tshut4 hui1-ki1, hui1-ki1 tsin1 gau5 pue1, tai5-uan5 tshut4 koo2-tshue1, koo2-tshue1 pun5 e7 tan5, tai5-uan5 tshut4 tsa3-tan5, tsa3-tan5 tsin1 li7-hai7, phainn2-lang5 m7 kann2 lai5."
+        ],
+        [
+          "（五）白翎鸞",
+          "(goo7) Peh8-ling5-si1"
+        ],
+        [
+          "白翎鸞，擔畚萁，擔到溪仔墘，跋一倒，擷著一仙錢，買大餅，分大姨，大姨嫌無餘，呼雞呼狗來咒詛，咒詛無，投姆婆，姆婆去做客，投大伯，大伯去賣龜，投姊夫，姊夫去賣紙，投來投去投著我，害我心肝噗噗彈，雞母換雞鴽；雞鴽會生卵，有米兼有飯。",
+          "Peh8-ling5-si1, tann1 pun3-ki, tann1 kau3 khe1-a2-kinn5, puah8-tsit8-to2, khioh tioh8 tsit8 sian2 tsinn5, be2 tua7-piann2, pun1 tua7-i5, tua7-i5 hiam5 bo5-u5, khoo1-ke1 khoo1-kau2 lai5 tsiu3-tsua7, tsiu3-tsua7 bo5, tau5 m2-po5, m2-po5 khi3 tso3-kheh4, tau5 tua7-peh4, tua7-peh4 khi3 bue7 ku1, tau5 tsi2-hu1, tsi2-hu1 khi3 bue7 tsua2, tau5 lai5 tau5 khi3 tau5 tioh8 gua2, hai7 gua2 sim1-kuann1 phok8-phok8-tuann5, ke1-bu2 uann7 ke1-nua7; ke-nua7 e7 senn1-nng7, u7 bi2 kiam1 u7 png7."
+        ]
+      ],
+      "篇名": "第十六課  台灣童謠（四）雜類篇  五首"
+    }
+  ]
+}

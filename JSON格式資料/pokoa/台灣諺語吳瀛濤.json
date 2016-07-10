@@ -1,0 +1,861 @@
+{
+  "作者": "吳瀛濤",
+  "出版年": "1988",
+  "出版者": "台灣英文雜誌社",
+  "文類": "褒歌",
+  "書名": "台灣諺語",
+  "書寫系統": "漢字",
+  "資料": [
+    {
+      "段": [
+        [
+          "一更更鼓月照山，牽君的手摸心肝，阮今問君要按怎，希望阿君來做伴。",
+          "It-kinn kinn-kou2 goeh8 chio3 soann, khan kun e5 chhiu2 bong sim-koann, gun2 tann mng7 kun beh an3-choann2, hi-bang7 a-kun lai5 cho3-phoann7."
+        ],
+        [
+          "二更月光照入房，冷淡床中阮一人，阮今孤單守空房，一暝感覺像一冬。",
+          "Ji7-kinn goeh8-kng chio3 jip8 pang5, leng2-tam7 chhng5 tiong gun2 chit8 lang5, gun2 tann kou-toann chiu2 khang-pang5, chit8 mi5 kam2-kak chhiunn7 chit8 tang."
+        ],
+        [
+          "三更月光在空中，歸暝無睏想情郎，等無郎君真冤枉，郎君怎樣這僥倖。",
+          "Sann-kinn goeh8-kng chai7 khong-tiong, kui mi5 bo5 khun3 siunn7 cheng5-long5, tan2 bo5 long5-kun chin oan-ong2, long5-kun choann2-iunn7 chiah hiau-heng7."
+        ],
+        [
+          "四更月光伴月光，等無郎君心頭酸，一心望君會回返，怎樣到今未入門。",
+          "Si3-kinn goeh8-kng phoann7 goeh8-kng, tan2 bo5 long5-kun sim-thau5 sng, chit8-sim bang7 kun e7 hoe5-tng2, choann2-iunn7 kau3 tann boe7 jip8-mng5."
+        ],
+        [
+          "五更月光斜落西，等無郎君可返來，阮今想著真不解，怎樣無批給阮知。",
+          "Gou7-kinn goeh8-kng chhia5 loh8-sai, tan2 bo5 long5-kun thang tng2--lai5, gun2 tann siunn7 tioh8 chin put kai2, choann2-iunn7 bo5 phoe hou7 gun2 chai."
+        ],
+        [
+          "一更更鼓月照山，牽君的手摸心肝，阿君問娘要按怎，隨在阿君的心肝。",
+          "It-kinn kinn-kou2 goeh8 chio3 soann, khan kun e5 chhiu2 bong sim-koann, a-kun mng7 niu5 beh an3-choann2, sui5-chai7 a-kun e5 sim-koann."
+        ],
+        [
+          "有緣千里來相會，我比蝴蝶娘比花，良宵千金難得買，做人青春有幾回。",
+          "U7 ian5 chhian-li2 lai5 siong-hoe7, goa2 pi2 ou5-tiap8 niu5 pi2-hoe, liong5-siau chheng kim lan5-tit be2, cho3-lang5 chheng-chhun u7 kui2 hoe5."
+        ],
+        [
+          "二更更鼓月照庭，牽君的手入大聽，雙人相好天註定，別人的話不通聽。",
+          "Ji7-kinn kinn-kou2 goeh8 chio3 tiann5, khan kun e5 chhiu2 jip8 toa7-thiann, siang lang5 siong-ho2 thinn chu3-tiann7, pat8-lang5 e5 oe7 m7 thang thiann."
+        ],
+        [
+          "別人的話我不信，專心要與阿娘親，一日無看妳一面，宛然病後失精神。",
+          "Pat8-lang5 e5 oe7 goa2 m7 sin3, choan-sim beh kah a-niu5 chhin, chit8 jit8 bo5 khoann3 li2 chit8 bin7, oan2-jian5 pinn7-au7 sit cheng-sin5."
+        ],
+        [
+          "三更更鼓月照門，牽君的手入繡床，雙人相好有所央，較好澆水泡冰糖。",
+          "Sann-kinn kinn-kou2 goeh8 chio3 mng5, khan kun e5 chhiu2 jip8 siu3-chhng5, siang lang5 siong-ho2 u7 sou2 iang, khah ho2 ak-chui2 phau3 peng-thng5."
+        ],
+        [
+          "愛情比糖有較甜，可比鴛鴦在水池，妳也有情我有義，青春少年正當時。",
+          "Ai3-cheng5 pi2 thng5 u7 khah tinn, kho2-pi2 oan-iunn chai7 chui2-ti5, li2 ia7 u7 cheng5 goa2 u7 gi7, chheng-chhun siau3-lian5 chiann3 tong-si5."
+        ],
+        [
+          "四更更鼓月照窗，第一相好咱二人，與君相好有所望，阿君僥娘千不通。",
+          "Si3-kinn kinn-kou2 goeh8 chio3 thang, te7-it siong-ho2 lan2 nng7 lang5, kah kun siong-ho2 u7 sou2-bang7, a-kun hiau niu5 chhian m7 thang."
+        ],
+        [
+          "阿娘放心免煩惱，我來反僥絕對無，妳有真情與我好，不驚前途起風波。",
+          "A-niu5 hong3-sim bian2 hoan5-lo2, goa2 lai5 hoan2-hiau choat8-tui3 bo5, li2 u7 chin-cheng5 kah goa2 ho2, m7 kiann chian5-tou5 khi2 hong-pho."
+        ],
+        [
+          "五更更鼓天要光，恁厝父母叫食飯，想要開門讓君返，手按門屏心頭酸。",
+          "Gou7-kinn kinn-kou2 thinn beh kng, lin2 chhu3 pe7-bo2 kio3 chiah8-png7, siunn7 beh khui-mng5 hou7 kun tng2, chhiu2 hoann7 mng5-pin5 sim-thau5 sng."
+        ],
+        [
+          "請娘安心免悲哀，暫時忍耐分東西，妳咱愛情是原在，妳有愛我我愛你。",
+          "Chhiann2 niu5 an-sim bian2 pi-ai, chiam7-si5 jim2-nai7 hun tang-sai, li2 lan2 ai3-cheng5 si7 goan5-chai7, li2 u7 ai3 goa2 goa2 ai3 li2."
+        ]
+      ],
+      "篇名": "五更鼓"
+    },
+    {
+      "段": [
+        [
+          "思想枝，仰頭當月想彼時，你我相愛像月圓，噯唷唉，無疑阿哥你一去，噯唷唉，噯唷叫阮空等二三年，噯唷唉。",
+          "Su-siang2 ki, giah8-thau5 tng goeh8 siunn7 hit si5, li2 goa2 sio-ai3 chhiunn7 goeh8-inn5, aih-ioh-oeh, bo5-gi5 a-ko li2 chit8 khi3, aih-ioh-oeh, aih-ioh kio3 gun2 khang-tan2 nng7-sann ni5, aih-ioh-oeh."
+        ],
+        [
+          "思想枝，彼暝站在樓窗邊，雙人情話糖蜜甜，噯唷唉，無疑阿哥你一去，噯唷唉，噯唷放著小妹病相思，噯唷唉。",
+          "Su-siang2 ki, hit mi5 tiam3 chai7 lau5-thang pinn, siang lang5 cheng5-oe7 thng5-bit8 tinn, aih-ioh-oeh, bo5-gi5 a-ko li2 chit8 khi3, aih-ioh-oeh, aih-ioh pang3 tioh8 sio2-moe7 pinn7 siunn-si, aih-ioh-oeh."
+        ],
+        [
+          "思想枝，當時你我有情義，窗邊薔薇好香味，噯唷唉，無疑阿哥你一去，噯唷唉，噯唷花謝落地引心悲，噯約唉。",
+          "Su-siang2 ki, tong-si5 li2 goa2 u7 cheng5-gi7, thang-pinn chhiunn5-bi5 ho2 phang-bi7, aih-ioh-oeh, bo5-gi5 a-ko li2 chit8 khi3, aih-ioh-oeh, aih-ioh hoe-sia7 loh8-te7 in2 sim-pi, aih-ioh-oeh."
+        ],
+        [
+          "思想起，日頭出來啊，滿天紅，枋寮哪過去阿伊都是楓港，噯唷喂，希望阿哥來痛疼，噯唷喂，噯唷痛疼小妹做工人，噯唷喂。",
+          "Su-siang2 khi2, jit8-thau5 chhut--lai5 ah, moa2-thinn ang5, Pang-liau5 nah koe3--khi3 ah i to si7 Hong-kang2, aih-ioh-oeh, hi-bang7 a-ko lai5 thiann3-thang3, aih-ioh-oeh, aih-ioh thiann3-thang3 sio2-moe7 cho3-kang lang5, aih-ioh-oeh."
+        ],
+        [
+          "思想起，四重溪底啊，全全石，梅花哪當開阿伊都會落葉，噯唷喂，小妹啊想君得著，噯唷喂，噯唷較慘拖命食傷藥，噯唷喂。",
+          "Su-siang2 khi2, Si3-teng5-khe te2 ah, choan5-choan5 chioh8, mui5-hoe nah tng-khui ah i to e7 loh8-hioh8, aih-ioh-oeh, sio2-moe7 ah siunn7 kun be7 tit tioh8, aih-ioh-oeh, aih-ioh khah chham2 thoa-mia7 chiah8 siong-ioh8, aih-ioh-oeh."
+        ],
+        [
+          "思想起，恆春大路啊，透溫泉，燈台哪對面阿伊都馬鞍山，噯唷喂，阿哥啊返去妹無伴，噯唷喂，噯唷親像轆鑽刺心肝，噯唷喂。",
+          "Su-siang2 khi2, Heng5-chhun toa7-lou7 ah, thau3 un-choann5, Teng-tai5 nah tui3-bin7 ah i to Be2-oann-soann, aih-ioh-oeh, a-ko ah tng2--khi3 moe7 bo5 phoann7, aih-ioh-oeh, aih-ioh chhin-chhiunn7 lak-chng3 chhak8 sim-koann, aih-ioh-oeh."
+        ],
+        [
+          "思想起，恆春過了啊，是車城，花言哪巧語阿伊都不愛聽，噯唷喂，阿妹啊講話若有影，噯唷喂，噯唷刀鎗作路也敢行，噯唷喂。",
+          "Su-siang2 khi2, Heng5-chhun koe3 liau2 ah, si7 Chhia-siann5, hoa-gian5 nah kha2-gi2 ah i to m7 ai3 thiann, aih-ioh-oeh, a-moe7 ah kong2-oe7 na7 u7-iann2, aih-ioh-oeh, aih-ioh to-chhiunn cho3 lou7 ia7 kann2 kiann5, aih-ioh-oeh."
+        ],
+        [
+          "思啊思想枝，落雨洗衫伊都無地披，舉出啊，舉入啊，伊都看天時，噯唷唉，貪著阿君情意，噯唷唉，甘願來嫁君啊伊都做小姨，噯唷唉。",
+          "Su ah su-siang2 ki, loh8-hou7 se2-sann i to bo5 te3 phi, giah8 chhut ah, giah8 jip8 ah, i to khoann3 thinn-si5, aih-ioh-oeh, tham tioh8 a-kun cheng5-i3, aih-ioh-oeh, kam-goan7 lai5 ke3 kun ah i to cho3 se3-i5, aih-ioh-oeh."
+        ],
+        [
+          "思啊思想枝，甘蔗好食伊都雙頭甜，大某若未生啊，伊都娶小姨，噯唷唉，不是嫌婆較怯四，噯唷唉，大家來吞忍啊伊都求子兒，噯唷唉。",
+          "Su ah su-siang2 ki, kam-chia3 ho2-chiah8 i to siang-thau5 tinn, toa7-bou2 na7 boe7 sinn ah, i to chhoa7 se3-i5, aih-ioh-oeh, m7 si7 hiam5 po5 khah khiap-si3, aih-ioh-oeh, tai7-ke lai5 thun-lun2 ah i to kiu5 kiann2-ji5, aih-ioh-oeh."
+        ]
+      ],
+      "篇名": "思想枝"
+    },
+    {
+      "段": [
+        [
+          "三更半暝呀，落雨睏去呀，心酸悲，單身鬱悶睏去，噯唷喂。",
+          "Sann-kinn poann3-mi5 iah, loh8-hou7 khun3 be7 khi3 iah, sim sng-pi, toann-sin ut-bun7 khun3 be7 khi3, aih-ioh-oeh."
+        ],
+        [
+          "睏到暝尾呀，冷支支，噯唷冷支支，滿腹幽愁，噯唷喂，無處移。",
+          "Khun3 kau3 mi5-be2 iah, leng2-ki-ki, aih-ioh leng2-ki-ki, moa2-pak iu-chhiu5, aih-ioh-oeh, bo5 te3 i5."
+        ],
+        [
+          "目屎流入深腹內，噯唷喂，身軀礙虐呀，睏去，噯唷喂。",
+          "Bak8-sai2 lau5 jip8 chhim pak-lai7, aih-ioh-oeh, seng-khu gai7-gioh8 iah, khun3 be7 khi3, aih-ioh-oeh."
+        ],
+        [
+          "心肝若像壓石頭，噯唷喂，為啥事，不時哀怨在心內，噯唷喂。",
+          "Sim-koann na2-chhiunn7 teh chioh8-thau5, aih-ioh-oeh, ui7 siann2 tai7, put-si5 ai-oan3 chai7 sim-lai7, aih-ioh-oeh."
+        ],
+        [
+          "失戀傷心呀，無人知，噯唷喂，若是要哭，歹看頭，噯唷喂。",
+          "Sit-loan5 siong-sim iah, bo5 lang5 chai, aih-ioh-oeh, na7 si7 beh khau3, phainn2 khoann3-thau5, aih-ioh-oeh."
+        ],
+        [
+          "門樓呀鼓打呀一更時，目屎流落準飯吞，若無梁君同床睏，生命敢會見閻君，噯唷心肝啊，郎君呀喂。",
+          "Mng5-lau5 iah kou2-phah iah it-kinn si5, bak8-sai2 lau5 loh8 chun2 png7 thun, na7 bo5 Niu5-kun kang5 chhng5 khun3, sinn3-mia7 kann2 e7 kinn3 Giam5-kun, aih-ioh sim-koann ah, long5-kun iah-oeh."
+        ]
+      ],
+      "篇名": "哭調仔"
+    },
+    {
+      "段": [
+        [
+          "天光起來要洗嘴，嘴來洗好要食飯，尋無君汝心頭酸。",
+          "Thinn-kng khi2--lai5 beh se2-chhui3, chhui3 lai5 se2 ho2 beh chiah8-png7, chhoe7 bo5 kun li2 sim-thau5 sng."
+        ],
+        [
+          "飯來食飽要梳頭，尋無君汝目屎流，頭鬃梳好要洗面，尋無阿兄汝一身。",
+          "Png7 lai5 chiah8 pa2 beh se-thau5, chhoe7 bo5 kun li2 bak8-sai2 lau5, thau5-chang se ho2 beh se2-bin7, chhoe7 bo5 a-hiann li2 chit8-sin."
+        ],
+        [
+          "面來洗好要抹粉，尋無阿兄心肝悶，粉來抹好梳頭鬃，尋無阿兄汝一人。",
+          "Bin7 lai5 se2 ho2 beh boah-hun2, chhoe7 bo5 a-hiann sim-koann bun7, hun2 lai5 boah ho2 se-thau5-chang, chhoe7 bo5 a-hiann li2 chit8 lang5."
+        ],
+        [
+          "頭鬃梳好要縛腳，尋無阿兄食不乾，腳來縛好要穿鞋，尋無阿兄頭垂鬆。",
+          "Thau5-chang se ho2 beh pak8-kha, chhoe7 bo5 a-hiann chiah8 be7 ta, kha lai5 pak8 ho2 beh chheng7 e5, chhoe7 bo5 a-hiann thau5 sui5-sang."
+        ],
+        [
+          "鞋來穿好結鞋帶，尋無阿兄火沒花，鞋帶結好要洗手，尋無阿兄面憂憂。",
+          "E5 lai5 chheng7 ho2 kat e5-toa3, chhoe7 bo5 a-hiann hoe2 bo5 hoa, e5-toa3 kat ho2 beh se2 chhhiu2, chhoe7 bo5 a-hiann bin7 iu-iu."
+        ],
+        [
+          "手來洗好要換褲，尋無阿兄心肝烏，褲來換好要穿衫，被阮昨昏等到今。",
+          "Chhhiu2 lai5 se2 ho2 beh oann7-khou3, chhoe7 bo5 a-hiann sim-koann ou, khou3 lai5 oann7 ho2 beh chheng7-sann, hou7 gun2 cha7-hng tan2 kau3 tann."
+        ],
+        [
+          "春天呀地茶葉下，色咧青囉青伊，阿娘那地挽茶呀，心呀這個歡呀喜囉。",
+          "Chhun-thinn iah teh te5-hioh8 eh, sek leh chhinn loh chhinn i, a-niu5 na2 teh ban2-te5 iah, sim iah chit e5 hoann iah hi2 loh."
+        ],
+        [
+          "嘴唇呀地胭脂下，點咧紅囉紅伊，阿娘那地唸歌呀，心呀這個茫呀茫呀。",
+          "Chhui3-tun5 iah teh ian-chi eh, tiam2 leh ang5 loh ang5 i, a-niu5 na2 teh liam7 koa iah, sim iah chit e5 bang5 iah bang5 iah."
+        ],
+        [
+          "滿山呀地茶葉下，真咧清囉香伊，阿娘那地心頭呀，真呀這個活呀動囉。",
+          "Moa2-soann iah teh te5-hioh8 eh, chin leh chheng loh phang i, a-niu5 na2 teh sim-thau5 iah, chin iah chit e5 oah8 iah tang7 loh."
+        ],
+        [
+          "阿哥呀地有心下，來咧聽囉歌伊，阿娘那地當然呀，心呀這個快呀活囉。",
+          "A-ko iah teh u7 sim eh, lai5 leh thiann loh koa i, a-niu5 na2 teh tong-jian5 iah, sim iah chit e5 khuinn3 iah oah8 loh."
+        ],
+        [
+          "等待呀地茶葉下，挽咧了囉後伊，阿娘那地一定呀，去呀這個哥呀都囉。",
+          "Tan2-thai7 iah teh te5-hioh8 eh, ban2 leh liau2 loh au7 i, a-niu5 na2 teh it-teng7 iah, khi3 iah chit e5 ko iah to loh."
+        ]
+      ],
+      "篇名": "挽茶歌"
+    },
+    {
+      "段": [
+        [
+          "風吹河邊，梯渡阿娘在船墘，情書內容寫什麼，看到滿面笑嬉嬉嗨都塊嗨，嗨呀都塊嗨，伊嗨啊都塊嗨，阿呀嗨呀都塊嗨。",
+          "Hong chhoe ho5-pinn, the-tou7 a-niu5 chai7 chun5-kinn5, cheng5-su lai7-iong5 sia2 siann2-mih, khoann3--tioh8 moa2-bin7 chhio3-hi-hi he to teh he, he iah to teh he, i he ah to teh he, ah iah he iah to teh he."
+        ],
+        [
+          "夏天日頭燒，梯渡阿娘嘴目笑，阿哥寫信來塊叫，拼命划船不驚搖嗨呀都塊嗨，嗨呀都塊嗨，伊嗨啊都塊嗨，阿呀嗨呀都塊嗨。",
+          "Ha7-thinn jit8-thau5 sio, the-tou7 a-niu5 chhui3 bak8 chhio3, a-ko sia2-phoe lai5 te3 kio3, piann3-mia7 ko3-chun5 m7 kiann io5 he iah to teh he, he iah to teh he, i he ah to teh he, ah iah he iah to teh he."
+        ],
+        [
+          "秋夜月青青，梯渡阿娘心綿綿，思念阿哥好情意，嘴念情歌糖蜜甜嗨都塊嗨，嗨呀都塊嗨，伊嗨啊都塊嗨，阿呀嗨呀都塊嗨。",
+          "Chhiu-ia7 goeh8 chhinn-chhinn, the-tou7 a-niu5 sim mi5-mi5, su-liam7 a-ko ho2 cheng5-i3, chhui3 liam7 cheng5-koa thng5-bit8 tinn he to teh he, he iah to teh he, i he ah to teh he, ah iah he iah to teh he."
+        ],
+        [
+          "冬天風冷冰，梯渡阿娘心無閒，明日伴哥看風景，只驚落雨去成嗨都塊嗨，嗨呀都塊嗨，伊嗨啊都塊嗨，阿呀嗨呀都塊嗨。",
+          "Tang-thinn hong leng2 peng, the-tou7 a-niu5 sim bo5 eng5, beng5 jit8 phoann7 ko khoann3 hong keng2, chi2 kiann loh8-hou7 khi3 be7 chiann5 he to teh he, he iah to teh he, i he ah to teh he, ah iah he iah to teh he."
+        ]
+      ],
+      "篇名": "桃花過渡"
+    },
+    {
+      "段": [
+        [
+          "大屯山頂向天池，圓山過去雙連坡，草山出有好果子，年年著有出多錢。",
+          "Toa7-tun7-soann teng2 Hiong3-thian-ti5, Inn5-soann koe3--khi3 Siang-lian5-pi, Chhau2-soann chhut u7 ho2 koe2-chi2, ni5-ni5 tioh8 u7 chhut che7 chinn5."
+        ],
+        [
+          "娘子青春二十二，又再生美恰文理，暝日思想著是伊，會得做夥也無疑。",
+          "Niu5-kiann2 chheng-chhun ji7-chap8-ji7, iu7-koh sinn sui2 khah bun5-li2, mi5-jit8 su-siunn7 tioh8 si7 i, e7 tit cho3-hoe2 ia7 bo5-gi5."
+        ],
+        [
+          "七星墩尾罩濃霧，沙崙對面海墘厝，社仔出有冬瓜匏，可賣錢銀很富裕。",
+          "Chhit-chhinn-tun-boe2 ta3 long5-bu7, Soa-lun7 tui3-bin7 Hai2-chhu3-kinn5, Sia7-a2 chhut u7 tang-koe pu5, thang be7 chinn5-gin5 chiann5 hu3-ju7."
+        ],
+        [
+          "百般新貨有可取，查某多歲有較輸，夥記不可交相久，會給人笑大戇豬。",
+          "Pah-poann sin-hoe3 u7 kho2-chhu2, cha-bou2 che7 hoe3 u7 khah su, hoe2-ki3 m7 thang kau siunn ku2, e7 hou7 lang5 chhio3 toa7 gong7 ti."
+        ],
+        [
+          "紗帽山尖湧水石，新莊對面是板橋，北投設有磚碗窯，暝日不息治的燒。",
+          "Se-bo7-soann chiam eng2 chui2 chioh8, Sin-chng tui3-bin7 si7 Pang-kio5, Pak-tau5 siat u7 chng oann2 io5, mi5-jit8 m7 hoa ti7 leh sio."
+        ],
+        [
+          "驚被厝邊恰我笑，不敢出嘴給伊招，若嫁別人真可惜，嫁給搭心無不著。",
+          "Kiann pi7 chhu3-pinn khah goa2 chhio3, m7 kann2 chhut chhui3 hou7 i chio, na7 ke3 pat8-lang5 chin kho2-sioh, ke3 hou7 tah-sim bo5 m7 tioh8."
+        ],
+        [
+          "七股山裡店山豬，關渡對面峰仔峙，永福亦有出蕃薯，真正好時無地比。",
+          "Chhit-kou2 soann--nih8 tiam3 soann-ti, Kan-tau7 tui3-bin7 Hong-a2-si7, Eng2-hok iah8 u7 chhut han-chi5, chin-chiann3 ho2 si5 bo5 te3 pi2."
+        ],
+        [
+          "娘仔生美及伶俐，可比一欉牡丹花，不時思念沒了時，親像山貓望海魚。",
+          "Niu5-a2 sinn sui2 kah leng2-li7, kho2-pi2 chit8 chang5 bou2-tan hoe, put-si5 su-liam7 bo5 liau2 si5, chhin-chhiunn7 soann niau bang7 hai2 hi5."
+        ],
+        [
+          "竹仔山上有竹筍，滬尾對面八里坌，海口水波白滾滾，每日都有大隻船。",
+          "Tek-a2-soann siong7 u7 tek-sun2, Hou7-boe2 tui3-bin7 Pat-li2-hun, Hai2-khau2 chui2-pho peh8-kun2-kun2, mui2 jit8 to u7 toa7-chiah chun5."
+        ],
+        [
+          "阿娘生美笑汶汶，敢會迷哥的神魂，娘仔思哥沒愛睏，哥來想娘亂紛紛。",
+          "A-niu5 sinn sui2 chhio3-bun2-bun2, kann2 e7 be5 ko e5 sin5-hun5, niu5-a2 su ko bo5 ai3 khun3, ko lai5 siunn7 niu5 loan7-hun-hun."
+        ],
+        [
+          "磺嘴山中噴硫磺，宜蘭過去是羅東，雙重溪底出白磺，可設根館及別莊。",
+          "Hong5-chhui3-soann-tiong phun3 liu5-hong5, Gi5-lan5 koe3--khi3 si7 Lo5-tong, Siang-teng5-khe te2 chhut peh8-hong5, thang siat kin-koan2 kah piat8-chong."
+        ],
+        [
+          "娘仔想哥不敢講，哥仔想娘講凸風，起初用錢真敢罔，一時被騙是足戇。",
+          "Niu5-a2 siunn7 ko m7 kann2 kong2, ko-a2 siunn7 niu5 kong2 phong3-hong, khi2-chhou eng7 chinn5 chin kann2 bong2, chit8-si5 pi7 phian3 si7 chiok gong7."
+        ]
+      ],
+      "篇名": "草山民謠"
+    },
+    {
+      "段": [
+        [
+          "放心免探聽，那噯唷的唷。君著帶念梅花欉，不可貪著野花香花香，有閒批信較接送，最好每暗呼阮夢。最好啊，每暗啊，每暗乎阮夢，那噯唷的唷。",
+          "Hong3-sim bian2 tham3-thiann, nah-aih-ioh-tih-ioh. Kun tioh8-toa3 liam7 mui5-hoe chang5, m7 thang tham tioh8 ia2-hoe phang hoe phang, u7 eng5 phoe-sin3 khah chiap8 sang3, choe3 ho2 mui2 am3 hou7 gun2 bang7.  Choe3 ho2 ah, mui2 am3 ah, mui2 am3 hou7 gun2 bang7, nah-aih-ioh-tih-ioh."
+        ]
+      ],
+      "篇名": "送君詞"
+    },
+    {
+      "段": [
+        [
+          "這邊看對彼邊過，一陣阿娘彼多個，仔細給看較詳細，嘴在念歌手挽茶。",
+          "Chit pinn khoann3 tui3 hit pinn koe3, chit8 tin7 a-niu5 hiah che7 e5, chu2-se3 ka7 khoann3 khah siong5-se3, chhui3 chai7 liam7-koa chhiu2 ban2-te5."
+        ],
+        [
+          "看著有人對阮著，無人作伴行孤單，不知到底為按怎，那會來到阮茶山。",
+          "Khoann3 tioh8 u7 lang5 tui3 gun2 khoann3, bo5 lang5 cho3-phoann7 kiann5 kou-toann, m7 chai tau3-te2 ui7 an3-choann2, nah e7 lai5 kau3 gun2 te5-soann."
+        ],
+        [
+          "茶山阿娘真肉汶，輕聲細說足斯文，嘴齒白白紅嘴唇，看著使阮像暈船。",
+          "Te5-soann a-niu5 chin bah-bun2, khin-siann se3-soeh chiok su-bun5, chhui3-khi2 peh8-peh8 ang5 chhui3-tun5, khoann3 tioh8 hou7 gun2 chhiunn7 hin5-chun5."
+        ],
+        [
+          "阮要出聲與伊玩，來這休涼較熱，也有燒茶止嘴乾，順便來聽阮念歌。",
+          "Gun2 beh chhut-siann kah i sng2, lai5 chia hioh-liang5 khah be7 joah8, ia7 u7 sio-te5 chi2 chhui3-ta, sun7-soa3 lai5 thiann gun2 liam7-koa."
+        ],
+        [
+          "幸好阿娘把阮留，有情目尾駛相走，緣分何時才會到，一點好意在心頭。",
+          "Ho2-tit a-niu5 ka7 gun2 lau5, u7 cheng5 bak8-boe2 sai2 sio-chau2, ian5-hun7 ho5-si5 chiah e7 kau3, chit8 tiam2 ho2-i3 chai7 sim-thau5."
+        ]
+      ],
+      "篇名": "採茶相褒歌"
+    },
+    {
+      "段": [
+        [
+          "春天呀地茶葉下，色咧青囉青伊，阿娘那地挽茶呀，心呀這個歡呀喜囉。",
+          "Chhun-thinn iah teh te5-hioh8 eh, sek leh chhin loh chhin i, a-niu5 na2 teh ban2-te5 iah, sim iah chit e5 hoann iah hi2 loh."
+        ],
+        [
+          "嘴唇呀地胭脂下，點咧紅囉紅伊，阿娘那地唸歌呀，心呀這個茫呀茫呀。",
+          "Chhui3-tun5 iah teh ian-chi eh, tiam2 leh ang5 loh ang5 i, a-niu5 na2 teh liam7 koa iah, sim iah chit e5 bang5 iah bang5 iah."
+        ],
+        [
+          "滿山呀地茶葉下，真咧清囉香伊，阿娘那地心頭呀，真呀這個活呀動囉。",
+          "Moa2-soann iah teh te5-hioh8 eh, chin leh chheng loh phang i, a-niu5 na2 teh sim-thau5 iah, chin iah chit e5 oah8 iah tang7 loh."
+        ],
+        [
+          "阿哥呀地有心下，來咧聽囉歌伊，阿娘那地當然呀，心呀這個快呀活囉。",
+          "A-ko iah teh u7 sim eh, lai5 leh thiann loh koa i, a-niu5 na2 teh tong-jian5 iah, sim iah chit e5 khoai3 iah oah8 loh."
+        ],
+        [
+          "等待呀地茶葉下，挽咧了囉後伊，阿娘那地一定呀，去呀這個哥呀都囉。",
+          "Tan2-thai7 iah teh te5-hioh8 eh, ban2 leh liau2 loh au7 i, a-niu5 na2 teh it-teng7 iah, khi3 iah chit e5 ko iah to loh."
+        ]
+      ],
+      "篇名": "採茶歌"
+    },
+    {
+      "段": [
+        [
+          "茶仔挽好卜轉家鄉，一聲阿哥二聲娘，等待茶仔若發芛，才叫阿哥來娶娘。",
+          "Te5-a2 ban2 ho2 boeh tng2 ka-hiunn, chit8 siann a-ko nng7 siann niu5, tan2-thai7 te5-a2 na7 hoat-inn2, chiah kio3 a-ko lai5 chhoa7 niu5."
+        ],
+        [
+          "斷肝腸，這世與君命相沖，恨天怨地啥路用，雪梅對君來參詳，望後世會可結成雙。",
+          "Toan7 kan-chhiong5, chit si3 kah kun mia7 sio-chhiong, hun7-thinn oan3-te7 siann2 lou7-iong7, Soat-mui5 tui3 kun lai5 chham-siong5, bang7 au7-si3 e7 thang kiat seng5-siang."
+        ],
+        [
+          "十月算來秋風寒，為子補衫穿針線，窗外鴻雁雙做伴，引起人，心空彈，鴛鴦已經來拆散，不怨又來嘆孤單，看子一年一年大，怎拖磨心也真快活。",
+          "Chap8--goeh8 sng3--lai5 chhiu-hong koann5, ui7 kiann2 pou2 sann chhng chiam-soann3, thang-goa7 hong5-gan7 siang cho3-phoann7, in2 khi2 lang5, sim khang-toann5, oan-iunn i2-keng lai5 thiah san3, m7 oan3 iu7 lai5 than3 kou-toann, khoann3 kiann2 chit8 ni5 chit8 ni5 toa7, choann2 thoa-boa5 sim ia7 chin khng3-oah8."
+        ],
+        [
+          "十一月算來是冬節，手來搓圓心怨嗟，自嘆孤單子又細，目屎又，滴落地，對子句句講訓話，勸伊認真來讀冊，管伊透風落霜雪，有立志成功無問題。",
+          "Chap8-it--goeh8 sng3--lai5 si7 tang-cheh, chhiu2 lai5 so-inn5 sim oan3-chheh, chu7-than3 kou-toann kiann2 iu7 se3, bak8-sai2 iu7, tih loh8 te7, tui3 kiann2 ku3 ku3 kong2 hun3-oe7, khng3 i jin7-chin lai5 thak8-chheh, koan2 i thau3-hong loh8 sng-seh, u7 lip8-chi3 seng5-kong bo5 bun7-te5."
+        ],
+        [
+          "十二月算來過年關，柴空米盡心操煩，遵守婦道心亂，飫寒餓，也甘願，雪梅心內有成算，教子做人要正端，為非做歹萬人怨，做好事名聲萬世傳。",
+          "Chap8-ji7--goeh8 sng3--lai5 koe3 ni5-koan, chha5 khang bi2 chin7 sim chhau-hoan5, chun-siu2 hu7-to7 sim be7 loan7, iau koann5 go7, ia7 kam-goan7, Soat-mui5 sim-lai7 u7 seng5-soan3, ka3 kiann2 cho3-lang5 ai3 chiann3-toan, ui5-hui chok-tai2 ban7-lang5 oan3, cho3 ho2-su7 mia5-siann ban7-si3 thoan5."
+        ]
+      ],
+      "篇名": "雪梅思君"
+    },
+    {
+      "段": [
+        [
+          "雨傘開花圓輪輪，舉高舉低顧娘身，一時無看娘仔面，骨頭痛疼翻身。",
+          "Hou7-soann3 khui-hoe inn5-lin3-lin3, giah8 koan5 giah8 ke7 kou3 niu5 sin, chit8-si5 bo5 khoann3 niu5-a2 bin7, kut-thau5 thiann3-thang3 be7 hoan-sin."
+        ],
+        [
+          "王莽篡漢做皇帝，吳漢為母刣死妻；無采心神用一把，建置江山別人的。",
+          "Ong5 Bong2 chhoan3 Han3 cho3 hong5-te3, Gou5 Han3 ui7 bo2 thai5-si2 chhe; bo5-chhai2 sim-sin5 eng7 chit8 pe2, kian3-ti3 kang-san pat8-lang5 e5."
+        ],
+        [
+          "山藥開花在山嶺，文廣困在柳州城；一半歡喜一半驚，給娘梟去一擺定，今日收心欲好子。",
+          "Soann-ioh8 khui-hoe chai7 soann-nia2, Bun5-kong2 khun3 chai7 Liu2-chiu-siann5; chit8-poann3 hoann-hi2 chit8-poann3 kiann, hou7 niu5 hiau khi3 chit8 pai2 tiann7, kim-jit8 siu sim beh ho2-kiann2."
+        ],
+        [
+          "娘仔送哥到大路，千勸萬勸著忠厚，不可貪戀人美某，身命打歹誰照顧。",
+          "Niu5-a2 sang3 ko kau3 toa7-lou7, chheng khng3 ban7 khng3 tioh8 tiong-hou7, m7 thang tham-loan5 lang5 sui2-bou2, sin-mia7 phah-phainn2 siang2 chiau3-kou3."
+        ],
+        [
+          "火船駛到滬尾港，親娘不可嫁別人，二人相好相痛疼，有頭有尾才是人。",
+          "Hoe2-chun5 sai2 kau3 Hou7-boe2 kang2, chhin-niu5 m7 thang ke3 pat8-lang5, nng7 lang5 siong-ho2 sio thiann3-thang3, u7 thau5 u7 boe2 chiah si7 lang5."
+        ],
+        [
+          "風蔥開花白波波，八仙過海隨時無，真名正姓共哥報，免得害哥去尋無。",
+          "Hong-chhang khui-hoe peh8-pho-pho, pat-sian koe3-hai2 sui5-si5 bo5, chin-mia5 chiann3-sinn3 ka7 ko po3, bian2 tit hai7 ko khi3 chhoe7 bo5."
+        ],
+        [
+          "這平看過許平崙，四圍山仔園園綑，娘仔生美兄無份，漢王不敢想昭君。",
+          "Chit peng5 khoann3 koe3 hit peng5 lun7, si3-ui5 soann-a2 huinn5-huinn5 khun2, niu5-a2 sinn sui2 hiann bo5 hun7, Han3-ong5 m7 kann2 siunn7 Chiau-kun."
+        ],
+        [
+          "西仔來打咱臺灣，百姓和齊要征番，看見咱娘偌好款，給哥倚著死甘願。",
+          "Se-a2 lai5 phah lan2 Tai5-oan5, peh-sinn3 ho5-che5 beh cheng-hoan, khoann3-kinn3 lan2 niu5 goa7 ho2-khoan2, hou7 ko oa2--tioh8 si2 kam-goan7."
+        ],
+        [
+          "三朝元老程咬金，第一盡忠包文拯，阿娘無心假有心，菜籃擔水給哥飲。",
+          "Sam tiau5 goan5-lo2 Thiann5 Ka7-kim, te7-it chin7-tiong Pau Bun5-chim2, a-niu5 bo5 sim ke2 u7 sim, chhai3-na5 tann chui2 hou7 ko lim."
+        ],
+        [
+          "東西不行行南北，四四不買買十六，當初看娘無落腹，今來愈看愈過目。",
+          "Tang-sai m7 kiann5 kiann5 lam5-pak, su3-su3 m7 be2 be2 chap8-lak8, tong-chhou khoann3 niu5 bo5 loh8-pak, tann lai5 ju2 khoann3 ju2 koe3-bak8."
+        ],
+        [
+          "一盆好花鷹爪桃，準辦一蕊要送哥，是哥金嘴不敢討，有存哥額免驚無。",
+          "Chit8 phun5 ho2-hoe eng-jiau2-tho5, chun2-pan7 chit8 lui2 beh sang3 ko, si7 ko kim-chhui3 m7 kann2 tho2, u7 chhun7 ko giah8 bian2 kiann bo5."
+        ],
+        [
+          "烏貓穿裙無穿褲，烏狗穿褲激拖土；要帶烏貓去散步，腳骨若痠坐草埔。",
+          "Ou-niau chheng7 kun5 bo5 chheng7 khou3, ou-kau2 chheng7 khou3 kek thoa-thou5; beh chhoa7 ou-niau khi3 san3-pou7, kha-kut na7 sng che7 chhau2-pou."
+        ],
+        [
+          "烏貓要嫁烏狗夫，要掠白貓作媒人；是要是不定來送，也無烏貓嫁別人。",
+          "Ou-niau beh ke3 ou-kau2 ang, beh liah8 peh8-niau cho3 mui5-lang5; si7 beh si7 m7 tiann7 lai5 sang3, iah bo5 ou-niau ke3 pat8-lang5."
+        ],
+        [
+          "一聲叫君一聲苦，怨身歹命要捨步，寶貴青春來耽誤，三長二短恨當初。",
+          "Chit8 siann kio3 kun Chit8 siann khou2, oan3-sin phainn2-mia7 beh siann2 pou7, po2-kui3 chheng-chhun lai5 tam-gou7, sann tng5 nng7 te2 hun7 tong-chhou."
+        ],
+        [
+          "一聲叫君一聲哮，雙旁目屎暝日流，花紅花香感情厚，花蜜採了無回頭。",
+          "Chit8 siann kio3 kun Chit8 siann hau2, siang peng5 bak8-sai2 mi5-jit8 lau5, hoe ang5 hoe phang kam2-cheng5 kau7, hoe-bit8 chhai2 liau2 bo5 hoe5-thau5."
+        ],
+        [
+          "一聲叫君一聲恨，無心抹粉抹嘴唇，日來無食暝無睏，要對誰人來議論。",
+          "Chit8 siann kio3 kun Chit8 siann hun7, bo5 sim boah-hun2 boah chhui3-tun5, jit8 lai5 bo5 chiah8 mi5 bo5 khun3, beh tui3 siann2-lang5 lai5 gi7-lun7."
+        ],
+        [
+          "一步珠淚掛目墘，離娘別哥莫怨天，月老算盤打錯見，青天恨海兩傷悲。",
+          "Chit8 pou7 chu-lui7 koa3 bak8-kinn5, li7 niu5 pat8 ko bok8 oan3 thinn, sng3-poann5 phah-chho3 kinn3, chheng-thian hun7-hai2 liong2 siong-pi."
+        ],
+        [
+          "二步珠淚淚落土，日來割腸暝割肚，望娘玉體著照顧，不免給我加添苦。",
+          "Nng7 pou7 chu-lui7 lui7 loh8-thou5, jit8 lai5 koah tng5 mi5 koah tou7, bang7 niu5 giok8-the2 tioh8 chiau3-kou3, m7 bian2 hou7 goa2 ka-thiam khou2."
+        ],
+        [
+          "三步珠淚淚成水，想著我娘分開，月老註定無改為，迫到使咱著分開。",
+          "Sann pou7 chu-lui7 lui7 seng5 chui2, siunn7 tioh8 goa2 niu5 be7 hun-khui, goat8-lo2 chu3-tiann7 bo5 kai2-ui5, pek kau3 su2 lan2 tioh8 hun-khui."
+        ],
+        [
+          "無疑行前再越頭，親像水滿倒翻流，勇氣被娘汝打走，初戀目尾便相交。",
+          "Bo5-gi5 kiann5 cheng5 chai3 oat8-thau5, chhin-chhiunn7 chui2 moa2 to3 hoan-lau5, iong2-khi3 pi7 niu5 li2 phah-chau2, chhou-loan5 bak8-boe2 pian7 sio-kau."
+        ],
+        [
+          "每日著出門，不嫌路頭遠，忍耐腳手酸，受苦日頭長。",
+          "Mui2-jit8 tioh8 chhut-mng5, m7 hiam5 lou7-thau5 hng7, jim2-nai7 kha-chhiu2 sng, siu7-khou2 jit8-thau5 tng5."
+        ],
+        [
+          "郎君不知阮，每日心憂悶，放著阮母子，拖命過三頓，無批無信，來問阮。",
+          "Long5-kun m7 chai gun2, mui2-jit8 sim iu-bun7, pang3 tioh8 gun2 bo2-kiann2, thoa-mia7 koe3 sann-tng3, bo5 phe bo5 sin3, lai5 mng7 gun2."
+        ],
+        [
+          "舊年你要出外做頭路，我也提錢給你做船租，踏著好地步，妻子全無顧，你那這糊塗，噯唷，我君仔喂。",
+          "Ku7-ni5 li2 beh chhut-goa7 cho3 thau5-lou7, goa2 ia7 theh8 chinn5 hou7 li2 cho3 chun5-chou, toh8 tioh8 ho2 te7-pou7, bou2-kiann2 choan5 bo5 kou3, li2 nah chiah hou5-tou5, aih-ioh, goa2 kun-a2 oeh."
+        ],
+        [
+          "聽著子兒哭著腹肚飫，我也傷心強要忍住，做你去逍遙，放阮這無聊，豈可來反僥，噯唷，我君仔喂。",
+          "Thiann tioh8 kiann2-ji5 khau3 tioh8 pak-tou2 iau, goa2 ia7 siong-sim kiong5 beh lun2 be7 tiau5, cho3 li2 khi3 siau-iau5, pang3 gun2 chiah bo5-liau5, kam2 thang lai5 hoan2-hiau, aih-ioh, goa2 kun-a2 oeh."
+        ],
+        [
+          "有寫批回來於借問，我也甘願拖磨心酸，路頭彼尼遠，叫阮怎打算，為你痛心腸，噯唷，我君仔喂。",
+          "U7 sia2-phe tng2 lai5 teh chioh-mng7, goa2 ia7 kam-goan7 thoa-boa5 sim be7 sng, lou7-thau5 hiah-nih8 hng7, kio3 gun2 choann2 phah-sng3, ui7 li2 thiann3 sim-tng5, aih-ioh, goa2 kun-a2 oeh."
+        ],
+        [
+          "一暝睏半撐倒，神魂一半去尋哥，有人講我與你好，心肝現有嘴爭無。",
+          "Chit8 mi5 be7 khun3 poann3 the-to2, sin5-hun5 chit8-poann3 khi3 chhoe7 ko, u7 lang5 kong2 goa2 kah li2 ho2, sim-koann hian7 u7 chhui3 chinn3 bo5."
+        ],
+        [
+          "一條大路行不盡，行到山頂頭就暈，若無為著娘仔恁，四轎來扛不起身。",
+          "Chit8 tiau5 toa7-lou7 kiann5 m7 chin7, kiann5 kau3 soann-teng2 thau5 chiu7 hin5, na7 bo5 ui7 tioh8 niu5-a2 lin2, si3-kio7 lai5 kng m7 khi2-sin."
+        ],
+        [
+          "一條手巾繡牡丹，要送阿君去播田，阿君播田倒退行，我娘十分可憐兄。",
+          "Chit8 tiau5 chhiu2-kin siu3 bou2-tan, beh sang3 a-kun khi3 pou3-chhan5, a-kun pou3-chhan5 to3-the3 kiann5, goa2 niu5 chap8-hun kho2-lian5 hiann."
+        ],
+        [
+          "一日煩惱日落申，一暝煩惱雞報寅，咱嫂心肝無要緊，無采咱哥的心神。",
+          "Chit8 jit8 hoan5-lo2 jit8 loh8 sin, chit8 mi5 hoan5-lo2 ke po3 in5, lan2 so2 sim-koann bo5 iau3-kin2, bo5-chhai2 lan2 ko e5 sim-sin5."
+        ],
+        [
+          "一隻船仔二支篙，要載娘身去佚陶，一面大風四面報，二個生命險險無。",
+          "Chit8 chiah chun5-a2 nng7 ki ko, beh chai3 niu5 sin khi3 thit-tho5, chit8 bin7 toa7-hong si3 bin7 po3, nng7 e5 sinn3-mia7 hiam2-hiam2 bo5."
+        ],
+        [
+          "一暝睏去又眠夢，夢見了嫂入我房，雙手攬來又空空，翻身一看並無人。",
+          "Chit8 mi5 khun3--khi3 iu7 bin5-bang7, bang7-kinn3 liau2 so2 jip8 goa2 pang5, siang-chhiu2 lam2--lai5 iu7 khang-khang, hoan-sin chit8 khoann3 pheng7 bo5 lang5."
+        ],
+        [
+          "一日煩惱日落申，一暝思想雞報寅，一日無見咱嫂面，較慘細子斷了乳。",
+          "Chit8 jit8 hoan5-lo2 jit8 loh8 sin, chit8 mi5 su-siunn7 ke po3 in5, chit8 jit8 bo5 kinn3 lan2 so2 bin7, khah chham2 se3-kiann2 tng7 liau2 lin."
+        ],
+        [
+          "一頂笠仔百百孔，胭脂抹面十分紅，早前是哥你戲弄，半途來廢你敢可。",
+          "Chit8 teng2 leh8-a2 pah-pah khang, ian-chi boah bin7 chap8-hun ang5, cha2-cheng5 si7 ko li2 hi2-lang7, poan3-tou5 lai5 hui3 li2 kam2 thang."
+        ],
+        [
+          "八月天氣還未冷，親像你我的熱情，若是九月無變症，這層姻緣允當成。",
+          "Peh--goeh8 thinn khi3 ia2 boe7 leng2, chhin-chhiunn7 li2 goa2 e5 jiat8-cheng5, na7 si7 kau2--goeh8 bo5 pian3-cheng3, chit chan5 in-ian5 un2-tang3 seng5."
+        ],
+        [
+          "十五月娘重倍明，關渡媽祖真是興，嫂嫂有物與哥約，咱哥若敢無人情。",
+          "Chap8-gou7 goeh8-niu5 teng5-poe7 beng5, Kan-tau7 Ma2-chou2 chin si7 heng, so2-so2 u7 mih8 kah ko teng7, lan2 ko nah kam2 bo5 jin5-cheng5."
+        ],
+        [
+          "二人意愛在心內，兄哥在東妹在西，咱嫂若無嫌我醜，當蠅當蚊都欲來。",
+          "Nng7 lang5 i3-ai3 chai7 sim-lai7, hiann-ko chai7 tang moe7 chai7 sai, lan2 so2 na7 bo5 hiam5 goa2 bai2, tng sin5 tng bang2 to beh lai5."
+        ],
+        [
+          "十五月娘圓輪輪，照著溪邊映蘿藤，久久無看娘仔面，見著一面重倍親。",
+          "Chap8-gou7 goeh8-niu5 inn5-lin3-lin3, chio3 tioh8 khe-pinn in3 lo5-tin5, ku2-ku2 bo5 khoann3 niu5-a2 bin7, kinn3 tioh8 chit8 bin7 teng5-poe7 chhin."
+        ],
+        [
+          "十五月娘真是明，關渡媽祖真是興，招嫂姻緣嫂不肯，無采兄哥的工情。",
+          "Chap8-gou7 goeh8-niu5 chin si7 beng5, Kan-tau7 Ma2-chou2 chin si7 heng, chio so2 in-ian5 so2 m7 kheng2, bo5-chhai2 hiann-ko e5 kang-cheng5."
+        ],
+        [
+          "三國猛將趙子龍，唐朝勇將尉遲恭；咱嫂心肝無意向，兄哥不敢娘參商。",
+          "Sam-kok beng2-chiong3 Tio7 Chu2-liong5, Tong5-tiau5 iong2-chiong3 Ut Ti5-kiong; lan2 so2 sim-koann bo5 i3-hiong3, hiann-ko m7 kann2 niu5 chham-siong5."
+        ],
+        [
+          "大隻水牛小條索，大漢小娘細漢哥，是你有好不識寶，細粒干樂較賢轉。",
+          "Toa7-chiah chui2-gu5 sio2-tiau5 soh, toa7-han3 sio2-niu5 se3-han3 ko, si7 li2 u7 ho2 m7 bat po2, se3-liap8 kan-lok8 khah gau5 go5."
+        ],
+        [
+          "大石也著石仔梗，阿君也著娘牽成，牽成阿君若定性，不敢打無娘恩情。",
+          "Toa7-chioh8 ia7 tioh8 chioh8-a2 keng7, a-kun ia7 tioh8 niu5 khan-seng5, khan-seng5 a-kun na7 teng7-seng3, m7 kann2 phah-bo5 niu5 un-cheng5."
+        ],
+        [
+          "人食閒米講閒話，講咱二人有交陪，此去姻緣若無配，汝咱二人大家衰。",
+          "Lang5 chiah8 eng-bi2 kong2 eng5-oe7, kong2 lan2 nng7 lang5 u7 kau-poe5, chhu2 khi3 in-ian5 na7 bo5 phoe3, li2 lan2 nng7 lang5 tai7-ke soe."
+        ],
+        [
+          "三粒子仔咬三音，要咬三聲沉忱忱，叫哥有聽頭有頓，要給別人去傷心。",
+          "Sann liap8 chi2-a2 ka7 sann im, beh ka7 sann siann tim5-tim3-tim3, kio3 ko u7 thiann thau5 u7 tim3, beh hou7 pat8-lang5 khi3 siong-sim."
+        ],
+        [
+          "小妹與哥偌爾好，望要生子親像哥，檢采哥仔若返到，有時看子若看哥。",
+          "Sio2-moe7 kah ko goa7-nih8 ho2, bang7 beh sinn-kiann2 chhin-chhiunn7 ko, kiam2-chhai2 ko-a2 na7 tng2-to3, u7-si5 khoann3 kiann2 na7 khoann3 ko."
+        ],
+        [
+          "小妹摟兄親嘴唇，二人相看淚紛紛，咱嫂心肝不時悶，連飯食湇吞。",
+          "Sio2-moe7 lam2 hiann chhin chhui3-tun5, nng7 lang5 sio-khoann3 lui7-hun-hun, lan2 so2 sim-koann put-si5 bun7, lian5 png7 be7 chiah8 am2 be7 thun."
+        ],
+        [
+          "天頂落雨流目屎，心腸苦切無人知，想要大山移落海，將伊的厝移過來。",
+          "Thinn-teng2 loh8-hou7 lau5 bak8-sai2, sim-tng5 khou2-chheh bo5 lang5 chai, siunn7 beh toa7-soann i5 loh8 hai2, chiong i e5 chhu3 i5--koe3-lai5."
+        ],
+        [
+          "小妹送哥到大船，四目相對亂紛紛，千言萬語講盡，無好舵公喊開船。",
+          "Sio2-moe7 sang3 ko kau3 toa7-chun5, si3 bak8 sio-tui3 loan7-hun-hun, chhian-gian5 ban7-gi2 kong2 be7 chin7, bo5 ho2 tai7-kong hoah khui-chun5."
+        ],
+        [
+          "小妹嫁尪兄歡喜，那使叫人來通知，要剪麻布七尺二，要給小妹掛轎邊。",
+          "Sio2-moe7 ke3 ang hiann hoann-hi2, nah-sai2 kio3 lang5 lai5 thang-ti, beh chian2 moa5-pou3 chhit chhioh ji7, beh hou7 sio2-moe7 koa3 kio7-pinn."
+        ],
+        [
+          "水錦開花白波波，十五月中一欉桃，是汝一娘對三哥，與嫂盡心永是無。",
+          "Chui2-gim2 khui-hoe peh8-pho-pho, chap8-gou7 goeh8-tiong chit8 chang5 tho5, si7 li2 chit8 niu5 tui3 sann ko, kah so2 chin7-sim eng2 si7 bo5."
+        ],
+        [
+          "水桶離開桶索，咱嫂離得咱哥，兄哥與妳盡情好，被妳先梟或敢無。",
+          "Chui2-thang2 be7 li7-khui thang2-soh, lan2 so2 be7 li7-tit lan2 ko, hiann-ko kah li2 chin7-cheng5 ho2, pi7 li2 seng hiau hek8 kam2 bo5."
+        ],
+        [
+          "不知咱嫂信不信，兄哥思想頭殼暈，咱今若要著較緊，一暝煩惱專無眠。",
+          "M7 chai lan2 so2 sin3 m7 sin3, hiann-ko su-siunn7 thau5 khak hin5, lan2 tann na7 beh tioh8 khah kin2, chit8 mi5 hoan5-lo2 choan bo5 bin5."
+        ],
+        [
+          "水錦開花白猜猜，風吹菅尾倒歸排，嫂嫂不知哥的代，兄哥暗時想返來。",
+          "Chui2-gim2 khui-hoe peh8-chhai-chhai, hong chhoe koann-boe2 to2 kui pai5, so2-so2 m7 chai ko e5 tai7, hiann-ko am3-si5 siunn7 tng2 lai5."
+        ],
+        [
+          "水車車久著操心，畜生飼久會脫毛，若要有交就無斷，豈無尪某睏同床。",
+          "Chui2-chhia chhia ku2 tioh8 chhau-sim, cheng-sinn chhi7 ku2 e7 thng3-mng5, na7 beh u7 kau chiu7 bo5 tng7, kam2 bo5 ang-bou2 khun3 kang5 chhng5."
+        ],
+        [
+          "手舉烏銃頭低低，一隻鳥仔半天飛，一時無看哥這過，心肝煩惱撿茶。",
+          "Chhiu2 giah8 ou-chheng3 thau5 ke7-ke7, chit8 chiah chiau2-a2 poann3-thinn pe, chit8-si5 bo5 khoann3 ko chia koe3, sim-koann hoan5-lo2 be7 ban2-te5."
+        ],
+        [
+          "分開也是姑不終，不敢講兄你梟雄，親夫親妻較致重，你咱也是無久長。",
+          "Hun-khui ia7 si7 kou-put-chiong, m7 kann2 kong2 hiann li2 hiau-hiong5, chhin-hu chhin-chhe khah ti3-tiong7, li2 lan2 ia7 si7 bo5 ku2-tiong5."
+        ],
+        [
+          "內面盤嫂過白，敢著與嫂來用計，咱嫂心肝若是要，假意佚陶過別家。",
+          "Lai7-bin7 poann5 so2 be7 koe3-peh8, kam2 tioh8 kah so2 lai5 eng7-ke3, lan2 so2 sim-koann na7 si7 beh, ke2-i3 thit-tho5 koe3 pat8-ke."
+        ],
+        [
+          "六月算來是火熱，少年幾人風花，咱嫂與哥來咒誓，先梟死了被狗拖。",
+          "Lak8-goeh8 sng3--lai5 si7 hoe2-joah8, siau3-lian5 kui2 lang5 be7 hong-hoa, lan2 so2 kah ko lai5 chiu3-choa7, seng hiau si2 liau2 pi7 kau2 thoa."
+        ],
+        [
+          "孔明用計在城頂，魏公壓倒七星燈，親娘的嘴極賢變，老鼠哭貓假盡情。",
+          "Khong2-beng5 eng7-ke3 chai7 siann5-teng2, Gui7-kong ap-to3 chhit-chhinn-teng, chhin-niu5 e5 chhui3 kek8 gau5 peng2, niau2-chhi2 khau3 niau ke2 chin7-cheng5."
+        ],
+        [
+          "本成會好蜜攬糖，今來才鬧雪攬霜，雪來攬霜平平冷，蜜來攬糖平平情。",
+          "Pun2-chiann5 e7 ho2 bit8 lam7 thng5, tann lai5 chiah nau7 seh lam7 sng, seh lai5 lam7 sng pinn5-pinn5 leng2, bit8 lai5 lam7 thng5 pinn5-pinn5 cheng5."
+        ],
+        [
+          "兄哥有想我都知，有麼代志才無來，若想娘醜你無愛，也著通知給娘知。",
+          "Hiann-ko u7 siunn7 goa2 to chai, u7 mih tai7-chi3 chiah bo5 lai5, na7 siunn7 niu5 bai2 li2 bo5 ai3, ia7 tioh8 thang-ti hou7 niu5 chai."
+        ],
+        [
+          "白紙寫字青紙封，紅紙包面作批囊，愛寄幾句給君講，內山火車未交通。",
+          "Peh8-choa2 sia2-ji7 chhin-choa2 hong, ang5-choa2 pau bin7 cho3 phoe-long5, ai3 kia3 kui2 ku3 ka7 kun kong2, lai7-soann hoe2-chhia boe7 kau-thong."
+        ],
+        [
+          "兄哥不知嫂代志，為阮兄哥病相思，咱嫂寫批不識字，吩咐朋友驚人疑。",
+          "Hiann-ko m7 chai so2 tai7-chi3, ui7 gun2 hiann-ko pinn7 siunn-si, lan2 so2 sia2-phoe m7 bat-ji7, hoan-hu3 peng5-iu2 kiann lang5 gi5."
+        ],
+        [
+          "五粒子仔咬五和，要咬五聲去給哥，叫哥有聽著應嫂，要給別人去尋無。",
+          "Gou7 liap8 chi2-a2 ka7 gou7 ho5, beh ka7 gou7 siann khi3 hou7 ko, kio3 ko u7 thiann tioh8 in3 so2, beh hou7 pat8-lang5 khi3 chhoe7 bo5."
+        ],
+        [
+          "古井有水清而深，落落紅柑半浮沉，若是要沉沉落去，莫再浮起動人心。",
+          "Kou2-chinn2 u7 chui2 chheng ji5 chhim, loh8--loh8 ang5-kam poann3 phu5-tim5, na7 si7 beh tim5 tim5--loh8-khi3, bok8 chai3 phu5-khi2 tong7 jin5 sim."
+        ],
+        [
+          "池中無水天做旱，天頂落霜地下寒，咱哥無娘可作伴，較慘六月無水泉。",
+          "Ti5-tiong bo5 chui2 thinn cho3-oann7, thinn-teng2 loh8-sng te7-e7 koann5, lan2 ko bo5 niu5 thang cho3-phoann7, khah chham2 lak8-goeh8 bo5 chui2-choann5."
+        ],
+        [
+          "地下透風起土粉，天頂落雨起風雲，與嫂割吊心肝悶，粥飯食湇吞。",
+          "Te7-e7 thau3-hong khi2 thou5-hun2, thinn-teng2 loh8-hou7 khi2 hong-hun5, kah so2 koah-tiau3 sim-koann bun7, be5-png7 be7 chiah8 am2 be7 thun."
+        ],
+        [
+          "光景真好龍山寺，艋舺出香蓮花池，並無一項做為記，用嘴相好無了時。",
+          "Kong-keng2 chin ho2 Liong-san-si7, Bang2-kah chhut-hiong lian5-hoe-ti5, pheng7 bo5 chit8 hang7 cho3 ui5-ki3, eng7 chhui3 siong-ho2 bo5 liau2-si5."
+        ],
+        [
+          "我娘梟君想欲好，阿君欲梟著過刀，欲過風鼓與石磨，燒灰研末過研槽。",
+          "Goa2 niu5 hiau kun siunn7 beh ho2, a-kun beh hiau tioh8 koe3-to, beh koe3 hong-kou2 kah chioh8-boa5, sio-hu geng2-boah8 koe3 geng2-cho5."
+        ],
+        [
+          "別人美好哥無望，心肝與娘生相同，雙人相好我無放，著交到尾才是人。",
+          "Pat8-lang5 bi2-ho2 ko bo5 bang7, sim-koann kah niu5 sinn sio-kang5, siang lang5 siong-ho2 goa2 bo5 pang3, tioh8 kau kau3-boe2 chiah si7 lang5."
+        ],
+        [
+          "我娘與哥同心性，無想虛華想正經，心肝想熱無想冷，大家有念相好情。",
+          "Goa2 niu5 kah ko kang5 sim-seng3, bo5 siunn7 hi-hoa siunn7 cheng3-keng, sim-koann siunn7 joah8 bo5 siunn7 leng2, tai7-ke u7 liam7 siong-ho2 cheng5."
+        ],
+        [
+          "我兄生美十八歲，較美京城牡丹花，終身配伊都過，親像犀牛在望月。",
+          "Goa2 hiann sinn sui2 chap8-peh hoe3, khah sui2 kiann-siann5 bou2-tan-hoe, chiong-sin phoe3 i to be7 koe3, chhin-chhiunn7 sai-gu5 chai7 bang7 goeh8."
+        ],
+        [
+          "含笑過午芳芎蕉，手攜花籃挽茶葉，驚爸驚母不敢叫，假意呼雞喊鴟梟。",
+          "Ham5-chhiau3 koe3 ngou2 phang kin-chio, chhiu2 koann7 hoe-na5 ban2 te5-hioh8, kiann pe7 kiann bo2 m7 kann2 kio3, ke2-i3 khou-ke hoah bah8-hioh8."
+        ],
+        [
+          "阿哥有來娘有伴，阿哥若去娘孤單，親像孤鳥尋無伴，阿君我子我心肝。",
+          "A-ko u7 lai5 niu5 u7 phoann7, a-ko na7 khi3 niu5 kou-toann, chhin-chhiunn7 kou-chiau2 chhoe7 bo5 phoann7, a-kun goa2 kiann2 goa2 sim-koann."
+        ],
+        [
+          "牡丹開花笑微微，娘仔生美真標緻，害我瞑日病相思，想要與娘結連理。",
+          "Bou2-tan khui-hoe chhio3-bi-bi, niu5-a2 sinn sui2 chin phiau-chi3, hai7 goa2 mi5-jit8 pinn7 siunn-si, siunn7 beh kah niu5 kiat lian5-li2."
+        ],
+        [
+          "狄青去取珍珠旗，蕃王用計要害伊，為娘割吊險險死，飯來食半湯匙。",
+          "Tek8 Chheng khi3 chhu2 chin-chu-ki5, Hoan-ong5 eng7-ke3 beh hai7 i, ui7 niu5 koah-tiau3 hiam2-hiam2 si2, png7 lai5 be7 chiah8 poann3 thng-si5."
+        ],
+        [
+          "含笑開花香過山，水仙開花好排壇，神魂被嫂迷一半，克虧哥仔要按怎。",
+          "Ham5-chhiau3 khui-hoe hiunn koe3 soann, chui2-sian khui-hoe ho2 pai5-toann5, sin5-hun5 pi7 so2 be5 chit8-poann3, khek-khui ko-a2 beh an3-choann2."
+        ],
+        [
+          "阮的草厝在半山，手舉琵琶清心彈，勞動一文一點汗，不敢思想查某官。",
+          "Gun2 e5 chhau2-chhu3 chai7 poann3-soann, chhiu2 giah8 pi5-pe5 chheng-sim toann5, lo5-tong7 chit8 bun5 chit8 tiam2 koann7, m7 kann2 su-siunn7 cha-bou2-koann."
+        ],
+        [
+          "我君有講要娶嫂，我娘有講要嫁哥，給我盡心與你好，好到盡心才來無。",
+          "Goa2 kun u7 kong2 beh chhoa7 so2, goa2 niu5 u7 kong2 beh ke3 ko, hou7 goa2 chin7-sim kah li2 ho2, ho2 kau3 chin7-sim chiah lai5 bo5."
+        ],
+        [
+          "阿娘洗衫在圳溝，目屎流落水底跑，人人笑我偌愛哭，與君離開失對頭。",
+          "A-niu5 se2-sann chai7 chun3-kau, bak8-sai2 lau5 loh8 chui2-te2 phau2, lang5-lang5 chhio3 goa2 goa7 ai3 khau3, kah kun li7-khui sit tui3-thau5."
+        ],
+        [
+          "阿哥要這雙人想，娘會想兄哥想娘，看娘無兄要怎樣，夜夜思想心肝溶。",
+          "A-ko ai3 che siang lang5 siunn7, niu5 e7 siunn7 hiann ko siunn7 niu5, khoann3 niu5 bo5 hiann beh choann2-iunn7, ia7-ia7 su-siunn7 sim-koann iunn5."
+        ],
+        [
+          "阿娘梟君笑文文，阿哥梟娘著沉船，沉去東京浮福建，留目看哥拖屎連。",
+          "A-niu5 hiau kun chhio3-bun2-bun2, a-ko hiau niu5 tioh8 tim5-chun5, tim5 khi3 tang-kiann phu5 Hok-kian3, lau5 bak8 khoann3 ko thoa-sai2-lian5."
+        ],
+        [
+          "阿娘梟哥欲嫁夫，阿哥梟娘會死人，死到一家茹蔥蔥，關家門戶無半人。",
+          "A-niu5 hiau ko beh ke3-ang, a-ko hiau niu5 e7 si2 lang5, si2 kau3 chit8-ke ju5-chhang2-chhang2, koainn-ke mng5-hou7 bo5 poann3 lang5."
+        ],
+        [
+          "門口一欉相思欉，相思病落不知人，先生來看講無望，貼心來看好咚咚。",
+          "Mng5-khau2 chit8 chang5 siunn-si chang5, siunn-si pinn7--loh8 m7 chai lang5, sian-sinn lai5 khoann3 kong2 bo5 bang7, tah-sim lai5 khoann3 ho2-tang-tang."
+        ],
+        [
+          "房間無伴暗沉沉，親像山內聽鳥音，倒落眠床目金金，心肝宛然彈月琴。",
+          "Pang5-keng bo5 phoann7 am3-tim5-tim5, chhin-chhiunn7 soann-lai7 thiann chiau2-im, to2 loh8 bin5-chhng5 bak8 kim-kim, sim-koann oan2-jian5 toann5 goeh8-khim5."
+        ],
+        [
+          "阿君娶某我都肯，給你鬧熱麻布燈，一邊要寫哥字姓，一邊要寫哥絕情。",
+          "A-kun chhoa7-bou2 goa2 to kheng2, ka7 li2 lau7-jiat8 moa5-pou3-teng, chit8 pinn beh sia2 ko ji7-seng3, chit8 pinn beh sia2 ko choat8-cheng5."
+        ],
+        [
+          "虎爪開花鴨腳蹄，娘仔少年不去嫁，契兄害死千外個，害人腳風舉重枷。",
+          "Hou2-jiau2 khui-hoe ah-kha-te5, niu5-a2 siau3-lian5 m7 khi3 ke3, khe3-hiann hai7-si2 chheng goa7 e5, hai7 lang5 kha-hong giah8 tang7-ke5."
+        ],
+        [
+          "看見娘仔在沃雨，兄哥看見為娘苦，娘仔身命何不顧，天光來挽到日烏。",
+          "Khoann3-kinn3 niu5-a2 teh ak-hou7, hiann-ko khoann3-kinn3 ui7 niu5 khou2, niu5-a2 sin-mia7 nah m7 kou3, thinn-kng lai5 ban2 kau3 jit8-ou."
+        ],
+        [
+          "咱哥住在讀書窗，咱嫂刺繡在閨房，心肝愛來想無蚊，假意來此尋某人。",
+          "Lan2 ko toa3 chai3 thak8-chheh-thang, lan2 so2 chhiah-siu3 chai7 kui-pang5, sim-koann ai3 lai5 siunn7 bo5 bang2, ke2-i3 lai5 chhu2 chhoe7 bou2-lang5."
+        ],
+        [
+          "金蠅也在美花蕊，蝴蝶看著緊飛開，實在真正不死鬼，汝的地場在糞堆。",
+          "Kim-sin5 ia7 chai7 sui2 hoe-lui2, ou5-tiap8 khoann3 tioh8 kin2 poe khui, sit8-chai7 chin-chiann3 put-su3-kui2, li2 e5 te7-tiunn5 chai7 pun3-tui."
+        ],
+        [
+          "咱哥一日著讀書，咱嫂艱苦著撿茶，嫂嫂盡心無若多，盡心兄哥我一個。",
+          "Lan2 ko chit8 jit8 tioh8 thak8-chheh, lan2 so2 kan-khou2 tioh8 ban2-te5, so2-so2 chin7-sim bo5 na7 che7, chin7-sim hiann-ko goa2 chit8 e5."
+        ],
+        [
+          "咱嫂坐在大門邊，咱哥坐在眠床墘，嫂嫂一身較幼麵，嘴頰來吻才是甜。",
+          "Lan2 so2 che7 chai7 toa7-mng5 pinn, lan2 ko che7 chai7 bin5-chhng5 kinn5, so2-so2 chit8-sin khah iu3-mi7, chhui3-phe2 lai5 chim chiah si7 tinn."
+        ],
+        [
+          "咱娘後步真賢存，身邊一邊一個君，越前越後可來滾，望要姻緣對半分。",
+          "Lan2 niu5 au7-pou7 chin gau5 chhun5, sin-pinn chit8 pinn chit8 e5 kun, oat8 cheng5 oat8 au7 thang lai5 kun2, bang7 beh in-ian5 tui3-poann3 pun."
+        ],
+        [
+          "咱嫂有心哥有意，二人相好望百年，雙人大家著有義，誰人梟心無好死。",
+          "Lan2 so2 u7-sim ko u7 i3, nng7 lang5 siong-ho2 bang7 pah ni5, siang lang5 tai8-ke tioh8 u7 gi7, siann2-lang5 hiau sim bo5 ho2-si2."
+        ],
+        [
+          "粉鳥出世成斑甲，鷓鴣出世成烏鴉，天下歹子免人教，姻緣註定是無差。",
+          "Hun2-chiau2 chhut-si3 seng5 pan-kah, chia3-kou chhut-si3 seng5 ou-a, thinn-e7 phainn2-kiann2 bian2 lang5-ka3, in-ian5 chu3-tiann7 si7 bo5 chha."
+        ],
+        [
+          "要食好魚近水墘，要盤娘仔近厝邊，三不五時可相見，較好雲開見月時。",
+          "Beh chiah8 ho2-hi5 kin7 chui2-kinn5, beh poann5 niu5-a2 kin7 chhu3-pinn, sam-put-gou7-si5 thang sann-kinn3, khah ho2 hun5 khui kinn3 goeh8 si5."
+        ],
+        [
+          "要給咱哥來主意，窟仔順續變成埤，舊哥順續來了離，要給新哥來成置。",
+          "Beh ka7 lan2 ko lai5 chu2-i3, khut-a2 sun7-soa3 pian3-seng5 pi, ku7-ko sun7-soa3 lai5 liau2-li7, beh ka7 sin-ko lai5 chhiann5-ti3."
+        ],
+        [
+          "面抹水粉白茫茫，唇點胭脂一點紅，二粒乳仔雙雙對，十月懷胎暗藏藏。",
+          "Bin7 boah chui2-hun2 peh8-bang5-bang5, tun5 tiam2 ian-chi chit8 tiam2 ang5, nng7 liap8 lin-a2 siang-siang tui3, chap8 goeh8 hoai5-thai am3 chhang3-chhang3."
+        ],
+        [
+          "苦瓜開花六蒂交，水蔥開尾結一留，阿嫂生做白泡泡，正會蓋倒一庄頭。",
+          "Khou2-koe khui-hoe lak8 ti3 kau, chui2-chhang khui-boe2 kiat chit8 lau5, a-so2 sinn cho3 peh8-phau-phau, chiann3 e7 kai3-to2 chit8 chng-thau5."
+        ],
+        [
+          "海水拍岸白絲絲，海邊石頭發青苔，你的心肝肯放離，叫我山貓想水魚。",
+          "Hai2-chui2 phah-hoann7 peh8-si-si, hai2-pinn chioh8-thau5 hoat chhin-ti5, li2 e5 sim-koann kheng2 pang3-li7, kio3 goa2 soann-niau siunn7 chui2-hi5."
+        ],
+        [
+          "茶油點火重倍清，十五月娘重倍明，招嫂姻緣等伊興，兄哥做人無路用。",
+          "Te5-iu5 tiam2-hoe2 teng5-poe7 chheng, chap8-gou7 goeh8-niu5 teng5-poe7 beng5, chio so2 in-ian5 tan2 i heng3, hiann-ko cho3-lang5 bo5 lou7-eng7."
+        ],
+        [
+          "娘仔住在某字號，哥你無嫌來佚陶，真名正姓給哥報，免得害哥去尋無。",
+          "Niu5-a2 toa3 chai7 bou2 ji7-ho7, ko li2 bo5 hiam5 lai5 thit-tho5, chin-mia5 chiann3-sinn3 ka7 ko po3, bian2-tit hai7 ko khi3 chhoe7 bo5."
+        ],
+        [
+          "家中有人真僥倖，講咱相通有這情，冤枉兄哥真不明，三條水洗都清。",
+          "Ka-tiong u7 lang5 chin hiau-heng7, kong2 lan2 sio-thang u7 chit cheng5, oan-ong2 hiann-ko chin put beng5, sann tiau5 chui2 se2 to be7 chheng."
+        ],
+        [
+          "茶甌摃破不成餈，少年無妻真克虧，兄哥坐落喘大氣，好魚好肉食肥。",
+          "Te5-au kong3 phoa3 m7 seng5 hui5, siau3-lian5 bo5 chhe chin khek-khui, hiann-ko che7 loh8 chhoan2 toa7-khui3, ho2-hi5 ho2-bah chiah8 be7 pui5."
+        ],
+        [
+          "匏仔出世成葫蘆，朽柴浸水發香菰，路頭吊遠幾十舖，認真要行免一晡。",
+          "Pu5-a2 chhut-si3 seng5 hou5-lou5, au3-chha5 chim3-chui2 hoat hiunn-kou, lou7-thau5 tiau3-hng7 kui2 chap8 phou, jin7-chin beh kiann5 bian2 chit8 pou."
+        ],
+        [
+          "嫂嫂與哥真意愛，又驚咱厝爸母知，暝日偷來幾十擺，兄哥無講嫂不知。",
+          "So2-so2 kah ko chin i3-ai3, iu7 kiann lan2 chhu3 pe7-bo2 chai, mi5-jit8 thau lai5 kui2 chap8 pai2, hiann-ko bo5 kong2 so2 m7 chai."
+        ],
+        [
+          "娘仔生美有緣分，十八二二當青春，得與娘同床睏，較慘番王想昭君。",
+          "Niu5-a2 sinn sui2 u7 ian5-hun7, chap8-peh ji7-ji7 tng chheng-chhun, be7 tit kah niu5 kang5 chhng5 khun3, khah chham2 Hoan-ong5 siunn7 Chiau-kun."
+        ],
+        [
+          "梅仔好食酸吻吻，楊桃好食加冷損，若無與哥同床睏，因何褲袋短三寸。",
+          "Mui5-a2 ho2-chiah8 sng-bun2-bun2, iunn5-to5 ho2-chiah8 ka-leng2-sun2, na7 bo5 kah ko kang5 chhng5 khun3, in-ho5 khou3-te7 te2 sann chhun3."
+        ],
+        [
+          "頂岑送哥落下岑，想著不甘攬來吻，無想昨暝睏同枕，今來分開君甘心。",
+          "Teng2-gim5 sang3 ko loh8 e7-gim5, siunn7 tioh8 m7 kam lam2 lai5 chim, bo5 siunn7 cha7-mi5 khun3 kang5 chim2, tann lai5 hun-khui kun kam-sim."
+        ],
+        [
+          "頂暗含眠叫娘名，阮某知影我真驚，若有來問講無影，不可要與伊輸贏。",
+          "Teng2-am3 ham5-bin5 kio3 niu5 mia5, gun2 bou2 chai-iann2 goa2 chin kiann, na7 u7 lai5 mng7 kong2 bo5-iann2, m7 thang beh kah i su-iann5."
+        ],
+        [
+          "無風無雨做大水，無疑無悟來做堆，今來二人要離開，目屎流落滿面垂。",
+          "Bo5 hong bo5 hou7 cho3 toa7-chui2, bo5-gi5 bo5-gou7 lai5 cho3-tui, tann lai5 nng7 lang5 beh li7-khui, bak8-sai2 lau5 loh8 moa2-bin7 soe5."
+        ],
+        [
+          "猛虎住在房間內，半暝展威無人知，阿君驚到心肝歹，含眠不時喝虎來。",
+          "Beng2-hou2 toa3 chai7 pang5-keng lai7, poann3-mi5 tian2-ui bo5 lang5 chai, a-kun kiann kau3 sim-koann phainn2, ham5-bin5 put-si5 hoah hou2 lai5."
+        ],
+        [
+          "會得與娘你做堆，得共娘可相隨，巧神娘仔生偌美，緣分著真食虧。",
+          "E7-tit kah niu5 li2 cho3-tui, be7 tit ka7 niu5 thang sio-sui5, khiau2-sin5 niu5-a2 sinn goa7 sui2, ian5 hun be7 tioh8 chin chiah8-khui."
+        ],
+        [
+          "為娘割吊話說，骨頭浮漂放風箏，若有朋友與我坐，無言可答與伊回。",
+          "Ui7 niu5 koah-tiau3 oe7 be7 soeh, kut-thau5 phu5-phio3 pang3 hong-chhoe, na7 u7 peng5-iu2 kah goa2 che7, bo5 gian5 thang tap kah i hoe5."
+        ],
+        [
+          "為娘割吊飯食少，一病相思倒在床，倒在床中大聲叫，也無茶湯可食燒。",
+          "Ui7 niu5 koah-tiau3 png7 chiah8 chio2, chit8 pinn7 siunn-si to2 chai7 chhng5, to2 chai7 chhng5-tiong toa7-siann kio3, ia7 bo5 te5-thng thang chiah8-sio."
+        ],
+        [
+          "菅蘭開花葉尖尖，海水這來較鹹鹹，為嫂割吊大風險，較慘挑油跳石尖。",
+          "Koann-lan5 khui-hoe hioh8 chiam-chiam, hai2-chui2 chia lai5 khah kiam5-kiam5, ui7 so2 koah-tiau3 toa7 hong-hiam2, khah chham2 tann iu5 thiau3 chioh8-chiam."
+        ],
+        [
+          "為娘割吊半癲戇，池內無水魚會蹌，是要是不照實講，講了無影真凸風。",
+          "Ui7 niu5 koah-tiau3 poann3 tian-gong7, ti5 lai7 bo5 chui2 hi5 e7 chong5, si7 beh si7 m7 chiau3-sit8 kong2, kong2 liau2 bo5-iann2 chin phong3-hong."
+        ],
+        [
+          "與君相好睏同張，離別分開兄離娘，咱無鬥口按怎樣，乾乾來煞心真溶。",
+          "Kah kun siong-ho2 khun3 kang5 tiunn, li7-piat8 hun-khui hiann li7 niu5, lan2 bo5 tau3-khau2 an3-choann2-iunn7, kian-kian lai5 soah sim chin iunn5."
+        ],
+        [
+          "與君約在後壁溝，菅尾打結做號頭，夭壽誰人把阮解，打歹姻緣是無賢。",
+          "Kah kun iok chai7 au7-piah kau, koann-boe2 phah-kat cho3 ho7-thau5, iau2-siu7 siann2-lang5 ka7 gun2 kai2, phah-phainn2 in-ian5 si7 bo5 gau5."
+        ],
+        [
+          "勸娘不免若生氣，相好慢慢也遲，外面為人做代志，才會耽誤娘日期。",
+          "Khng3 niu5 m7 bian2 loa7 siu7-khi3, siong-ho2 ban7-ban7 ia7 be7 ti5, goa7-bin7 ui7 lang5 cho3 tai7-chi3, chiah e7 tam-gou7 niu5 jit8-ki5."
+        ],
+        [
+          "我娘嫁著歹夫婿，好漢藏拍無人知，心甘愈想愈無愛，名字在君家甲牌。",
+          "Goa2 niu5 ke3 tioh8 phainn2 ang-sai3, ho2-han3 chhang3-phah bo5 lang5 chai, sim kam ju2 siunn7 ju2 bo5 ai3, mia5-ji7 chai7 kun ke-kah-pai5."
+        ],
+        [
+          "竹篙身長好披紗，茶甌幼幼好飲茶；頂廳請人客，下廳拍布冊，打妻一下箠，害妻三日不食糜；刣豬刣羊共妻會，咒詛後擺若拍手會卷。",
+          "Tek-ko sin tng5 ho2 phi se, te5-au iu3-iu3 ho2 lim-te5; teng2-thiann chhiann2 lang5-kheh, e7-thiann phah pou3-chheh, phah chhe chit8-e7 chhe5, hai7 chhe sann jit8 m7 chiah8 be5; thai5 ti thai5 iunn5 ka7 chhe he7, chiu3-choa7 au7-pai2 na7 phah chhiu2 e7 se."
+        ],
+        [
+          "風箏糊來古天窗，兄哥家己一間房；一暝睏去又眠夢，夢見嫂嫂咱二人。",
+          "Hong-chhoe kou5 lai5 kou2 thinn-thang, hiann-ko ka-ki7 chit8 keng pang5; chit8 mi5 khun3--khi3 iu7 bin5-bang7, bang7-kinn3 so2-so2 lan2 nng7 lang5."
+        ],
+        [
+          "日頭一暗暗密霧，雞母娶子壁腳踞；阿君轉去妻子有，吃虧我身無丈夫。",
+          "Jit8-thau5 chit8 am3 am3 bat8-bu7, ke-bo2 chhoa7 kiann2 piah-kha ku; a-kun tng2--khi3 bou2-kiann2 u7, chiah8-khui goa2 sin bo5 tiong7-hu."
+        ],
+        [
+          "舊式婚姻講體面，富窮絕對結緣，如今禮教若無變，有害真多的青年。",
+          "Ku7-sek hun-in kong2 the2-bian7, hu3-keng5 choat8-tui3 be7 kiat-ian5, ju5-kim le2-kau3 na7 bo5 pian3, u7 hai7 chin che7 e5 chhin ni5."
+        ],
+        [
+          "舊式結婚用命令，買賣價錢先聲明，採用第三者為止，價錢不好講成。",
+          "Ku7-sek kiat-hun eng7 beng7-leng7, be2-be7 ke3-chinn5 seng seng-beng5, chhai2 eng7 te7-sann chia2 ui5-chi2, ke3-chinn5 m7 ho2-kong2 be7 seng5."
+        ],
+        [
+          "家長心境著轉向，專制主義是無長，雖是兒女咱生養，親事著對子相量。",
+          "Ka-tiunn2 sim-keng2 tioh8 choan2-hiong3, choan-che3 chu2-gi7 si7 bo5 tiong5, sui si7 ji5-lu2 lan2 sinn-iong2, chhin-su7 tioh8 tui3 kiann2 siong-liong7."
+        ]
+      ],
+      "篇名": "無"
+    }
+  ]
+}

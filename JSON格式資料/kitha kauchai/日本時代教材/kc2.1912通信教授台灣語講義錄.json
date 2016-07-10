@@ -1,0 +1,5367 @@
+{
+  "作者": "川合真永",
+  "出版年": "1912",
+  "出版者": "臺灣語通信研究會",
+  "文類": "其他教材",
+  "書名": "通信教授臺灣語講義錄",
+  "書寫系統": "漢字",
+  "資料": [
+    {
+      "段": [
+        [
+          "汝看無。",
+          "Lu2 khoann3 bo5."
+        ],
+        [
+          "我有。",
+          "Goa2 u7."
+        ],
+        [
+          "我無。.",
+          "Goa2 bo5.."
+        ],
+        [
+          "我有、汝有無。",
+          "Goa2 u7, lu2 u7 bo5."
+        ],
+        [
+          "伊有無。",
+          "I u7 bo5."
+        ],
+        [
+          "伊有。",
+          "I u7."
+        ],
+        [
+          "伊無。",
+          "I bo5."
+        ],
+        [
+          "伊有、我無。",
+          "I u7, goa2 bo5."
+        ],
+        [
+          "我無、伊有。",
+          "Goa2 bo5, i u7."
+        ],
+        [
+          "此個、您大家、有無。",
+          "Chit e5, lin2 tai7-ke, u7 bo5."
+        ],
+        [
+          "此個、您各個、有無。",
+          "Chit e5, lin2 tak8 e5, u7 bo5."
+        ],
+        [
+          "各個有。",
+          "Tak8 e5 u7."
+        ],
+        [
+          "各個無。",
+          "Tak8 e5 bo5."
+        ],
+        [
+          "有個有。",
+          "U7 e5 u7."
+        ],
+        [
+          "有個無。",
+          "U7 e5 bo5."
+        ],
+        [
+          "阮各個有。",
+          "Goan2 tak8 e5 u7."
+        ],
+        [
+          "各個無。",
+          "In tak8 e5 bo5."
+        ],
+        [
+          "伊亦無、我亦無、攏總無。",
+          "I iah8 bo5, goa2 iah8 bo5, long2 chong2-bo5."
+        ],
+        [
+          "汝亦有、我亦有、伊亦有、各個有。",
+          "Lu2 iah8 u7, goa2 iah8 u7, i iah8 u7, tak8 e5 u7."
+        ],
+        [
+          "尚有無。",
+          "Iau2 u7 bo5."
+        ],
+        [
+          "尚有。",
+          "Iau2 u7."
+        ],
+        [
+          "尚無。",
+          "Iau2 bo5."
+        ],
+        [
+          "彼個、尚有無。",
+          "Hit e5, iau2 u7 bo5."
+        ],
+        [
+          "尚有真多。",
+          "Iau2 u7 chin choe7."
+        ],
+        [
+          "尚有淡薄。",
+          "Iau2 u7 tam7-poh8."
+        ],
+        [
+          "尚攏無。",
+          "Iau2 long2 bo5."
+        ],
+        [
+          "此個、尚有若多。",
+          "Chit e5, iau2 u7 joa7 choe7."
+        ],
+        [
+          "尚有不止多。",
+          "Iau2 u7 put-chi2 choe7."
+        ],
+        [
+          "尚無若多、有少少仔而已。",
+          "Iau2 bo5 joa7 choe7, u7 chio2-chio2 a2 na7-tiann7."
+        ],
+        [
+          "尚有幾個。",
+          "Iau2 u7 kui2 e5."
+        ],
+        [
+          "有五個而已、尚無。",
+          "U7 gou7 e5 na7-tiann7, iau2 bo5."
+        ],
+        [
+          "您老父尚在得無。",
+          "Lin2 lau7-pe7 iau2 ti7--leh bo5."
+        ],
+        [
+          "尚在得。",
+          "Iau2 ti7--leh."
+        ],
+        [
+          "是。",
+          "Si7."
+        ],
+        [
+          "不是。",
+          "M7 si7."
+        ],
+        [
+          "是不是。",
+          "Si7 m7 si7."
+        ],
+        [
+          "是抑不是。",
+          "Si7 a2 m7 si7."
+        ],
+        [
+          "是否。",
+          "Si7 boe7."
+        ],
+        [
+          "是無。",
+          "Si7 bo5."
+        ],
+        [
+          "此個是甚麼人的。",
+          "Chit e5 si7 sim2-mih8 lang5 e5."
+        ],
+        [
+          "這甚人的。",
+          "Che siann2 lang5 e5."
+        ],
+        [
+          "彼個是我的。",
+          "Hit e5 si7 goa2 e5."
+        ],
+        [
+          "彼是我的。",
+          "He si7 goa2 e5."
+        ],
+        [
+          "彼個不是我的。",
+          "Hit e5 m7 si7 goa2 e5."
+        ],
+        [
+          "彼不是我的。",
+          "Hit m7 si7 goa2 e5."
+        ],
+        [
+          "此個是我的、不是汝的。",
+          "Chit e5 si7 goa2 e5, m7 si7 lu2 e5."
+        ],
+        [
+          "這不是汝的、是我的。",
+          "Che m7 si7 lu2 e5, si7 goa2 e5."
+        ],
+        [
+          "此個不是汝的、尚不是我的、",
+          "Chit e5 m7 si7 lu2 e5, iau2-be7 si7 goa2 e5,"
+        ],
+        [
+          "是伊的。",
+          "Si7 i e5."
+        ],
+        [
+          "彼個是伊的抑不是。",
+          "Hit e5 si7 i e5 a2 m7 si7."
+        ],
+        [
+          "是伊的。",
+          "Si7 i e5."
+        ],
+        [
+          "不是伊的。",
+          "M7 si7 i e5."
+        ],
+        [
+          "彼個是別人的、不是伊的。",
+          "Hit e5 si7 pat8-lang5 e5, m7 si7 i e5."
+        ],
+        [
+          "彼不是伊的、是別人的。",
+          "Hit m7 si7 i e5, si7 pat8-lang5 e5."
+        ],
+        [
+          "此個是我的是否。",
+          "Chit e5 si7 goa2 e5 si7 boe7."
+        ],
+        [
+          "是汝的。",
+          "Si7 lu2 e5."
+        ],
+        [
+          "不是汝的。",
+          "M7 si7 lu2 e5."
+        ],
+        [
+          "此個不是我的是否。",
+          "Chit e5 m7 si7 goa2 e5 si7 boe7."
+        ],
+        [
+          "是、不是汝的。",
+          "Si7, m7 si7 lu2 e5."
+        ],
+        [
+          "是如此抑不是。",
+          "Si7 an2-ni a2 m7 si7."
+        ],
+        [
+          "是如此不是。",
+          "Si7 an2-ni m7 si7."
+        ],
+        [
+          "是如此。",
+          "Si7 an2-ni."
+        ],
+        [
+          "不是如此。",
+          "M7 si7 an2-ni."
+        ],
+        [
+          "伊是如此講。",
+          "I si7 an2-ni kong2."
+        ],
+        [
+          "伊講是如此。",
+          "I kong2 si7 an2-ni."
+        ],
+        [
+          "伊不是如此講。",
+          "I m7 si7 an2-ni kong2."
+        ],
+        [
+          "伊講是不是如此。",
+          "I kong2 si7 m7 si7 an2-ni."
+        ],
+        [
+          "伊是汝的大兄抑不是。",
+          "I si7 lu2 e5 toa7-hiann a2 m7 si7."
+        ],
+        [
+          "伊是汝的大兄是否。",
+          "I si7 lu2 e5 toa7-hiann si7 boe7."
+        ],
+        [
+          "是、我的大兄。",
+          "Si7, goa2 e5 toa7-hiann."
+        ],
+        [
+          "不是我的大兄、是我的朋友。",
+          "M7 si7 goa2 e5 toa7-hiann, si7 goa2 e5 peng5-iu2."
+        ],
+        [
+          "知不知。",
+          "Chai m7 chai."
+        ],
+        [
+          "知抑不知。",
+          "Chai a2 m7 chai."
+        ],
+        [
+          "知否。",
+          "Chai boe7."
+        ],
+        [
+          "知無。",
+          "Chai bo5."
+        ],
+        [
+          "汝知否。",
+          "Lu2 chai boe7."
+        ],
+        [
+          "汝知無。",
+          "Lu2 chai bo5."
+        ],
+        [
+          "我知。",
+          "Goa2 chai."
+        ],
+        [
+          "我不知。",
+          "Goa2 m7 chai."
+        ],
+        [
+          "我不是不知。",
+          "Goa2 m7 si7 m7 chai."
+        ],
+        [
+          "伊知抑不知、汝知否。",
+          "I chai a2 m7 chai, lu2 chai boe7."
+        ],
+        [
+          "彼我不知。",
+          "Hit goa2 m7 chai."
+        ],
+        [
+          "伊知抑不知、我不知。",
+          "I chai a2 m7 chai, goa2 m7 chai."
+        ],
+        [
+          "我不知、伊知抑不知。",
+          "Goa2 m7 chai, i chai a2 m7 chai."
+        ],
+        [
+          "此個是甚麼人的、汝知否。",
+          "Chit e5 si7 sim2-mih8 lang5 e5, lu2 chai boe7."
+        ],
+        [
+          "此個甚麼人的、汝知無。",
+          "Chit e5 sim2-mih8 lang5 e5, lu2 chai bo5."
+        ],
+        [
+          "我知、有個阮的。",
+          "Goa2 chai, u7 e5 goan2 e5."
+        ],
+        [
+          "我知、有個的。",
+          "Goa2 chai, u7 e5 in e5."
+        ],
+        [
+          "我知、有個我的、有個不是我的。",
+          "Goa2 chai, u7 e5 goa2 e5, u7 e5 m7 si7 goa2 e5."
+        ],
+        [
+          "何一個是汝的、何一個不是汝的。",
+          "To2 chit8 e5 si7 lu2 e5, to2 chit8 e5 m7 si7 lu2 e5."
+        ],
+        [
+          "此個是我的、彼個不是我的。",
+          "Chit e5 si7 goa2 e5, hit e5 m7 si7 goa2 e5."
+        ],
+        [
+          "我不知甚麼人(甚人)的。",
+          "Goa2 m7 chai sim2-mih8 lang5 (siann2 lang5) e5."
+        ],
+        [
+          "有甚麼人知無。",
+          "U7 sim2-mih8 lang5 chai bo5."
+        ],
+        [
+          "有人知無。",
+          "U7 lang5 chai bo5."
+        ],
+        [
+          "無甚麼人知。",
+          "Bo5 sim2-mih8 lang5 chai."
+        ],
+        [
+          "無人知。",
+          "Bo5 lang5 chai."
+        ],
+        [
+          "敢是。",
+          "Kann2 si7."
+        ],
+        [
+          "敢不是。",
+          "Kann2 m7 si7."
+        ],
+        [
+          "敢有。",
+          "Kann2 u7."
+        ],
+        [
+          "敢無。",
+          "Kann2 bo5."
+        ],
+        [
+          "伊敢有。",
+          "I kann2 u7."
+        ],
+        [
+          "伊敢無。",
+          "I kann2 bo5."
+        ],
+        [
+          "此個、敢有。",
+          "Chit e5, kann2 u7."
+        ],
+        [
+          "此個、敢無。",
+          "Chit e5, kann2 bo5."
+        ],
+        [
+          "敢是此個。",
+          "Kann2 si7 chit e5."
+        ],
+        [
+          "敢不是彼個。",
+          "Kann2 m7 si7 hit e5."
+        ],
+        [
+          "此個、敢是我的。",
+          "Chit e5, kann2 si7 goa2 e5."
+        ],
+        [
+          "此個、敢不是汝的。",
+          "Chit e5, kann2 m7 si7 lu2 e5."
+        ],
+        [
+          "彼個、敢是汝的。",
+          "Hit e5, kann2 si7 lu2 e5."
+        ],
+        [
+          "彼個、敢不是汝的。",
+          "Hit e5, kann2 m7 si7 lu2 e5."
+        ],
+        [
+          "此個、敢不是我的是否。",
+          "Chit e5, kann2 m7 si7 goa2 e5 si7 boe7."
+        ],
+        [
+          "彼個、敢不是汝的是否。",
+          "Hit e5, kann2 m7 si7 lu2 e5 si7 boe7."
+        ],
+        [
+          "我的、敢是此個。",
+          "Goa2 e5, kann2 si7 chit e5."
+        ],
+        [
+          "汝的、敢是彼個。",
+          "Lu2 e5, kann2 si7 hit e5."
+        ],
+        [
+          "伊的、敢不是此個、敢是彼個。",
+          "I e5, kann2 m7 si7 chit e5, kann2 si7 hit e5."
+        ],
+        [
+          "此個、敢不是伊的、彼個敢是伊的。",
+          "Chit e5, kann2 m7 si7 i e5, hit e5 kann2 si7 i e5."
+        ],
+        [
+          "汝敢不知影、彼個是伊的汝知否。",
+          "Lu2 kann2 m7 chai-iann2, hit e5 si7 i e5 lu2 chai boe7."
+        ],
+        [
+          "汝亦敢知、此個是我的汝知否。",
+          "Lu2 iah8 kann2 chai, chit e5 si7 goa2 e5 lu2 chai boe7."
+        ],
+        [
+          "伊敢知。",
+          "I kann2 chai."
+        ],
+        [
+          "伊敢不知。",
+          "I kann2 m7 chai."
+        ],
+        [
+          "伊敢不知是否。",
+          "I kann2 m7 chai si7 boe7."
+        ],
+        [
+          "敢是伊講。",
+          "Kann2 si7 i kong2."
+        ],
+        [
+          "敢不是伊講。",
+          "Kann2 m7 si7 i kong2."
+        ],
+        [
+          "敢是如此抑不是。",
+          "Kann2 si7 an2-ni a2 m7 si7."
+        ],
+        [
+          "敢是如此。",
+          "Kann2 si7 an2-ni."
+        ],
+        [
+          "敢不是如此。",
+          "Kann2 m7 si7 an2-ni."
+        ],
+        [
+          "敢不是如此是否。",
+          "Kann2 m7 si7 an2-ni si7 boe7."
+        ],
+        [
+          "敢有如此講。",
+          "Kann2 u7 an2-ni kong2."
+        ],
+        [
+          "敢無如此講。",
+          "Kann2 bo5 an2-ni kong2."
+        ],
+        [
+          "此個敢有真多。",
+          "Chit e5 kann2 u7 chin choe7."
+        ],
+        [
+          "彼個敢無若多。",
+          "Hit e5 kann2 bo5 joa7 choe7."
+        ],
+        [
+          "敢有在得。",
+          "Kann2 u7 ti7--leh."
+        ],
+        [
+          "敢無在得。",
+          "Kann2 bo5 ti7--leh."
+        ],
+        [
+          "有來。",
+          "U7 lai5."
+        ],
+        [
+          "無來。",
+          "Bo5 lai5."
+        ],
+        [
+          "要來。",
+          "Beh lai5."
+        ],
+        [
+          "不來。",
+          "M7 lai5."
+        ],
+        [
+          "有去。",
+          "U7 khi3."
+        ],
+        [
+          "無去。",
+          "Bo5 khi3."
+        ],
+        [
+          "要去。",
+          "Beh khi3."
+        ],
+        [
+          "不去。",
+          "M7 khi3."
+        ],
+        [
+          "伊有來抑無。",
+          "I u7 lai5 a2 bo5."
+        ],
+        [
+          "伊有來。",
+          "I u7 lai5."
+        ],
+        [
+          "伊無來。",
+          "I bo5 lai5."
+        ],
+        [
+          "伊尚未來。",
+          "I iau2 bi7-lai5."
+        ],
+        [
+          "伊在要來。",
+          "I ti7 beh lai5."
+        ],
+        [
+          "無叫無來。",
+          "Bo5 kio3 bo5 lai5."
+        ],
+        [
+          "叫亦不來。",
+          "Kio3 iah8 m7 lai5."
+        ],
+        [
+          "汝有去抑無。",
+          "Lu2 u7 khi3 a2 bo5."
+        ],
+        [
+          "我有去。",
+          "Goa2 u7 khi3."
+        ],
+        [
+          "我尚未去。",
+          "Goa2 iau2-be7 khi3."
+        ],
+        [
+          "我在要去。",
+          "Goa2 ti7 beh khi3."
+        ],
+        [
+          "汝要去否。",
+          "Lu2 beh khi3 boe7."
+        ],
+        [
+          "我要去。",
+          "Goa2 beh khi3."
+        ],
+        [
+          "我不去。",
+          "Goa2 m7 khi3."
+        ],
+        [
+          "汝何時要去。",
+          "Lu2 ti7-si5 beh khi3."
+        ],
+        [
+          "今仔日要去。",
+          "Kin-a2-jit8 beh khi3."
+        ],
+        [
+          "明仔日即要去。",
+          "Bin5-na2-jit8 chiah beh khi3."
+        ],
+        [
+          "今仔日不去、明仔日即要去。",
+          "Kin-a2-jit8 m7 khi3, bin5-na2-jit8 chiah beh khi3."
+        ],
+        [
+          "汝要去何位。",
+          "Lu2 beh khi3 to2-ui7."
+        ],
+        [
+          "汝要何去。",
+          "Lu2 beh to2 khi3."
+        ],
+        [
+          "我要去大稻埕。",
+          "Goa2 beh khi3 Toa7-tiu7-tiann5."
+        ],
+        [
+          "我要去艋舺。",
+          "Goa2 beh khi3 Bang2-kah."
+        ],
+        [
+          "我無要何去。",
+          "Goa2 bo5 beh to2 khi3."
+        ],
+        [
+          "汝昨昏去何位。",
+          "Lu2 cha-hng khi3 to2-ui7."
+        ],
+        [
+          "我去城內。",
+          "Goa2 khi3 siann5-lai7."
+        ],
+        [
+          "我無去何位。",
+          "Goa2 bo5 khi3 to2-ui7."
+        ],
+        [
+          "伊有來抑無、汝知否。",
+          "I u7 lai5 a2 bo5, lu2 chai boe7."
+        ],
+        [
+          "我不知、伊有來抑無來。",
+          "Goa2 m7 chai, i u7 lai5 a2 bo5 lai5."
+        ],
+        [
+          "伊有來抑無來、彼我不知。",
+          "I u7 lai5 a2 bo5 lai5, hit goa2 m7 chai."
+        ],
+        [
+          "伊昨昏有去城外抑無、汝知否。",
+          "I cha-hng u7 khi3 siann5-goa7 a2 bo5, lu2 chai boe7."
+        ],
+        [
+          "我知、伊有去城外。",
+          "Goa2 chai, i u7 khi3 siann5-goa7."
+        ],
+        [
+          "伊要來抑不來、汝知否。",
+          "I beh lai5 a2 m7 lai5, lu2 chai boe7."
+        ],
+        [
+          "伊講不來。",
+          "I kong2 m7 lai5."
+        ],
+        [
+          "伊是怎樣不來、汝知否。",
+          "I si7 choann2-iunn7 m7 lai5, lu2 chai boe7."
+        ],
+        [
+          "彼我不知。",
+          "Hit goa2 m7 chai."
+        ],
+        [
+          "愛不愛。",
+          "Ai3 m7 ai3."
+        ],
+        [
+          "愛抑不愛。",
+          "Ai3 a2 m7 ai3."
+        ],
+        [
+          "汝愛甚人。",
+          "Lu2 ai3 siann2 lang5."
+        ],
+        [
+          "我愛汝。",
+          "Goa2 ai3 lu2."
+        ],
+        [
+          "甚人愛汝。",
+          "Siann2 lang5 ai3 lu2."
+        ],
+        [
+          "伊愛我。",
+          "I ai3 goa2."
+        ],
+        [
+          "有人愛我抑無。",
+          "U7 lang5 ai3 goa2 a2 bo5."
+        ],
+        [
+          "無人愛汝。",
+          "Bo5 lang5 ai3 lu2."
+        ],
+        [
+          "我不愛汝。",
+          "Goa2 m7 ai3 lu2."
+        ],
+        [
+          "汝不愛我。",
+          "Lu2 m7 ai3 goa2."
+        ],
+        [
+          "汝亦不愛我、我亦不愛汝。",
+          "Lu2 iah8 m7 ai3 goa2, goa2 iah8 m7 ai3 lu2."
+        ],
+        [
+          "是、汝亦不愛我、我亦不愛汝、大家不愛。",
+          "Si7, lu2 iah8 m7 ai3 goa2, goa2 iah8 m7 ai3 lu2, tai7-ke m7 ai3."
+        ],
+        [
+          "我不是愛汝。",
+          "Goa2 m7 si7 ai3 lu2."
+        ],
+        [
+          "汝不是愛我是否。",
+          "Lu2 m7 si7 ai3 goa2 si7 boe7."
+        ],
+        [
+          "是、我不愛汝。",
+          "Si7, goa2 m7 ai3 lu2."
+        ],
+        [
+          "不是愛汝。",
+          "M7 si7 ai3 lu2."
+        ],
+        [
+          "我不是不愛汝、是愛汝。",
+          "Goa2 m7 si7 m7 ai3 lu2, si7 ai3 lu2."
+        ],
+        [
+          "汝愛何一個。",
+          "Lu2 ai3 to2 chit8 e5."
+        ],
+        [
+          "我愛此個。",
+          "Goa2 ai3 chit e5."
+        ],
+        [
+          "我不愛彼個。",
+          "Goa2 m7 ai3 hit e5."
+        ],
+        [
+          "此個我愛、彼個我不愛。",
+          "Chit e5 goa2 ai3, hit e5 goa2 m7 ai3."
+        ],
+        [
+          "我較愛此個、較不愛彼個。",
+          "Goa2 khah ai3 chit e5, khah m7 ai3 hit e5."
+        ],
+        [
+          "好不好。",
+          "Ho2 m7 ho2."
+        ],
+        [
+          "好抑不好。",
+          "Ho2 a2 m7 ho2."
+        ],
+        [
+          "好否。",
+          "Ho2 boe7."
+        ],
+        [
+          "好無。",
+          "Ho2 bo5."
+        ],
+        [
+          "何一個較好。",
+          "To2 chit8 e5 khah ho2."
+        ],
+        [
+          "此個與彼個、何一個較好。",
+          "Chit e5 kap hit e5, to2 chit8 e5 khah ho2."
+        ],
+        [
+          "此個較好、抑是彼個較好。",
+          "Chit e5 khah ho2, a2 si7 hit e5 khah ho2."
+        ],
+        [
+          "此個較好。",
+          "Chit e5 khah ho2."
+        ],
+        [
+          "彼個較不好。",
+          "Hit e5 khah m7 ho2."
+        ],
+        [
+          "彼個較歹。",
+          "Hit e5 khah phainn2."
+        ],
+        [
+          "如此好否。",
+          "An2-ni ho2 boe7."
+        ],
+        [
+          "如此好。",
+          "An2-ni ho2."
+        ],
+        [
+          "如此不好。",
+          "An2-ni m7 ho2."
+        ],
+        [
+          "如此較好。",
+          "An2-ni khah ho2."
+        ],
+        [
+          "如此較不好。",
+          "An2-ni khah m7 ho2."
+        ],
+        [
+          "此個是好的、抑是不好的、",
+          "Chit e5 si7 ho2 e5, a2 si7 m7 ho2 e5,"
+        ],
+        [
+          "此個是好的。",
+          "Chit e5 si7 ho2 e5."
+        ],
+        [
+          "此個是較不好的。",
+          "Chit e5 si7 khah m7 ho2 e5."
+        ],
+        [
+          "此個是好的、不是不好的汝知否。",
+          "Chit e5 si7 ho2 e5, m7 si7 m7 ho2 e5 lu2 chai boe7."
+        ],
+        [
+          "我知、彼個不是好的。",
+          "Goa2 chai, hit e5 m7 si7 ho2 e5."
+        ],
+        [
+          "此個給我好否。",
+          "Chit e5 hou7 goa2 ho2 boe7."
+        ],
+        [
+          "此個不好、彼個給汝。",
+          "Chit e5 m7 ho2, hit e5 hou7 lu2."
+        ],
+        [
+          "彼個我不愛、此個給我好否。",
+          "Hit e5 goa2 m7 ai3, chit e5 hou7 goa2 ho2 boe7."
+        ],
+        [
+          "此個我真愛、我不給汝。",
+          "Chit e5 goa2 chin ai3, goa2 m7 hou7 lu2."
+        ],
+        [
+          "彼個給伊好否。",
+          "Hit e5 hou7 i ho2 boe7."
+        ],
+        [
+          "彼個是好的、我不愛給伊。",
+          "Hit e5 si7 ho2 e5, goa2 m7 ai3 hou7 i."
+        ],
+        [
+          "彼個我不是不給汝的、是伊不給汝的汝知否。",
+          "Hit e5 goa2 m7 si7 m7 hou7 lu2 e5, si7 i m7 hou7 lu2 e5 lu2 chai boe7."
+        ],
+        [
+          "是伊不給我的、抑是汝不給我的、彼我不知。",
+          "Si7 i m7 hou7 goa2 e5, a2 si7 lu2 m7 hou7 goa2 e5, hit goa2 m7 chai."
+        ],
+        [
+          "此個是甚人給汝的。",
+          "Chit e5 si7 siann2 lang5 hou7 lu2 e5."
+        ],
+        [
+          "此個是伊給我的。",
+          "Chit e5 si7 i hou7 goa2 e5."
+        ],
+        [
+          "彼個是我給伊的。",
+          "Hit e5 si7 goa2 hou7 i e5."
+        ],
+        [
+          "此個是我給汝的是否。",
+          "Chit e5 si7 goa2 hou7 lu2 e5 si7 boe7."
+        ],
+        [
+          "此個不是汝給我的、是伊給我的。",
+          "Chit e5 m7 si7 lu2 hou7 goa2 e5, si7 i hou7 goa2 e5."
+        ],
+        [
+          "汝給我彼個是、比此個有較好。",
+          "Lu2 hou7 goa2 hit e5 si7, pi2 chit e5 u7 khah ho2."
+        ],
+        [
+          "此個是別人給我的、不是汝給我的、汝給我彼個是比此個有較大。",
+          "Chit e5 si7 pat8-lang5 hou7 goa2 e5, m7 si7 lu2 hou7 goa2 e5, lu2 hou7 goa2 hit e5 si7 pi2 chit e5 u7 khah toa7."
+        ],
+        [
+          "此個是比汝給我彼個有較細。",
+          "Chit e5 si7 pi2 lu2 hou7 goa2 hit e5 u7 khah soe3."
+        ],
+        [
+          "汝是真好的人、我真愛。",
+          "Lu2 si7 chin ho2 e5 lang5, goa2 chin ai3."
+        ],
+        [
+          "汝是歹人、我不愛。",
+          "Lu2 si7 phainn2 lang5, goa2 m7 ai3."
+        ],
+        [
+          "好人是真少、歹人是較多。",
+          "Ho2 lang5 si7 chin chio2, phainn2 lang5 si7 khah choe7."
+        ],
+        [
+          "汝亦是好人、伊亦是好人、我攏總愛。",
+          "Lu2 iah8 si7 ho2 lang5, i iah8 si7 ho2 lang5, goa2 long2-chong2 ai3."
+        ],
+        [
+          "汝是與伊真好、我是與伊不止不好。",
+          "Lu2 si7 kap i chin ho2, goa2 si7 kap i put-chi2 m7 ho2."
+        ],
+        [
+          "叫伊入來。",
+          "Kio3 i jip8--lai5."
+        ],
+        [
+          "叫伊出去。",
+          "Kio3 i chhut--khi3."
+        ],
+        [
+          "甚麼人叫汝入來。",
+          "Sim2-mih8 lang5 kio3 lu2 jip8--lai5."
+        ],
+        [
+          "伊叫我入來。",
+          "I kio3 goa2 jip8--lai5."
+        ],
+        [
+          "甚人叫伊出去。",
+          "Siann2 lang5 kio3 i chhut--khi3."
+        ],
+        [
+          "我叫伊出去。",
+          "Goa2 kio3 i chhut--khi3."
+        ],
+        [
+          "給伊入來。",
+          "Hou7 i jip8--lai5."
+        ],
+        [
+          "給伊出去。",
+          "Hou7 i chhut--khi3."
+        ],
+        [
+          "甚人給汝入來。",
+          "Siann2 lang5 hou7 lu2 jip8--lai5."
+        ],
+        [
+          "伊給我入來。",
+          "I hou7 goa2 jip8--lai5."
+        ],
+        [
+          "甚人給伊出去。",
+          "Siann2 lang5 hou7 i chhut--khi3."
+        ],
+        [
+          "我給伊出去。",
+          "Goa2 hou7 i chhut--khi3."
+        ],
+        [
+          "我真愛去、給我去好否。",
+          "Goa2 chin ai3 khi3, hou7 goa2 khi3 ho2 boe7."
+        ],
+        [
+          "我不給汝去。",
+          "Goa2 m7 hou7 lu2 khi3."
+        ],
+        [
+          "汝給伊出去的抑不是。",
+          "Lu2 hou7 i chhut--khi3 e5 a2 m7 si7."
+        ],
+        [
+          "不是我給伊出去的、是伊叫我給伊出去的。",
+          "M7 si7 goa2 hou7 i chhut--khi3 e5, si7 i kio3 goa2 hou7 i chhut--khi3 e5."
+        ],
+        [
+          "叫人去叫伊來。",
+          "Kio3 lang5 khi3 kio3 i lai5."
+        ],
+        [
+          "要叫甚麼人去。",
+          "Beh kio3 sim2-mih8 lang5 khi3."
+        ],
+        [
+          "叫伊去。",
+          "Kio3 i khi3."
+        ],
+        [
+          "叫甚人去較好。",
+          "Kio3 siann2 lang5 khi3 khah ho2."
+        ],
+        [
+          "叫伊去較好。",
+          "Kio3 i khi3 khah ho2."
+        ],
+        [
+          "叫伊去好否。",
+          "Kio3 i khi3 ho2 boe7."
+        ],
+        [
+          "好、叫伊去。",
+          "Ho2, kio3 i khi3."
+        ],
+        [
+          "我不愛叫伊去、汝去好否。",
+          "Goa2 m7 ai3 kio3 i khi3, lu2 khi3 ho2 boe7."
+        ],
+        [
+          "我不愛去、叫別人去好否。",
+          "Goa2 m7 ai3 khi3, kio3 pat8-lang5 khi3 ho2 boe7."
+        ],
+        [
+          "各個不愛去。",
+          "Tak8 e5 m7 ai3 khi3."
+        ],
+        [
+          "我叫汝去、汝怎樣無去。",
+          "Goa2 kio3 lu2 khi3, lu2 choann2-iunn7 bo5 khi3."
+        ],
+        [
+          "可。",
+          "Thang."
+        ],
+        [
+          "不可。",
+          "M7-thang."
+        ],
+        [
+          "可不可。",
+          "Thang m7-thang."
+        ],
+        [
+          "可抑不可。",
+          "Thang a2 m7-thang."
+        ],
+        [
+          "可去抑不可。",
+          "Thang khi3 a2 m7-thang."
+        ],
+        [
+          "可去。",
+          "Thang khi3."
+        ],
+        [
+          "不可去。",
+          "M7-thang khi3."
+        ],
+        [
+          "我可去抑不可去。",
+          "Goa2 thang khi3 a2 m7-thang khi3."
+        ],
+        [
+          "今仔日不可去。",
+          "Kin-a2-jit8 m7-thang khi3."
+        ],
+        [
+          "明仔日即可去。",
+          "Bin5-na2-jit8 chiah thang khi3."
+        ],
+        [
+          "汝若有閑汝即可去。",
+          "Lu2 na7 u7 eng5 lu2 chiah thang khi3."
+        ],
+        [
+          "汝若無閑、汝就不可去。",
+          "Lu2 na7 bo5 eng5, lu2 chiu7 m7-thang khi3."
+        ],
+        [
+          "可入來抑不可。",
+          "Thang jip8--lai5 a2 m7-thang."
+        ],
+        [
+          "可入來。",
+          "Thang jip8--lai5."
+        ],
+        [
+          "不可入來。",
+          "M7-thang jip8--lai5."
+        ],
+        [
+          "此候不可來、較停即來。",
+          "Chit chun7 m7-thang lai5, khah theng5 chiah lai5."
+        ],
+        [
+          "可出去抑不可。",
+          "Thang chhut--khi3 a2 m7-thang."
+        ],
+        [
+          "此候不可出去。",
+          "Chit chun7 m7-thang chhut--khi3."
+        ],
+        [
+          "可講話抑不可。",
+          "Thang kong2-oe7 a2 m7-thang."
+        ],
+        [
+          "此候不可講、較停即可講。",
+          "Chit chun7 m7-thang kong2, khah theng5 chiah thang kong2."
+        ],
+        [
+          "此個可給伊抑不可。",
+          "Chit e5 thang hou7 i a2 m7-thang."
+        ],
+        [
+          "彼個不可給伊。",
+          "Hit e5 m7-thang hou7 i."
+        ],
+        [
+          "此個可給人看抑不可。",
+          "Chit e5 thang hou7 lang5 khoann3 a2 m7-thang."
+        ],
+        [
+          "彼個可給人看、此個不可給人看。",
+          "Hit e5 thang hou7 lang5 khoann3, chit e5 m7-thang hou7 lang5 khoann3."
+        ],
+        [
+          "我真嘴乾、可食冷水抑不可。",
+          "Goa2 chin chhui3 ta, thang chiah8 leng2-chui2 a2 m7-thang."
+        ],
+        [
+          "茶可食、冷水不可食。",
+          "Te5 thang chiah8, leng2-chui2 m7-thang chiah8."
+        ],
+        [
+          "伊若有問汝、汝即可講、伊若無問汝、汝就不可講。",
+          "I na7 u7 mng7 lu2, lu2 chiah thang kong2, i na7 bo5 mng7 lu2, lu2 chiu7 m7-thang kong2."
+        ],
+        [
+          "汝要去看抑否。",
+          "Lu2 beh khi3 khoann3 a2 boe7."
+        ],
+        [
+          "我要去看。",
+          "Goa2 beh khi3 khoann3."
+        ],
+        [
+          "我不去看。",
+          "Goa2 m7 khi3 khoann3."
+        ],
+        [
+          "汝有去看抑無。",
+          "Lu2 u7 khi3 khoann3 a2 bo5."
+        ],
+        [
+          "我有去看。",
+          "Goa2 u7 khi3 khoann3."
+        ],
+        [
+          "我無去看。",
+          "Goa2 bo5 khi3 khoann3."
+        ],
+        [
+          "伊講彼個是真好、汝有看抑無。",
+          "I kong2 hit e5 si7 chin ho2, lu2 u7 khoann3 a2 bo5."
+        ],
+        [
+          "有、我有看、彼個是真好的。",
+          "U7, goa2 u7 khoann3, hit e5 si7 chin ho2 e5."
+        ],
+        [
+          "無、我無看、所以實在是好的、抑是歹的、我不知。",
+          "Bo5, goa2 bo5 khoann3, sou2-i2 sit8-chai7 si7 ho2 e5, a2 si7 phainn2 e5, goa2 m7 chai."
+        ],
+        [
+          "彼個甚貨、提來給我看覓得。",
+          "Hit e5 siann2 he3, thoeh8 lai5 hou7 goa2 khoann3 bai7 leh."
+        ],
+        [
+          "好、我提來給汝看。",
+          "Ho2, goa2 thoeh8 lai5 hou7 lu2 khoann3."
+        ],
+        [
+          "此個甚貨、汝與我看覓得。",
+          "Chit e5 siann2 he3, lu2 kap goa2 khoann3 bai7 leh."
+        ],
+        [
+          "好、我與汝看覓得。",
+          "Ho2, goa2 kap lu2 khoann3 bai7 leh."
+        ],
+        [
+          "此個是好的、抑是不好的、汝與我看覓得。",
+          "Chit e5 si7 ho2 e5, a2 si7 m7 ho2 e5, lu2 kap goa2 khoann3 bai7 leh."
+        ],
+        [
+          "好、我與汝看、汝著提來此。",
+          "Ho2, goa2 kap lu2 khoann3, lu2 tioh8 thoeh8 lai5 chia."
+        ],
+        [
+          "我看、此個是無甚好的。",
+          "Goa2 khoann3, chit e5 si7 bo5 siann2 ho2 e5."
+        ],
+        [
+          "伊要給我彼個是好的、抑是歹的、汝與我看覓得好否。",
+          "I beh hou7 goa2 hit e5 si7 ho2 e5, a2 si7 phainn2 e5, lu2 kap goa2 khoann3 bai7 leh ho2 boe7."
+        ],
+        [
+          "好、我與汝做陣來去看。",
+          "Ho2, goa2 kap lu2 choe3 tin7 lai5 khi3 khoann3."
+        ],
+        [
+          "此個提去彼旁。",
+          "Chit e5 thoeh8 khi3 hit peng5."
+        ],
+        [
+          "彼個提來此旁。",
+          "Hit e5 thoeh8 lai5 chit peng5."
+        ],
+        [
+          "此個提出去、彼個提入來。",
+          "Chit e5 the5-chhut khi3, hit e5 thoeh8--jip8-lai5."
+        ],
+        [
+          "著我本身提去抑免。",
+          "Tioh8 goa2 pun2-sin thoeh8 khi3 a2 bian2."
+        ],
+        [
+          "免汝本身提去、叫別人提去亦好。",
+          "Bian2 lu2 pun2-sin thoeh8 khi3, kio3 pat8-lang5 thoeh8 khi3 iah8 ho2."
+        ],
+        [
+          "彼個不可提去彼旁、著提來此。",
+          "Hit e5 m7-thang thoeh8 khi3 hit peng5, tioh8 thoeh8 lai5 chia."
+        ],
+        [
+          "此個是甚麼人提來此。",
+          "Chit e5 si7 sim2-mih8 lang5 thoeh8 lai5 chia."
+        ],
+        [
+          "我無提來、敢是伊提來的。",
+          "Goa2 bo5 thoeh8 lai5, kann2 si7 i thoeh8 lai5 e5."
+        ],
+        [
+          "彼個甚人提去給伊。",
+          "Hit e5 siann2 lang5 thoeh8 khi3 hou7 i."
+        ],
+        [
+          "伊叫我提去給伊、所以我即提去給伊。",
+          "I kio3 goa2 thoeh8 khi3 hou7 i, sou2-i2 goa2 chiah thoeh8 khi3 hou7 i."
+        ],
+        [
+          "無人提去給伊、敢是伊自己來提去的。",
+          "Bo5 lang5 thoeh8 khi3 hou7 i, kann2 si7 i ka-ki7 lai5 thoeh8 khi3 e5."
+        ],
+        [
+          "伊來提去彼候、汝有在彼看是否。",
+          "I lai5 thoeh8 khi3 hit chun7, lu2 u7 ti7 hia khoann3 si7 boe7."
+        ],
+        [
+          "無啊、我無在彼看。",
+          "Bo5 ah, goa2 bo5 ti7 hia khoann3."
+        ],
+        [
+          "彼候有人有看見伊提去抑無。",
+          "Hit chun7 u7 lang5 u7 khoann3-kinn3 i thoeh8 khi3 a2 bo5."
+        ],
+        [
+          "別人有看見抑無、彼我不知。",
+          "Pat8-lang5 u7 khoann3-kinn3 a2 bo5, hit goa2 m7 chai."
+        ],
+        [
+          "我著去看抑免。",
+          "Goa2 tioh8 khi3 khoann3 a2 bian2."
+        ],
+        [
+          "著、汝亦著去看。",
+          "Tioh8, lu2 iah8 tioh8 khi3 khoann3."
+        ],
+        [
+          "免咯、我去看就好、汝是免去看。",
+          "Bian2 loh, goa2 khi3 khoann3 chiu7 ho2, lu2 si7 bian2 khi3 khoann3."
+        ],
+        [
+          "彼免講、汝亦著愛去看。",
+          "Hit bian2 kong2, lu2 iah8 tioh8 ai3 khi3 khoann3."
+        ],
+        [
+          "若要去看、著汝自己本身去看較好、不可叫別人去看。",
+          "Na7 beh khi3 khoann3, tioh8 lu2 ka-ki7 pun2-sin khi3 khoann3 khah ho2, m7-thang kio3 pat8-lang5 khi3 khoann3."
+        ],
+        [
+          "伊若要看、著叫伊來此看、不可提去給伊看。",
+          "I na7 beh khoann3, tioh8 kio3 i lai5 chia khoann3, m7-thang thoeh8 khi3 hou7 i khoann3."
+        ],
+        [
+          "汝若要看、著提去彼旁看、不可住此看。",
+          "Lu2 na7 beh khoann3, tioh8 thoeh8 khi3 hit peng5 khoann3, m7-thang toa3 chia khoann3."
+        ],
+        [
+          "站彼看就好、免來此看。",
+          "Tiam3 hit khoann3 chiu7 ho2, bian2 lai5 chia khoann3."
+        ],
+        [
+          "我叫汝著住此看、汝是怎樣提去彼旁看、",
+          "Goa2 kio3 lu2 tioh8 toa3 chia khoann3, lu2 si7 choann2-iunn7 thoeh8 khi3 hit peng5 khoann3,"
+        ],
+        [
+          "有人叫汝提去彼旁看是否。",
+          "U7 lang5 kio3 lu2 thoeh8 khi3 hit peng5 khoann3 si7 boe7."
+        ],
+        [
+          "無啊、無人叫我提去彼旁看、我自己提去看的。",
+          "Bo5 ah, bo5 lang5 kio3 goa2 thoeh8 khi3 hit peng5 khoann3, goa2 ka-ki7 thoeh8 khi3 khoann3 e5."
+        ],
+        [
+          "無事情的人、不可來此、著去彼旁。",
+          "Bo5 su7-cheng5 e5 lang5, m7-thang lai5 chia, tioh8 khi3 hit peng5."
+        ],
+        [
+          "閑人不可來此、著去彼旁。",
+          "Eng5 lang5 m7-thang lai5 chia, tioh8 khi3 hit peng5."
+        ],
+        [
+          "著住此等候、不可去彼旁。",
+          "Tioh8 toa3 chia theng3-hau7, m7-thang khi3 hit peng5."
+        ],
+        [
+          "我叫汝站此等候、汝怎樣去彼旁。",
+          "Goa2 kio3 lu2 tiam3 chia theng3-hau7, lu2 choann2-iunn7 khi3 hit peng5."
+        ],
+        [
+          "我叫汝著去彼旁等候、汝怎樣來此。",
+          "Goa2 kio3 lu2 tioh8 khi3 hit peng5 theng3-hau7, lu2 choann2-iunn7 lai5 chia."
+        ],
+        [
+          "我要與汝講話即來。",
+          "Goa2 beh kap lu2 kong2-oe7 chiah lai5."
+        ],
+        [
+          "此候不可講、較停即來。",
+          "Chit chun7 m7-thang kong2, khah theng5 chiah lai5."
+        ],
+        [
+          "我若有叫汝、汝即來、我若無叫汝、汝就不可來。",
+          "Goa2 na7 u7 kio3 lu2, lu2 chiah lai5, goa2 na7 bo5 kio3 lu2, lu2 chiu7 m7-thang lai5."
+        ],
+        [
+          "不可住此講話、若要講話著較去彼旁講。",
+          "M7-thang toa3 chia kong2-oe7, na7 beh kong2-oe7 tioh8 khah khi3 hit peng5 kong2."
+        ],
+        [
+          "不可講話、著恬恬住彼坐。",
+          "M7-thang kong2-oe7, tioh8 tiam7-tiam7 toa3 hia che7."
+        ],
+        [
+          "不可走來走去、著恬恬坐。",
+          "M7-thang chau2 lai5 chau2 khi3, tioh8 tiam7-tiam7 che7."
+        ],
+        [
+          "汝若要去著緊去、不可恬恬住彼坐。",
+          "Lu2 na7 beh khi3 tioh8 kin2 khi3, m7-thang tiam7-tiam7 toa3 hia che7."
+        ],
+        [
+          "汝能曉講本地話沒。",
+          "Lu2 oe7 hiau2 kong2 pun2 toe7 oe7 boe7."
+        ],
+        [
+          "台灣話汝能曉講沒。",
+          "Tai5-oan5 oe7 lu2 oe7 hiau2 kong2 boe7."
+        ],
+        [
+          "我能曉講。",
+          "Goa2 oe7 hiau2 kong2."
+        ],
+        [
+          "我沒曉講。",
+          "Goa2 boe7 hiau2 kong2."
+        ],
+        [
+          "淡薄仔能而已、無甚能曉講。",
+          "Tam7-poh8-a2 oe7 na7-tiann7, bo5 siann2 oe7 hiau2 kong2."
+        ],
+        [
+          "我攏沒曉講。",
+          "Goa2 long2 boe7 hiau2 kong2."
+        ],
+        [
+          "字能曉看、話沒曉講。",
+          "Ji7 oe7 hiau2 khoann3, oe7 boe7 hiau2 kong2."
+        ],
+        [
+          "英國話汝能曉聽沒。",
+          "Eng-kok oe7 lu2 oe7 hiau2 thiann boe7."
+        ],
+        [
+          "汝能曉聽紅毛話沒。",
+          "Lu2 oe7 hiau2 thiann ang5-mng5 oe7 boe7."
+        ],
+        [
+          "能曉聽。",
+          "Oe7 hiau2 thiann."
+        ],
+        [
+          "沒曉聽。",
+          "Boe7 hiau2 thiann."
+        ],
+        [
+          "書能曉讀、字沒曉寫。",
+          "Chu oe7 hiau2 thak8, ji7 boe7 hiau2 sia2."
+        ],
+        [
+          "聽有淡薄、要講、講沒得出來。",
+          "Thiann u7 tam7-poh8, beh kong2, kong2 boe7 tit chhut--lai5."
+        ],
+        [
+          "能曉聽淡薄、要講、講沒輸講。",
+          "Oe7 hiau2 thiann tam7-poh8, beh kong2, kong2 boe7 su kong2."
+        ],
+        [
+          "能曉讀英國書的人有真多、不拘能曉講英國話的人是真少。",
+          "Oe7 hiau2 thak8 Eng-kok chu e5 lang5 u7 chin choe7, m7-ku2 oe7 hiau2 kong2 Eng-kok oe7 e5 lang5 si7 chin chio2."
+        ],
+        [
+          "伊講甚貨、汝聽有無。",
+          "I kong2 siann2 he3, lu2 thiann u7 bo5."
+        ],
+        [
+          "聽有。",
+          "Thiann u7."
+        ],
+        [
+          "聽無。",
+          "Thiann bo5."
+        ],
+        [
+          "伊在講怎樣、汝聽能曉沒。",
+          "I ti7 kong2 choann2-iunn7, lu2 thiann oe7 hiau2 boe7."
+        ],
+        [
+          "聽能曉。",
+          "Thiann oe7 hiau2."
+        ],
+        [
+          "聽沒曉。",
+          "Thiann boe7 hiau2."
+        ],
+        [
+          "伊在講甚貨、汝聽能來沒。",
+          "I ti7 kong2 siann2 he3, lu2 thiann oe7 lai5 boe7."
+        ],
+        [
+          "聽能來。",
+          "Thiann oe7 lai5."
+        ],
+        [
+          "聽沒來。",
+          "Thiann boe7 lai5."
+        ],
+        [
+          "伊講的話、汝有聽見抑無。",
+          "I kong2 e5 oe7, lu2 u7 thiann-kinn3 a2 bo5."
+        ],
+        [
+          "我有聽見。",
+          "Goa2 u7 thiann-kinn3."
+        ],
+        [
+          "我無聽見。",
+          "Goa2 bo5 thiann-kinn3."
+        ],
+        [
+          "伊是比汝較賢講台灣話。",
+          "I si7 pi2 lu2 khah gau5 kong2 Tai5-oan5 oe7."
+        ],
+        [
+          "汝是比伊較沒曉講本地話。",
+          "Lu2 si7 pi2 i khah boe7 hiau2 kong2 pun2 toe7 oe7."
+        ],
+        [
+          "伊的口音真好、聽了真好聽。",
+          "I e5 khau2-im chin ho2, thiann liau2 chin ho2 thiann."
+        ],
+        [
+          "伊賢講是賢講、不拘有一個話母真歹聽。",
+          "I gau5 kong2 si7 gau5 kong2, m7-ku2 u7 chit8 e5 oe7-bu2 chin phainn2 thiann."
+        ],
+        [
+          "汝講甚貨、我聽無明、所以著更講一次給我聽得。",
+          "Lu2 kong2 siann2 he3, goa2 thiann bo5 beng5, sou2-i2 tioh8 koh kong2 chit8 pai2 hou7 goa2 thiann leh."
+        ],
+        [
+          "好、我講給汝聽、所以汝著聽到詳細。",
+          "Ho2, goa2 kong2 hou7 lu2 thiann, sou2-i2 lu2 tioh8 thiann kau3 siong5-se3."
+        ],
+        [
+          "好、我聽得詳細、所以汝亦著講到明得。",
+          "Ho2, goa2 thiann leh siong5-se3, sou2-i2 lu2 iah8 tioh8 kong2 kah beng5 leh."
+        ],
+        [
+          "汝是在何位學本地話。",
+          "Lu2 si7 ti7 to2-ui7 oh8 pun2-toe7 oe7."
+        ],
+        [
+          "我是在西門街總督府認可土語專門學校學的。",
+          "Goa2 si7 ti7 Sai-mng5 koe chong2-tok hu2 jin7 thang thou2-gu2 choan-bun5 hak8-hau7 oh8 e5."
+        ],
+        [
+          "是如此、汝是住彼學若久。",
+          "Si7 an2-ni, lu2 si7 toa3 hia oh8 joa7 ku2."
+        ],
+        [
+          "歟如此、汝是在彼學幾月日。",
+          "Honn7 an2-ni, lu2 si7 ti7 hia oh8 kui2 geh8 jit8."
+        ],
+        [
+          "我是今年十月即入學、尚且在學。",
+          "Goa2 si7 kin-ni5 chap8 geh8 chiah jip8 oh8, iau2-ku2 teh oh8."
+        ],
+        [
+          "歟、汝在學彼個學校是現時有幾個學生。",
+          "Honn7, lu2 teh oh8 hit e5 hak8-hau7 si7 hian7-si5 u7 kui2 e5 hak8-seng."
+        ],
+        [
+          "我看、大約敢有六十外個人。",
+          "Goa2 khoann3, tai7-iok kann2 u7 lak8-chap8 goa7 e5 lang5."
+        ],
+        [
+          "我看、差不多七十外、倚要八十名敢有。",
+          "Goa2 khoann3, chha-put-to chhit-chap8 goa7, oa2 beh poeh-chap8 mia5 kann2 u7."
+        ],
+        [
+          "敢有一百頓頭人。",
+          "Kann2 u7 chit8 pah tun3 thau5-lang5."
+        ],
+        [
+          "較無一百人。",
+          "Khah bo5 chit8 pah lang5."
+        ],
+        [
+          "我看、不止一百人、尚有較加。",
+          "Goa2 khoann3, put-chi2 chit8 pah lang5, iau2 u7 khah ke."
+        ],
+        [
+          "不但一百人而已、尚有真多人。",
+          "M7-na7 chit8 pah lang5 nia7-nia7, iau2 u7 chin choe7 lang5."
+        ],
+        [
+          "初初我入學的時單單有三十幾名而已、",
+          "Chhou-chhou goa2 jip8 oh8 e5 si5 tan-tan u7 sann-chap8 kui2 mia5 nia7-nia7,"
+        ],
+        [
+          "不拘此候敢有成百人。",
+          "M7-ku2 chit chun7 kann2 u7 chiann5 pah lang5."
+        ],
+        [
+          "歟、幾個先生在教。",
+          "Honn7, kui2 e5 sian-sinn teh ka3."
+        ],
+        [
+          "干乾一個日本人的先生在教。",
+          "Kan-ta chit8 e5 Jit8-pun2 lang5 e5 sian-sinn teh ka3."
+        ],
+        [
+          "汝講今年十月即入學、如此算起來的時候、汝學本地話",
+          "Lu2 kong2 kin-ni5 chap8 geh8 chiah jip8 oh8, an2-ni sng3 khi2 lai5 e5 si5-chun7, lu2 oh8 pun2 toe7 oe7"
+        ],
+        [
+          "是較無三月日就彼賢講、實在是汝真賢。",
+          "Si7 khah bo5 sann geh8-jit8 chiu7 hiah gau5 kong2, sit8-chai7 si7 lu2 chin gau5."
+        ],
+        [
+          "不是如此講、先生不止認真教阮、所以即能如此的。",
+          "M7 si7 an2-ni kong2, sian-sinn put-chi2 jin7 chin ka3 goan2, sou2-i2 chiah oe7 an2-ni e5."
+        ],
+        [
+          "彼亦有影、不拘我打算不但先生認真教而已、敢是教的法度亦真好、尚恁學生亦不止認真學、所以即能如此的。在汝打算英國話與台灣話、何一個較難。",
+          "Hit iah8 u7 iann2, m7-ku2 goa2 phah sng3 m7-na7 sian-sinn jin7 chin ka3 nia7-nia7, kann2 si7 ka3 e5 hoat-tou7 iah8 chin ho2, iau2 lin2 hak8-seng iah8 put-chi2 jin7 chin oh8, sou2-i2 chiah oe7 an2-ni e5. Ti7 lu2 phah sng3 Eng-kok oe7 kap Tai5-oan5 oe7, to2 chit8 e5 khah oh."
+        ],
+        [
+          "別人就不知、在我打算英國話較快、台灣話較難。",
+          "Pat8-lang5 chiu7 m7 chai, ti7 goa2 phah sng3 Eng-kok oe7 khah khoai3, Tai5-oan5 oe7 khah oh."
+        ],
+        [
+          "本地話是比清國話較為難。",
+          "Pun2 toe7 oe7 si7 pi2 chheng kok oe7 khah ui5-lan5."
+        ],
+        [
+          "要學外國話著較認真、不可怠惰。",
+          "Beh oh8 goa7 kok oe7 tioh8 khah jin7 chin, m7-thang pin5-toann7."
+        ],
+        [
+          "來咧、我要與汝講話。",
+          "Lai5 leh, goa2 beh kap lu2 kong2-oe7."
+        ],
+        [
+          "我不愛聽汝的話。",
+          "Goa2 m7 ai3 thiann lu2 e5 oe7."
+        ],
+        [
+          "汝怎樣不愛聽我的話。",
+          "Lu2 choann2-iunn7 m7 ai3 thiann goa2 e5 oe7."
+        ],
+        [
+          "汝是真賢講白賊話、所以即我不愛聽汝的話。",
+          "Lu2 si7 chin gau5 kong2 peh8-chhat8-oe7, sou2-i2 chiah goa2 m7 ai3 thiann lu2 e5 oe7."
+        ],
+        [
+          "汝著照實講、不可講白賊。",
+          "Lu2 tioh8 chiau3-sit8 kong2, m7-thang kong2 peh8-chhat8."
+        ],
+        [
+          "汝著老實講、不可講虛詞。",
+          "Lu2 tioh8 lau7 sit8 kong2, m7-thang kong2 hau-siau5."
+        ],
+        [
+          "伊有真老實、攏不曾講白賊話。",
+          "I u7 chin lau7 sit8, long2 m7 bat kong2 peh8-chhat8-oe7."
+        ],
+        [
+          "伊是真古意、不曾騙人。",
+          "I si7 chin kou2 i3, m7 bat phian3 lang5."
+        ],
+        [
+          "伊是傷忠直、所以即屢屢能被人騙去。",
+          "I si7 siong tiong-tit8, sou2-i2 chiah tauh8-tauh8 oe7 hou7 lang5 phian3 khi3."
+        ],
+        [
+          "不可講人的歹話。",
+          "M7-thang kong2 lang5 e5 phainn2 oe7."
+        ],
+        [
+          "汝若講人的歹話、就汝亦能被人講歹話。",
+          "Lu2 na2 kong2 lang5 e5 phainn2 oe7, chiu7 lu2 iah8 oe7 hou7 lang5 kong2 phainn2 oe7."
+        ],
+        [
+          "我不曾講人的歹話、所以別人亦不曾講我的歹話。",
+          "Goa2 m7 bat kong2 lang5 e5 phainn2 oe7, sou2-i2 pat8-lang5 iah8 m7 bat kong2 goa2 e5 phainn2 oe7."
+        ],
+        [
+          "我不敢講人的歹話、所以別人亦不敢講我的歹話。",
+          "Goa2 m7 kann2 kong2 lang5 e5 phainn2 oe7, sou2-i2 pat8-lang5 iah8 m7 kann2 kong2 goa2 e5 phainn2 oe7."
+        ],
+        [
+          "彼是真奸的事情、後次亦著不可講人的歹話。",
+          "He si7 chin kan e5 tai7-chi3, au7 pai2 iah8 tioh8 m7-thang kong2 lang5 e5 phainn2 oe7."
+        ],
+        [
+          "伊是講汝的歹話汝知否。",
+          "I si7 kong2 lu2 e5 phainn2 oe7 lu2 chai m7."
+        ],
+        [
+          "伊若講我的歹話、亦是無要緊、",
+          "I na7 kong2 goa2 e5 phainn2 oe7, iah8 si7 bo5 iau3-kin2,"
+        ],
+        [
+          "據在伊講。",
+          "Ku3-chai7 i kong2."
+        ],
+        [
+          "出在伊講、我自己若無做歹就好。",
+          "Chhut-chai7 i kong2, goa2 ka-ki7 na7 bo5 choe3 phainn2 chiu7 ho2."
+        ],
+        [
+          "隨在伊講、別人的嘴掩沒密。",
+          "Sui5-chai7 i kong2, pat8-lang5 e5 chhui3 ng boe7 bat8."
+        ],
+        [
+          "唉、不可彼大聲講話、著較細聲。",
+          "Oe2, m7-thang hiah toa7 siann kong2-oe7, tioh8 khah se3-siann."
+        ],
+        [
+          "唉、不可彼細聲、著較大聲。",
+          "Oe2, m7-thang hiah se3-siann, tioh8 khah toa7 siann."
+        ],
+        [
+          "唉、不可住彼嚷、噪耳攏沒做得事情。",
+          "Oe2, m7-thang toa3 hia jiong2, chho3-hinn7 long2 boe7 choe3 tit tai7-chi3."
+        ],
+        [
+          "唉、囝仔、不可住彼嘩嘩滾、此不是chhit-tho5的所在。",
+          "Oe2, gin2-na2, m7-thang toa3 hia hoa-hoa-kun2, chia m7 si7 chhit-tho5 e5 sou2-chai7."
+        ],
+        [
+          "彼個囝仔真歹、攏不聽大人的嘴。",
+          "Hit e5 gin2-na2 chin phainn2, long2 m7 thiann toa7-lang5 e5 chhui3."
+        ],
+        [
+          "彼個囝仔不止不成囝仔、人若罵伊怎樣都無要聽。",
+          "Hit e5 gin2-na2 put-chi2 m7 chiann5 gin2-na2, lang5 na7 ma7 i chainn2-iunn7 to bo5 beh thiann."
+        ],
+        [
+          "彼個囝仔真正歹、人若罵伊一句怎樣、就頭殼越過邊仔去、嘴舌映一下在冷笑。",
+          "Hit e5 gin2-na2 chin-chiann3 phainn2, lang5 na7 ma7 i chit8 ku3 choann2-iunn7, chiu7 thau5-khak oat8 ke3 pinn a2 khi3, chhui3-chih8 na3 chit8-e7 teh leng2-chhio3."
+        ],
+        [
+          "歟如此、遇著彼班的歹囝仔 就真無法度。",
+          "Honn7 an2-ni, gu7 tioh8 hit pan e5 phainn2 gin2-na2  chiu7 chin bo5 hoat-tou7."
+        ],
+        [
+          "是、親像伊彼欵的囝仔是罵伊亦無採嘴。",
+          "Si7, chhin chhiunn7 i hit khoan2 e5 gin2-na2 si7 ma7 i iah8 bo5-chhai2 chhui3."
+        ],
+        [
+          "是、像伊彼班的囝仔是罵伊亦無採工。",
+          "Si7, chhiunn7 i hit pan e5 gin2-na2 si7 ma7 i iah8 bo5-chhai2 kang."
+        ],
+        [
+          "唉、您二個住彼相罵甚事情。",
+          "Oe2, lin2 nng7 e5 toa3 hia sann ma7 siann2 tai7-chi3."
+        ],
+        [
+          "無啊、咱不是在相罵、在戱而已。",
+          "Bo5 ah, lan2 m7 si7 teh sann-ma7, teh sng2 nia7-nia7."
+        ],
+        [
+          "不可住彼咳嗽、驚囝仔能精神。",
+          "M7-thang toa3 hia ka-sau3, kiann gin2-na2 oe7 cheng-sin5."
+        ],
+        [
+          "囝仔在彼睏、所以不可住彼打喝唱。",
+          "Gin2-na2 ti7 hia khun3, sou2-i2 m7-thang toa3 hia phah hoah chhiunn3."
+        ],
+        [
+          "不可住彼清鼻、嬰仔能著驚。",
+          "M7-thang toa3 hia chheng phinn7, enn-a2 oe7 tioh8 kiann."
+        ],
+        [
+          "唉、汝是臭耳聾是否、我叫汝叫到幾十聲亦攏不應。",
+          "Oe2, lu2 si7 chhau3-hinn7-lang5 si7 m7, goa2 kio3 lu2 kio3 kah kui2 chap8 siann iah8 long2 m7 in3."
+        ],
+        [
+          "我是耳孔重、若無較大聲叫",
+          "Goa2 si7 hinn7-khang tang7, na7 bo5 khah toa7 siann kio3"
+        ],
+        [
+          "就無聽。",
+          "Chiu7 bo5 thiann."
+        ],
+        [
+          "伊是真好口才、賢講情理、所以各個俯在聽伊的話。",
+          "I si7 chin ho2 khau2-chai5, gau5 kong2 cheng5-li2, sou2-i2 tak8 e5 ann3 teh thiann i e5 oe7."
+        ],
+        [
+          "我料叫是伊亦俯在聽伊的話、庶不知伊是在柱加睡。",
+          "Goa2 liau7-kio3 si7 i iah8 ann3 teh thiann i e5 oe7, su7-put-ti i si7 teh tu3-ka-choe7."
+        ],
+        [
+          "伊在柱眠的事情、起頭是各個都不知、到路尾手鼾到乎乎叫即知。",
+          "I teh tuh-bin5 e5 tai7-chi3, khi2-thau5 si7 tak8 e5 to m7 chai, kau3 lou7-be2 chhiu2-hoann5 kah hou-hou kio3 chiah chai."
+        ],
+        [
+          "伊是口舌真利、不拘我是嘴鈍沒得可講到彼呢一流水。",
+          "I si7 khau2-siat8 chin lai7, m7-ku2 goa2 si7 chhui3 tun7 boe7 tit thang kong2 kah hiah-nih8 it-liu5 sui2."
+        ],
+        [
+          "好口舌與厚話是爭差一絲仔而已。",
+          "Ho2 khau2-siat8 kap kau7 oe7 si7 cheng-chha chit8-si-a2 nia7-nia7."
+        ],
+        [
+          "像汝嘴滑的人、攏沒破腹講事情。",
+          "Chhiunn7 lu2 chhui3 kut8 e5 lang5, long2 boe7 phoa3-pak kong2 tai7-chi3."
+        ],
+        [
+          "此條事情、不管有甚麼事情都得確沒使得過嘴。",
+          "Chit tiau5 tai7-chi3, put-koan2 u7 sim2-mih8 tai7-chi3 to tek-khak boe7-sai2 tit ke3 chhui3."
+        ],
+        [
+          "我頂日禁汝的嘴、彼條事情得確不可與人講、汝是怎樣彼呢落落講。",
+          "Goa2 teng2 jit8 kim3 lu2 e5 chhui3, hit tiau5 tai7-chi3 tek-khak m7-thang kap lang5 kong2, lu2 si7 choann2-iunn7 hiah-nih8 loh8 loh8 kong2."
+        ],
+        [
+          "無影、我是聽汝講、攏不曾出嘴。",
+          "Bo5 iann2, goa2 si7 thiann lu2 kong2, long2 m7 bat chhut chhui3."
+        ],
+        [
+          "彼敢是汝在講彼條事情的時候、在邊仔有人在聽、對彼個人傳出來的、不是我。",
+          "He kann2 si7 lu2 teh kong2 hit tiau5 tai7-chi3 e5 si5-chun7, ti7 pinn a2 u7 lang5 teh thiann, tui3 hit e5 lang5 thoan5--chhut-lai5 e5, m7 si7 goa2."
+        ],
+        [
+          "豈有此理、彼候是汝在邊仔而已、並無別人在彼、所以汝以外無人知影。",
+          "Khi2 iu2 chhu2-li2, hit chun7 si7 lu2 ti7 pinn a2 nia7-nia7, peng7 bo5 pat8-lang5 ti7 hia, sou2-i2 lu2 i2-goa7 bo5 lang5 chai iann2."
+        ],
+        [
+          "彼沒講得、俗語有講牆壁有耳、所以在何位甚麼人有聽見亦無得確。",
+          "He boe7 kong2 tit, siok8-gu2 u7 kong2 chhiunn5-piah u7 hinn7, sou2-i2 ti7 to2-ui7 sim2-mih8 lang5 u7 thiann-kinn3 iah8 bo5 tek-khak."
+        ],
+        [
+          "盻、汝是真賢講話。",
+          "He7, lu2 si7 chin gau5 kong2-oe7."
+        ],
+        [
+          "汝何時過來臺灣。",
+          "Lu2 ti7-si5 ke3 lai5 Tai5-oan5."
+        ],
+        [
+          "汝是過來臺灣有若久。",
+          "Lu2 si7 ke3 lai5 Tai5-oan5 u7 joa7 ku2."
+        ],
+        [
+          "彼不止久嘮、到今年頭尾十五年嘮。",
+          "Hit put-chi2 ku2 loh, kau3 kin-ni5 thau5-be2 chap8-gou7 ni5 loh."
+        ],
+        [
+          "我是領臺的第二年、就是明治二十九年年尾到基隆。",
+          "Goa2 si7 nia2-tai5 e5 te7-ji7 ni5, chiu7 si7 Beng5-ti7 ji7-chap8-kau2 ni5 ni5-be2 kau3 Ke-lang5."
+        ],
+        [
+          "嚄、汝是彼早就過來臺灣、",
+          "Hoa7, lu2 si7 hiah cha2 chiu7 ke3 lai5 Tai5-oan5,"
+        ],
+        [
+          "我是舊年九月即過來、尚未有一年、半年較加而已。",
+          "Goa2 si7 ku7 ni5 kau2 geh8 chiah ke3 lai5, iau2-boe7 u7 chit8 ni5, poann3 ni5 khah ke nia7-nia7."
+        ],
+        [
+          "無若久嘮、舊年年尾過來而已。",
+          "Bo5 joa7 ku2 loh, ku7 ni5 ni5 be2 ke3 lai5 nia7-nia7."
+        ],
+        [
+          "無幾年、今年正月即過來。",
+          "Bo5 kui2 ni5, kin-ni5 chiann3 geh8 chiah ke3 lai5."
+        ],
+        [
+          "汝是過來臺灣了後、曾返去內地抑不曾。",
+          "Lu2 si7 ke3 lai5 Tai5-oan5 liau2-au7, bat tng2 khi3 loe7-te7 a2 m7 bat."
+        ],
+        [
+          "曾、曾返去一次。",
+          "Bat, bat tng2 khi3 chit8 pai2."
+        ],
+        [
+          "汝講曾返去一次、就是何時返去的。",
+          "Lu2 kong2 bat tng2 khi3 chit8 pai2, chiu7 si7 ti7-si5 tng2 khi3 e5."
+        ],
+        [
+          "存年五月返去。",
+          "Chun5 ni5 gou7 geh8 tng2 khi3."
+        ],
+        [
+          "汝彼年返去內地的時候、有甚麼事情即返去、抑是無甚麼事情、干乾去迌而已是否。",
+          "Lu2 hit ni5 tng2 khi3 loe7-te7 e5 si5-chun7, u7 sim2-mih8 tai7-chi3 chiah tng2 khi3, a2 si7 bo5 sim2-mih8 tai7-chi3, kan-ta khi3 chhit-tho5 nia7-nia7 si7 m7."
+        ],
+        [
+          "彼年是阮老母過身了後、",
+          "Hit ni5 si7 goan2 lau7-bu2 ke3 sin liau2-au7,"
+        ],
+        [
+          "適三年、所以要與伊做忌即返去。",
+          "Tu2 sann ni5, sou2-i2 beh ka7 i choe3 ki7 chiah tng2 khi3."
+        ],
+        [
+          "因為阮大兄破病真傷重、老父摃電來叫我返去、所以即返去的。",
+          "In-ui7 goan2 toa7 hiann phoa3 pinn7 chin siong-tiong7, lau7-pe7 kong3-tian7 lai5 kio3 goa2 tng2 khi3, sou2-i2 chiah tng2 khi3 e5."
+        ],
+        [
+          "無甚事情、干乾去迌而已。",
+          "Bo5 siann2 tai7-chi3, kan-ta khi3 chhit-tho5 nia7-nia7."
+        ],
+        [
+          "汝返去內地的時候、住彼有若久即返來。",
+          "Lu2 tng2 khi3 loe7-te7 e5 si5-chun7, toa3 hia u7 joa7 ku2 chiah tng2 lai5."
+        ],
+        [
+          "住彼三月外日、即更來臺灣。",
+          "Toa3 hia sann geh8 goa7 jit8, chiah koh lai5 Tai5-oan5."
+        ],
+        [
+          "我尚未曾返去。",
+          "Goa2 iau2-boe7 bat tng2 khi3."
+        ],
+        [
+          "我在想等候明年五六月彼、即要返去。",
+          "Goa2 teh siunn7 theng3-hau7 me5-ni5 gou7 lak8 geh8 hia, chiah beh tng2 khi3."
+        ],
+        [
+          "彼蓋好、我亦有在想、到彼霎即要返去。",
+          "Hit kai3 ho2, goa2 iah8 u7 teh siunn7, kau3 hit tiap chiah beh tng2 khi3."
+        ],
+        [
+          "彼真適好、大家做陣、有伴真好。",
+          "Hit chin tu2-ho2, tai7-ke choe3 tin7, u7 phoann7 chin ho2."
+        ],
+        [
+          "若如此、大家做陣返來去。",
+          "Na7 an2-ni, tai7-ke choe3 tin7 tng2 lai5 khi3."
+        ],
+        [
+          "今仔日甚麼日汝知否。",
+          "Kin-a2-jit8 sim2-mih8 jit8 lu2 chai m7."
+        ],
+        [
+          "新曆抑是舊曆。",
+          "Sin-lek8 a2 si7 ku7-lek8."
+        ],
+        [
+          "新曆是何時、舊曆是何時。",
+          "Sin-lek8 si7 ti7-si5, ku7-lek8 si7 ti7-si5."
+        ],
+        [
+          "新曆是五月二五、舊曆是四月初八。",
+          "Sin-lek8 si7 gou7 geh8 nng7 gou7, ku7-lek8 si7 si3 geh8 chhoe-poeh."
+        ],
+        [
+          "新曆是我知影、今仔日六月十九、舊曆是甚麼日我不知。",
+          "Sin-lek8 si7 goa2 chai-iann2, kin-a2-jit8 lak8 geh8 chap8-kau2, ku7-lek8 si7 sim2-mih8 jit8 goa2 m7 chai."
+        ],
+        [
+          "今仔日拜幾。",
+          "Kin-a2-jit8 pai3 kui2."
+        ],
+        [
+          "今仔日拜三。",
+          "Kin-a2-jit8 pai3 sann."
+        ],
+        [
+          "我亦無甚知、敢是拜五。",
+          "Goa2 iah8 bo5 siann2 chai, kann2 si7 pai3 gou7."
+        ],
+        [
+          "今年有閏月抑無。",
+          "Kin-ni5 u7 lun7-geh8 a2 bo5."
+        ],
+        [
+          "有、今年七月是閏月。",
+          "U7, kin-ni5 chhit geh8 si7 lun7-geh8."
+        ],
+        [
+          "若如此、今年新曆八月是舊曆的正月七、抑是閏七月。",
+          "Na7 an2-ni, kin-ni5 sin-lek8 peh-goeh8 si7 ku7-lek8 e5 chiann3 geh8 chhit, a2 si7 lun7 chhit geh8."
+        ],
+        [
+          "敢是正七月。",
+          "Kann2 si7 chiann3 chhit geh8."
+        ],
+        [
+          "無看曆日、我不知。",
+          "Bo5 khoann3 lah8-jit8, goa2 m7 chai."
+        ],
+        [
+          "舊曆的閏月是無定著月、不拘新曆的閏月是有定著二月。",
+          "Ku7-lek8 e5 lun7-geh8 si7 bo5 tiann7 tioh8 geh8, m7-ku2 sin-lek8 e5 lun7-geh8 si7 u7 tiann7-tioh8 nng7 geh8."
+        ],
+        [
+          "尚舊曆的閏月是加一月日、不拘新曆的閏月是干乾加一日而已、所以有閏月年的二月是二九日。",
+          "Iau2 ku7-lek8 e5 lun7-geh8 si7 ke chit8 geh8-jit8, m7-ku2 sin-lek8 e5 lun7-geh8 si7 kan-ta ke it jit8 nia7-nia7, sou2-i2 u7 lun7-geh8 ni5 e5 nng7 geh8 si7 nng7 kau2 jit8."
+        ],
+        [
+          "此月是月大抑月小。",
+          "Chia geh8 si7 geh8 toa7 a2 geh8 sio2."
+        ],
+        [
+          "汝月的是大小亦不知是否。",
+          "Lu2 geh8 e5 si7 toa7 sio2 iah8 m7 chai si7 m7."
+        ],
+        [
+          "我講汝聽、正月、三月、五月、七月、八月、十月、十二月、此個七月日是月大。",
+          "Goa2 kong2 lu2 thiann, chiann3 geh8, sann geh8, gou7 geh8, chhit geh8, peh-goeh8, chap8 geh8, chap8-ji7 geh8, chit e5 chhit geh8 jit8 si7 geh8 toa7."
+        ],
+        [
+          "尚二月、四月、六月、九月、十一月、此個五月日是月小。",
+          "Iau2 nng7 geh8, si3 geh8, lak8 geh8, kau2 geh8, chap8-it-geh8, chit e5 gou7 geh8 jit8 si7 geh8 sio2."
+        ],
+        [
+          "汝著能記得、不可沒記得、汝若沒記得、更再問人此號事情、就能被人笑。",
+          "Lu2 tioh8 oe7 ki3-tit, m7-thang boe7 ki3-tit, lu2 na7 boe7 ki3-tit, iu7-koh mng7 lang5 chit ho7 tai7-chi3, chiu7 oe7 hou7 lang5 chhio3."
+        ],
+        [
+          "日本領臺是何時、汝能記得沒。",
+          "Jit8-pun2 nia2-tai5 si7 ti7-si5, lu2 oe7 ki3-tit boe7."
+        ],
+        [
+          "能、我能記得、明治是二八年、光緒是二一年、月是不知何一月、彼我沒記得。",
+          "Oe7, goa2 oe7 ki3-tit, Beng5-ti7 si7 ji7-poeh ni5, Kong-su5 si7 ji7-it ni5, geh8 si7 m7 chai to2 chit8 geh8, he goa2 boe7 ki3-tit."
+        ],
+        [
+          "盻、汝是真好記持、我是較無記性、連鞭就沒記得。",
+          "He7, lu2 si7 chin ho2 ki3-ti5, goa2 si7 khah bo5 ki3 seng3, liam5-pinn chiu7 boe7 ki3-tit."
+        ],
+        [
+          "順續與汝講、現在清國的年號是號做宣統、汝知否。",
+          "Sun7 soa3 kap lu2 kong2, hian7-chai7 chheng kok e5 ni5 ho7 si7 ho7 choe3 Soan-thong2, lu2 chai m7."
+        ],
+        [
+          "汝有帶時錶來無。",
+          "Lu2 u7 toa3 si5-pio2 lai5 bo5."
+        ],
+        [
+          "我無帶來。",
+          "Goa2 bo5 toa3 lai5."
+        ],
+        [
+          "此候幾點鐘。",
+          "Chit chun7 kui2 tiam2-cheng."
+        ],
+        [
+          "此候不知幾點、給我看覔得。",
+          "Chit chun7 m7 chai kui2 tiam2, hou7 goa2 khoann3 bai7 leh."
+        ],
+        [
+          "此候幾點、汝與我看覔得。",
+          "Chit chun7 kui2 tiam2, lu2 kap goa2 khoann3 bai7 leh."
+        ],
+        [
+          "此候適適八點了。",
+          "Chit chun7 tu2-tu2 poeh tiam2 lah."
+        ],
+        [
+          "尚未八點。",
+          "Iau2-boe7 poeh tiam2."
+        ],
+        [
+          "八點欠幾分。",
+          "Poeh tiam2 khiam3 kui2 pun."
+        ],
+        [
+          "八點欠十五分。",
+          "Poeh tiam2 khiam3 chap8-gou7 pun."
+        ],
+        [
+          "適三點半。",
+          "Tu2 sann tiam2 poann3."
+        ],
+        [
+          "在要四點鐘。",
+          "Teh beh si3 tiam2-cheng."
+        ],
+        [
+          "更幾分即四點。",
+          "Koh kui2 pun chiah si3 tiam2."
+        ],
+        [
+          "更二分就四點。",
+          "Koh nng7 pun chiu7 si3 tiam2."
+        ],
+        [
+          "汝的時錶是幾點。",
+          "Lu2 e5 si5-pio2 si7 kui2 tiam2."
+        ],
+        [
+          "我的時錶是十二點過十五分。",
+          "Goa2 e5 si5-pio2 si7 chap8-ji7 tiam2 ke3 chap8-gou7 pun."
+        ],
+        [
+          "如此、汝的時錶是無準、尚未鳴午時銃嗎。",
+          "An2-ni, lu2 e5 si5-pio2 si7 bo5 chun2, iau2-boe7 tan5 gou7-si5 chheng3 mah."
+        ],
+        [
+          "敢是汝的時錶的機器、略略仔走爭。",
+          "Kann2 si7 lu2 e5 si5-pio2 e5 ki-khi3, lioh8-lioh8-a2 chau2-cheng."
+        ],
+        [
+          "噯、我的時錶亦死去、續不行。",
+          "Aih, goa2 e5 si5-pio2 iah8 si2 khi3, soa3 m7 kiann5."
+        ],
+        [
+          "彼敢是油乾去的。",
+          "He kann2 si7 iu5 ta khi3 e5."
+        ],
+        [
+          "無定著。",
+          "Bo5 tiann7 tioh8."
+        ],
+        [
+          "不是如此、頂月即點油的。",
+          "M7 si7 an2-ni, teng2 geh8 chiah tiam2 iu5 e5."
+        ],
+        [
+          "敢是發條斷去的。",
+          "Kann2 si7 hoat tiau5 tng7 khi3 e5."
+        ],
+        [
+          "此早起囝仔在弄、敢是囝仔弄歹的。",
+          "Chiah cha2-khi2 gin2-na2 teh lang7, kann2 si7 gin2-na2 lang7 phainn2 e5."
+        ],
+        [
+          "時錶是不可給囝仔弄、連鞭就創歹去。",
+          "Si5-pio2 si7 m7 thang hou7 gin2-na2 lang7, liam5-pinn chiu7 chhong3 phainn2 khi3."
+        ],
+        [
+          "臺灣是修理時錶的工錢真貴、",
+          "Tai5-oan5 si7 siu-li2 si5-pio2 e5 kang-chinn5 chin kui3,"
+        ],
+        [
+          "干乾洗機器與點油而已、要值一元。",
+          "Kan-ta soe2 ki-khi3 kap tiam2 iu5 nia7-nia7, beh tat8 chit8 khou."
+        ],
+        [
+          "有影真貴、我頂日鏇了傷緊、發條續斷去、干乾換一個發條而已、續被伊提三元去。",
+          "U7 iann2 chin kui3, goa2 teng2 jit8 choan7 liau2 siong kin2, hoat tiau5 soa3 tng7 khi3, kan-ta oann7 chit8 e5 hoat tiau5 nia7-nia7, soa3 hou7 i thoeh8 sann khou khi3."
+        ],
+        [
+          "若是歹的時錶、屢屢給伊修理、寧可買的較好。",
+          "Na7 si7 phainn2 e5 si5-pio2, tauh8-tauh8 hou7 i siu-li2, leng5-kho2 boe2 e5 khah ho2."
+        ],
+        [
+          "正是正是、較輸買新的。",
+          "Chiann3 si7 chiann3 si7, khah su boe2 sin e5."
+        ],
+        [
+          "汝是早起幾點鐘即起來。",
+          "Lu2 si7 cha2-khi2 kui2 tiam2-cheng chiah khi2 lai5."
+        ],
+        [
+          "無定著、有時仔較早起來、",
+          "Bo5 tiann7 tioh8, u7 si5 a2 khah cha2-khi2 lai5,"
+        ],
+        [
+          "有時仔較晏起來。",
+          "U7 si5 a2 khah oann3 khi2 lai5."
+        ],
+        [
+          "暗時幾點鐘即睏、有定著無。",
+          "Am3-si5 kui2 tiam2-cheng chiah khun3, u7 tiann7-tioh8 bo5."
+        ],
+        [
+          "彼亦是無定著、若無事情就較早睏、若是有事情的時候、到十二點外鐘即睏亦曾。",
+          "Hit iah8 si7 bo5 tiann7 tioh8, na7 bo5 tai7-chi3 chiu7 khah cha2 khun3, Na7 si7 u7 tai7-chi3 e5 si5-chun7, kau3 chap8-ji7 tiam2 goa7 cheng chiah khun3 iah8 bat."
+        ],
+        [
+          "我昨昏有去尋汝、汝無在得是去何位的。",
+          "Goa2 cha-hng u7 khi3 chhe7 lu2, lu2 bo5 ti7--leh si7 khi3 to2-ui7 e5."
+        ],
+        [
+          "汝講昨昏來尋我、就是何時 來尋我的。",
+          "Lu2 kong2 cha-hng lai5 chhe7 goa2, chiu7 si7 ti7-si5  lai5 chhe7 goa2 e5."
+        ],
+        [
+          "我昨昏食午飽、有一下仔即去尋汝。",
+          "Goa2 cha-hng chiah8-tau3-pa2, u7 chit8-e7-a2 chiah khi3 chhe7 lu2."
+        ],
+        [
+          "歟、如此就、汝來尋我是點外鐘彼候是否。",
+          "Honn7, an2-ni chiu7, lu2 lai5 chhe7 goa2 si7 tiam2 goa7 cheng hit chun7 si7 m7."
+        ],
+        [
+          "是、在要二點鐘彼候。",
+          "Si7, teh beh nng7 tiam2-cheng hit chun7."
+        ],
+        [
+          "若如此、彼候我適適去看相揠無在得",
+          "Na7 an2-ni, hit chun7 goa2 tu2-tu2 khi3 khoann3 sann ian2 bo5 ti7--leh"
+        ],
+        [
+          "汝來尋我是有甚麼事情。",
+          "Lu2 lai5 chhe7 goa2 si7 u7 sim2-mih8 tai7-chi3."
+        ],
+        [
+          "無啊、無甚事情、干乾要招汝去看相揠而已。",
+          "Bo5 ah, bo5 siann2 tai7-chi3, kan-ta beh chio lu2 khi3 khoann3 sann ian2 nia7-nia7."
+        ],
+        [
+          "歟如此、不止無禮。",
+          "Honn7 an2-ni, put-chi2 bo5 le2."
+        ],
+        [
+          "盻、我真不著、汝是要去看相揠、特持來招我、我要去看無去招汝、實在是無甚麼話可分會。",
+          "He7, goa2 chin m7 tioh8, lu2 si7 beh khi3 khoann3 sann ian2, tiau5-ti5 lai5 chio goa2, goa2 beh khi3 khoann3 bo5 khi3 chio lu2, sit8-chai7 si7 bo5 sim2-mih8 oe7 thang pun oe7."
+        ],
+        [
+          "豈敢豈敢、我亦不是特工去尋汝的、去新起街買物、要返來的時、順續寄腳而已。汝去看、看到幾點鐘久即返來。",
+          "Kiam2 kann2 kiam2 kann2, goa2 iah8 m7 si7 tiau5-kang khi3 chhe7 lu2 e5, khi3 Sin-khi2-koe boe2 mih8, beh tng2 lai5 e5 si5, sun7 soa3 kia3 kha nia7-nia7. Lu2 khi3 khoann3, khoann3 kau3 kui2 tiam2-cheng ku2 chiah tng2 lai5."
+        ],
+        [
+          "差不多看到三點鐘久即返來。",
+          "Chha-put-to khoann3 kau3 sann tiam2-cheng ku2 chiah tng2 lai5."
+        ],
+        [
+          "如此就、汝返來是五點外鐘嗬。",
+          "An2-ni chiu7, lu2 tng2 lai5 si7 gou7 tiam2 goa7 cheng honnh."
+        ],
+        [
+          "是、我返來到厝就我的時鐘、適適打五點鐘嘮。",
+          "Si7, goa2 tng2 lai5 kau3 chhu3 chiu7 goa2 e5 si5-cheng, tu2-tu2 phah gou7 tiam2-cheng loh."
+        ],
+        [
+          "看了怎樣、有心適抑無。",
+          "Khoann3 liau2 choann2-iunn7, u7 sim tu2 a2 bo5."
+        ],
+        [
+          "有、不止有局。",
+          "U7, put-chi2 u7 kiok8."
+        ],
+        [
+          "汝看得、我頂日去府前街、買一項物、拈鬮、拈著金錶仔與金鏈仔、尚一個指南針。",
+          "Lu2 khoann3 leh, goa2 teng2 jit8 khi3 Hu2-cheng5 koe, boe2 chit8 hang7 mih8, liam-ku, liam tioh8 kim pio2-a2 kap kim lian5-a2, iau2 chit8 e5 chi2-lam5-chiam."
+        ],
+        [
+          "猶原彼日、我的朋友是拈著銀錶仔與絲的錶仔帶。",
+          "Iu5-goan5 hit jit8, goa2 e5 peng5-iu2 si7 liam tioh8 gun5 pio2-a2 kap si e5 pio2-a2 toa3."
+        ],
+        [
+          "尚一個朋友是在西門街、抽著一個吊的時鐘與一個漏鐘。",
+          "Iau2 chit8 e5 peng5-iu2 si7 ti7 Sai-mng5 koe, thiu tioh8 chit8 e5 tiau3 e5 si5-cheng kap chit8 e5 lau7-cheng."
+        ],
+        [
+          "尚一個本地人的囝仔抽著風琴鐘、尚一個老大人是抽著竪鐘、二個不止歡喜。",
+          "Iau2 chit8 e5 pun2 toe7 lang5 e5 gin2-na2 thiu tioh8 hong-khim5 cheng, iau2 chit8 e5 lau7-toa7-lang5 si7 thiu tioh8 khia7 cheng, nng7 e5 put-chi2 hoann-hi2."
+        ],
+        [
+          "歟、各個彼呢好字運、我是歹字運、見抽見抽著齒粉咯、齒刷咯、番仔火咯、批囊咯、一雙箸咯、飯匙咯、攏是不成物了了。",
+          "Honn7, tak8 e5 hiah-nih8 ho2 ji7-un7, goa2 si7 phainn2 ji7-un7, kinn3 thiu kinn3 thiu tioh8 khi2-hun2 loh, khi2-bin2 loh, hoan-a2 he2 loh, phoe-long5 loh, chit8 siang ti7 loh, png7-si5 loh, long2 si7 m7 chiann5 mih8 liau2-liau2."
+        ],
+        [
+          "汝拈著的金錶仔給我看覔得。",
+          "Lu2 liam tioh8 e5 kim pio2-a2 hou7 goa2 khoann3 bai7 leh."
+        ],
+        [
+          "好、給汝看、就是此個嘮。",
+          "Ho2, hou7 lu2 khoann3, chiu7 si7 chit e5 loh."
+        ],
+        [
+          "像汝貧心的人、拈沒著、親像我的聖人即拈能著。",
+          "Chhiunn7 lu2 san3 sim e5 lang5, liam boe7 tioh8, chhin chhiunn7 goa2 e5 seng3-jin5 chiah liam oe7 tioh8."
+        ],
+        [
+          "唉唉、不可食人戇、這是拈金的汝知否。",
+          "Oe2 oe2, m7-thang chiah8 lang5 gong7, che si7 liam kim e5 lu2 chai m7."
+        ],
+        [
+          "講、汝的朋友亦著一個銀錶仔、彼亦敢是白銅的。",
+          "Kong2, lu2 e5 peng5-iu2 iah8 tioh8 chit8 e5 gun5 pio2-a2, he iah8 kann2 si7 peh8-tang5 e5."
+        ],
+        [
+          "噯、金殼的時錶、停得續不行。",
+          "Aih, kim khak e5 si5-pio2, theng5 teh soa3 m7 kiann5."
+        ],
+        [
+          "彼是昨昏我沒記得鏇即如此的。",
+          "He si7 cha-hng goa2 boe7 ki3-tit choan7 chiah an2-ni e5."
+        ],
+        [
+          "汝的時錶、有準無。",
+          "Lu2 e5 si5-pio2, u7 chun2 bo5."
+        ],
+        [
+          "我昨昏沒記得對午時銃、所以有準彼就不知。",
+          "Goa2 cha-hng boe7 ki3-tit tui3 gou7-si5 chheng3, sou2-i2 u7 chun2 he chiu7 m7 chai."
+        ],
+        [
+          "有、昨昏午時銃鳴彼候、對 到一秒的爭差都無。",
+          "U7, cha-hng gou7-si5 chheng3 tan5 hit chun7, tui3 kah chit8 bio2 e5 cheng-chha to bo5."
+        ],
+        [
+          "我的時錶是每日緊十五分。",
+          "Goa2 e5 si5-pio2 si7 mui2 jit8 kin2 chap8-gou7 pun."
+        ],
+        [
+          "我的是各日緩七八分。",
+          "Goa2 e5 si7 tak8 jit8 ban7 chhit poeh hun."
+        ],
+        [
+          "我的是有時仔緊、有時仔緩無一定。",
+          "Goa2 e5 si7 u7 si5 a2 kin2, u7 si5 a2 ban7 bo5 it-teng7."
+        ],
+        [
+          "此久的天氣不止不成天。",
+          "Chit ku2 e5 thinn khi3 put-chi2 m7 chiann5 thinn."
+        ],
+        [
+          "是、此禮拜連續落雨。",
+          "Si7, chia le2-pai3 lian5-siok8 loh8-hou7."
+        ],
+        [
+          "汝有夯雨傘來無。",
+          "Lu2 u7 gia5 hou7-soann3 lai5 bo5."
+        ],
+        [
+          "有、我夯來。",
+          "U7, goa2 gia5 lai5."
+        ],
+        [
+          "無、我沒記得夯來。",
+          "Bo5, goa2 boe7 ki3-tit gia5 lai5."
+        ],
+        [
+          "若如此、此有一枝較大辨的雨傘、借汝夯。",
+          "Na7 an2-ni, chia u7 chit8 ki khah toa7 pan7 e5 hou7-soann3, chioh lu2 gia5."
+        ],
+        [
+          "勞力、此候無甚雨、落雨毛仔而已、敢免夯雨傘去咯。",
+          "Boa5 lat8, chit chun7 bo5 siann2 hou7, loh8 hou7-mou5-a2 nia7-nia7, kann2 bian2 gia5 hou7-soann3 khi3 loh."
+        ],
+        [
+          "免細膩、阮兜尚有一枝、所以汝夯彼枝去亦無要緊。",
+          "Bian2 se3-ji7, goan2 tau iau2 u7 chit8 ki, sou2-i2 lu2 gia5 hit ki khi3 iah8 bo5 iau3-kin2."
+        ],
+        [
+          "若如此、順汝的好意、要借去。",
+          "Na7 an2-ni, sun7 lu2 e5 ho2 i3, beh chioh khi3."
+        ],
+        [
+          "不可被雨沃澹、我頂禮拜去草地、沃著雨、續感著風、到今尚未離。",
+          "M7-thang hou7 hou7 ak tam5 , goa2 teng2 le2-pai3 khi3 chhau2 toe7, ak tioh8 hou7, soa3 kam2 tioh8 hong, kau3 tann iau2-boe7 li7."
+        ],
+        [
+          "我是透雨、無出去都沒使得。",
+          "Goa2 si7 thau3 hou7, bo5 chhut--khi3 to boe7-sai2 tit."
+        ],
+        [
+          "雨此呢大、一定著此候去即能使得是否。",
+          "Hou7 chiah-nih8 toa7, it-teng7 tioh8 chit chun7 khi3 chiah oe7 sai2 tit si7 m7."
+        ],
+        [
+          "較停、雨較囘亦無得確。",
+          "Khah theng5, hou7 khah hoe5 iah8 bo5 tek-khak."
+        ],
+        [
+          "沒使得、我昨昏有與伊約、定著二點鐘要去尋伊。",
+          "Boe7-sai2 tit, goa2 cha-hng u7 ka7 i iok, tiann7-tioh8 nng7 tiam2-cheng beh khi3 chhe7 i."
+        ],
+        [
+          "為玆落大雨的事情、我不愛背約。",
+          "Ui7-chu loh8 toa7 hou7 e5 tai7-chi3, goa2 m7 ai3 pe7 iok."
+        ],
+        [
+          "歟、汝是此大雨、要行路去是否。",
+          "Honn7, lu2 si7 chiah toa7 hou7, beh kiann5-lou7 khi3 si7 m3."
+        ],
+        [
+          "不是、要坐車去。",
+          "M7 si7, beh che7 chhia khi3."
+        ],
+        [
+          "像此久定定落雨、無可出去迌、真無局。",
+          "Chhiunn7 chit ku2 tiann7-tiann7 loh8-hou7, m7-thang chhut khi3 chhit-tho5, chin bo5 kiok8."
+        ],
+        [
+          "湊坎無夯雨傘來、遇著雨、衫續澹碌碌。",
+          "Chhau3-kham2 bo5 gia5 hou7-soann3 lai5, gu7 tioh8 hou7, sann soa3 tam5-lok8-lok8."
+        ],
+        [
+          "大家來去彼亭仔腳閃雨。",
+          "Tai7-ke lai5 khi3 hia teng5-a2-kha siam2 hou7."
+        ],
+        [
+          "此號雨、驚能變倦雨。",
+          "Chit ho7 hou7, kiann oe7 pian3 sian7 hou7."
+        ],
+        [
+          "沒咯、汝看得、在西旁出虹出到真美。",
+          "Boe7 loh, lu2 khoann3 leh, ti7 sai peng5 chhut kheng7 chhut kah chin sui2."
+        ],
+        [
+          "此號雨、落無若久、較停就能晴。",
+          "Chit ho7 hou7, loh8 bo5 joa7 ku2, khah theng5 chiu7 oe7 chinn5."
+        ],
+        [
+          "此久攏無落、外口土粉揚到攏沒行得。",
+          "Chit ku2 long2 bo5 loh8, goa7-khau2 thou5-hun2 eng kah long2 boe7 kiann5 tit."
+        ],
+        [
+          "過路人各個都目睭闔闔在行。",
+          "Ke3 lou7 lang5 tak8 e5 to bak8-chiu khoeh-khoeh teh kiann5."
+        ],
+        [
+          "尚有個是用手巾掩面在行。",
+          "Iau2 u7 e5 si7 eng7 chhiu2-kun ng bin7 teh kiann5."
+        ],
+        [
+          "今仔日真好天。",
+          "Kin-a2-jit8 chin ho2 thinn."
+        ],
+        [
+          "今仔日的天是不止希罕嗎。",
+          "Kin-a2-jit8 e5 thinn si7 put-chi2 hi-han2 mah."
+        ],
+        [
+          "是、天真清彩、一點仔雲都無。",
+          "Si7, thinn chin chheng-chhai2, chit8-tiam2-a2 hun5 to bo5."
+        ],
+        [
+          "是、真正好天。",
+          "Si7, chin-chiann3 ho2 thinn."
+        ],
+        [
+          "明仔日的天是怎樣。",
+          "Bin5-na2-jit8 e5 thinn si7 choann2-iunn7."
+        ],
+        [
+          "明仔早亦敢能好天。",
+          "Beng5 a2 cha2 iah8 kann2 oe7 ho2 thinn."
+        ],
+        [
+          "今仔日傷燒暖、所以明仔日是無定能落雨。",
+          "Kin-a2-jit8 siong sio-lo7, sou2-i2 bin5-na2-jit8 si7 bo5 tiann7 oe7 loh8-hou7."
+        ],
+        [
+          "天烏陰了、較停敢能落雨。",
+          "Thinn ou-im lah, khah theng5 kann2 oe7 loh8-hou7."
+        ],
+        [
+          "所以披在竹篙的衫褲、著緊收收入來。",
+          "Sou2-i2 phi ti7 tek-ko e5 sann-khou3, tioh8 kin2 siu-siu--jip8-lai5."
+        ],
+        [
+          "雷公鳴咯、較停就能落西北雨。",
+          "Lui5-kong tan5 loh, khah theng5 chiu7 oe7 loh8 sai-pak-hou7."
+        ],
+        [
+          "罩雲、在要落雨的欵。",
+          "Ta3 hun5, teh beh loh8-hou7 e5 khoan2."
+        ],
+        [
+          "像此久定定落雨、路坔坔、沒行得。",
+          "Chhiunn7 chit ku2 tiann7-tiann7 loh8-hou7, lou7 lam3-lam3, boe7 kiann5 tit."
+        ],
+        [
+          "此幾日不時落雨、路真滑、若無張持行就能跌倒。",
+          "Chia kui2 jit8 put-si5 loh8-hou7, lou7 chin kut8, na7 bo5 tiunn-ti5 kiann5 chiu7 oe7 poah8 to3."
+        ],
+        [
+          "若如此、夯拐仔去較妥當。",
+          "Na7 an2-ni, gia5 koai2-a2 khi3 khah tho3-tong3."
+        ],
+        [
+          "像如此、定定落大雨的時候驚能做大水。",
+          "Chhiunn7 an2-ni, tiann7-tiann7 loh8 toa7 hou7 e5 si5-chun7 kiann oe7 choe3 toa7-chui2."
+        ],
+        [
+          "是、像昨昏暗、雷公亦鳴、",
+          "Si7, chhiunn7 cha-hng am3, lui5-kong iah8 tan5,"
+        ],
+        [
+          "閃映是閃一下閃一下、不止悽凊。",
+          "Sih-na3 si7 sih chit8-e7 sih chit8-e7, put-chi2 chhinn-chhin3."
+        ],
+        [
+          "聽過路人在會、講、西門外街抑是何位有起雷。",
+          "Thiann ke3 lou7 lang5 teh oe7, kong2, Sai-mng5 goa7 koe a2 si7 to2-ui7 u7 khi2 lui5."
+        ],
+        [
+          "我亦有聽人講、有起雷、人一個被雷公打死。",
+          "Goa2 iah8 u7 thiann lang5 kong2, u7 khi2 lui5, lang5 chit8 e5 hou7 lui5-kong phah si2."
+        ],
+        [
+          "像如此、攏沒好天就驚能變風颱。",
+          "Chhiunn7 an2-ni, long2 boe7 ho2 thinn chiu7 kiann oe7 pian3 hong-thai."
+        ],
+        [
+          "是、要做風颱的欵。",
+          "Si7, beh choe3 hong-thai e5 khoan2."
+        ],
+        [
+          "此次的風颱、真正害、我舊年種的芎蕉、攏總被風打折去。",
+          "Chit pai2 e5 hong-thai, chin-chiann3 hai7, goa2 ku7 ni5 cheng3 e5 keng-chio, long2-chong2 hou7 hong phah-chih8 khi3."
+        ],
+        [
+          "尚在溪墘的一坵園是被水流去、續變溪埔。",
+          "Iau2 ti7 khoe-kinn5 e5 chit8 khu hng5 si7 hou7 chui2 lau5 khi3, soa3 pian3 khoe pou."
+        ],
+        [
+          "您厝是怎樣有甚麼損害無。",
+          "Lin2 chhu3 si7 choann2-iunn7 u7 sim2-mih8 sun2-hai7 bo5."
+        ],
+        [
+          "厝頂略略仔漏而已、幸哉、",
+          "Chhu3-teng2 lioh8-lioh8-a2 lau7 nia7-nia7, kai-chai3,"
+        ],
+        [
+          "無甚麼碍著。",
+          "Bo5 sim2-mih8 gai7 tioh8."
+        ],
+        [
+          "阮厝是頂日翻厝的時、攏總換日本瓦、所以攏沒漏。",
+          "Goan2 chhu3 si7 teng2 jit8 hoan-chhu3 e5 si5, long2-chong2 oann7 Jit8-pun2 hia7, sou2-i2 long2 boe7 lau7."
+        ],
+        [
+          "幸哉、阮厝是起了無若久、所以攏無損害。",
+          "Kai-chai3, goan2 chhu3 si7 khi2 liau2 bo5 joa7 ku2, sou2-i2 long2 bo5 sun2-hai7."
+        ],
+        [
+          "彼蓋好嘮、阮厝是續欹欹、敢是無重起來就沒使得。",
+          "He kai3 ho2 loh, goan2 chhu3 si7 soa3 khi-khi, kann2 si7 bo5 teng5-khi2 lai5 chiu7 boe7-sai2 tit."
+        ],
+        [
+          "講、只有此臺北廳管內、厝倒百外間、",
+          "Kong2, chi2-u7 chia Tai5-pak thiann koan2 lai7, chhu3 to3 pah goa7 keng,"
+        ],
+        [
+          "人死八九個、尚著傷的有二十幾名。",
+          "Lang5 si2 poeh kau2 e5, ia7 tioh8 siong e5 u7 ji7-chap8 kui2 mia5."
+        ],
+        [
+          "尚另外、倒一半的、含淹水的厝、合得有二千外戶。",
+          "Iau2 leng7 goa7, to3 chit8-poann3 e5, ham5 im chui2 e5 chhu3, hap8 teh u7 nng7-chheng goa7 hou7."
+        ],
+        [
+          "有損壞多少的厝是算沒了。",
+          "U7 sun2-hoai7 choe7 chio2 e5 chhu3 si7 sng3 boe7 liau2."
+        ],
+        [
+          "親像古亭庄的溪墘是歸片淹水、淹到若像大海的欵。",
+          "Chhin chhiunn7 Kou2-teng5 chng e5 khoe-kinn5 si7 kui phinn3 im chui2, im kah na2 chhiunn7 toa7-hai2 e5 khoan2."
+        ],
+        [
+          "溪崁直直沖崩去、起在溪墘的厝四五間是全間被水流去。",
+          "Khoe-kham3 tit8-tit8 chhiong pang khi3, khi2 ti7 khoe-kinn5 e5 chhu3 si3 gou7 keng si7 choan5 keng hou7 chui2 lau5 khi3."
+        ],
+        [
+          "住在溪墘的人、看真不是式、厝未流預先人亦走、尚較致重的家財、攏搬走、此層是災難中的造化的事。",
+          "Toa3 ti7 khoe-kinn5 e5 lang5, khoann3 chin m7 si7 sit, chhu3 be7 lau5 tai7-seng lang5 iah8 chau2, iau2 khah ti3-tiong7 e5 ka-chai5, long2 poann chau2, chia chan5 si7 chai-lan7 tiong e5 cho7-hoa3 e5 su7."
+        ],
+        [
+          "尚一條是忽然間電火攏熄去、通接續暗摸摸、一時是擾與亂。",
+          "Iau2 chit8 tiau5 si7 hut-jian5-kan tian7-hoe2 long2 sit khi3, thong chiap-siok8 am3 bong bong, chit8 si5 si7 jiau2 kap loan7."
+        ],
+        [
+          "點電火却不止利便、不拘一旦遇著風颱的時候、續熄去、如此就、不時創番仔燈創便便、抑是蠟燭買藏得、在愛等候伊、如此想起來的時候、尚有一點仔無利便的所在。",
+          "Tiam2 tian7-hoe2 khiok put-chi2 li7-pian7, m7-ku2 it-tan3 gu7 tioh8 hong-thai e5 si5-chun7, soa3 sit khi3, an2-ni chiu7, put-si5 chhong3 hoan-a2 teng chhong3 pian7-pian7, a2 si7 lah8-chek boe2 khng3-teh, teh ai3 theng3-hau7 i, an2-ni siunn7 khi2 lai5 e5 si5-chun7, iau2 u7 chit8-tiam2-a2 bo5 li7-pian7 e5 sou2-chai7."
+        ],
+        [
+          "汝今年幾歲。",
+          "Lu2 kin-ni5 kui2 he3."
+        ],
+        [
+          "我今年十四歲。",
+          "Goa2 kin-ni5 chap8 si3 he3."
+        ],
+        [
+          "若如此、汝是尚未成丁嗬。",
+          "Na7 an2-ni, lu2 si7 iau2-boe7 seng5-teng honnh."
+        ],
+        [
+          "是、阮臺灣人是到十六歲即成丁。",
+          "Si7, goan2 Tai5-oan5 lang5 si7 kau3 chap8-lak8 he3 chiah seng5-teng."
+        ],
+        [
+          "聽人講、您內地人是到二十歲即成丁有影無。",
+          "Thiann lang5 kong2, lin2 loe7-te7 lang5 si7 kau3 ji7-chap8 he3 chiah seng5-teng u7 iann2 bo5."
+        ],
+        [
+          "是、阮內地人是到二十歲即成丁。",
+          "Si7, goan2 loe7-te7 lang5 si7 kau3 ji7-chap8 he3 chiah seng5-teng."
+        ],
+        [
+          "汝是照年歲、較大傼。",
+          "Lu2 si7 chiau3 ni5-he3, khah toa7 han3."
+        ],
+        [
+          "伊是比年歲、較細傼。",
+          "I si7 pi2 ni5-he3, khah soe3 han3."
+        ],
+        [
+          "我是比年歲較臭老。",
+          "Goa2 si7 pi2 ni5-he3 khah chhau3-lau7."
+        ],
+        [
+          "汝是比年歲較少年。",
+          "Lu2 si7 pi2 ni5-he3 khah siau3-lian5."
+        ],
+        [
+          "汝看、我今年幾歲、憶看覔。",
+          "Lu2 khoann3, goa2 kin-ni5 kui2 he3, ioh khoann3 bai7."
+        ],
+        [
+          "汝著先憶我的年歲、我即憶汝的年歲。",
+          "Lu2 tioh8 seng ioh goa2 e5 ni5-he3, goa2 chiah ioh lu2 e5 ni5-he3."
+        ],
+        [
+          "若如此、如此好否、大家輸贏餅、預先買二角銀餅置得、輸的人著出彼個餅錢。",
+          "Na7 an2-ni, an2-ni ho2 m7, tai7-ke su iann5 piann2, tai7-seng boe2 nng7 kak gun5 piann2 he7 teh, su e5 lang5 tioh8 chhut hiah e5 piann2 chinn5."
+        ],
+        [
+          "好、如此蓋心適。",
+          "Ho2, an2-ni kham3 sim tu2."
+        ],
+        [
+          "甚人預先憶。",
+          "Siann2 lang5 tai7-seng ioh."
+        ],
+        [
+          "儘採、甚人預先憶亦是無差嗎。",
+          "Chhin3-chhai2, siann2 lang5 tai7-seng ioh iah8 si7 bo5 chhe mah."
+        ],
+        [
+          "如此不好、大家摔土治、輸的人著先憶。",
+          "An2-ni m7 ho2, tai7-ke sut8 thou2-ti7, su e5 lang5 tioh8 seng ioh."
+        ],
+        [
+          "好、如此好。",
+          "Ho2, an2-ni ho2."
+        ],
+        [
+          "嗬來、摔、我贏汝、汝著預先。",
+          "honnh lai5, sut8, goa2 iann5 lu2, lu2 tioh8 tai7-seng."
+        ],
+        [
+          "如此沒使得、汝出了較晏、更一次。",
+          "An2-ni boe7-sai2 tit, lu2 chhut liau2 khah oann3, koh chit8 pai2."
+        ],
+        [
+          "盻、汝此個人不止不認輸的人、",
+          "He7, lu2 chit e5 lang5 put-chi2 m7 jin7 su e5 lang5,"
+        ],
+        [
+          "好、無要緊、更來。",
+          "Ho2, bo5 iau3-kin2, koh lai5."
+        ],
+        [
+          "此次是一二三、大家同齊出即能使得。",
+          "Chit pai2 si7 chit8 nng7 sann, tai7-ke tang5-che5 chhut chiah oe7 sai2 tit."
+        ],
+        [
+          "嗬來、一、二、三、我是白蟻、汝是土治公、猶原是我贏。",
+          "honnh lai5, chit8, nng7, sann, goa2 si7 peh8-hia7, lu2 si7 thou2-ti7-kong, iu5-goan5 si7 goa2 iann5."
+        ],
+        [
+          "此次是公道、同齊同齊、無縫可嫌嗎。",
+          "Chit pai2 si7 kong-to7, tang5-che5 tang5-che5, bo5 phang7 thang hiam5 mah."
+        ],
+        [
+          "唉、較緊得、輸的人著預先。",
+          "Oe2, khah kin2 leh, su e5 lang5 tioh8 tai7-seng."
+        ],
+        [
+          "緩且、不可彼趕、看到真即來講。",
+          "Ban7-chhiann2, m7-thang hiah koann2, khoann3 kah chin chiah lai5 kong2."
+        ],
+        [
+          "唉、不可彼呢激大段、我看沒出。",
+          "Oe2, m7-thang hiah-nih8 kek tai7-toan7, goa2 khoann3 boe7 chhut."
+        ],
+        [
+          "(伊佯無聽、激到愈端方)",
+          "( i tinn3 bo5 thiann, kek kah na2 toan-hong )"
+        ],
+        [
+          "緩且、我提算盤。",
+          "Ban7-chhiann2, goa2 thoeh8 sng3-poann5."
+        ],
+        [
+          "唉唉、提算盤來、要算甚貨。",
+          "Oe2 oe2, thoeh8 sng3-poann5 lai5, beh sng3 siann2 he3."
+        ],
+        [
+          "汝著恬恬、我要憶汝的年歲、用甚麼法度亦是我的權能、",
+          "Lu2 tioh8 tiam7-tiam7, goa2 beh ioh lu2 e5 ni5-he3, eng7 sim2-mih8 hoat-tou7 iah8 si7 goa2 e5 koan5-leng5,"
+        ],
+        [
+          "沒被汝管。",
+          "Boe7 hou7 lu2 koan2."
+        ],
+        [
+          "汝的面貌是生做不止工夫、所以若無算就不知影。",
+          "Lu2 e5 bin7-mau7 si7 senn-cho3 put-chi2 kang ang, sou2-i2 na7 bo5 sng3 chiu7 m7 chai-iann2."
+        ],
+        [
+          "唉唉、要戱亦著有一個欵、汝是元來要算甚貨。",
+          "Oe2 oe2, beh sng2 iah8 tioh8 u7 chit8 e5 khoan2, lu2 si7 goan5-lai5 beh sng3 siann2 he3."
+        ],
+        [
+          "恬恬、較停就知影。",
+          "Tiam7-tiam7, khah theng5 chiu7 chai-iann2."
+        ],
+        [
+          "唉、免彼呢金金相亦大概知影嗎。",
+          "Oe2, bian2 hiah-nih8 kim kim sann iah8 tai7-khai3 chai-iann2 mah."
+        ],
+        [
+          "好、大約知影、如此畧續看的時候、差不多四十八。",
+          "Ho2, tai7-iok chai-iann2, an2-ni liok8-siok8 khoann3 e5 si5-chun7, chha-put-to si3-chap8 poeh."
+        ],
+        [
+          "如此沒著、此次是我。",
+          "An2-ni boe7 tioh8, chit pai2 si7 goa2."
+        ],
+        [
+          "尚未尚未、對此候愛算盤元來汝的面色是烏到若像青銅的欵、此層能被人看加五歲、所以四十八的內面、扣五歲起來、剩四十三。",
+          "Iau2-boe7 iau2-boe7, tui3 chit chun7 ai3 sng3-poann5 goan5-lai5 lu2 e5 bin7-sek si7 ou kah na2 chhiunn7 chhinn-tang5 e5 khoan2, chia chan5 oe7 hou7 lang5 khoann3 ke gou7 he3, sou2-i2 si3-chap8 poeh e5 lai7-bin7, khau3 gou7 he3 khi2 lai5, chhun si3-chap8-sann."
+        ],
+        [
+          "唉唉、不可食人戅、競體人的面形、如此不止無款。",
+          "Oe2 oe2, m7-thang chiah8 lang5 gong7, keng-the2 lang5 e5 bin7-heng5, an2-ni put-chi2 bo5 khoan2."
+        ],
+        [
+          "恬恬、尚汝是有嘴鬚、此層能被人看加五歲、所以更扣五歲起來、剩三十八。",
+          "Tiam7-tiam7, iau2 lu2 si7 u7 chhui3-chhiu, chia chan5 oe7 hou7 lang5 khoann3 ke gou7 he3, sou2-i2 koh khau3 gou7 he3 khi2 lai5, chhun sann-chap8-poeh."
+        ],
+        [
+          "尚汝是顴骨較高、嘴頰凹落去、此層能被人看加三歲、所以更扣三歲起來、剩三十五、",
+          "Iau2 lu2 si7 koan3-kut khah koan5, chhui3-phoe2 naih--loh8-khi3, chia chan5 oe7 hou7 lang5 khoann3 ke sann he3, sou2-i2 koh khau3 sann he3 khi2 lai5, chhun sann-chap8-gou7,"
+        ],
+        [
+          "如此差不多。",
+          "An2-ni chha-put-to."
+        ],
+        [
+          "怎樣、如此有著無。",
+          "Choann2-iunn7, an2-ni u7 tioh8 bo5."
+        ],
+        [
+          "著、盻、汝是比相命先生較巧。",
+          "Tioh8, he7, lu2 si7 pi2 sann mia7 sian-sinn khah khiau2."
+        ],
+        [
+          "若如此、二角銀來。",
+          "Na7 an2-ni, nng7 kak gun5 lai5."
+        ],
+        [
+          "伊是汝的甚麼人。",
+          "I si7 lu2 e5 sim2-mih8 lang5."
+        ],
+        [
+          "伊是我的大兄。",
+          "I si7 goa2 e5 toa7 hiann."
+        ],
+        [
+          "尚一個人是甚人。",
+          "Iau2 chit8 e5 lang5 si7 siann2 lang5."
+        ],
+        [
+          "彼個是我的朋友。",
+          "Hit e5 si7 goa2 e5 peng5-iu2."
+        ],
+        [
+          "歟、汝是對何時與伊相識。",
+          "Honn7, lu2 si7 tui3 ti7-si5 ka7 i sann bat."
+        ],
+        [
+          "相識真久。",
+          "Sann bat chin ku2."
+        ],
+        [
+          "自細傼就與伊相識。",
+          "Tui3 soe3 han3 chiu7 ka7 i sann bat."
+        ],
+        [
+          "做囝仔就與伊熟識。",
+          "Choe3 gin2-na2 chiu7 ka7 i sek8 bat."
+        ],
+        [
+          "伊是與我同庄的人自早就與伊相識。",
+          "I si7 kap goa2 tang5 chng e5 lang5 tui3 cha2 chiu7 ka7 i sann bat."
+        ],
+        [
+          "伊是此二三月日前、搬來我的隔壁居、對彼時與伊相識。",
+          "I si7 chia nng7 sann geh8-jit8 cheng5, poann lai5 goa2 e5 keh-piah khia7, tui3 hit si5 ka7 i sann bat."
+        ],
+        [
+          "伊是我的趁食伴識伊不止久嘮。",
+          "I si7 goa2 e5 than3 chiah8 phoann7 bat i put-chi2 ku2 loh."
+        ],
+        [
+          "我頂年去金山趁食的時、有與伊做堆、",
+          "Goa2 teng2 ni5 khi3 kim soann than3 chiah8 e5 si5, u7 ka7 i choe3-tui,"
+        ],
+        [
+          "所以對彼年與伊相識。",
+          "Sou2-i2 tui3 hit ni5 ka7 i sann bat."
+        ],
+        [
+          "伊是本成食阮阿叔的頭路、所以與伊熟識。",
+          "I si7 pun2-chiann5 chiah8 goan2 a-chek e5 thau5-lou7, sou2-i2 ka7 i sek8 bat."
+        ],
+        [
+          "歟、您叔倩伊創甚甚貨。",
+          "Honn7, lin2 chek chhiann3 i chhong3 siann2 siann2 he3."
+        ],
+        [
+          "倩伊記賬。",
+          "Chhiann3 i ki3-siau3."
+        ],
+        [
+          "您叔是在做生理是否。",
+          "Lin2 chek si7 teh choe3 seng-li2 si7 m7."
+        ],
+        [
+          "此候無在做、本成在開米店。",
+          "Chit chun7 bo5 teh choe3, pun2-chiann5 teh khui bi2-tiam3."
+        ],
+        [
+          "此候怎樣無做。",
+          "Chit chun7 choann2-iunn7 bo5 choe3."
+        ],
+        [
+          "生理做了蝕本、續打給人去。",
+          "Seng-li2 choe3 liau2 sit8-pun2, soa3 phah hou7 lang5 khi3."
+        ],
+        [
+          "若如此、此候在做甚麼頭路。",
+          "Na7 an2-ni, chit chun7 teh choe3 sim2-mih8 thau5-lou7."
+        ],
+        [
+          "此候在作穡。",
+          "Chit chun7 teh choh-sit."
+        ],
+        [
+          "尚、汝是做甚麼經紀。",
+          "Iau2, lu2 si7 choe3 sim2-mih8 keng-ki3."
+        ],
+        [
+          "汝此候時甚麼頭路。",
+          "Lu2 chit chun7 si5 sim2-mih8 thau5-lou7."
+        ],
+        [
+          "食人的頭路。",
+          "Chiah8 lang5 e5 thau5-lou7."
+        ],
+        [
+          "食甚麼人的頭路。",
+          "Chiah8 sim2-mih8 lang5 e5 thau5-lou7."
+        ],
+        [
+          "我是食新聞社的頭路。",
+          "Goa2 si7 chiah8 sin-bun5 sia7 e5 thau5-lou7."
+        ],
+        [
+          "汝是食新聞社的頭路、食若久。",
+          "Lu2 si7 chiah8 sin-bun5 sia7 e5 thau5-lou7, chiah8 joa7 ku2."
+        ],
+        [
+          "尚未有一月日。",
+          "Iau2-boe7 u7 chit8 geh8-jit8."
+        ],
+        [
+          "汝的辛金一月日若多。",
+          "Lu2 e5 sin-kim chit8 geh8-jit8 joa7 choe7."
+        ],
+        [
+          "我是被伊倩日仔工、一日六角半、有去即有錢、無去就無錢。",
+          "Goa2 si7 hou7 i chhiann3 jit8 a2 kang, chit8 jit8 lak8 kak-poann3, u7 khi3 chiah u7 chinn5, bo5 khi3 chiu7 bo5 chinn5."
+        ],
+        [
+          "汝講一日六角半、就是食自己抑是食伊。",
+          "Lu2 kong2 chit8 jit8 lak8 kak-poann3, chiu7 si7 chiah8 ka-ki7 a2 si7 chiah8 i."
+        ],
+        [
+          "食自己。",
+          "Chiah8 ka-ki7."
+        ],
+        [
+          "汝號做甚麼名。",
+          "Lu2 ho7 choe3 sim2-mih8 mia5."
+        ],
+        [
+          "我叫做阿海。",
+          "Goa2 kio3 choe3 ah hai2."
+        ],
+        [
+          "姓甚貨。",
+          "Sinn3 siann2 he3."
+        ],
+        [
+          "姓林。",
+          "Sinn3 Lim5."
+        ],
+        [
+          "尚另外有甚麼別物名無。",
+          "Iau2 leng7 goa7 u7 sim2-mih8 pat8 mih8 mia5 bo5."
+        ],
+        [
+          "有、乳名是叫阿順、尚我的嘴是濶濶所以別人體號我、",
+          "U7, lin mia5 si7 kio3 ah sun7, iau2 goa2 e5 chhui3 si7 khoah-khoah sou2-i2 pat8-lang5 the2 ho7 goa2,"
+        ],
+        [
+          "叫濶嘴。",
+          "Kio3 khoah-chhui3."
+        ],
+        [
+          "歟、恁本地人是正名咯、土名咯、乳名咯、字名咯、綽號的名咯、甚麼咯、有幾個那個名、如此較糊混。",
+          "Honn7, lin2 pun2 toe7 lang5 si7 chiann3 mia5 loh, thou5 mia5 loh, lin mia5 loh, ji7 mia5 loh, chhiok-ho7 e5 mia5 loh, sim2-mih8 loh, u7 kui2 e5 na2 e5 mia5, an2-ni khah hou5-hun7."
+        ],
+        [
+          "是、如此不止不好。",
+          "Si7, an2-ni put-chi2 m7 ho2."
+        ],
+        [
+          "恁厝內有幾個人。",
+          "Lin2 chhu3-lai7 u7 kui2 e5 lang5."
+        ],
+        [
+          "汝是有幾個頭嘴。",
+          "Lu2 si7 u7 kui2 e5 thau5 chhui3."
+        ],
+        [
+          "汝的家眷有幾個。",
+          "Lu2 e5 ke-koan3 u7 kui2 e5."
+        ],
+        [
+          "含大細囝仔、通共有十個人。",
+          "Ham5 toa7-se3 gin2-na2, thong ka7 u7 chap8 e5 lang5."
+        ],
+        [
+          "嚄、彼呢多、不止鬧熱嗬。",
+          "Hoa7, hiah-nih8 choe7, put-chi2 lau7-jiat8 honnh."
+        ],
+        [
+          "嚄、彼呢鬧熱、真福氣。",
+          "Hoa7, hiah-nih8 lau7-jiat8, chin hok-khi3."
+        ],
+        [
+          "汝住在何位。",
+          "Lu2 toa3 ti7 to2-ui7."
+        ],
+        [
+          "住在西門街。",
+          "Toa3 ti7 Sai-mng5 koe."
+        ],
+        [
+          "西門街是新聞社相彼列、",
+          "Sai-mng5 koe si7 sin-bun5 sia7 siang5 hit liat8,"
+        ],
+        [
+          "抑是對面列。",
+          "A2 si7 tui3 bin7 liat8."
+        ],
+        [
+          "新聞社的吊角、有一間洗浴間嗎、彼洗浴間的隔壁。",
+          "Sin-bun5 sia7 e5 tiau3 kak, u7 chit8 keng soe2-ek8-keng mah, he soe2-ek8-keng e5 keh-piah."
+        ],
+        [
+          "歟、彼間是汝自己的、抑是與人稅。",
+          "Honn7, hit keng si7 lu2 ka-ki7 e5, a2 si7 ka7 lang5 soe3."
+        ],
+        [
+          "一月日十二元、與人稅。",
+          "Chit8 geh8-jit8 chap8-ji7 khou, ka7 lang5 soe3."
+        ],
+        [
+          "厝稅是被伊提月頭、抑是月尾。",
+          "Chhu3-soe3 si7 hou7 i thoeh8 geh8 thau5, a2 si7 geh8 be2."
+        ],
+        [
+          "攏是被伊提月頭。",
+          "Long2 si7 hou7 i thoeh8 geh8 thau5."
+        ],
+        [
+          "修理厝是歸甚人出。",
+          "Siu-li2 chhu3 si7 kui siann2 lang5 chhut."
+        ],
+        [
+          "攏是歸厝主修理。",
+          "Long2 si7 kui chhu3 Chu2 siu-li2."
+        ],
+        [
+          "汝與伊稅厝的時、有與伊打契約書無。",
+          "Lu2 ka7 i soe3 chhu3 e5 si5, u7 ka7 i phah khoe3-iok chu bo5."
+        ],
+        [
+          "有、寫二張、一人藏一張。",
+          "U7, sia2 nng7 tiunn, chit8 lang5 khng3 chit8 tiunn."
+        ],
+        [
+          "汝有兄弟無。",
+          "Lu2 u7 hiann-ti7 bo5."
+        ],
+        [
+          "有一個大兄與二個小弟。",
+          "U7 chit8 e5 toa7 hiann kap nng7 e5 sio2-ti7."
+        ],
+        [
+          "尚有姊妹無。",
+          "Iau2 u7 chi2-be7 bo5."
+        ],
+        [
+          "有一個大姊與一個小妹。",
+          "U7 chit8 e5 toa7-chi2 kap chit8 e5 sio2-boe7."
+        ],
+        [
+          "汝的大兄今年幾歲。",
+          "Lu2 e5 toa7 hiann kin-ni5 kui2 he3."
+        ],
+        [
+          "我無甚知、敢是今年三十六歲。",
+          "Goa2 bo5 siann2 chai, kann2 si7 kin-ni5 sann-chap8-lak8 he3."
+        ],
+        [
+          "嚄、汝是自己的大兄的年歲亦無甚知是否。",
+          "Hoa7, lu2 si7 ka-ki7 e5 toa7 hiann e5 ni5-he3 iah8 bo5 siann2 chai si7 m7."
+        ],
+        [
+          "阮兄弟已經分家伙、一人居一位、所以較不知影。",
+          "Goan2 hiann-ti7 i2-keng pun ke-he2, chit8 lang5 khia7 chit8 ui7, sou2-i2 khah m7 chai-iann2."
+        ],
+        [
+          "若如此、伊是相甚貨。",
+          "Na7 an2-ni, i si7 siunn3 siann2-he3."
+        ],
+        [
+          "聽阮老母講、伊是相豬。",
+          "Thiann goan2 lau7-bu2 kong2, i si7 siunn3 ti."
+        ],
+        [
+          "若如此、算看就知影嗎。",
+          "Na7 an2-ni, sng3 khoann3 chiu7 chai-iann2 mah."
+        ],
+        [
+          "彼是嘮、不拘我沒想算甲子。",
+          "He si7 loh, m7-ku2 goa2 boe7 siunn7 sng3 kah-chu2."
+        ],
+        [
+          "歟、汝是歲根沒曉算是否、如此無法度。",
+          "Honn7, lu2 si7 soe3-kun boe7 hiau2 sng3 si7 m7, an2-ni bo5 hoat-tou7."
+        ],
+        [
+          "汝的大兄、有娶妻無。",
+          "Lu2 e5 toa7 hiann, u7 chhoa7 bou2 bo5."
+        ],
+        [
+          "有子無。",
+          "U7 kiann2 bo5."
+        ],
+        [
+          "有二個查晡與一個查某囝仔。",
+          "U7 nng7 e5 cha-pou kap chit8 e5 cha-bou2 gin2-na2."
+        ],
+        [
+          "大的幾歲、第二的幾歲。",
+          "Toa7 e5 kui2 he3, te7-ji7 e5 kui2 he3."
+        ],
+        [
+          "大的八歲、第二的五歲、第三的是查某囝仔、舊年正月出世、尚未週歲。",
+          "Toa7 e5 poeh he3, te7-ji7 e5 gou7 he3, te7-sann e5 si7 cha-bou2 gin2-na2, ku7 ni5 chiann3 geh8 chhut-si3, iau2-boe7 tou7-che3."
+        ],
+        [
+          "汝的大姊有嫁夫抑無。",
+          "Lu2 e5 toa7-chi2 u7 ke3 ang a2 bo5."
+        ],
+        [
+          "有、嫁了生二個子。",
+          "U7, ke3 liau2 sinn nng7 e5 kiann2."
+        ],
+        [
+          "頂幫做頭返客、彼候在講、又更有身。",
+          "Teng2-pang choe3-thau5 tng2-kheh, hit chun7 teh kong2, iu7-koh u7 sin."
+        ],
+        [
+          "歟、何時即到順月。",
+          "Honn7, ti7-si5 chiah kau3 sun7 geh8."
+        ],
+        [
+          "彼我不知。",
+          "Hit goa2 m7 chai."
+        ],
+        [
+          "彼個是甚麼人的子。",
+          "Hit e5 si7 sim2-mih8 lang5 e5 kiann2."
+        ],
+        [
+          "彼個是我的叔伯大兄的子。",
+          "Hit e5 si7 goa2 e5 chek-peh toa7 hiann e5 kiann2."
+        ],
+        [
+          "伊的親生的子抑是乞的",
+          "I e5 chhin sinn e5 kiann2 a2 si7 khit e5"
+        ],
+        [
+          "伊自己無後生、與人分的。",
+          "I ka-ki7 bo5 au7 sinn, kap lang5 pun e5."
+        ],
+        [
+          "汝的父母尚在得無。",
+          "Lu2 e5 pe7-bu2 iau2 ti7--leh bo5."
+        ],
+        [
+          "老母尚在得、老父是已經過身無在得。",
+          "Lau7-bu2 iau2 ti7--leh, lau7-pe7 si7 i2-keng ke3 sin bo5 ti7--leh."
+        ],
+        [
+          "歟、汝的老父是何時過世。",
+          "Honn7, lu2 e5 lau7-pe7 si7 ti7-si5 ke3 se3."
+        ],
+        [
+          "我尚且細傼的時過身去、所以老父的面無甚能記得。",
+          "Goa2 iau2-ku2 soe3 han3 e5 si5 ke3 sin khi3, sou2-i2 lau7-pe7 e5 bin7 bo5 siann2 oe7 ki3-tit."
+        ],
+        [
+          "我的老父是我十三歲的時過身的、",
+          "Goa2 e5 lau7-pe7 si7 goa2 chap8 sann he3 e5 si5 ke3 sin e5,"
+        ],
+        [
+          "總是我能記得如此而已、尚甚麼年、甚麼月、甚麼日、彼我沒記得。",
+          "Chong2-si7 goa2 oe7 ki3-tit an2-ni nia7-nia7, iau2 sim2-mih8 ni5, sim2-mih8 geh8, sim2-mih8 jit8, he goa2 boe7 ki3-tit."
+        ],
+        [
+          "汝是今年幾歲。",
+          "Lu2 si7 kin-ni5 kui2 he3."
+        ],
+        [
+          "我今年二八歲嘮。",
+          "Goa2 kin-ni5 nng7 poeh he3 loh."
+        ],
+        [
+          "若如此、算一下就知影嗎。",
+          "Na7 an2-ni, sng3 chit8-e7 chiu7 chai-iann2 mah."
+        ],
+        [
+          "我攏沒曉算數。",
+          "Goa2 long2 boe7 hiau2 sng3 siau3."
+        ],
+        [
+          "盻、汝是真含慢、食到二八 歲亦攏沒曉算數是否。",
+          "He7, lu2 si7 chin ham5-ban7, chiah8 kau3 nng7 poeh he3 iah8 long2 boe7 hiau2 sng3 siau3 si7 m7."
+        ],
+        [
+          "我攏無讀書、青暝年、所以沒曉得。",
+          "Goa2 long2 bo5 thak8 chu, chhinn mi5 ni5, sou2-i2 boe7 hiau2 tit."
+        ],
+        [
+          "汝的老母有勇健無。",
+          "Lu2 e5 lau7-bu2 u7 iong2-kiann7 bo5."
+        ],
+        [
+          "有、幸哉真勇。",
+          "U7, kai-chai3 chin iong2."
+        ],
+        [
+          "我的老母已經年老、所以此幾年身命較弱。",
+          "Goa2 e5 lau7-bu2 i2-keng ni5 lau7, sou2-i2 chit kui2 ni5 sin mia7 khah jiok8."
+        ],
+        [
+          "阮老母是已經食老、目睭亦花、耳孔亦重、腳亦沒行、干乾食柺仔力、能行二三跨而已、又更此二三年續老倲戇、講話泛泛、聽沒來。",
+          "Goan2 lau7-bu2 si7 i2-keng chiah8 lau7, bak8-chiu iah8 hoe, hinn7-khang iah8 tang7, kha iah8 boe7 kiann5, kan-ta chiah8 koainn2-a2 lat8, oe7 kiann5 nng7 sann hoah8 nia7-nia7, iu7-koh chia nng7 sann ni5 soa3 lau7 tong3-gong7, kong2-oe7 hoan3-hoan3, thiann boe7 lai5."
+        ],
+        [
+          "所致、不時愛一個在照顧伊。",
+          "Sou2 ti3, put-si5 ai3 chit8 e5 teh chiau3-kou3 i."
+        ],
+        [
+          "歟、甚人在照顧。",
+          "Honn7, siann2 lang5 teh chiau3-kou3."
+        ],
+        [
+          "我的小妹在伊的身邊在服事。",
+          "Goa2 e5 sio2-boe7 ti7 i e5 sin-pinn teh hok8-sai7."
+        ],
+        [
+          "汝的小妹今年幾歲。",
+          "Lu2 e5 sio2-boe7 kin-ni5 kui2 he3."
+        ],
+        [
+          "今、今年十七歲。",
+          "Tann, kin-ni5 chap8-chhit he3."
+        ],
+        [
+          "歟、當少年的查某、不止感服。",
+          "Honn7, tioh8 siau3-lian5 e5 cha-bou2, put-chi2 kam2-hok8."
+        ],
+        [
+          "厝邊頭尾、各個在稱讚伊有孝。",
+          "Chhu3-pinn thau5 be2, tak8 e5 teh chheng-chan3 i iu2-hau3."
+        ],
+        [
+          "做人的子、應該著有孝父母。",
+          "Choe3-lang5 e5 kiann2, eng-kai tioh8 iu2-hau3 pe7-bu2."
+        ],
+        [
+          "汝的小妹要嫁抑否。",
+          "Lu2 e5 sio2-boe7 beh ke3 a2 boe7."
+        ],
+        [
+          "我的老母真愛伊、所以不甘給伊嫁。",
+          "Goa2 e5 lau7-bu2 chin ai3 i, sou2-i2 m7 kam hou7 i ke3."
+        ],
+        [
+          "不給伊嫁、要怎樣。",
+          "M7 hou7 i ke3, beh choann2-iunn7."
+        ],
+        [
+          "老母在講、要招子婿給伊。",
+          "Lau7-bu2 teh kong2, beh chio kiann2-sai3 hou7 i."
+        ],
+        [
+          "要招甚麼人、有定著無。",
+          "Beh chio sim2-mih8 lang5, u7 tiann7-tioh8 bo5."
+        ],
+        [
+          "敢尚未定著。",
+          "Kann2 iau2-boe7 tiann7-tioh8."
+        ],
+        [
+          "若尚未定著、我與伊做媒人好否。",
+          "Na7 iau2-boe7 tiann7-tioh8, goa2 ka7 i choe3 mui5-lang5 ho2 m7."
+        ],
+        [
+          "伊的事情、攏我的老母在主意、我攏沒主得意。",
+          "I e5 tai7-chi3, long2 goa2 e5 lau7-bu2 teh chu2-i3, goa2 long2 boe7 Chu2 tek-i3."
+        ],
+        [
+          "汝有妻子無。",
+          "Lu2 u7 bou2-kiann2 bo5."
+        ],
+        [
+          "我尚未有。",
+          "Goa2 iau2-boe7 u7."
+        ],
+        [
+          "汝是尚未娶妻是否。",
+          "Lu2 si7 iau2-boe7 chhoa7 bou2 si7 m3."
+        ],
+        [
+          "尚未。",
+          "Iau2-boe7."
+        ],
+        [
+          "汝若要娶妻、著不可娶二分親、著娶在室女即好。",
+          "Lu2 na7 beh chhoa7 bou2, tioh8 m7-thang chhoa7 nng7 pun chhin, tioh8 chhoa7 chai7-sek-lu2 chiah ho2."
+        ],
+        [
+          "彼著咯、不拘阮臺灣人娶妻是無親像您內地人彼快。",
+          "Hit tioh8 loh, m7-ku2 goan2 Tai5-oan5 lang5 chhoa7 bou2 si7 bo5 chhin chhiunn7 lin2 loe7-te7 lang5 hiah khoai3."
+        ],
+        [
+          "阮本地人要娶妻著錢汝知否。",
+          "Goan2 pun2 toe7 lang5 beh chhoa7 bou2 tioh8 chinn5 lu2 chai m7."
+        ],
+        [
+          "聽人講、您內地人娶妻是攏免錢有影無。",
+          "Thiann lang5 kong2, lin2 loe7-te7 lang5 chhoa7 bou2 si7 long2 bian2 chinn5 u7 iann2 bo5."
+        ],
+        [
+          "不是如此講、猶原是愛、不過無親像您本地人、",
+          "M7 si7 an2-ni kong2, iu5-goan5 si7 ai3, put-ko3 bo5 chhin chhiunn7 lin2 pun2 toe7 lang5,"
+        ],
+        [
+          "錢是較要緊的物而已。",
+          "Chinn5 si7 khah iau3-kin2 e5 mih8 nia7-nia7."
+        ],
+        [
+          "要娶妻的時、男家此旁先送去女家聘金與禮物。",
+          "Beh chhoa7 bou2 e5 si5, lam5-ka chit peng5 seng sang3 khi3 lu2-ka pheng3-kim kap le2-mih8."
+        ],
+        [
+          "尚女家彼旁亦送少些物來男家。",
+          "Iau2 lu2-ka hit peng5 iah8 sang3 sio2-khoa2 mih8 lai5 lam5-ka."
+        ],
+        [
+          "彼個聘金與禮物是在人的意思、不是講一定著愛若多。",
+          "Hit e5 pheng3-kim kap le2-mih8 si7 chai7 lang5 e5 i3-su3, m7 si7 kong2 it-teng7 tioh8-ai3 joa7 choe7."
+        ],
+        [
+          "尚結婚的事情、另日即來講。",
+          "Iau2 kiat-hun e5 tai7-chi3, leng7 jit8 chiah lai5 kong2."
+        ],
+        [
+          "賢早。",
+          "Gau5 cha2."
+        ],
+        [
+          "汝真賢早。",
+          "Lu2 chin gau5 cha2."
+        ],
+        [
+          "汝彼賢早。",
+          "Lu2 hiah gau5 cha2."
+        ],
+        [
+          "汝何彼賢早。",
+          "Lu2 na2 hiah gau5 cha2."
+        ],
+        [
+          "汝食飽未。",
+          "Lu2 chiah8 pa2 be7."
+        ],
+        [
+          "汝食未。",
+          "Lu2 chiah8 be7."
+        ],
+        [
+          "食飽了。",
+          "Chiah8 pa2 lah."
+        ],
+        [
+          "食咯、汝食未。",
+          "Chiah8 loh, lu2 chiah8 be7."
+        ],
+        [
+          "我食飽了、汝食尚未。",
+          "Goa2 chiah8 pa2 lah, lu2 chiah8 iau2-boe7."
+        ],
+        [
+          "我亦食飽了。",
+          "Goa2 iah8 chiah8 pa2 lah."
+        ],
+        [
+          "此呢早、汝是要去何位。",
+          "Chiah-nih8 cha2, lu2 si7 beh khi3 to2-ui7."
+        ],
+        [
+          "此早、汝要何去。",
+          "Chia cha2, lu2 beh to2 khi3."
+        ],
+        [
+          "無啊、不是要去何位、干乾在罔行而已、汝是要何去。",
+          "Bo5 ah, m7 si7 beh khi3 to2-ui7, kan-ta teh bong2 kiann5 nia7-nia7, lu2 si7 beh to2 khi3."
+        ],
+        [
+          "我亦是如此、在罔行而已。",
+          "Goa2 iah8 si7 an2-ni, teh bong2 kiann5 nia7-nia7."
+        ],
+        [
+          "若是如此、與我做陣來去四界行行好否。",
+          "Na7 si7 an2-ni, kap goa2 choe3 tin7 lai5 khi3 si3-koe3 kiann5 kiann5 ho2 m7."
+        ],
+        [
+          "好啊不好、大家做陣、有伴真好。",
+          "Ho2 ah m7 ho2, tai7-ke choe3 tin7, u7 phoann7 chin ho2."
+        ],
+        [
+          "我是各早起、行徙差不多一點鐘久、即返來食飯。",
+          "Goa2 si7 tak8 cha2-khi2, kiann5-soa2 chha-put-to chit8 tiam2-cheng ku2, chiah tng2 lai5 chiah8 png7."
+        ],
+        [
+          "如此不止好。",
+          "An2-ni put-chi2 ho2."
+        ],
+        [
+          "汝打算要去到何位即要返來。",
+          "Lu2 phah sng3 beh khi3 kau3 to2-ui7 chiah beh tng2 lai5."
+        ],
+        [
+          "儘採。",
+          "Chhin3-chhai2."
+        ],
+        [
+          "如此就、去到公園即返來好否。",
+          "An2-ni chiu7, khi3 kau3 kong-hng5 chiah tng2 lai5 ho2 m7."
+        ],
+        [
+          "好、如此好嘮。",
+          "Ho2, an2-ni ho2 loh."
+        ],
+        [
+          "汝此久有閑抑無。",
+          "Lu2 chit ku2 u7 eng5 a2 bo5."
+        ],
+        [
+          "有、此久攏無事情、閑閑不時在迌。",
+          "U7, chit ku2 long2 bo5 tai7-chi3, eng5 eng5 put-si5 teh chhit-tho5."
+        ],
+        [
+          "如此真好、我是不時無閑真艱苦。",
+          "An2-ni chin ho2, goa2 si7 put-si5 bo5 eng5 chin kan-khou2."
+        ],
+        [
+          "無閑較好、較有可趁錢。",
+          "Bo5 eng5 khah ho2, khah u7 thang than3 chinn5."
+        ],
+        [
+          "無啊、無甚趁錢。",
+          "Bo5 ah, bo5 siann2 than3 chinn5."
+        ],
+        [
+          "親像我愛無閑亦無工課可做、閑仙仙、真不好。",
+          "Chhin chhiunn7 goa2 ai3 bo5 eng5 iah8 bo5 khang-khe3 thang choe3, eng5 sian-sian, chin m7 ho2."
+        ],
+        [
+          "不是如此講、像汝好額人是免做工課亦有可食、不拘像我貧窮人事若無著勞就續無可食。",
+          "M7 si7 an2-ni kong2, chhiunn7 lu2 ho2-giah8 lang5 si7 bian2 choe3 khang-khe3 iah8 u7 thang chiah8, m7-ku2 chhiunn7 goa2 song3-hiong lang5 su7 na7 bo5 tioh8 boa5 chiu7 soa3 m7-thang chiah8."
+        ],
+        [
+          "像汝有錢人是真清閑、攏免煩惱食穿。",
+          "Chhiunn7 lu2 u7 chinn5 lang5 si7 chin chheng eng5, long2 bian2 hoan5-lo2 chiah8-chheng7."
+        ],
+        [
+          "後禮拜日、汝若有閑、與我做陣來去圓山迌好否。",
+          "Au7 le2-pai3-jit8, lu2 na7 u7 eng5, kap goa2 choe3 tin7 lai5 khi3 Inn5-soann chhit-tho5 ho2 m7."
+        ],
+        [
+          "好、汝若要去、我與汝做陣來去。",
+          "Ho2, lu2 na7 beh khi3, goa2 kap lu2 choe3 tin7 lai5 khi3."
+        ],
+        [
+          "汝是要行路、抑是要坐車去。",
+          "Lu2 si7 beh kiann5-lou7, a2 si7 beh che7 chhia khi3."
+        ],
+        [
+          "儘採、汝若要行路、我亦要行路。",
+          "Chhin3-chhai2, lu2 na7 beh kiann5-lou7, goa2 iah8 beh kiann5-lou7."
+        ],
+        [
+          "此去到圓山、不知若久即能到位。",
+          "Chia khi3 kau3 Inn5-soann, m7 chai joa7 ku2 chiah oe7 kau3 ui7."
+        ],
+        [
+          "行路去的時候、差不多愛一點鐘久、若是坐車去的時候、免半點鐘久就能到位。",
+          "Kiann5-lou7 khi3 e5 si5-chun7, chha-put-to ai3 chit8 tiam2-cheng ku2. Na7 si7 che7 chhia khi3 e5 si5-chun7, bian2 poann3 tiam2-cheng ku2 chiu7 oe7 kau3 ui7."
+        ],
+        [
+          "做火車去第一緊、免若久、一絲仔久就能到位。",
+          "Choe3 he2-chhia khi3 te7-it kin2, bian2 joa7 ku2, chit8-si-a2 ku2 chiu7 oe7 kau3 ui7."
+        ],
+        [
+          "對臺北到圓山的火車錢、不知幾個錢。",
+          "Tui3 Tai5-pak kau3 Inn5-soann e5 he2-chhia chinn5, m7 chai kui2 e5 chinn5."
+        ],
+        [
+          "我無甚能記得、敢是六錢抑是七錢而已。",
+          "Goa2 bo5 siann2 oe7 ki3-tit, kann2 si7 lak8 chinn5 a2 si7 chhit chinn5 nia7-nia7."
+        ],
+        [
+          "聽人講、對台北到圓山、有往囘單有影無。",
+          "Thiann lang5 kong2, tui3 Tai5-pak kau3 Inn5-soann, u7 ong2-hoe5 toann u7 iann2 bo5."
+        ],
+        [
+          "我不知、問車頭的人即知。",
+          "Goa2 m7 chai, mng7 chhia thau5 e5 lang5 chiah chai."
+        ],
+        [
+          "若有就、比搭車畷有較賤。",
+          "Na7 u7 chiu7, pi2 tah chhia-choa7 u7 khah siok8."
+        ],
+        [
+          "起去行路、要返來的時、若是付火車就搭火車、",
+          "Khi2 khi3 kiann5-lou7, beh tng2 lai5 e5 si5. Na7 si7 hu3 he2-chhia chiu7 tah he2-chhia,"
+        ],
+        [
+          "若是付沒著即坐手車返來好否。",
+          "Na7 si7 hu3 boe7 tioh8 chiah che7 chhiu2 chhia tng2 lai5 ho2 m7."
+        ],
+        [
+          "好、如此好嘮。",
+          "Ho2, an2-ni ho2 loh."
+        ],
+        [
+          "彼日若是落雨要怎樣。",
+          "Hit jit8 na7 si7 loh8-hou7 beh choann2-iunn7."
+        ],
+        [
+          "若是落雨就無去、好天即要去。",
+          "Na7 si7 loh8-hou7 chiu7 bo5 khi3, ho2 thinn chiah beh khi3."
+        ],
+        [
+          "要去的時、在何位要相等。",
+          "Beh khi3 e5 si5, ti7 to2-ui7 beh sio-tan2."
+        ],
+        [
+          "各個在東門城門口相等好否。",
+          "Tak8 e5 ti7 tang mng5 siann5-mng5-khau2 sio-tan2 ho2 m7."
+        ],
+        [
+          "好、如此好嘮。",
+          "Ho2, an2-ni ho2 loh."
+        ],
+        [
+          "幾點鐘要起行。",
+          "Kui2 tiam2-cheng beh khi2 kiann5."
+        ],
+        [
+          "此久的天氣尚且熱、較早去較秋凊。",
+          "Chit ku2 e5 thinn khi3 iau2-ku2 joah8, khah cha2 khi3 khah chhiu-chhin3."
+        ],
+        [
+          "天氣尚且熱、所以若較晏去的時候、行路較艱苦。",
+          "Thinn khi3 iau2-ku2 joah8, sou2-i2 na7 khah oann3 khi3 e5 si5-chun7, kiann5-lou7 khah kan-khou2."
+        ],
+        [
+          "此久幾點鐘即天能光。",
+          "Chit ku2 kui2 tiam2-cheng chiah thinn oe7 kng."
+        ],
+        [
+          "此久是日短夜長、所以五點外即天能光。",
+          "Chit ku2 si7 jit8 te2 ia7 tng5, sou2-i2 gou7 tiam2 goa7 chiah thinn oe7 kng."
+        ],
+        [
+          "如此就、大家五點鐘起來食飯、栓腳手栓好勢即要起行。",
+          "An2-ni chiu7, tai7-ke gou7 tiam2-cheng khi2 lai5 chiah8 png7, sng kha-chhiu2 sng ho2-se3 chiah beh khi2 kiann5."
+        ],
+        [
+          "若如此、大約幾點鐘即能起行。",
+          "Na7 an2-ni, tai7-iok kui2 tiam2-cheng chiah oe7 khi2 kiann5."
+        ],
+        [
+          "緩且是、我算覔得、五點鐘起來、洗面與食飯、按算一點鐘久、栓腳手是免二十分久就做能來。",
+          "Ban7-chhiann2 si7, goa2 sng3 bai7 leh, gou7 tiam2-cheng khi2 lai5, soe2 bin7 kap chiah8 png7, hoann7 sng3 chit8 tiam2-cheng ku2, sng kha-chhiu2 si7 bian2 nng7 chap8-hun ku2 chiu7 choe3 oe7 lai5."
+        ],
+        [
+          "如此算起來的時候、六點半鐘就能起行嗬。",
+          "An2-ni sng3 khi2 lai5 e5 si5-chun7, lak8 tiam2 poann3 cheng chiu7 oe7 khi2 kiann5 honnh."
+        ],
+        [
+          "若如此、六點半得確到彼處等候汝。",
+          "Na7 an2-ni, lak8 tiam2 poann3 tek-khak kau3 hit te3 theng3-hau7 lu2."
+        ],
+        [
+          "我沒記得問、下午的飯是要怎樣。",
+          "Goa2 boe7 ki3-tit mng7, e7-tau3 e5 png7 si7 beh choann2-iunn7."
+        ],
+        [
+          "我想携飯包去亦好、不拘早起時較早的事情、",
+          "Goa2 siunn7 koann7 png7-pau khi3 iah8 ho2, m7-ku2 cha2-khi2 si5 khah cha2 e5 tai7-chi3,"
+        ],
+        [
+          "創飯包亦較費氣、所以買一塊麵包去、抑是買一枝醋飯箍來去較利便、汝想怎樣。",
+          "Chhong3 png7-pau iah8 khah hui3-khi3, sou2-i2 boe2 chit8 te3 mi7 pau khi3, a2 si7 boe2 chit8 ki chhou3-png7 khou lai5 khi3 khah li7-pian7, lu2 siunn7 choann2-iunn7."
+        ],
+        [
+          "我亦有在想如此。",
+          "Goa2 iah8 u7 teh siunn7 an2-ni."
+        ],
+        [
+          "尚汝是要穿草鞋去抑是怎樣。",
+          "Iau2 lu2 si7 beh chheng7 chhau2 oe5 khi3 a2 si7 choann2-iunn7."
+        ],
+        [
+          "我有一双不止合腳的鞋、所以想要穿彼双去。",
+          "Goa2 u7 chit8 siang put-chi2 hap8 kha e5 oe5, sou2-i2 siunn7 beh chheng7 hit siang khi3."
+        ],
+        [
+          "圓山的路是路亦濶、亦平平、好行好行、所以穿草履仔鞋去、抑是穿柴屐去、儘採攏能用得。",
+          "Inn5-soann e5 lou7 si7 lou7 iah8 khoah, iah8 peng5-peng5, ho2 kiann5 ho2 kiann5, sou2-i2 chheng7 chhau2-ni2-a2 oe5 khi3, a2 si7 chheng7 chha5-kiah8 khi3, chhin3-chhai2 long2 oe7 eng7 tit."
+        ],
+        [
+          "若如此、我是穿靴來去。",
+          "Na7 an2-ni, goa2 si7 chheng7 hia lai5 khi3."
+        ],
+        [
+          "唉、明仔早起與人做陣、要去圓山迌、所以汝著較早起來煮飯。",
+          "Oe2, beng5 a2 cha2-khi2 kap lang5 choe3 tin7, beh khi3 Inn5-soann chhit-tho5, sou2-i2 lu2 tioh8 khah cha2-khi2 lai5 chu2 png7."
+        ],
+        [
+          "好、較早就是差不多幾點鐘、起來即好。",
+          "Ho2, khah cha2 chiu7 si7 chha-put-to kui2 tiam2-cheng, khi2 lai5 chiah ho2."
+        ],
+        [
+          "六點鐘就愛要出門、所以汝是上晏亦著四點鐘起來、頭一下就焚滾水、滾水若滾著叫我精神。",
+          "Lak8 tiam2-cheng chiu7 ai3 beh chhut-mng5, sou2-i2 lu2 si7 chiunn7 oann3 iah8 tioh8 si3 tiam2-cheng khi2 lai5, thau5 chit8-e7 chiu7 hiann5 kun2-chui2, kun2-chui2 na7 kun2 tioh8 kio3 goa2 cheng-sin5."
+        ],
+        [
+          "尚、米是下昏汰便便置得、豆醬亦著擂便較好。",
+          "Iau2, bi2 si7 e5-hng thoa7 pian7-pian7 he7 teh, tau7-chiunn3 iah8 tioh8 lui5 pian7 khah ho2."
+        ],
+        [
+          "好、總是早時傷早、驚賣豆腐的未來、豆醬湯是要參甚貨仔煮。",
+          "Ho2, chong2-si7 cha2 si5 siong cha2, kiann boe7 tau7-hu7 e5 bi7-lai5, tau7-chiunn3 thng si7 beh chham siann2-he3-a2 chu2."
+        ],
+        [
+          "買便的菜、有甚麼菜。",
+          "Boe2 pian7 e5 chhai3, u7 sim2-mih8 chhai3."
+        ],
+        [
+          "茄與葱仔、菜頭亦敢有一二條。",
+          "Kio5 kap chhang-a2, chhai3 thau5 iah8 kann2 u7 chit8 nng7 tiau5."
+        ],
+        [
+          "若如此、參些葱仔落去煮。",
+          "Na7 an2-ni, chham koa2 chhang-a2 loh8 khi3 chu2."
+        ],
+        [
+          "好、尚著創飯包抑免。",
+          "Ho2, ia7 tioh8 chhong3 png7-pau a2 bian2."
+        ],
+        [
+          "免咯、汝去買一枝醋飯箍來。",
+          "Bian2 loh, lu2 khi3 boe2 chit8 ki chhou3-png7 khou lai5."
+        ],
+        [
+          "買若無、要怎樣。",
+          "Boe2 na7 bo5, beh choann2-iunn7."
+        ],
+        [
+          "買若無、著吩咐做抑免。",
+          "Boe2 na7 bo5, tioh8 hoan-hu3 choe3 a2 bian2."
+        ],
+        [
+          "若無做便的、著吩咐做。",
+          "Na7 bo5 choe3 pian7 e5, tioh8 hoan-hu3 choe3."
+        ],
+        [
+          "免咯、若無的時候、買一塊麵包來就好。",
+          "Bian2 loh, na7 bo5 e5 si5-chun7, boe2 chit8 te3 mi7 pau lai5 chiu7 ho2."
+        ],
+        [
+          "好、麵包亦無的時節、要怎樣。",
+          "Ho2, mi7 pau iah8 bo5 e5 si5-choeh, beh choann2-iunn7."
+        ],
+        [
+          "麵包是得確有、免驚無。",
+          "Mi7 pau si7 tek-khak u7, bian2 kiann bo5."
+        ],
+        [
+          "歟如此、我即來去買。",
+          "Honn7 an2-ni, goa2 chiah lai5 khi3 boe2."
+        ],
+        [
+          "著緊返來、不可沿路迌。",
+          "Tioh8 kin2 tng2 lai5, m7-thang ian5-lou7 chhit-tho5."
+        ],
+        [
+          "好、隨時返來。",
+          "Ho2, sui5 si5 tng2 lai5."
+        ],
+        [
+          "嚄、汝是彼賢早、汝來若久。",
+          "Hoa7, lu2 si7 hiah gau5 cha2, lu2 lai5 joa7 ku2."
+        ],
+        [
+          "無啊、我亦適即到位而已。",
+          "Bo5 ah, goa2 iah8 tu2 chiah kau3 ui7 nia7-nia7."
+        ],
+        [
+          "歟如此、今著來去。",
+          "Honn7 an2-ni, tann tioh8 lai5 khi3."
+        ],
+        [
+          "好、來去。",
+          "Ho2, lai5 khi3."
+        ],
+        [
+          "盻、今仔日的天是順順、真好迌嗬。",
+          "He7, kin-a2-jit8 e5 thinn si7 sun7 sun7, chin ho2 chhit-tho5 honnh."
+        ],
+        [
+          "是、常時此條路、好天的時、",
+          "Si7, siong5 si5 chit tiau5 lou7, ho2 thinn e5 si5,"
+        ],
+        [
+          "土粉揚到攏沒行得、不拘真好幸哉、昨昏下晡落西北雨、是、真適好。",
+          "Thou5-hun2 eng kah long2 boe7 kiann5 tit, m7-ku2 chin ho2 kai-chai3, cha-hng e7-pou loh8 sai-pak-hou7, si7, chin tu2-ho2."
+        ],
+        [
+          "汝看得、美到、稻仔攏出穗了。",
+          "Lu2 khoann3 leh, sui2 kah, tiu7 a2 long2 chhut-sui7 lah."
+        ],
+        [
+          "有影、真美、若無風颱來就此冬是不止好年冬嗬。",
+          "U7 iann2, chin sui2, na7 bo5 hong-thai lai5 chiu7 chit tang si7 put-chi2 ho2-ni5-tang honnh."
+        ],
+        [
+          "是、此位仔是水較有充足、所以即此呢好、不拘倚山的所在是較無水可淹田、所以即稻仔攏焦去、無可收成。",
+          "Si7, chit ui7-a2 si7 chui2 khah u7 chhiong-chiok, sou2-i2 chiah chiah-nih8 ho2, m7-ku2 oa2 soann e5 sou2-chai7 si7 khah bo5 chui2 thang im chhan5, sou2-i2 chiah tiu7 a2 long2 ta khi3, m7-thang siu-seng5."
+        ],
+        [
+          "如此就、扯縜來講、今年算是好年冬、抑是歹年冬。",
+          "An2-ni chiu7, chhe2-un5 lai5 kong2, kin-ni5 sng3 si7 ho2-ni5-tang, a2 si7 phainn2 ni5 tang."
+        ],
+        [
+          "我亦無甚知、聽老大人在講、平一般樣來講的時候、比往  年敢能欠收二分。",
+          "Goa2 iah8 bo5 siann2 chai, thiann lau7-toa7-lang5 teh kong2, pinn5 chit8-poann-iunn7 lai5 kong2 e5 si5-chun7, pi2 ong2-ni5 kann2 oe7 khiam3 siu nng7 hun."
+        ],
+        [
+          "若如此、作穡人敢能艱苦嗬。",
+          "Na7 an2-ni, choh-sit lang5 kann2 oe7 kan-khou2 honnh."
+        ],
+        [
+          "是、不但作田人艱苦而已、年冬若歹、就能碍著生理、世景亦續歹。",
+          "Si7, m7-na7 choh-chhan5 lang5 kan-khou2 nia7-nia7, ni5 tang na7 phainn2, chiu7 oe7 gai7 tioh8 seng-li2, se3-keng2 iah8 soa3 phainn2."
+        ],
+        [
+          "實在有影、不拘今年是干乾欠收二分而已、敢無甚碍著。",
+          "Sit8-chai7 u7 iann2, m7-ku2 kin-ni5 si7 kan-ta khiam3 siu nng7 pun nia7-nia7, kann2 bo5 siann2 gai7 tioh8."
+        ],
+        [
+          "敢是無甚要緊、講今年是茶真好價、",
+          "Kann2 si7 bo5 siann2 iau3-kin2, kong2 kin-ni5 si7 te5 chin ho2 ke3,"
+        ],
+        [
+          "又更真好出息、所以敢補能轉此久的歹生理面。",
+          "Iu7-koh chin ho2 chhut soah, sou2-i2 kann2 pou2 oe7 choan2 chit ku2 e5 phainn2 seng-li2 bin7."
+        ],
+        [
+          "唉、山川兄、真不是式、做歸陣的水牛、對彼來、要怎樣。",
+          "Oe2, San-chhoan hiann, chin m7 si7 sit, choe3 kui tin7 e5 chui2-gu5, tui3 hia lai5, beh choann2-iunn7."
+        ],
+        [
+          "在何、我無看。",
+          "Ti7 to2, goa2 bo5 khoann3."
+        ],
+        [
+          "彼有影、汝是二十兩。",
+          "Hia u7 iann2, lu2 si7 ji7-chap8 niu2."
+        ],
+        [
+          "二十兩是怎樣、我的身軀重是否、我若瘦抽到怎樣、亦是不但二十兩重、",
+          "Ji7-chap8 niu2 si7 choann2-iunn7, goa2 e5 seng-khu tang7 si7 m7, goa2 na7 san2-thiu kah choann2-iunn7, iah8 si7 m7-na7 ji7-chap8 niu2 tang7,"
+        ],
+        [
+          "適出世的嬰仔亦有二十外兩。",
+          "Tu2 chhut-si3 e5 enn-a2 iah8 u7 ji7-chap8 goa7 nng7."
+        ],
+        [
+          "盻、汝的傖獃亦呆到恨去、二十兩的意思亦不知是否、我講汝聽、二十兩就是斤四(近視)嗎。",
+          "He7, lu2 e5 song5-tai iah8 tai kah hin7--khi3, ji7-chap8 nng7 e5 i3-su3 iah8 m7 chai si7 m7, goa2 kong2 lu2 thiann, ji7-chap8 nng7 chiu7 si7 kun si3 ( kun7-si7 ) mah."
+        ],
+        [
+          "盻、汝是真賢講三關兩意的話、我沒曉得聽。",
+          "He7, lu2 si7 chin gau5 kong2 sam-koan liong2-i3 e5 oe7, goa2 boe7 hiau2 tit thiann."
+        ],
+        [
+          "彼是彼、水牛何去。",
+          "He si7 he, chui2-gu5 to2 khi3."
+        ],
+        [
+          "直直倚來。",
+          "Tit8-tit8 oa2 lai5."
+        ],
+        [
+          "如此啊、今害咯、要怎樣、看牛的無在彼是否。",
+          "An2-ni ah, tann hai7 loh, beh choann2-iunn7, khoann3 gu5 e5 bo5 ti7 hia si7 m7."
+        ],
+        [
+          "彼個囝仔敢是、在水牛邊、手夯一枝牛笏仔。",
+          "Hit e5 gin2-na2 kann2 si7, ti7 chui2-gu5 pinn, chhiu2 gia5 chit8 ki gu5 hut-a2."
+        ],
+        [
+          "汝免驚到如此、咱此旁若無幹、水牛亦無幹人汝知否。",
+          "Lu2 bian2 kiann kah an2-ni, lan2 chit peng5 na7 bo5 kan3, chui2-gu5 iah8 bo5 kan3 lang5 lu2 chai m7."
+        ],
+        [
+          "我真驚水牛、續沒出聲、汝與我喝一下、叫伊著牽邊仔去。",
+          "Goa2 chin kiann chui2-gu5, soa3 boe7 chhut-siann, lu2 kap goa2 hoah chit8-e7, kio3 i tioh8 khan pinn a2 khi3."
+        ],
+        [
+          "盻、汝是真無膽、水牛是顛倒驚咱汝知否。",
+          "He7, lu2 si7 chin bo5 tann2, chui2-gu5 si7 tian-to3 kiann lan2 lu2 chai m7."
+        ],
+        [
+          "彼就不知、或者若是被伊觸死的時候、要怎樣。",
+          "Hit chiu7 m7 chai, hiat8-chia2 na7 si7 hou7 i tak si2 e5 si5-chun7, beh choann2-iunn7."
+        ],
+        [
+          "汝若驚到如此、我即與汝喝、唉、看牛的、牛著牽邊仔去。",
+          "Lu2 na7 kiann kah an2-ni, goa2 chiah kap lu2 hoah, oe2, khoann3 gu5 e5, gu5 tioh8 khan pinn a2 khi3."
+        ],
+        [
+          "大人免驚、做汝來、我在得、沒使得、伊驚到要死。",
+          "Toa7-lang5 bian2 kiann, choe3 lu2 lai5, goa2 ti7--leh, boe7-sai2 tit, i kiann kah beh si2."
+        ],
+        [
+          "無要緊、無要緊。",
+          "Bo5 iau3-kin2, bo5 iau3-kin2."
+        ],
+        [
+          "唉、要怎樣、伊是講如此、無牽走。",
+          "Oe2, beh choann2-iunn7, i si7 kong2 an2-ni, bo5 khan chau2."
+        ],
+        [
+          "若如此、咱大家橫過此草埔、對彼條小路來去。",
+          "Na7 an2-ni, lan2 tai7-ke hoainn5 ke3 chia chhau2-pou, tui3 hit tiau5 sio2 lou7 lai5 khi3."
+        ],
+        [
+          "好、如此較好。",
+          "Ho2, an2-ni khah ho2."
+        ],
+        [
+          "汝看得、在彼處、五六個囝仔、不止高興的欵、唱歌在刈草、in在念甚麼歌、汝聽有無。",
+          "Lu2 khoann3 leh, ti7 hit te3, gou7 lak8 e5 gin2-na2, put-chi2 kau-heng3 e5 khoan2, chhiunn3-koa teh koah-chhau2, in teh liam7 sim2-mih8 koa, lu2 thiann u7 bo5."
+        ],
+        [
+          "離真遠、零零碎碎能聽而已、話聽無透站、所以掠無鬃。",
+          "Li7 chin hng7, leng5-leng5-chhui3-chhui3 oe7 thiann nia7-nia7, oe7 thiann bo5 thau3 tiam3, sou2-i2 liah8 bo5 chang2."
+        ],
+        [
+          "歟、我是不止欣慕的境遇、咱不時俗事纏身無閑按按、",
+          "Honn7, goa2 si7 put-chi2 him-bou7 in e5 keng2-gu7, lan2 put-si5 siok8-su7 tinn5 sin bo5 eng5 chhih-chhih,"
+        ],
+        [
+          "不止無景。",
+          "Put-chi2 bo5 keng2."
+        ],
+        [
+          "唉、像汝彼呢迅速行、我隨沒著、較聊仔是咧。",
+          "Oe2, chhiunn7 lu2 hiah-nih8 si7-soa7 kiann5, goa2 sui5 boe7 tioh8, khah liau5-a2 si7 leh."
+        ],
+        [
+          "不是我大步行的、是汝是看囝仔在刈草看到神去、腳步攏無進前、即如此的。",
+          "M7 si7 goa2 toa7 pou7-heng5 e5, si7 lu2 si7 khoann3 gin2-na2 teh koah chhau2 khoann3 kah sin5 khi3, kha-pou7 long2 bo5 chin3-cheng5, chiah an2-ni e5."
+        ],
+        [
+          "彼有影、我是不止欣羨的境遇、續看到戇去。",
+          "Hia u7 iann2, goa2 si7 put-chi2 him-soan7 in e5 keng2-gu7, soa3 khoann3 kah gong7 khi3."
+        ],
+        [
+          "我略仔倦、歇一霎仔久好否、好、要何歇。",
+          "Goa2 lioh8-a2 sian7, hioh chit8-tiap8-a2-ku2 ho2 m7, ho2, beh siann2 hioh."
+        ],
+        [
+          "坐此處草仔頂歇好否。",
+          "Che7 chit te3 chhau2 a2 teng2 hioh ho2 m7."
+        ],
+        [
+          "此處不好、較濕澹、寧可來去彼欉相思樹腳歇較好。",
+          "Chit te3 m7 ho2, khah sip-tam5, leng5-kho2 lai5 khi3 hit chang5 siunn-si chhiu7 kha hioh khah ho2."
+        ],
+        [
+          "好、如此好嘮。",
+          "Ho2, an2-ni ho2 loh."
+        ],
+        [
+          "嚄、此處真秋凊、不止涼暢、續不愛返去。",
+          "Hoa7, chit te3 chin chhiu-chhin3, put-chi2 liong7-than3, soa3 m7 ai3 tng2 khi3."
+        ],
+        [
+          "我是流汗流到下底衫續澹去。",
+          "Goa2 si7 lau5 koann7 lau5 kau3 e7-te2 sann soa3 tam5 khi3."
+        ],
+        [
+          "若如此、鈕仔脫起來、給伊吹風就連鞭乾去。",
+          "Na7 an2-ni, liu2-a2 thoat khi2 lai5, hou7 i chhoe hong chiu7 liam5-pinn ta khi3."
+        ],
+        [
+          "彼有影、吓、不如脫起來較好。",
+          "Hia u7 iann2, heh, m7 na7 thoat khi2 lai5 khah ho2."
+        ],
+        [
+          "唉、衫不可如此擲在土腳、著掛彼個樹枝、此螻蟻真多汝知否。",
+          "Oe2, sann m7-thang an2-ni hiat ti7 thou5-kha, tioh8 koa3 hit e5 chhiu7-ki, chia kau2-hia7 chin choe7 lu2 chai m7."
+        ],
+        [
+          "勞力、汝是真賢照應的人嗬。",
+          "Boa5 lat8, lu2 si7 chin gau5 chiau3-eng3 e5 lang5 honnh."
+        ],
+        [
+          "啊喲、倦到。",
+          "A5-ioh, sian7 kah."
+        ],
+        [
+          "汝是倦到如此是否。",
+          "Lu2 si7 sian7 kah an2-ni si7 m7."
+        ],
+        [
+          "我倦到續不愛震動。",
+          "Goa2 sian7 kah soa3 m7 ai3 tin2-tang7."
+        ],
+        [
+          "歟、我亦被汝度著續倦、大家倒得一絲仔久、即倒返來去。",
+          "Honn7, goa2 iah8 hou7 lu2 thoa7 tioh8 soa3 sian7, tai7-ke to3 teh chit8-si-a2 ku2, chiah to3 tng2 lai5 khi3."
+        ],
+        [
+          "此候不知幾點、汝有帶時錶來無。",
+          "Chit chun7 m7 chai kui2 tiam2, lu2 u7 toa3 si5-pio2 lai5 bo5."
+        ],
+        [
+          "無、我沒記得帶來、總是日在要落山、敢是五點外嘮。",
+          "Bo5, goa2 boe7 ki3-tit toa3 lai5, chong2-si7 jit8 teh beh loh8 soann, kann2 si7 gou7 tiam2 goa7 loh."
+        ],
+        [
+          "今仔日舊曆的甚麼日。",
+          "Kin-a2-jit8 ku7-lek8 e5 sim2-mih8 jit8."
+        ],
+        [
+          "敢是二度、汝是怎樣問我彼號事情。",
+          "Kann2 si7 nng7 tou7, lu2 si7 choann2-iunn7 mng7 goa2 hit ho7 tai7-chi3."
+        ],
+        [
+          "如此就、下昏暗是月暗夜、若是月光夜就聊仔是亦無要緊、",
+          "An2-ni chiu7, e5-hng am3 si7 geh8 am3 ia7. Na7 si7 geh8 kng ia7 chiu7 liau5-a2 si7 iah8 bo5 iau3-kin2,"
+        ],
+        [
+          "不拘月暗夜就沒寬寬是、今著返來去。",
+          "M7-ku2 geh8 am3 ia7 chiu7 boe7 khoann-khoann-si7, tann tioh8 tng2 lai5 khi3."
+        ],
+        [
+          "緩且、我要穿衫。",
+          "Ban7-chhiann2, goa2 beh chheng7 sann."
+        ],
+        [
+          "免彼趕、我要扭鈕仔。",
+          "Bian2 hiah koann2, goa2 beh liu2 liu2-a2."
+        ],
+        [
+          "著較緊得。",
+          "Tioh8 khah kin2 leh."
+        ],
+        [
+          "要返去著對何一條路來去較近。",
+          "Beh tng2 khi3 tioh8 tui3 siann2 chit8 tiau5 lou7 lai5 khi3 khah kun7."
+        ],
+        [
+          "對彼個樹林穿過去、彼是第一近。",
+          "Tui3 hit e5 chhiu7-na5 chhng ke3 khi3, he si7 te7-it kun7."
+        ],
+        [
+          "歟、汝是此位仔的地勢不止熟嗬。",
+          "Honn7, lu2 si7 chit ui7-a2 e5 te7-se3 put-chi2 sek8 honnh."
+        ],
+        [
+          "無啊、無甚知影、不過與朋友曾來迌二三次而已。",
+          "Bo5 ah, bo5 siann2 chai-iann2, put-ko3 kap peng5-iu2 bat lai5 chhit-tho5 nng7 sann pai2 nia7-nia7."
+        ],
+        [
+          "此候去、沒到厝就能暗沒。",
+          "Chit chun7 khi3, boe7 kau3 chhu3 chiu7 oe7 am3 boe7."
+        ],
+        [
+          "沒、適好時能到厝。",
+          "Boe7, tu2-ho2 si5 oe7 kau3 chhu3."
+        ],
+        [
+          "吟、今仔日的行遊是不止得解嗬。",
+          "Gim5, kin-a2-jit8 e5 kiann5-iu5 si7 put-chi2 tek-kai2 honnh."
+        ],
+        [
+          "實在時不止爽快、我略略仔飢、汝是怎樣。",
+          "Sit8-chai7 si5 put-chi2 song2-khoai3, goa2 lioh8-lioh8-a2 iau, lu2 si7 choann2-iunn7."
+        ],
+        [
+          "我亦是如此、略略仔飢、暗飯敢能好食。",
+          "Goa2 iah8 si7 an2-ni, lioh8-lioh8-a2 iau, am3 png7 kann2 oe7 ho2 chiah8."
+        ],
+        [
+          "是都著、俗語有講、若真飢石頭亦續食落去。",
+          "Si7 to tioh8, siok8-gu2 u7 kong2, na7 chin iau chioh8-thau5 iah8 soa3 chiah8--loh8-khi3."
+        ],
+        [
+          "唉、汝的厝是在彼、對此看現現。",
+          "Oe2, lu2 e5 chhu3 si7 ti7 hia, tui3 chia khoann3 hian7-hian7."
+        ],
+        [
+          "有影、彼間三層樓就是我的厝、汝的厝是對此看沒著嗬。",
+          "U7 iann2, hit keng sann chan3 lau5 chiu7 si7 goa2 e5 chhu3, lu2 e5 chhu3 si7 tui3 chia khoann3 boe7 tioh8 honnh."
+        ],
+        [
+          "是、彼個竹圍遮得、此看沒著。",
+          "Si7, hit e5 tek-ui5 jia teh, chia khoann3 boe7 tioh8."
+        ],
+        [
+          "像汝住在彼高的厝的時候、",
+          "Chhiunn7 lu2 toa3 ti7 hiah koan5 e5 chhu3 e5 si5-chun7,"
+        ],
+        [
+          "住在臺灣亦敢不知熱嗬。",
+          "Toa3 ti7 Tai5-oan5 iah8 kann2 m7 chai joah8 honnh."
+        ],
+        [
+          "是、住在彼三層樓頂的時候、真秋凊、熱天當熱的時、亦若是無盖甚貨仔睏午、就續能寒著、汝的樓頂亦敢不止秋凊嗬。",
+          "Si7, toa3 ti7 hia sann chan3 lau5-teng2 e5 si5-chun7, chin chhiu-chhin3, joah8-thinn tioh8 joah8 e5 si5, iah8 na7 si7 bo5 kah siann2-he3-a2 khun3-tau3, chiu7 soa3 oe7 koann5 tioh8, lu2 e5 lau5-teng2 iah8 kann2 put-chi2 chhiu-chhin3 honnh."
+        ],
+        [
+          "無、到下晡時就西照日照入來、不止熱、樓腳顛倒較秋凊。",
+          "Bo5, kau3 e7-pou si5 chiu7 sai-chio3 jit8 chio3--jip8-lai5, put-chi2 joah8, lau5-kha tian-to3 khah chhiu-chhin3."
+        ],
+        [
+          "歟、我看不止秋凊的欵、若要是如此、各項的事情、無親像外皮彼好嗬。",
+          "Honn7, goa2 khoann3 put-chi2 chhiu-chhin3 e5 khoan2, na7 beh si7 an2-ni, tak8 hang7 e5 tai7-chi3, bo5 chhin chhiunn7 goa7-phe5 hiah ho2 honnh."
+        ],
+        [
+          "是都著、各項的事情、干乾對外皮看而已、沒料內面的事情、像我的厝是如此、實在是好面孔歹肚桶。",
+          "Si7 to tioh8, tak8 hang7 e5 tai7-chi3, kan-ta tui3 goa7-phoe5 khoann3 nia7-nia7, bo5-liau7 lai7-bin7 e5 tai7-chi3, chhiunn7 goa2 e5 chhu3 si7 an2-ni, sit8-chai7 si7 ho2 bin7-khang phainn2 tou2-thang2."
+        ],
+        [
+          "大家愈行愈講話、講到入神去、無玎無璫到阮厝了。",
+          "Tai7-ke na2 kiann5 na2 kong2-oe7, kong2 kah jip8 sin5 khi3, bo5 tin bo5 tang kau3 goan2 chhu3 lah."
+        ],
+        [
+          "彼有影、今到您厝了嗬、汝若無如此講、我是無張無持續行過去。",
+          "He u7 iann2, tann kau3 lin2 chhu3 lah honnh, lu2 na7 bo5 an2-ni kong2, goa2 si7 bo5 tiunn bo5 ti5 soa3 kiann5 ke3 khi3."
+        ],
+        [
+          "請食茶即去。",
+          "Chhiann2 chiah8 te5 chiah khi3."
+        ],
+        [
+          "費神費神、我沒嘴乾、後畷即來。",
+          "Hui3-sin5 hui3-sin5, goa2 boe7 chhui3 ta, au7-choa7 chiah lai5."
+        ],
+        [
+          "尚早嘮、歇腳一時仔即去、亦是無要緊嗎。",
+          "Iau2 cha2 loh, hioh kha chit8 si5 a2 chiah khi3, iah8 si7 bo5 iau3-kin2 mah."
+        ],
+        [
+          "要暗咯、下日即更來。",
+          "Beh am3 loh, e7 jit8 chiah koh lai5."
+        ],
+        [
+          "汝不可細膩。",
+          "Lu2 m7-thang se3-ji7."
+        ],
+        [
+          "我何有細膩。",
+          "Goa2 siann2 u7 se3-ji7."
+        ],
+        [
+          "若如此、我亦不敢強留得、失陪失陪。",
+          "Na7 an2-ni, goa2 iah8 m7 kann2 kiong5 lau5 leh, sit-poe5 sit-poe5."
+        ],
+        [
+          "失陪失陪、汝請。",
+          "Sit-poe5 sit-poe5, lu2 chhiann2."
+        ],
+        [
+          "盻、今仔日真熱。",
+          "He7, kin-a2-jit8 chin joah8."
+        ],
+        [
+          "是、此幾日真熱。",
+          "Si7, chia kui2 jit8 chin joah8."
+        ],
+        [
+          "像此久此呢熱、各個都擋沒住。",
+          "Chhiunn7 chit ku2 chiah-nih8 joah8, tak8 e5 to tong3 boe7 toa3."
+        ],
+        [
+          "盻、今仔日真翕熱。",
+          "He7, kin-a2-jit8 chin hip-joah8."
+        ],
+        [
+          "是、翕到真熱。",
+          "Si7, hip kah chin joah8."
+        ],
+        [
+          "今仔日攏無風、熱到要死、彼枝扇借我搧得。",
+          "Kin-a2-jit8 long2 bo5 hong, joah8 kah beh si2, hit ki sinn3 chioh goa2 iat8--leh."
+        ],
+        [
+          "好、我與汝搧。",
+          "Ho2, goa2 kap lu2 iat8."
+        ],
+        [
+          "免咯、我自己搧。",
+          "Bian2 loh, goa2 ka-ki7 iat8."
+        ],
+        [
+          "此候略略仔起風、較秋凊。",
+          "Chit chun7 lioh8-lioh8-a2 khi2 hong, khah chhiu-chhin3."
+        ],
+        [
+          "是、若有風就加秋凊真多。",
+          "Si7, na7 u7 hong chiu7 ke chhiu-chhin3 chin choe7."
+        ],
+        [
+          "今仔日風真透、真秋凊。",
+          "Kin-a2-jit8 hong chin thau3, chin chhiu-chhin3."
+        ],
+        [
+          "是、今仔日較沒熱。",
+          "Si7, kin-a2-jit8 khah boe7 joah8."
+        ],
+        [
+          "是、今仔日無昨昏彼熱。",
+          "Si7, kin-a2-jit8 bo5 cha-hng hiah joah8."
+        ],
+        [
+          "是、比昨昏較秋凊。",
+          "Si7, pi2 cha-hng khah chhiu-chhin3."
+        ],
+        [
+          "日時較熱、不拘早起時與下昏時較秋凊。",
+          "Jit8--si5 khah joah8, m7-ku2 cha2-khi2 si5 kap e5-hng si5 khah chhiu-chhin3."
+        ],
+        [
+          "此久熱卻是熱、不拘各日到下晡時二三點鐘彼時、就定著有西北雨、所以較快活。",
+          "Chit ku2 joah8 khiok si7 joah8, m7-ku2 tak8 jit8 kau3 e7-pou si5 nng7 sann tiam2-cheng hit si5, chiu7 tiann7 tioh8 u7 sai-pak-hou7, sou2-i2 khah khoai3 oah8."
+        ],
+        [
+          "是、若有西北雨、就加秋凊真多、不拘路能歹行是真艱苦。",
+          "Si7, na7 u7 sai-pak-hou7, chiu7 ke chhiu-chhin3 chin choe7, m7-ku2 lou7 oe7 phainn2 kiann5 si7 chin kan-khou2."
+        ],
+        [
+          "彼是一得一失、無奈何。",
+          "He si7 it-tek it-sit, bo5 ta-oa5."
+        ],
+        [
+          "像此久此呢熱的時候、中午時攏沒出門得。",
+          "Chhiunn7 chit ku2 chiah-nih8 joah8 e5 si5-chun7, tiong gou7-si5 long2 boe7 chhut-mng5 tit."
+        ],
+        [
+          "是、日時是戴笠仔、抑是無夯雨傘就沒出門得。",
+          "Si7, jit8--si5 si7 ti3 loeh8-a2, a2 si7 bo5 gia5 hou7-soann3 chiu7 boe7 chhut-mng5 tit."
+        ],
+        [
+          "日時當熱的時、亦若是外口潑水就較能秋凊。",
+          "Jit8--si5 tioh8 joah8 e5 si5, iah8 na7 si7 goa7-khau2 phoah chui2 chiu7 khah oe7 chhiu-chhin3."
+        ],
+        [
+          "是、不但如此而已、土粉亦較沒揚。",
+          "Si7, m7-na7 an2-ni nia7-nia7, thou5-hun2 iah8 khah boe7 eng."
+        ],
+        [
+          "內地是無此熱、我打算臺灣是比內地有重倍熱。",
+          "Loe7-te7 si7 bo5 chia joah8, goa2 phah sng3 Tai5-oan5 si7 pi2 loe7-te7 u7 tang7 pe7 joah8."
+        ],
+        [
+          "厝內真熱、出去外口吹涼好否。",
+          "Chhu3-lai7 chin joah8, chhut khi3 goa7-khau2 chhoe liang5 ho2 m7."
+        ],
+        [
+          "好、大家來去彼樹仔腳秋凊。",
+          "Ho2, tai7-ke lai5 khi3 hia chhiu7-a2 kha chhiu-chhin3."
+        ],
+        [
+          "彼處是較有遮日、來去彼歇睏較好。",
+          "Hit te3 si7 khah u7 jia jit8, lai5 khi3 hia hioh-khun3 khah ho2."
+        ],
+        [
+          "此處是日照入來、熱到擋沒住、所以大家來去彼蔭影的所在歇睏較好。",
+          "Chit te3 si7 jit8 chio3--jip8-lai5, joah8 kah tong3 boe7 toa3, sou2-i2 tai7-ke lai5 khi3 hia im3-ng2 e5 sou2-chai7 hioh-khun3 khah ho2."
+        ],
+        [
+          "熱天時菓子不可食傷多、不適好就能瀉腹。",
+          "Joah8 thinn si5 ke2-chi2 m7-thang chiah8 siong choe7, m7 tu2-ho2 chiu7 oe7 sia3-pak."
+        ],
+        [
+          "像此久的天時、不可食西瓜、驚能腹肚痛。",
+          "Chhiunn7 chit ku2 e5 thinn si5, m7-thang chiah8 si-koa, kiann oe7 pak-tou2 thiann3."
+        ],
+        [
+          "熱天時各個都愛食水、不拘食傷多就能走腹。",
+          "Joah8 thinn si5 tak8 e5 to ai3 chiah8 chui2, m7-ku2 chiah8 siong choe7 chiu7 oe7 chau2-pak."
+        ],
+        [
+          "聽人講、鷄卵冰是食了有補有影無。",
+          "Thiann lang5 kong2, koe-nng7 peng si7 chiah8 liau2 u7 pou2 u7 iann2 bo5."
+        ],
+        [
+          "有、不拘本地人擔來賣的、著較斟酌、有時仔參臭去的鴨卵落去做、若是食著彼號的、就隨時能落腹汝知否。",
+          "U7, m7-ku2 pun2 toe7 lang5 tann lai5 boe7 e5, tioh8 khah chim-chiok, u7 si5 a2 chham chhau3 khi3 e5 ah-nng7 loh8 khi3 choe3. Na7 si7 chiah8 tioh8 hit ho7 e5, chiu7 sui5 si5 oe7 loh8-pak lu2 chai m7."
+        ],
+        [
+          "盻、今仔日真熱、流汗流到衫續澹碌碌。",
+          "He7, kin-a2-jit8 chin joah8, lau5 koann7 lau5 kah sann soa3 tam5-lok8-lok8."
+        ],
+        [
+          "我今仔日沒記得帶手巾來、汝彼條手巾借我拭汗好否。",
+          "Goa2 kin-a2-jit8 boe7 ki3-tit toa3 chhiu2-kun lai5, lu2 hit tiau5 chhiu2-kun chioh goa2 chhit koann7 ho2 m7."
+        ],
+        [
+          "此條是我拭汗的、臭汗酸不好、彼有新的、我提給汝拭。",
+          "Chit tiau5 si7 goa2 chhit koann7 e5, chhau3 koann7-sng m7 ho2, hia u7 sin e5, goa2 thoeh8 hou7 lu2 chhit."
+        ],
+        [
+          "免咯、彼條就好嘮。",
+          "Bian2 loh, hit tiau5 chiu7 ho2 loh."
+        ],
+        [
+          "盻、汝是厚汗的人、流汗流到如此、彼處有水、汝著脫裸、去彼洗身軀較好、面桶與面布亦在彼。",
+          "He7, lu2 si7 kau7 koann7 e5 lang5, lau5 koann7 lau5 kah an2-ni, hit te3 u7 chui2, lu2 tioh8 thng3-theh, khi3 hia soe2 seng-khu khah ho2, bin7-thang2 kap bin7 pou3 iah8 ti7 hia."
+        ],
+        [
+          "衫脫起來、脫光光去鼓井邊、灇水較好。",
+          "Sann thoat khi2 lai5, thoat kng kng khi3 kou2-chinn2 pinn, chang5 chui2 khah ho2."
+        ],
+        [
+          "對外口看能著的所在、不可  脫腹裸、",
+          "Tui3 goa7-khau2 khoann3 oe7 tioh8 e5 sou2-chai7, m7-thang thng3-pak-theh,"
+        ],
+        [
+          "若是被警察官看見的時候、就被伊罰。",
+          "Na7 si7 hou7 keng2-chhat koann khoann3-kinn3 e5 si5-chun7, chiu7 hou7 i hoat8."
+        ],
+        [
+          "今年是比頂年另外有較熱、我常時不曾發疿仔、不拘今年生疿仔生到歸堆、癢到要死、若有扒就起頭是真暢、不拘路尾手仔痛到要死。",
+          "Kin-ni5 si7 pi2 teng2 ni5 leng7 goa7 u7 khah joah8, goa2 siong5 si5 m7 bat hoat pui2-a2, m7-ku2 kin-ni5 sinn pui2-a2 sinn kah kui tui, chiunn7 kah beh si2, na7 u7 pe5 chiu7 khi2-thau5 si7 chin thiong3, m7-ku2 lou7 be2 chhiu2 a2 thiann3 kah beh si2."
+        ],
+        [
+          "疿仔不可扒、指甲是若有毒汝知否、",
+          "Pui2-a2 m7-thang pe5, cheng2-kah si7 na7 u7 tok8 lu2 chai m7,"
+        ],
+        [
+          "用指甲與伊抓、抓了不適好就能打還動、所以得確不可扒癢。",
+          "Eng7 cheng2-kah ka7 i jiau3, jiau3 liau2 m7 tu2-ho2 chiu7 oe7 phah hoan5-tong7, sou2-i2 tek-khak m7-thang pe5-chiunn7."
+        ],
+        [
+          "歟、我不知影、所以即對頂日仔扒到續變熱結仔。",
+          "Honn7, goa2 m7 chai-iann2, sou2-i2 chiah tui3 teng2 jit8 a2 pe5 kah soa3 pian3 jiat8-kat-a2."
+        ],
+        [
+          "我看、發汝的面的敢不是疿仔、敢是[疒@住]仔。",
+          "Goa2 khoann3, hoat lu2 e5 bin7 e5 kann2 m7 si7 pui2-a2, kann2 si7 thiau7-a2."
+        ],
+        [
+          "比我亦不知。",
+          "Pi2 goa2 iah8 m7 chai."
+        ],
+        [
+          "恁學校有歇熱無。",
+          "Lin2 hak8-hau7 u7 hioh joah8 bo5."
+        ],
+        [
+          "有、對七月初十起到八月末日適適歇五十幾日。",
+          "U7, tui3 chhit geh8 chhoe-chap8 khi2 kau3 peh-goeh8 boat8-jit8 tu2-tu2 hioh gou7 chap8 kui2 jit8."
+        ],
+        [
+          "歟、彼歇睏的中間、要去何位仔迌抑無。",
+          "Honn7, hia hioh-khun3 e5 tiong-kan, beh khi3 to2 ui7-a2 chhit-tho5 a2 bo5."
+        ],
+        [
+          "愛去卻是愛去、不拘無彼號錢可去迌。",
+          "Ai3 khi3 khiok si7 ai3 khi3, m7-ku2 bo5 hit ho7 chinn5 thang khi3 chhit-tho5."
+        ],
+        [
+          "汝是要去何位仔無。",
+          "Lu2 si7 beh khi3 to2 ui7-a2 bo5."
+        ],
+        [
+          "尚未定著。",
+          "Iau2-boe7 tiann7-tioh8."
+        ],
+        [
+          "汝能曉泅水沒。",
+          "Lu2 oe7 hiau2 siu5-chui2 boe7."
+        ],
+        [
+          "我攏沒曉泅。",
+          "Goa2 long2 boe7 hiau2 siu5."
+        ],
+        [
+          "歟、汝若沒曉、著去學較好、彼是無甚麼為難、快快、學三四月日就能。",
+          "Honn7, lu2 na7 boe7 hiau2, tioh8 khi3 oh8 khah ho2, he si7 bo5 sim2-mih8 ui5-lan5, khoai3-khoai3, oh8 sann si3 geh8 jit8 chiu7 oe7."
+        ],
+        [
+          "歟、在何位在教。",
+          "Honn7, ti7 to2-ui7 teh ka3."
+        ],
+        [
+          "汝是不知是否、每年到熱天的時、",
+          "Lu2 si7 m7 chai si7 m7, mui2 ni5 kau3 joah8 thinn e5 si5,"
+        ],
+        [
+          "在古亭庄在教泅水的法度。",
+          "Ti7 Kou2-teng5 chng teh ka3 siu5-chui2 e5 hoat-tou7."
+        ],
+        [
+          "歟、我攏不知、此候聽汝講即知、一月日的朿金若多。",
+          "Honn7, goa2 long2 m7 chai, chit chun7 thiann lu2 kong2 chiah chai, chit8 geh8-jit8 e5 sok-kim joa7 choe7."
+        ],
+        [
+          "彼我卻不知、不拘我打算敢無若多。",
+          "Hit goa2 khiok m7 chai, m7-ku2 goa2 phah sng3 kann2 bo5 joa7 choe7."
+        ],
+        [
+          "我聽人講、古亭庄溪是有幾那位水在捲螺真危險、每年  去彼泅水的人、",
+          "Goa2 thiann lang5 kong2, Kou2-teng5 chng khoe si7 u7 kui2 na2 ui7 chui2 teh kng2-loe5 chin gui5-hiam2, mui2 ni5 khi3 hia siu5-chui2 e5 lang5,"
+        ],
+        [
+          "上少亦看二三個人、跌落水死有影無、若有如此、我不敢去學泅水。",
+          "Chiunn7 chio2 iah8 khoann3 nng7 sann e5 lang5, poah8 loh8 chui2 si2 u7 iann2 bo5, na7 u7 an2-ni, goa2 m7 kann2 khi3 oh8 siu5-chui2."
+        ],
+        [
+          "吟、汝是講戇話、要教的時候、做先生的人、得確與人揀較無危險、較穩當的所在即教人、像汝免彼呢煩惱無孔無榫的事情、做汝免驚、",
+          "Gim5, lu2 si7 kong2 gong7 oe7, beh ka3 e5 si5-chun7, choe3 sian-sinn e5 lang5, tek-khak kap lang5 keng2 khah bo5 gui5-hiam2, khah un2 tioh8 e5 sou2-chai7 chiah ka3 lang5, chhiunn7 lu2 bian2 hiah-nih8 hoan5-lo2 bo5 khang bo5 sun2 e5 tai7-chi3, choe3 lu2 bian2 kiann,"
+        ],
+        [
+          "汝若要去學的時候、彼個教泅水的先生是我有與伊相識、所以我與汝引進亦好。",
+          "Lu2 na7 beh khi3 oh8 e5 si5-chun7, hit e5 ka3 siu5-chui2 e5 sian-sinn si7 goa2 u7 ka7 i sann bat, sou2-i2 goa2 kap lu2 in2-chin3 iah8 ho2."
+        ],
+        [
+          "聽汝講如此、今我亦放心嘮、今聽汝勸對後禮拜要去學、所以儘採時汝若有閑的時候、與我引進。",
+          "Thiann lu2 kong2 an2-ni, tann goa2 iah8 pang3 sim loh, tann thiann lu2 khng3 tui3 au7 le2-pai3 beh khi3 oh8, sou2-i2 chhin3-chhai2 si5 lu2 na7 u7 eng5 e5 si5-chun7, kap goa2 in2-chin3."
+        ],
+        [
+          "好、彼是快快的事情、我若能得去、",
+          "Ho2, he si7 khoai3-khoai3 e5 tai7-chi3, goa2 na7 oe7 tit khi3,"
+        ],
+        [
+          "我本身[毛^火]汝去與伊引進、或者若是我沒得去的時候、我即與汝寫一張薦批給汝。",
+          "Goa2 pun2-sin chhoa7 lu2 khi3 ka7 i in2-chin3, hiat8-chia2 na7 si7 goa2 boe7 tit khi3 e5 si5-chun7, goa2 chiah kap lu2 sia2 chit8 tiunn chiau3-phoe hou7 lu2."
+        ],
+        [
+          "好、請拜托拜托。",
+          "Ho2, chhiann2 pai3-thok pai3-thok."
+        ],
+        [
+          "今年的熱是能驚人的熱嗬。",
+          "Kin-ni5 e5 joah8 si7 oe7 kiann-lang5 e5 joah8 honnh."
+        ],
+        [
+          "是、今年的熱是非常的熱、對六月初四起到今仔日、一直九十度以上的熱、像此欵的事情、較罕得有的事、專另初九彼日是寒暑針續上到九十八度四分高、講設臺北  測候所以來的熱。",
+          "Si7, kin-ni5 e5 joah8 si7 hui-siong5 e5 joah8, tui3 lak8 geh8 chhoe-si3 khi2 kau3 kin-a2-jit8, it-tit8 kau2-chap8 tou7 i2-siong7 e5 joah8, chhiunn7 chia khoan2 e5 tai7-chi3, khah han2-tit u7 e5 su7, choan-leng7 chhoe-kau2 hit jit8 si7 han5-su2-chiam soa3 chiunn7 kau3 kau2-chap8 poeh tou7 si3 pun koan5, kong2 siat Tai5-pak  chhek-hau7-sou2 i2-lai5 e5 joah8."
+        ],
+        [
+          "是如此、舊年亦是六月初與月中彼候、曾九十度以上的熱有五次、不拘無親像今年此呢熱、就是往年到此候就有西北雨、舊年是月頭與月中適有十一次、不拘今年是在倚山的所在落多少、另外  十九下晡落一次而已、",
+          "Si7 an2-ni, ku7 ni5 iah8 si7 lak8 geh8 chhoe kap geh8 tiong hit chun7, bat kau2-chap8 tou7 i2-siong7 e5 joah8 u7 gou7 pai2, m7-ku2 bo5 chhin chhiunn7 kin-ni5 chiah-nih8 joah8, chiu7 si7 ong2-ni5 kau3 chit chun7 chiu7 u7 sai-pak-hou7, ku7 ni5 si7 geh8 thau5 kap geh8 tiong tu2 u7 chap8-it pai2, m7-ku2 kin-ni5 si7 ti7 oa2 soann e5 sou2-chai7 loh8 choe7 chio2, leng7 goa7  chap8-kau2 e7-pou loh8 chit8 pai2 nia7-nia7,"
+        ],
+        [
+          "亦攏無、所以即能此呢熱的。",
+          "Iah8 long2 bo5, sou2-i2 chiah oe7 chiah-nih8 joah8 e5."
+        ],
+        [
+          "像如此、洘旱的時候、敢能碍著種作的物嗬。",
+          "Chhiunn7 an2-ni, kho2-hoann7 e5 si5-chun7, kann2 oe7 gai7 tioh8 cheng3-choh e5 mih8 honnh."
+        ],
+        [
+          "是、有所在是土續劈開稻仔攏焦去、像此號勢面經過、更四五日內若是無落雨的時候、此期是無半粒粟可收成、",
+          "Si7, u7 sou2-chai7 si7 thou5 soa3 pit khui tiu7 a2 long2 ta khi3, chhiunn7 chit ho7 se3-bin7 keng-ke3, koh si3 gou7 jit8 lai7 na7 si7 bo5 loh8-hou7 e5 si5-chun7, chia ki5 si7 bo5 poann3 liap8 chhek thang siu-seng5,"
+        ],
+        [
+          "所以各庄頭在求雨。",
+          "Sou2-i2 tak8 chng-thau5 teh kiu5 hou7."
+        ],
+        [
+          "不但掛碍種作的物而已、人亦擋沒住、日日著病的人真多。",
+          "M7-na7 koa3 gai7 cheng3-choh e5 mih8 nia7-nia7, lang5 iah8 tong3 boe7 toa3, jit8-jit8 tioh8 pinn7 e5 lang5 chin choe7."
+        ],
+        [
+          "幸哉、此幾年臺北是攏無鳥鼠症、不拘在嘉義廳管內是班班仔有彼號歹症頭的欵。",
+          "Kai-chai3, chit kui2 ni5 Tai5-pak si7 long2 bo5 niau2-chhu2 cheng3, m7-ku2 ti7 Ka-gi7 thiann koan2-lai7 si7 pan-pan-a2 u7 hit ho7 phainn2 cheng3-thau5 e5 khoan2."
+        ],
+        [
+          "所以咱大家著較照顧身命即能使得。",
+          "Sou2-i2 lan2 tai7-ke tioh8 khah chiau3-kou3 sin mia7 chiah oe7 sai2 tit."
+        ],
+        [
+          "是都著、有多多項的瘟疫的其中、第一能驚人的症頭就是彼號鳥鼠仔症、干乾聽見彼號名亦續能毿毛管。",
+          "Si7 to tioh8, u7 choe7-choe7 hang7 e5 un-ek8 e5 ki5-tiong, te7-it oe7 kiann-lang5 e5 cheng3 thau5 chiu7 si7 hit ho7 niau2-chhu2-a2 cheng3, kan-ta thiann-kinn3 hit ho7 mia5 iah8 soa3 oe7 chhang3 mng5-kng2."
+        ],
+        [
+          "今仔日真寒。",
+          "Kin-a2-jit8 chin koann5."
+        ],
+        [
+          "是、真寒。",
+          "Si7, chin koann5."
+        ],
+        [
+          "汝能寒沒。",
+          "Lu2 oe7 koann5 boe7."
+        ],
+        [
+          "能、我真驚寒。",
+          "Oe7, goa2 chin kiann koann5."
+        ],
+        [
+          "沒、我不驚寒。",
+          "Boe7, goa2 m7 kiann koann5."
+        ],
+        [
+          "若是好天就較沒寒。",
+          "Na7 si7 ho2 thinn chiu7 khah boe7 koann5."
+        ],
+        [
+          "若是雨來天就較能寒。",
+          "Na7 si7 hou7 lai5 thinn chiu7 khah oe7 koann5."
+        ],
+        [
+          "此候的天氣真好、沒寒沒熱適適好。",
+          "Chit chun7 e5 thinn khi3 chin ho2, boe7 koann5 boe7 joah8 tu2-tu2 ho2."
+        ],
+        [
+          "我在內地有聽人講的時候、臺灣是不止熱的所在、不拘像此幾日此呢寒的時候、沒輸內地的寒嗬。",
+          "Goa2 ti7 loe7-te7 u7 thiann lang5 kong2 e5 si5-chun7, Tai5-oan5 si7 put-chi2 joah8 e5 sou2-chai7, m7-ku2 chhiunn7 chia kui2 jit8 chiah-nih8 koann5 e5 si5-chun7, boe7 su loe7-te7 e5 koann5 honnh."
+        ],
+        [
+          "是、真正寒嗬、往年是不曾如此、不知怎樣今年是另外寒。",
+          "Si7, chin-chiann3 koann5 honnh, eng2-ni5 si7 m7 bat an2-ni, m7 chai choann2-iunn7 kin-ni5 si7 leng7 goa7 koann5."
+        ],
+        [
+          "我此早起看寒暑針的時節、落到四十三度半咧、如此較加嗎寒。",
+          "Goa2 chiah cha2-khi2 khoann3 han5-su2-chiam e5 si5-choeh, loh8 kau3 si3-chap8-sann tou7 poann3 leh, an2-ni khah ke mah koann5."
+        ],
+        [
+          "平埔亦此呢寒、在隘勇線勤務的人、不敢不止艱苦了嗬。",
+          "Pinn5-pou iah8 chiah-nih8 koann5, ti7 ai3-iong2-soann3 khun5-bu7 e5 lang5, m7 kann2 put-chi2 kan-khou2 lah honnh."
+        ],
+        [
+          "實在能體貼。",
+          "Sit8-chai7 oe7 the2-thiap in."
+        ],
+        [
+          "汝是干乾穿彼領衫而已、敢沒寒是否。",
+          "Lu2 si7 kan-ta chheng7 hit nia2 sann nia7-nia7, kann2 boe7 koann5 si7 m3."
+        ],
+        [
+          "寒卻是寒、不拘無衫可穿真艱苦。",
+          "Koann5 khiok si7 koann5, m7-ku2 bo5 sann thang chheng7 chin kan-khou2."
+        ],
+        [
+          "寒天到亦無綿裘可穿、寒到要死。",
+          "Koann5-thinn kau3 iah8 bo5 mi5-hiu5 thang chheng7, koann5 kah beh si2."
+        ],
+        [
+          "汝是干乾穿一領祫裘而已、較加嗎能寒、汝著加穿一領身底衫就較沒寒、尚穿襪就加燒真多咯。",
+          "Lu2 si7 kan-ta chheng7 chit8 nia2 khiap-hiu5 nia7-nia7, khah ke mah oe7 koann5, lu2 tioh8 ke chheng7 chit8 nia2 sin-toe2-sann chiu7 khah boe7 koann5, iau2 chheng7 beh8 chiu7 ke sio chin choe7 loh."
+        ],
+        [
+          "像此久此呢寒的時節、老大人與囝仔是擋沒住。",
+          "Chhiunn7 chit ku2 chiah-nih8 koann5 e5 si5-choeh, lau7-toa7-lang5 kap gin2-na2 si7 tong3 boe7 toa3."
+        ],
+        [
+          "免講老大人與囝仔、親像阮少年人亦擋沒住。",
+          "Bian2 kong2 lau7-toa7-lang5 kap gin2-na2, chhin chhiunn7 goan2 siau3-lian5-lang5 iah8 tong3 boe7 toa3."
+        ],
+        [
+          "內地是比此處較寒、尚滿州與朝鮮是比內地尚更較寒汝知否。",
+          "Loe7-te7 si7 pi2 chit te3 khah koann5, iau2 moa2 chiu kap Tiau5-sian2 si7 pi2 loe7-te7 iau2 koh khah koann5 lu2 chai m7."
+        ],
+        [
+          "若如此、親像我驚寒的人、住沒住。",
+          "Na7 an2-ni, chhin chhiunn7 goa2 kiann koann5 e5 lang5, toa3 boe7 toa3."
+        ],
+        [
+          "若是如此、像我驚寒的人、續寒死。",
+          "Na7 si7 an2-ni, chhiunn7 goa2 kiann koann5 e5 lang5, soa3 koann5 si2."
+        ],
+        [
+          "沒咯、若是住了慣勢就較沒寒。",
+          "Boe7 loh, na7 si7 toa3 liau2 koan3-si3 chiu7 khah boe7 koann5."
+        ],
+        [
+          "啊喲、寒到疑疑慄、腳手續呆呆。",
+          "A5-ioh, koann5 kah gih-gih lun2, kha-chhiu2 soa3 tai tai."
+        ],
+        [
+          "有影、寒到愕愕慄腳凝手凝。",
+          "U7 iann2, koann5 kah kheh-kheh-chhoah kha gan5 chhiu2 gan5."
+        ],
+        [
+          "盻、今仔日風真透、寒到要死、汝著較來此火爐邊烘手。",
+          "He7, kin-a2-jit8 hong chin thau3, koann5 kah beh si2, lu2 tioh8 khah lai5 chia he2-lou5 pinn hang chhiu2."
+        ],
+        [
+          "唉、火爐的火在要溶去咯、",
+          "Oe2, he2-lou5 e5 he2 teh beh iunn5 khi3 loh,"
+        ],
+        [
+          "火炭緊提來添。",
+          "He2-thoann3 kin2 thoeh8 lai5 thinn."
+        ],
+        [
+          "唉、火爐的火在要過去咯、著更添火炭。",
+          "Oe2, he2-lou5 e5 he2 teh beh ke3 khi3 loh, tioh8 koh thinn he2-thoann3."
+        ],
+        [
+          "唉、火爐的火消去咯、著烘爐火提來置、火箸與火銚是在此。",
+          "Oe2, he2-lou5 e5 he2 siau khi3 loh, tioh8 hang-lou5 he2 thoeh8 lai5 he7, he2-ti7 kap he2-thio si7 ti7 chia."
+        ],
+        [
+          "嗬來。",
+          "honnh lai5."
+        ],
+        [
+          "噯、烘爐火亦續消去嘮、此號火炭冇到如此、",
+          "Aih, hang-lou5 he2 iah8 soa3 siau khi3 loh, chit ho7 he2-thoann3 phann3 kah an2-ni,"
+        ],
+        [
+          "連鞭就消去、此次賣的彼籠仔的、不知有較硬沒。",
+          "Liam5-pinn chiu7 siau khi3, chit pai2 boe7 e5 hit lang2-a2 e5, m7 chai u7 khah teng7 boe7."
+        ],
+        [
+          "唉、住彼念甚麼、若無火著緊起。",
+          "Oe2, toa3 hia liam7 sim2-mih8, na7 bo5 he2 tioh8 kin2 khi2."
+        ],
+        [
+          "有、我在起、此個火炭不知怎樣、起攏沒燃、呵、彼箍雜貨店要凸重即湳水的嗬、",
+          "U7, goa2 teh khi2, chit e5 he2-thoann3 m7 chai choann2-iunn7, khi2 long2 boe7 toh8, oh, hit khou chap8-he3 tiam3 beh phong3-tang7 chiah lam5 chui2 e5 honnh,"
+        ],
+        [
+          "好、明仔早伊若來我即哄喝。",
+          "Ho2, beng5 a2 cha2 i na7 lai5 goa2 chiah han2-hoah."
+        ],
+        [
+          "唉、尚未是否、火種此有淡薄、著挾去起、尚冇炭置下底硬炭置頂頭、用烘爐扇緊搧搧得就隨時能燃。",
+          "Oe2, iau2-boe7 si7 m3, he2 cheng3 chia u7 tam7-poh8, tioh8 ngeh8 khi3 khi2, iau2 phann3 thoann3 he7 e7-te2 teng7 thoann3 he7 teng2-thau5, eng7 hang-lou5 sinn3 kin2 iat8-iat8 leh chiu7 sui5 si5 oe7 toh8."
+        ],
+        [
+          "好、我能曉得。",
+          "Ho2, goa2 oe7 hiau2 tit."
+        ],
+        [
+          "啊喲、寒到、彼腳火籠借我烘。",
+          "A5-ioh, koann5 kah, hit kha he2-lang2 chioh goa2 hang."
+        ],
+        [
+          "好、我携來給汝烘。",
+          "Ho2, goa2 koann7 lai5 hou7 lu2 hang."
+        ],
+        [
+          "像今仔日此寒無穿雨披就沒出門咧。",
+          "Chhiunn7 kin-a2-jit8 chia koann5 bo5 chheng7 hou7 moa7 chiu7 boe7 chhut-mng5 leh."
+        ],
+        [
+          "臺灣曾落雪抑不曾。",
+          "Tai5-oan5 bat loh8 seh a2 m7 bat."
+        ],
+        [
+          "曾、不拘干乾落山頂而已、平埔是不曾落。",
+          "Bat, m7-ku2 kan-ta loh8 soann-teng2 nia7-nia7, pinn5-pou si7 m7 bat loh8."
+        ],
+        [
+          "刊在頂月二六的臺灣日日新聞講、二五下晡五點鐘、在桃園廳管內的生蕃山有落雪、",
+          "khan ti7 teng2 geh8 ji7-lak8 e5 Tai5-oan5 Jit8-jit8 sin-bun5 kong2, ji7-gou7 e7-pou gou7 tiam2-cheng, ti7 Tho5-hng5 thiann koan2-lai7 e5 Chhinn-hoan soann u7 loh8 seh,"
+        ],
+        [
+          "這算是今年通臺灣落雪的頭一次嘮。",
+          "Che sng3 si7 kin-ni5 thong Tai5-oan5 loh8 seh e5 thau5 chit8 pai2 loh."
+        ],
+        [
+          "歟如此、所以即對頂日仔能彼呢寒的。",
+          "Honn7 an2-ni, sou2-i2 chiah tui3 teng2 jit8 a2 oe7 hiah-nih8 koann5 e5."
+        ],
+        [
+          "聽人講、內地是到寒天的時、落雪落到丈外厚有影無。",
+          "Thiann lang5 kong2, loe7-te7 si7 kau3 koann5 thinn e5 si5, loh8 seh loh8 kah tng7 goa7 kau7 u7 iann2 bo5."
+        ],
+        [
+          "有卻是有、不拘彼是看所在、不是一概是如此。",
+          "U7 khiok si7 u7, m7-ku2 he si7 khoann3 sou2-chai7, m7 si7 it-khai3 si7 an2-ni."
+        ],
+        [
+          "尚講前暗貯在水碙的水、到第二早起就續凝冰、用鐵槌仔摃亦摃沒破有影無。",
+          "Iau2 kong2 cheng5 am3 te2 ti7 chui2-kng e5 chui2, kau3 te7-ji7 cha2-khi2 chiu7 soa3 kian5-peng, eng7 thih-thui5-a2 kong3 iah8 kong3 boe7 phoa3 u7 iann2 bo5."
+        ],
+        [
+          "彼亦是沒做一下講、猶原是看所在、像我的鄉里是如此、結冰結到寸外厚的水碙亦續爆破所以冬天時、磁仔與玻璃的器具是攏沒貯水咧。",
+          "Hit iah8 si7 boe7 choe3 chit8-e7 kong2, iu5-goan5 si7 khoann3 sou2-chai7, chhiunn7 goa2 e5 hiunn-li2 si7 an2-ni, kiat peng kiat kau3 chhun3 goa7 kau7 e5 chui2-kng iah8 soa3 piak phoa3 sou2-i2 tang-thinn si5, hui5-a2 kap po-le5 e5 khi3-ku7 si7 long2 boe7 te2 chui2 leh."
+        ],
+        [
+          "汝曾去內地看光景抑不曾。",
+          "Lu2 bat khi3 loe7-te7 khoann3 kng keng2 a2 m7 bat."
+        ],
+        [
+          "我尚未曾去。",
+          "Goa2 iau2-boe7 bat khi3."
+        ],
+        [
+          "汝去看咧、內地是若鬧熱汝知否、尚景致亦不止好、所以外國人年年來看光景的人漸漸多起來。",
+          "Lu2 khi3 khoann3 leh, loe7-te7 si7 na2 lau7-jiat8 lu2 chai m7, iau2 keng2 ti3 iah8 put-chi2 ho2, sou2-i2 goa7 kok lang5 ni5 ni5 lai5 khoann3 kng keng2 e5 lang5 chiam7-chiam7 choe7 khi2 lai5."
+        ],
+        [
+          "我亦真愛去看、不拘汝亦所知、我是真驚寒的人、此候不敢去、",
+          "Goa2 iah8 chin ai3 khi3 khoann3, m7-ku2 lu2 iah8 sou2 chai, goa2 si7 chin kiann koann5 e5 lang5, chit chun7 m7 kann2 khi3,"
+        ],
+        [
+          "等候明年春天的時、抑是夏天的時即來去看。",
+          "Theng3-hau7 beng5 ni5 chhun-thinn e5 si5, a2 si7 he7-thinn e5 si5 chiah lai5 khi3 khoann3."
+        ],
+        [
+          "汝若要去著三月尾抑是四月初裡去較好、彼號出名的櫻花當在開真好看。",
+          "Lu2 na7 beh khi3 tioh8 sann geh8 be2 a2 si7 si3-geh8 chhoe nih8 khi3 khah ho2, hit ho7 chhut-mia5 e5 eng-hoe tioh8 teh khui chin ho2-khoann3."
+        ],
+        [
+          "唉、有焚浴桶水抑無。",
+          "Oe2, u7 hiann5 ek8-thang2 chui2 a2 bo5."
+        ],
+        [
+          "有嗬、在要燒了。",
+          "U7 honnh, teh beh sio lah."
+        ],
+        [
+          "今仔日真無閑、所以尚未擔浴桶水。",
+          "Kin-a2-jit8 chin bo5 eng5, sou2-i2 iau2-boe7 tann ek8-thang2 chui2."
+        ],
+        [
+          "怎樣到此候、尚未擔浴桶水、著緊擔來焚給伊燒。",
+          "Choann2-iunn7 kau3 chit chun7, iau2-boe7 tann ek8-thang2 chui2, tioh8 kin2 tann lai5 hiann5 hou7 i sio."
+        ],
+        [
+          "此早起頭家娘、叫我去買菜、",
+          "Chiah cha2-khi2 thau5-ke-niu5, kio3 goa2 khi3 boe2 chhai3,"
+        ],
+        [
+          "適即返來的、此候閑咯、隨時擔來焚、請等候一絲仔。",
+          "Tu2 chiah tng2 lai5 e5, chit chun7 eng5 loh, sui5 si5 tann lai5 hiann5, chhiann2 theng3-hau7 chit8-si-a2."
+        ],
+        [
+          "好、著較緊咧。",
+          "Ho2, tioh8 khah kin2 leh."
+        ],
+        [
+          "好好、我脫赤腳及來去擔。",
+          "Ho2 ho2, goa2 tng3 chhiah-kha kap lai5 khi3 tann."
+        ],
+        [
+          "噯、此個柴不知怎樣、焚攏沒燃。",
+          "Aih, chit e5 chha5 m7 chai choann2-iunn7, hiann5 long2 boe7 toh8."
+        ],
+        [
+          "彼個柴、汝疊在外口、昨昏下晡雨來亦不與伊收起來、",
+          "Hit e5 chha5, lu2 thiap8 ti7 goa7-khau2, cha-hng e7-pou hou7 lai5 iah8 m7 ka7 i siu--khi2-lai5,"
+        ],
+        [
+          "據在伊沃、較加嗎著沒燃。",
+          "Ku3-chai7 i ak, khah ke mah tioh8 boe7 toh8."
+        ],
+        [
+          "彼有影、我沒記得收。",
+          "Hia u7 iann2, goa2 boe7 ki3-tit siu."
+        ],
+        [
+          "後次著較細膩咧、今仔日無要緊、焚火炭緊焚。",
+          "Au7 pai2 tioh8 khah se3-ji7 leh, kin-a2-jit8 bo5 iau3-kin2, hiann5 he2-thoann3 kin2 hiann5."
+        ],
+        [
+          "好、隨時焚。",
+          "Ho2, sui5-si5 hiann5."
+        ],
+        [
+          "被與沃澹的柴、著夯出去外口曝乾、可付明仔日焚浴桶水、若是焚火炭焚浴桶水就火炭真傷重。",
+          "Hou7 kap ak tam5 e5 chha5, tioh8 gia5 chhut khi3 goa7-khau2 phak8 ta, thang hu3 bin5-na2-jit8 hiann5 ek8-thang2 chui2. Na7 si7 hiann5 he2-thoann3 hiann5 ek8-thang2 chui2 chiu7 he2-thoann3 chin siong-tiong7."
+        ],
+        [
+          "好、火若有燃、隨時夯出去曝。",
+          "Ho2, he2 na7 u7 toh8, sui5 si5 gia5 chhut khi3 phak8."
+        ],
+        [
+          "不可像昨昏曝了續沒記得收日若落山就隨時收入來疊置灶腳。",
+          "M7-thang chhiunn7 cha-hng phak8 liau2 soa3 boe7 ki3-tit siu jit8 na7 loh8 soann chiu7 sui5 si5 siu jip8 lai5 thiap8 he7 chau3-kha."
+        ],
+        [
+          "好、此次是得確能記得。",
+          "Ho2, chit pai2 si7 tek-khak oe7 ki3-tit."
+        ],
+        [
+          "唉、水尚未燒是否。",
+          "Oe2, chui2 iau2-boe7 sio si7 m7."
+        ],
+        [
+          "燒了、適好燒。",
+          "Sio lah, tu2-ho2 sio."
+        ],
+        [
+          "若如此、隨時要去洗、所以面桶咯、雪文咯、面巾咯、提置便便咧。",
+          "Na7 an2-ni, sui5 si5 beh khi3 soe2, sou2-i2 bin7-thang2 loh, soat-bun5 loh, bin7-kun loh, thoeh8 he7 pian7-pian7 leh."
+        ],
+        [
+          "有了、攏置在洗浴房的架仔頂嘮。",
+          "U7 lah, long2 he7 ti7 soe2-ek8 pang5 e5 ke3-a2 teng2 loh."
+        ],
+        [
+          "唉唉、汝是狂是否、此號水要按那落去洗、尚未到為溫燒都無、恰若冷水一樣、著更添火炭。",
+          "Oe2 oe2, lu2 si7 siau2 si7 m7, chit ho7 chui2 beh hoann7 na2 loh8 khi3 soe2, iau2-boe7 kau3 la5-lun-sio to bo5, kah-na2 leng2-chui2 chit8-iunn7, tioh8 koh thinn he2-thoann3."
+        ],
+        [
+          "噯、豈有彼冷是否……、我是即手置落去看的時、適好燒……。",
+          "Aih, kiam2 u7 hiah leng2 si7 m7 ……, goa2 si7 chiah chhiu2 he7 loh8 khi3 khoann3 e5 si5, tu2-ho2 sio ……."
+        ],
+        [
+          "汝是無與伊撈撈、敢是干乾  看頂頭的水燒燒即叫我洗是否。",
+          "Lu2 si7 bo5 ka7 i la7-la7, kann2 si7 kan-ta  khoann3 teng2-thau5 e5 chui2 sio sio chiah kio3 goa2 soe2 si7 m7."
+        ],
+        [
+          "是咧、我此早起真無閑、去買菜返來到處、就被汝趕到要死去、續戇戇即有如此生、實在是真不著、得罪得罪、後次得確較斟酌。",
+          "Si7 leh, goa2 chiah cha2-khi2 chin bo5 eng5, khi3 boe2 chhai3 tng2 lai5 kau3 te3, chiu7 hou7 lu2 koann2 kah beh si2 khi3, soa3 gong7 gong7 chiah u7 an2-ni sinn, sit8-chai7 si7 chin m7 tioh8, tek-choe7 tek-choe7, au7 pai2 tek-khak khah chim-chiok."
+        ],
+        [
+          "元來汝是生狂鬼、見創甚麼攏是此號欵、",
+          "Goan5-lai5 lu2 si7 chhinn-kong5 kui2, kinn3 chhong3 sim2-mih8 long2 si7 chit ho7 khoan2,"
+        ],
+        [
+          "所以即屢屢做不著的、不管做甚麼事情都免彼呢倉惶、心肝著按定即來做、若如此、較沒失錯今、過身了後的事情、講到怎樣亦是補沒轉、後來著較斟酌即能使得。",
+          "Sou2-i2 chiah tauh8-tauh8 choe3 m7 tioh8 e5, put-koan2 choe3 sim2-mih8 tai7-chi3 to bian2 hiah-nih8 chhong-hong5, sim-koann tioh8 hoann7 teng7 chiah lai5 choe3, na7 an2-ni, khah boe7 sit-chho3 tann, ke3 sin liau2-au7 e5 tai7-chi3, kong2 kah choann2-iunn7 iah8 si7 pou2 boe7 choan2, au7-lai5 tioh8 khah chim-chiok chiah oe7 sai2 tit."
+        ],
+        [
+          "好好、今我亦能曉得、後來得確較斟酌。",
+          "Ho2 ho2, tann goa2 iah8 oe7 hiau2 tit, au7-lai5 tek-khak khah chim-chiok."
+        ],
+        [
+          "呵、清泉兄、汝要何去。",
+          "Oh, Chheng-choann5 hiann, lu2 beh to2 khi3."
+        ],
+        [
+          "我要去洗浴。",
+          "Goa2 beh khi3 soe2-ek8."
+        ],
+        [
+          "歟、我亦適當要去洗、汝是要去何位的浴間洗。",
+          "Honn7, goa2 iah8 tu2 tioh8 beh khi3 soe2, lu2 si7 beh khi3 to2-ui7 e5 ek8 keng soe2."
+        ],
+        [
+          "我常時去文武街貯蓄銀行較去一二間彼洗。",
+          "Goa2 siong5 si5 khi3 Bun5-bu2 koe thu2-thiok gun5-hang5 khah khi3 chit8 nng7 keng hia soe2."
+        ],
+        [
+          "歟、汝亦去彼間洗是否、不知怎樣仔攏不曾遇著嗬、",
+          "Honn7, lu2 iah8 khi3 hit keng soe2 si7 m7, m7 chai choann2-iunn7 a2 long2 m7 bat gu7 tioh8 honnh,"
+        ],
+        [
+          "汝是各暗來洗是否。",
+          "Lu2 si7 tak8 am3 lai5 soe2 si7 m7."
+        ],
+        [
+          "無啊、一禮拜來洗二三次而已。",
+          "Bo5 ah, chit8 le2-pai3 lai5 soe2 nng7 sann pai2 nia7-nia7."
+        ],
+        [
+          "歟、我是洗月每日來洗。",
+          "Honn7, goa2 si7 soe2 geh8 mui2 jit8 lai5 soe2."
+        ],
+        [
+          "歟、今到位了、請汝先入去。",
+          "Honn7, tann kau3 ui7 lah, chhiann2 lu2 seng jip8--khi3."
+        ],
+        [
+          "若如此、較失禮。",
+          "Na7 an2-ni, khah sit le2."
+        ],
+        [
+          "嚄、下昏暗的燒水少到、又更真燒、",
+          "Hoa7, e5-hng am3 e5 sio-chui2 chio2 kah, iu7-koh chin sio,"
+        ],
+        [
+          "沒落去、唉、水傷燒嘮、著更透冷水。",
+          "Boe7 loh8--khi3, oe2, chui2 siunn sio loh, tioh8 koh thau3 leng2-chui2."
+        ],
+        [
+          "嗬來。",
+          "honnh lai5."
+        ],
+        [
+          "今、適好燒了、水不可更來。",
+          "Tann, tu2-ho2 sio lah, chui2 m7-thang koh lai5."
+        ],
+        [
+          "唉、無聽見是否、今好咯。",
+          "Oe2, bo5 thiann-kinn3 si7 m7, tann ho2 loh."
+        ],
+        [
+          "與汝講是免咯、汝亦不聽、水直直放來、此次是顛倒傷冷去、著更透燒的來。",
+          "Kap lu2 kong2 si7 bian2 loh, lu2 iah8 m7 thiann, chui2 tit8-tit8 pang3 lai5, chit pai2 si7 tian-to3 siong leng2 khi3, tioh8 koh thau3 sio e5 lai5."
+        ],
+        [
+          "好、隨時更創給燒。",
+          "Ho2, sui5 si5 koh chhong3 hou7 sio."
+        ],
+        [
+          "唉、要透燒水著先通知即來放、不可恬恬放燒水來、若是恬恬放來就能盪著、真危險。",
+          "Oe2, beh thau3 sio-chui2 tioh8 seng thong-ti chiah lai5 pang3, m7-thang tiam7-tiam7 pang3 sio-chui2 lai5. Na7 si7 tiam7-tiam7 pang3 lai5 chiu7 oe7 thng3 tioh8, chin gui5-hiam2."
+        ],
+        [
+          "嚄、下昏暗的浴池水、濁濁真污穢、我不敢落去洗。",
+          "Hoa7, e5-hng am3 e5 ek8-ti5 chui2, lo5-lo5 chin u3-oe3, goa2 m7 kann2 loh8 khi3 soe2."
+        ],
+        [
+          "彼免講、汝是此呢晏即來洗、",
+          "Hit bian2 kong2, lu2 si7 chiah-nih8 oann3 chiah lai5 soe2,"
+        ],
+        [
+          "較加嗎著污穢、汝若嫌腌臢、著較早來洗、若較早來洗就較清氣。",
+          "Khah ke mah tioh8 u3-oe3, lu2 na7 hiam5 am-cham, tioh8 khah cha2 lai5 soe2, na7 khah cha2 lai5 soe2 chiu7 khah chheng-khi3."
+        ],
+        [
+          "唉、不可站在內面洗、著出來外面洗、恁本地人各個都站在內面洗、所以即水能快污穢。",
+          "Oe2, m7-thang tiam3 ti7 lai7-bin7 soe2, tioh8 chhut lai5 goa7-bin7 soe2, lin2 pun2 toe7 lang5 tak8 e5 to tiam3 ti7 lai7-bin7 soe2, sou2-i2 chiah chui2 oe7 khoai3 u3-oe3."
+        ],
+        [
+          "嚄、此土腳滑到如此、若無  張持行就續能倒落去。",
+          "Hoa7, chia thou5-kha kut8 kah an2-ni, na7 bo5 tiunn-ti5 kiann5 chiu7 soa3 oe7 to2--loh8-khi3."
+        ],
+        [
+          "唉、湳水著較邊仔去湳。",
+          "Oe2, lam5 chui2 tioh8 khah pinn a2 khi3 lam5."
+        ],
+        [
+          "唉、不可竪在湳水、著踞落去湳。",
+          "Oe2, m7-thang khia7 teh lam5 chui2, tioh8 khu5 loh8 khi3 lam5."
+        ],
+        [
+          "要湳水著較細膩、不可湳著別人的身軀。",
+          "Beh lam5 chui2 tioh8 khah se3-ji7, m7-thang lam5 tioh8 pat8-lang5 e5 seng-khu."
+        ],
+        [
+          "唉、較細膩咧、水能噴著咯。",
+          "Oe2, khah se3-ji7 leh, chui2 oe7 phun3--tioh8 loh."
+        ],
+        [
+          "盻、汝在用的彼塊雪文是真香、",
+          "He7, lu2 teh eng7 e5 hit te3 soat-bun5 si7 chin phang,"
+        ],
+        [
+          "彼是甚麼標的。",
+          "He si7 sim2-mih8 phiau e5."
+        ],
+        [
+          "這是跑馬標的嘮。",
+          "Che si7 phau2 be2 phiau e5 loh."
+        ],
+        [
+          "歟、在何位買的。",
+          "Honn7, ti7 to2-ui7 boe2 e5."
+        ],
+        [
+          "在府前街長谷川商行買的。",
+          "Ti7 Hu2-cheng5 koe Tiong5-kok-chhoan siong-hang5 boe2 e5."
+        ],
+        [
+          "嚄、下昏暗的浴池水清到如此、浸在內面的人的身軀看現現。",
+          "Hoa7, e5-hng am3 e5 ek8-ti5 chui2 chheng kah an2-ni, chim3 ti7 lai7-bin7 e5 lang5 e5 seng-khu khoann3 hian7-hian7."
+        ],
+        [
+          "有影、水此呢清、全身軀都被人看現現、婦人人不敢落去洗。",
+          "U7 iann2, chui2 chiah-nih8 chheng, choan5 seng-khu to hou7 lang5 khoann3 hian7-hian7, hu7-jin5-lang5 m7 kann2 loh8 khi3 soe2."
+        ],
+        [
+          "恁內地人各個都愛清氣相、",
+          "Lin2 loe7-te7 lang5 tak8 e5 to ai3 chheng-khi3 sann,"
+        ],
+        [
+          "每日去洗身軀真好。",
+          "Mui2 jit8 khi3 soe2 seng-khu chin ho2."
+        ],
+        [
+          "我起頭是有看見恁內地人在洗身軀、一身光瑠瑠、干乾腌臢所在用面巾與伊掩得而已、不止歹看相、我不敢去洗浴間洗、不拘彼日被朋友招、去洗浴間洗、起頭是較不慣勢、不止歹勢歹勢、不拘此久是洗了較慣勢、",
+          "Goa2 khi2-thau5 si7 u7 khoann3-kinn3 lin2 loe7-te7 lang5 teh soe2 seng-khu, chit8 sin kng liu-liu, kan-ta am-cham sou2-chai7 eng7 bin7-kun ka7 i ng teh nia7-nia7, put-chi2 phainn2 khoann3 sann, goa2 m7 kann2 khi3 soe2-ek8-keng soe2, m7-ku2 hit jit8 hou7 peng5-iu2 chio, khi3 soe2-ek8-keng soe2, khi2-thau5 si7 khah m7 koan3-si3, put-chi2 phainn2-se3 phainn2-se3, m7-ku2 chit ku2 si7 soe2 liau2 khah koan3-si3,"
+        ],
+        [
+          "若是一日無去洗就身軀刺蜴到擋沒住。",
+          "Na7 si7 chit8 jit8 bo5 khi3 soe2 chiu7 seng-khu chhiah-iah8 kah tong3 boe7 toa3."
+        ],
+        [
+          "此幾日感著風、無去洗身軀、身軀污漬到要死。",
+          "Chia kui2 jit8 kam2 tioh8 hong, bo5 khi3 soe2 seng-khu, seng-khu i3-chi3 kah beh si2."
+        ],
+        [
+          "大家相替換擦加脊好否。",
+          "Tai7-ke sann thoe3-oann7 lu3 ka-chiah ho2 m7."
+        ],
+        [
+          "加脊擦沒著、勞力汝、與我擦一下好否。",
+          "Ka-chiah lu3 boe7 tioh8, boa5 lat8 lu2, kap goa2 lu3 chit8-e7 ho2 m7."
+        ],
+        [
+          "好、我與汝擦、汝的面巾給我。",
+          "Ho2, goa2 kap lu2 lu3, lu2 e5 bin7-kun hou7 goa2."
+        ],
+        [
+          "免咯、汝的面就好嘮。",
+          "Bian2 loh, lu2 e5 bin7 chiu7 ho2 loh."
+        ],
+        [
+          "面巾著不可拵到傷乾、略略仔揾澹即來擦。",
+          "Bin7-kun tioh8 m7-thang chun7 kah siunn ta, lioh8-lioh8-a2 un3 tam5 chiah lai5 lu3."
+        ],
+        [
+          "好、如此擦了較沒痛。",
+          "Ho2, an2-ni lu3 liau2 khah boe7 thiann3."
+        ],
+        [
+          "盻、汝是真賢嫌恬恬給我擦咧、汝若賢嫌、我即存意較  出力擦。",
+          "He7, lu2 si7 chin gau5 hiam5 tiam7-tiam7 hou7 goa2 lu3 leh, lu2 na7 gau5 hiam5, goa2 chiah chun5 i3 khah  chhut-lat8 lu3."
+        ],
+        [
+          "唉、較輕手咧、像汝彼大力擦就能脫皮。",
+          "Oe2, khah khin chhiu2 leh, chhiunn7 lu2 hiah toa7 lat8 lu3 chiu7 oe7 liu3-phe5."
+        ],
+        [
+          "不可講到彼呢凸風。",
+          "M7-thang kong2 kah hiah-nih8 phong3-hong."
+        ],
+        [
+          "不是如此講、實在是痛到威威鑽。",
+          "M7 si7 an2-ni kong2, sit8-chai7 si7 thiann3 kah ui-ui-chng3."
+        ],
+        [
+          "汝是有如此講、不拘生垢生到歸堆、若無較出力擦就擦沒起。",
+          "Lu2 si7 u7 an2-ni kong2, m7-ku2 sinn kau2 sinn kah kui tui, na7 bo5 khah chhut-lat8 lu3 chiu7 lu3 boe7 khi2."
+        ],
+        [
+          "免假有心、如此就好嘮。",
+          "Bian2 ke2 u7 sim, an2-ni chiu7 ho2 loh."
+        ],
+        [
+          "我是拼性命與汝擦加脊、續被汝講此號話、實在是真無偏頭、今我亦不與汝擦就是。",
+          "Goa2 si7 piann3 senn3-mia7 kap lu2 lu3 ka-chiah, soa3 hou7 lu2 kong2 chit ho7 oe7, sit8-chai7 si7 chin bo5 phian thau5, tann goa2 iah8 m7 kap lu2 lu3 chiu7 si7."
+        ],
+        [
+          "嚄、汝是真快變面、免怒氣到如此嗎。",
+          "Hoa7, lu2 si7 chin khoai3 pian3 bin7, bian2 siu7-khi3 kah an2-ni mah."
+        ],
+        [
+          "無啊、何有怒氣、啊喲寒到、",
+          "Bo5 ah, siann2 u7 siu7-khi3, a5-ioh koann5 kah,"
+        ],
+        [
+          "要更落去浸。",
+          "Beh koh loh8 khi3 chim3."
+        ],
+        [
+          "做大稻埕的區長黃玉階君唱首、設一個斷髮不改裝會以來、鉸頭鬃尾的人一直多起來、在街裡孜孜有看見穿台灣衫、無頭鬃尾的人真多、起頭是看了較不慣勢較歹看、不拘近來是看了較慣勢較沒歹看。",
+          "Choe3 Toa7-tiu7-tiann5 e5 khu-tiunn2 ng5 Giok8-kai kun chhiong3-siu2, siat chit8 e5 toan7-hoat put-kai2-chong-hoe7 i2-lai5, ka thau5-chang be2 e5 lang5 it-tit8 choe7 khi2 lai5, ti7 koe nih8 chu-chu u7 khoann3-kinn3 chheng7 Tai5-oan5 sann, bo5 thau5-chang be2 e5 lang5 chin choe7, khi2-thau5 si7 khoann3 liau2 khah m7 koan3-si3 khah phainn2 khoann3, m7-ku2 kun7 lai5 si7 khoann3 liau2 khah koan3-si3 khah boe7 phainn2 khoann3."
+        ],
+        [
+          "尚有個是早早就剪髮、頭毛捋到金閃閃、穿時欵的洋服、戴時派的帽仔、穿紅皮鞋、咬色牙煙、手夯一枝拐仔、搖搖擺擺在行的樣相是內地的紳士亦續沒可比。",
+          "Iau2 u7 e5 si7 cha2 cha2 chiu7 chian2-hoat, thau5-mng5 loah8 kah kim sih-sih, chheng7 si5-khoan2 e5 iunn5-hok8, ti3 si5 phai3 e5 bo7-a2, chheng7 ang5 phe5-oe5, ka7 sek-ga5 hun, chhiu2 gia5 chit8 ki koai2-a2, io5-io5 pai2-pai2 teh kiann5 e5 iunn7-siunn3 si7 loe7-te7 e5 sin-su7 iah8 soa3 boe7 thang pi2."
+        ],
+        [
+          "有錢人是激外氣激到甚麼欵都無要緊、",
+          "U7 chinn5 lang5 si7 kek goa7 khi3 kek kah sim2-mih8 khoan2 to bo5 iau3-kin2,"
+        ],
+        [
+          "不拘不是講剪髮著像如此激欵即能使得、此剪髮是為著利便、得確不是講要激派的意思、汝看咧、內地人是穿自本的日本衫自自在在在行、內地人穿日本舊底的衫與臺灣人穿從來的臺灣衫、豈有爭差是否、元來想著歹看東西的人、",
+          "M7-ku2 m7 si7 kong2 chian2-hoat tioh8 chhiunn7 an2-ni kek khoan2 chiah oe7 sai2 tit, chia chian2-hoat si7 ui7 tioh8 li7-pian7, tek-khak m7 si7 kong2 beh kek phai3 e5 i3-su3, lu2 khoann3 leh, loe7-te7 lang5 si7 chheng7 tui3 pun2 e5 Jit8-pun2 sann tui3 chu7-chai7 ti7 teh kiann5, loe7-te7 lang5 chheng7 Jit8-pun2 ku7-te2 e5 sann kap Tai5-oan5 lang5 chheng7 chiong5-lai5 e5 Tai5-oan5 sann, kiam2 u7 cheng-chha si7 m7, goan5-lai5 siunn7 tioh8 phainn2 khoann3 tang-sai e5 lang5,"
+        ],
+        [
+          "我想了真沒曉得。",
+          "Goa2 siunn7 liau2 chin boe7 hiau2 tit."
+        ],
+        [
+          "汝亦敢是如此在想的抑不是、到今在躊躇、尚未剪髮。",
+          "Lu2 iah8 kann2 si7 an2-ni teh siunn7 e5 a2 m7 si7, kau3 tann teh tiu5-tu5, iau2-boe7 chian2-hoat."
+        ],
+        [
+          "不是如此、我是衣裳東西外貌的事情是較無要緊、我尚未決斷是孤孤有一個理由、就是尚未能曉講日本話一條而已、",
+          "M7 si7 an2-ni, goa2 si7 i-chiunn5 tang-sai goa7-mau7 e5 tai7-chi3 si7 khah bo5 iau3-kin2, goa2 iau2-boe7 koat-toan7 si7 kou-kou u7 chit8 e5 li2-iu5, chiu7 si7 iau2-boe7 oe7 hiau2 kong2 Jit8-pun2 oe7 chit8 tiau5 nia7-nia7,"
+        ],
+        [
+          "平常對答的話、若是能曉講就隨時要去剪。",
+          "Peng5-siong5 tui3-tap e5 oe7, na7 si7 oe7 hiau2 kong2 chiu7 sui5 si5 beh khi3 chian2."
+        ],
+        [
+          "彼是推詞嘮、汝亦不是講全然沒曉講、像汝彼能就能將就咧、較深的話是剪髮了後緩緩仔來學亦是沒緩嗎、如此來講的時候、汝無剪髮的理由是續無去、今著順腳來去剪、",
+          "He si7 the-su5 loh, lu2 iah8 m7 si7 kong2 choan5-jian5 boe7 hiau2 kong2, chhiunn7 lu2 hiah oe7 chiu7 oe7 chiong-chiu7 leh, khah chhim e5 oe7 si7 chian2-hoat liau2-au7 un5-un5-a2 lai5 oh8 iah8 si7 boe7 ban7 mah, an2-ni lai5 kong2 e5 si5-chun7, lu2 bo5 chian2-hoat e5 li2-iu5 si7 soa3 bo5 khi3, tann tioh8 sun7 kha lai5 khi3 chian2,"
+        ],
+        [
+          "我即[毛^火]汝來去。",
+          "Goa2 chiah chhoa7 lu2 lai5 khi3."
+        ],
+        [
+          "我亦不是講不愛剪、在想早晏就要剪、若如此隨時要來去剪、汝有熟識店抑無。",
+          "Goa2 iah8 m7 si7 kong2 m7 ai3 chian2, teh siunn7 cha2 oann3 chiu7 beh chian2, na7 an2-ni sui5 si5 beh lai5 khi3 chian2, lu2 u7 sek8 bat tiam3 a2 bo5."
+        ],
+        [
+          "有、我即[毛^火]汝來去、就是此間嘮、此間是較工夫。",
+          "U7, goa2 chiah chhoa7 lu2 lai5 khi3, chiu7 si7 chit keng loh, chit keng si7 khah kang ang."
+        ],
+        [
+          "隨時能沒。",
+          "Sui5 si5 oe7 boe7."
+        ],
+        [
+          "能、請坐此隻交椅、汝是要鉸頭鬃尾是否。",
+          "Oe7, chhiann2 che7 chit chiah kau-i2, lu2 si7 beh ka thau5-chang be2 si7 m7."
+        ],
+        [
+          "是、汝若鉸了、著與我包新聞紙、我要提返去。",
+          "Si7, lu2 na7 ka liau2, tioh8 kap goa2 pau sin-bun5 choa2, goa2 beh thoeh8 tng2 khi3."
+        ],
+        [
+          "好、我與汝包到好勢、尚汝是要剪較短、抑是要剪到能捋開。",
+          "Ho2, goa2 kap lu2 pau kah ho2-se3, iau2 lu2 si7 beh chian2 khah te2, a2 si7 beh chian2 kah oe7 loah8 khui."
+        ],
+        [
+          "與我剪到能捋開咧。",
+          "Kap goa2 chian2 kah oe7 loah8 khui leh."
+        ],
+        [
+          "好、此長好否。",
+          "Ho2, chiah tng5 ho2 m7."
+        ],
+        [
+          "好、如此適好。",
+          "Ho2, an2-ni tu2-ho2."
+        ],
+        [
+          "著修耳仔抑免。",
+          "Tioh8 siu hinn7 a2 a2 bian2."
+        ],
+        [
+          "耳仔免修嘮。",
+          "Hinn7 a2 bian2 siu loh."
+        ],
+        [
+          "今、剪好了、來去彼洗。",
+          "Tann, chian2 ho2 lah, lai5 khi3 hia soe2."
+        ],
+        [
+          "抹淡薄油好否。",
+          "Boah tam7-poh8 iu5 ho2 m7."
+        ],
+        [
+          "抹淡薄就好、不可傷多、尚捋開彼跡與我抹淡薄香蠟。",
+          "Boah tam7-poh8 chiu7 ho2, m7-thang siong choe7, iau2 loah8 khui hit jia3 kap goa2 boah tam7-poh8 phang-lah8."
+        ],
+        [
+          "好好、今好了、請汝照鏡看覔。",
+          "Ho2 ho2, tann ho2 lah, chhiann2 lu2 chiau3 kiann3 khoann3 bai7."
+        ],
+        [
+          "啊喲、真正爽快。",
+          "A5-ioh, chin-chiann3 song2-khoai3."
+        ],
+        [
+          "唉、剃頭司阜來此。",
+          "Oe2, thi3-thau5 sai-hu7 lai5 chia."
+        ],
+        [
+          "嗬來。",
+          "honnh lai5."
+        ],
+        [
+          "汝是能曉剪頭毛、抑是干乾能曉修嘴鬚而已是否。",
+          "Lu2 si7 oe7 hiau2 chian2 thau5-mng5, a2 si7 kan-ta oe7 hiau2 siu chhui3-chhiu nia7-nia7 si7 m7."
+        ],
+        [
+          "攏能。",
+          "Long2 oe7."
+        ],
+        [
+          "您剃頭司阜是修面與鈎耳屎是真巧、不拘手較污穢、尚真臭、",
+          "Lin2 thi3-thau5 sai-hu7 si7 siu bin7 kap kau hinn7-sai2 si7 chin khiau2, m7-ku2 chhiu2 khah u3-oe3, ia7 chin chhau3,"
+        ],
+        [
+          "實在是真無話可講。",
+          "Sit8-chai7 si7 chin bo5 oe7 thang kong2."
+        ],
+        [
+          "尚汝在用的抹布是真污穢、若要對內地人、著做到清氣即好。",
+          "Iau2 lu2 ti7 eng7 e5 moa7-pou3 si7 chin u3-oe3, na7 beh tui3 loe7-te7 lang5, tioh8 choe3 kah chheng-khi3 chiah ho2."
+        ],
+        [
+          "若要做剪頭毛的頭路的時節、家需頭著創到清氣彼免講、第一要緊就是纏頷管的面巾與moa7身軀的白布是上少亦著  二日洗一次、",
+          "Na7 beh choe3 chian2 thau5-mng5 e5 thau5-lou7 e5 si5-choeh, ke-si-thau5 tioh8 chhong3 kah chheng-khi3 he bian2 kong2, te7-it iau3-kin2 chiu7 si7 tinn5 am7-kun2 e5 bin7-kun kap moa7 seng-khu e5 peh8 pou3 si7 chiunn7 chio2 iah8 tioh8  nng7 jit8 soe2 chit8 pai2,"
+        ],
+        [
+          "尚著漿湆漿到硬碻碻即好。",
+          "Ia7 tioh8 chiunn-am2 chiunn kah ngi7-khauh8-khauh8 chiah ho2."
+        ],
+        [
+          "汝是在地人抑是唐山人。",
+          "Lu2 si7 chai7-toe7 lang5 a2 si7 Tng5-soann lang5."
+        ],
+        [
+          "我是福州人。",
+          "Goa2 si7 hok chiu lang5."
+        ],
+        [
+          "汝對福州過來站在何位。",
+          "Lu2 tui3 hok chiu ke3 lai5 tiam3 ti7 to2-ui7."
+        ],
+        [
+          "初初過來臺灣彼時住在大稻埕、此候搬來在八甲庄居。",
+          "Chhou-chhou ke3 lai5 Tai5-oan5 hit si5 toa3 ti7 Toa7-tiu7-tiann5, chit chun7 poann lai5 ti7 Poeh-kah chng khia7."
+        ],
+        [
+          "汝講福州人、不拘汝講的話是與本地人攏不差、",
+          "Lu2 kong2 hok chiu lang5, m7-ku2 lu2 kong2 e5 oe7 si7 kap pun2 toe7 lang5 long2 m7 chhe,"
+        ],
+        [
+          "實在是真賢講。",
+          "Sit8-chai7 si7 chin gau5 kong2."
+        ],
+        [
+          "不是如此講。",
+          "M7 si7 an2-ni kong2."
+        ],
+        [
+          "剪頭毛與修嘴鬚、一次幾個錢。",
+          "Chian2 thau5-mng5 kap siu chhui3-chhiu, chit8 pai2 kui2 e5 chinn5."
+        ],
+        [
+          "一角銀嘮、干乾修嘴鬚而已就彼個一半價嘮。",
+          "Chit8 kak gun5 loh, kan-ta siu chhui3-chhiu nia7-nia7 chiu7 hit e5 chit8-poann3 ke3 loh."
+        ],
+        [
+          "您本地人一次剃頭與辮頭鬃尾是若多錢。",
+          "Lin2 pun2 toe7 lang5 chit8 pai2 thi3-thau5 kap pinn7 thau5-chang be2 si7 joa7 choe7 chinn5."
+        ],
+        [
+          "定價是五仙錢、不拘有個賞一角銀的亦有。",
+          "Teng7 ke3 si7 gou7 sian2 chinn5, m7-ku2 u7 e5 siunn2 chit8 kak gun5 e5 iah8 u7."
+        ],
+        [
+          "頭殼剃到光瑠瑠、要值幾個錢。",
+          "Thau5-khak thi3 kah kng liu-liu, beh tat8 kui2 e5 chinn5."
+        ],
+        [
+          "猶原是一角銀嘮。",
+          "Iu5-goan5 si7 chit8 kak gun5 loh."
+        ],
+        [
+          "唉、汝剃的剃了真痛、著較輕手咧。",
+          "Oe2, lu2 thi3 e5 thi3 liau2 chin thiann3, tioh8 khah khin chhiu2 leh."
+        ],
+        [
+          "鼻孔毛亦著剃。",
+          "Phinn7-khang mng5 iah8 tioh8 thi3."
+        ],
+        [
+          "尚用耳爬鈎耳屎、尚用消息攆耳孔。",
+          "Iau2 eng7 hinn7-pe5 kau hinn7-sai2, iau2 eng7 siau-sit lian2 hinn7-khang."
+        ],
+        [
+          "彼免講、我能曉得。",
+          "Hit bian2 kong2, goa2 oe7 hiau2 tit."
+        ],
+        [
+          "雖是內地人的剪髮店有起工錢、連您此個人亦續起價、實在是真無欵。",
+          "Sui si7 loe7-te7 lang5 e5 chian2-hoat tiam3 u7 khi2 kang-chinn5, lian5 lin2 chit e5 lang5 iah8 soa3 khi2 ke3, sit8-chai7 si7 chin bo5 khoan2."
+        ],
+        [
+          "您是無甚麼家需頭、尚無與人扒頭垢、尚無與人洗頭、尚無灑香水、所以算較賤亦是要緊嗎。",
+          "Lin2 si7 bo5 sim2-mih8 ke-si-thau5, iau2 bo5 kap lang5 pe5 thau5-kau2, iau2 bo5 kap lang5 soe2 thau5, iau2 bo5 hiu3 phang-chui2, sou2-i2 sng3 khah siok8 iah8 si7 iau3-kin2 mah."
+        ],
+        [
+          "您剃頭店是怎樣無洗人客頭殼、若是與人洗一下頭殼、亦是無甚麼傷重工的事情嗎。",
+          "Lin2 thi3-thau5 tiam3 si7 choann2-iunn7 bo5 soe2 lang5-kheh thau5-khak, Na7 si7 kap lang5 soe2 chit8-e7 thau5-khak, iah8 si7 bo5 sim2-mih8 siong-tiong7 kang e5 tai7-chi3 mah."
+        ],
+        [
+          "您剃頭店是干乾剪頭毛而已、",
+          "Lin2 thi3-thau5 tiam3 si7 kan-ta chian2 thau5-mng5 nia7-nia7,"
+        ],
+        [
+          "尚無與人做甚貨、就如此息、要值一角、實在是傷無欵後來是上少亦著、洗人客的頭殼好否。",
+          "Iau2 bo5 kap lang5 choe3 siann2 he3, chiu7 an2-ni soah, beh tat8 chit8 kak, sit8-chai7 si7 siong bo5 khoan2 au7-lai5 si7 chiunn7 chio2 iah8 tioh8, soe2 lang5-kheh e5 thau5-khak ho2 m7."
+        ],
+        [
+          "唉、有燒水無、若無、冷水亦無要緊、用面桶皅一個來、給我洗面積。",
+          "Oe2, u7 sio-chui2 bo5, na7 bo5, leng2-chui2 iah8 bo5 iau3-kin2, eng7 bin7-thang2 phang5 chit8 e5 lai5, hou7 goa2 soe2 bin7 chek."
+        ],
+        [
+          "好、面巾要值否。",
+          "Ho2, bin7-kun beh tat8 boe7."
+        ],
+        [
+          "面巾免咯、我有、若有雪文借我洗。",
+          "Bin7-kun bian2 loh, goa2 u7, na7 u7 soat-bun5 chioh goa2 soe2."
+        ],
+        [
+          "柴梳借我捋頭毛。",
+          "Chha5-soe chioh goa2 loah8 thau5-mng5."
+        ],
+        [
+          "您兜敢無虱篦嗬。",
+          "Lin2 tau kann2 bo5 sat-bin2 honnh."
+        ],
+        [
+          "此個照身鏡皅霧到如此、照了攏無明、著拭到清氣即好。",
+          "Chit e5 chio3-sin kiann3 pha-bu7 kah an2-ni, chio3 liau2 long2 bo5 beng5, tioh8 chhit kah chheng-khi3 chiah ho2."
+        ],
+        [
+          "內地人的剪髮店是工錢有較貴是較貴、不拘工課若工夫汝知否。",
+          "Loe7-te7 lang5 e5 chian2-hoat tiam3 si7 kang-chinn5 u7 khah kui3 si7 khah kui3, m7-ku2 khang-khe3 joa7 kang-hu lu2 chai m7."
+        ],
+        [
+          "我講汝聽、店內所有的家需頭、有較清氣彼免講、伊在用的鉸刀東西、磨到金閃閃、無給伊剪頭毛、干乾看亦是若涼暢汝知否。",
+          "Goa2 kong2 lu2 thiann, tiam3 lai7 sou2 u7 e5 ke-si-thau5, u7 khah chheng-khi3 he bian2 kong2, i teh eng7 e5 ka-to tang-sai, boa5 kah kim sih-sih, bo5 hou7 i chian2 thau5-mng5, kan-ta khoann3 iah8 si7 na7 liong7-than3 lu2 chai m7."
+        ],
+        [
+          "汝是免講到彼呢冷水盪鮓、汝若不愛、以後我亦不與汝剪頭毛就是。",
+          "Lu2 si7 bian2 kong2 kah hiah-nih8 leng2-chui2 thng3 theh8, lu2 na7 m7 ai3, i2-au7 goa2 iah8 m7 kap lu2 chian2 thau5-mng5 chiu7 si7."
+        ],
+        [
+          "盻、汝是真賢敲削人、我不愛聽、汝若嫌不愛、免來我此處剪頭毛亦能使得。",
+          "He7, lu2 si7 chin gau5 khau-siah lang5, goa2 m7 ai3 thiann, lu2 na7 hiam5 m7 ai3, bian2 lai5 goa2 chit te3 chian2 thau5-mng5 iah8 oe7 sai2 tit."
+        ],
+        [
+          "不是如此講、汝是真賢拿鬼不止不好、我是好意與汝講給汝聽的汝知否、汝是拿做我敲削呢、像汝彼賢拿影的時候、",
+          "M7 si7 an2-ni kong2, lu2 si7 chin gau5 liah8 kui2 put-chi2 m7 ho2, goa2 si7 ho2 i3 kap lu2 kong2 hou7 lu2 thiann e5 lu2 chai m7, lu2 si7 liah8 choe3 goa2 khau-siah nih8, chhiunn7 lu2 hiah gau5 liah8 iann2 e5 si5-chun7,"
+        ],
+        [
+          "連一句笑話都沒講咧、若如此、要按那與人應酬就好。",
+          "Lian5 chit8 ku3 chhio3-oe7 to boe7 kong2 leh, na7 an2-ni, beh an2-noa2 kap lang5 eng3-siu5 chiu7 ho2."
+        ],
+        [
+          "盻、我真不著、汝不可怒氣、請汝更講給我聽咧。",
+          "He7, goa2 chin m7 tioh8, lu2 m7-thang siu7-khi3, chhiann2 lu2 koh kong2 hou7 goa2 thiann leh."
+        ],
+        [
+          "好、汝若如此講、今我亦無怒氣、不拘聽見汝的話、人續不稱意、等候別日更來給  汝剪頭毛的時即來講、",
+          "Ho2, lu2 na7 an2-ni kong2, tann goa2 iah8 bo5 siu7-khi3, m7-ku2 thiann-kinn3 lu2 e5 oe7, lang5 soa3 m7 chheng i3, theng3-hau7 pat8 jit8 koh lai5 hou7  lu2 chian2 thau5-mng5 e5 si5 chiah lai5 kong2,"
+        ],
+        [
+          "今我要返去。",
+          "Tann goa2 beh tng2 khi3."
+        ],
+        [
+          "盻、無雕琢的人、實在是教沒上道。",
+          "He7, bo5 tiau-tok e5 lang5, sit8-chai7 si7 ka3 boe7 chiunn7-to7."
+        ],
+        [
+          "唉、汝是怎樣彼呢吐大氣。",
+          "Oe2, lu2 si7 choann2-iunn7 hiah-nih8 thou3 toa7-khui3."
+        ],
+        [
+          "無啊、無甚事情。",
+          "Bo5 ah, bo5 siann2 tai7-chi3."
+        ],
+        [
+          "唉、借問汝、要去枋橋的路是對何一條路去。",
+          "Oe2, chioh mng7 lu2, beh khi3 Pang-kio5 e5 lou7 si7 tui3 siann2 chit8 tiau5 lou7 khi3."
+        ],
+        [
+          "對此直直去、去到三叉路彼、即穵對倒旁去、就到枋橋。",
+          "Tui3 chia tit8-tit8 khi3, khi3 kau3 sann-chhe-lou7 hia, chiah oat tui3 to3 peng5 khi3, chiu7 kau3 Pang-kio5."
+        ],
+        [
+          "歟、勞力嗬、此去有若遠。",
+          "Honn7, boa5 lat8 honnh, chia khi3 u7 joa7 hng7."
+        ],
+        [
+          "無若遠連鞭就到。",
+          "Bo5 joa7 hng7 liam5-pinn chiu7 kau3."
+        ],
+        [
+          "無上里路、幾百步腳而已。",
+          "Bo5 chiunn7 li2-lou7, kui2 pah pou7 kha nia7-nia7."
+        ],
+        [
+          "歟、對此看能著沒。",
+          "Honn7, tui3 chia khoann3 oe7 tioh8 boe7."
+        ],
+        [
+          "彼個竹圍遮得、此看沒著、彼個穵角穵過去、就看能著。",
+          "Hit e5 tek-ui5 jia teh, chia khoann3 boe7 tioh8, hit e5 oat-kak oat ke3 khi3, chiu7 khoann3 oe7 tioh8."
+        ],
+        [
+          "要去三角湧的路是真彎穵、在此與汝講亦沒清楚、不過對此彎對正旁去、去到十字路頭彼、更問人即知。",
+          "Beh khi3 sann kak eng2 e5 lou7 si7 chin oan-oat, ti7 chia kap lu2 kong2 iah8 boe7 chheng-chho2, put-ko3 tui3 chia oan tui3 chiann3 peng5 khi3, khi3 kau3 sip8-ji7 lou7-thau5 hia, koh mng7 lang5 chiah chai."
+        ],
+        [
+          "此去到穵角仔穵過去、行到十外步腳、",
+          "Chia khi3 kau3 oat-kak-a2 oat ke3 khi3, kiann5 kau3 chap8 goa7 pou7 kha,"
+        ],
+        [
+          "即彎對倒邊旁的小路直直去就到位。",
+          "Chiah oan tui3 to3 pinn peng5 e5 sio2 lou7 tit8-tit8 khi3 chiu7 kau3 ui7."
+        ],
+        [
+          "此去有一條嶇、彼條嶇的身邊、有一條小路、對彼條路直直去、過一個橋、就又一條坦橫路彼條路穵對正旁去、無若遠就到位。",
+          "Chia khi3 u7 chit8 tiau5 kia7, hit tiau5 kia7 e5 sin-pinn, u7 chit8 tiau5 sio2 lou7, tui3 hit tiau5 lou7 tit8-tit8 khi3, ke3 chit8 e5 kio5, chiu7 koh chit8 tiau5 than2-hoainn5 lou7 hit tiau5 lou7 oat tui3 chiann3 peng5 khi3, bo5 joa7 hng7 chiu7 kau3 ui7."
+        ],
+        [
+          "歟、路好行抑歹行。",
+          "Honn7, lou7 ho2 kiann5 a2 phainn2 kiann5."
+        ],
+        [
+          "平平的路好行好行。",
+          "Peng5-peng5 e5 lou7 ho2 kiann5 ho2 kiann5."
+        ],
+        [
+          "本是好行、不拘此幾日前鋪石屑仔即較歹行。",
+          "Pun2 si7 ho2 kiann5, m7-ku2 chia kui2 jit8 cheng5 phou chioh8 sap-a2 chiah khah phainn2 kiann5."
+        ],
+        [
+          "彼條算是田岸路、真坔真歹行。",
+          "Hit tiau5 sng3 si7 chhan5-hoann7 lou7, chin lam3 chin phainn2 kiann5."
+        ],
+        [
+          "此條路是透到何位。",
+          "Chit tiau5 lou7 si7 thau3 kau3 to2-ui7."
+        ],
+        [
+          "此條路是直直去就透圓山、去到半路就分一條路、彼條路是透錫口街。",
+          "Chit tiau5 lou7 si7 tit8-tit8 khi3 chiu7 thau3 Inn5-soann, khi3 kau3 poann3 lou7 chiu7 pun chit8 tiau5 lou7, hit tiau5 lou7 si7 thau3 Sek-khau2 koe."
+        ],
+        [
+          "要去金包里的路是對此去著否。",
+          "Beh khi3 Kim-pau-li2 e5 lou7 si7 tui3 chia khi3 tioh8 boe7."
+        ],
+        [
+          "汝是要去金包里是否、若如此行不著路、著更行倒翻、行到路墘有一個大石頭的所在、對彼穵落田岸直直去、就到透金包里的大路、汝若  到彼條大陸、",
+          "Lu2 si7 beh khi3 Kim-pau-li2 si7 m7, na7 an2-ni kiann5 m7 tioh8 lou7, tioh8 koh kiann5 to3-hoan, kiann5 kau3 lou7-kinn5 u7 chit8 e5 toa7 chioh8-thau5 e5 sou2-chai7, tui3 hia oat loh8 chhan5-hoann7 tit8-tit8 khi3, chiu7 kau3 thau3 Kim-pau-li2 e5 toa7 lou7, lu2 na7 kau3 hit tiau5 tai7-liok8,"
+        ],
+        [
+          "即向南去就到金包里。",
+          "Chiah hiong3 lam5 khi3 chiu7 kau3 Kim-pau-li2."
+        ],
+        [
+          "彼條田岸是常時較無人行、又更真狹真歹行、不拘無別條路可行無法度。",
+          "Hit tiau5 chhan5-hoann7 si7 siong5 si5 khah bo5 lang5 kiann5, iu7-koh chin oeh8 chin phainn2 kiann5, m7-ku2 bo5 pat8 tiau5 lou7 thang kiann5 bo5 hoat-tou7."
+        ],
+        [
+          "第四十五節",
+          "Te7 si3-chap8-gou7 chat"
+        ],
+        [
+          "要去新店的路是何一條。",
+          "Beh khi3 sin tiam3 e5 lou7 si7 to2 chit8 tiau5."
+        ],
+        [
+          "要去新店的路是有二條、此去亦有路、彼去亦有路。",
+          "Beh khi3 sin tiam3 e5 lou7 si7 u7 nng7 tiau5, chia khi3 iah8 u7 lou7, hia khi3 iah8 u7 lou7."
+        ],
+        [
+          "歟、何一條較近。",
+          "Honn7, to2 chit8 tiau5 khah kun7."
+        ],
+        [
+          "此條較近是較近、不拘此條是舊路、路狹狹較歹行、彼條是比此條略略仔較遠、不拘新開的路真好行。",
+          "Chit tiau5 khah kun7 si7 khah kun7, m7-ku2 chit tiau5 si7 ku7 lou7, lou7 oeh8-oeh8 khah phainn2 kiann5, hit tiau5 si7 pi2 chit tiau5 lioh8-lioh8-a2 khah hng7, m7-ku2 sin khui e5 lou7 chin ho2 kiann5."
+        ],
+        [
+          "此去有一條大溪、本是有渡船、今敢無咯、若無就愛涉水。",
+          "Chia khi3 u7 chit8 tiau5 toa7 khoe, pun2 si7 u7 tou7-chun5, tann kann2 bo5 loh, na7 bo5 chiu7 ai3 liau5-chui2."
+        ],
+        [
+          "歟、溪水是有若深。",
+          "Honn7, khoe-chui2 si7 u7 na7 chhim."
+        ],
+        [
+          "無若深、到腳頭肟水而已。",
+          "Bo5 joa7 chhim, kau3 kha-thau5-u chui2 nia7-nia7."
+        ],
+        [
+          "無若深、淺淺仔而已。",
+          "Bo5 joa7 chhim, chhian2-chhian2 a2 nia7-nia7."
+        ],
+        [
+          "本成是真深、有所在是正人深、尚有所在是腳無到底。",
+          "Pun2-chiann5 si7 chin chhim, u7 sou2-chai7 si7 chiann3 lang5 chhim, iau2 u7 sou2-chai7 si7 kha bo5 tau3-ti2."
+        ],
+        [
+          "我不愛涉水、汝去叫一個人來負過。",
+          "Goa2 m7 ai3 liau5-chui2, lu2 khi3 kio3 chit8 e5 lang5 lai5 pe7 ke3."
+        ],
+        [
+          "好、我與汝叫。",
+          "Ho2, goa2 kap lu2 kio3."
+        ],
+        [
+          "要去彼處的路真彎曲、又更  去到半路就有幾那條的分路、",
+          "Beh khi3 hit te3 e5 lou7 chin oan-khiok, iu7-koh khi3 kau3 poann3 lou7 chiu7 u7 kui2 na2 tiau5 e5 pun lou7,"
+        ],
+        [
+          "所以有人[毛^火]去汝去即有路、若無人[毛^火]汝去就行無路。",
+          "Sou2-i2 u7 lang5 chhoa7 khi3 lu2 khi3 chiah u7 lou7, na7 bo5 lang5 chhoa7 lu2 khi3 chiu7 kiann5 bo5 lou7."
+        ],
+        [
+          "若如此、汝與我[毛^火]路好否。",
+          "Na7 an2-ni, lu2 kap goa2 chhoa7-lou7 ho2 m7."
+        ],
+        [
+          "好、我與汝[毛^火]路亦好、總是汝要幾個錢要倩我。",
+          "Ho2, goa2 kap lu2 chhoa7-lou7 iah8 ho2, chong2-si7 lu2 beh kui2 e5 chinn5 beh chhiann3 goa2."
+        ],
+        [
+          "出在汝愛。",
+          "Chhut-chai7 lu2 ai3."
+        ],
+        [
+          "大人、勿講笑、實在是要給我幾個錢閣。",
+          "Toa7-lang5, boh8 kong2 chhio3, sit8-chai7 si7 beh hou7 goa2 kui2 e5 chinn5 koh."
+        ],
+        [
+          "我不曾倩人[毛^火]路不知影、做汝講要值若多。",
+          "Goa2 m7 bat chhiann3 lang5 chhoa7-lou7 m7 chai-iann2, choe3 lu2 kong2 beh tat8 joa7 choe7."
+        ],
+        [
+          "若如此、二角半給我。",
+          "Na7 an2-ni, nng7 kak-poann3 hou7 goa2."
+        ],
+        [
+          "好、能使得。",
+          "Ho2, oe7 sai2 tit."
+        ],
+        [
+          "唉、[毛^火]路的人著先行。",
+          "Oe2,  chhoa7-lou7 e5 lang5 tioh8 seng kiann5."
+        ]
+      ],
+      "篇名": "通信教授臺灣語講義錄"
+    }
+  ]
+}

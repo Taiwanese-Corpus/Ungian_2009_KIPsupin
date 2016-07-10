@@ -1,0 +1,5942 @@
+{
+  "出版年": "1998",
+  "出版者": "徐福全",
+  "文類": "俗諺",
+  "書名": "福全台諺語典",
+  "書寫系統": "漢字",
+  "資料": [
+    {
+      "段": [
+        [
+          "一世官，九世牛，三世寡婦",
+          "Tsit8 se3 kuann1, kau2 se3 gu5, sann1 se3 kua2-hu7"
+        ],
+        [
+          "一代大新婦，三代大子孫",
+          "Tsit8 tai7 tua7 sim1-pu7, sann1 tai7 tua7 kiann2-sun1"
+        ],
+        [
+          "一代娶矮某，三代出矮鼓",
+          "Tsit8 tai7 tshua7 e2 boo2, sann1 tai7 tshut4 ue2-koo2"
+        ],
+        [
+          "一代無好妻，三代無好子",
+          "Tsit8 tai7 bo5 ho2 tshe1, sann1 tai7 bo5 ho2 tsu2"
+        ],
+        [
+          "一代無好某，三代無好子",
+          "Tsit8 tai7 bo5 ho2 boo2, sann1 tai7 bo5 ho2 kiann2"
+        ],
+        [
+          "一代興，兩代賢，三代落臉",
+          "Tsit8 tai7 hing1, nng7 tai7 hian5, sann1 tai7 lui7-lian2"
+        ],
+        [
+          "一仙佛仔顧一個香爐[會+勿]著",
+          "Tsit8 sian1 hut8-a2 koo3 tsit8 e5 hiunn1-loo5 bue7-tiau5"
+        ],
+        [
+          "一好夾一歹，無兩好相排",
+          "Tsit8 ho2 kah4 tsit8 gai5, bo5 nng7 ho2 sio1 pai5"
+        ],
+        [
+          "一好配一歹，無兩好相排",
+          "Tsit8 ho2 phue3 tsit8 gai5, bo5 nng7 ho2 sio1 pai5"
+        ],
+        [
+          "一年動刀兵，十年[會+勿]太平",
+          "Tsit8 ni5 tang7 to1-ping1, tsap8 ni5 be7 thai3-ping5"
+        ],
+        [
+          "一池魚，[會+勿]堪得一尾三斑",
+          "Tsit8 ti5 hi5, be7-kham1-tit4 tsit8 bue2 sam1-pan1"
+        ],
+        [
+          "一百支籤詩，獨抽著罰油",
+          "Tsit8-pah4 ki1 tshiam1-si1, tok8 thiu1 tioh8 huat8-iu5"
+        ],
+        [
+          "一身死了了，只剩一支嘴",
+          "Tsit8 sin1 si2 liau2-liau2, tsi2 tshun1 tsit8 ki1 tshui3"
+        ],
+        [
+          "一個半斤翹，一個八兩翹",
+          "Tsit8 e5 puann3-kin1-khiau3, tsit8 e5 peh4-niu2-khiau3"
+        ],
+        [
+          "一個某，較贏三個天公祖",
+          "Tsit8 e5 boo2, khah4-iann5 sann1 e5 thinn1-kong1-tsoo2"
+        ],
+        [
+          "一兼兩顧，摸蛤仔兼洗褲",
+          "It4-kiam1-ji7-koo3, bong1 la1-a2 kiam1 se2 khoo3"
+        ],
+        [
+          "一捋平溜溜，無人敢舉手",
+          "Tsit8 luah8 penn5-liu1-liu1, bo5 lang5 kann2 gia5-tshiu2"
+        ],
+        [
+          "一壺金魚，[會+勿]堪得一尾三斑",
+          "Tsit8 oo5 kim1-hi5, be7-kham1-tit4 tsit8 bue2 sam1-pan1"
+        ],
+        [
+          "一稠豬仔，無一隻會刣哩",
+          "Tsit8 tiau5 ti1-a2, bo5 tsit8 tsiah4 e7 thai5-li3"
+        ],
+        [
+          "一暝體體步，天光無半步",
+          "Tsit8 me5 the2-the2-poo7, thinn1-kuinn1 bo5-puann3-poo7"
+        ],
+        [
+          "一豬，二子婿，三子，四丈夫",
+          "It4 ti1, ji7 kiann2-sai3, sann1 kiann2, si3 tiong7-hu1"
+        ],
+        [
+          "一聲天一聲地，一聲母一聲爸",
+          "Tsit8 siann1 thinn1 tsit8 siann1 te7, tsit8 siann1 bu2 tsit8 siann1 pe7"
+        ],
+        [
+          "一聲蔭九才，無聲毋免來",
+          "Tsit8 siann1 im3 kau2 tsai5, bo5 siann1 m7-bian2 lai5"
+        ],
+        [
+          "一擺洗被，免得逐日洗腳",
+          "Tsit8 pai2 se2 pue7, bian2-tit4 tak8-jit8 se2 kha1"
+        ],
+        [
+          "一鮸二[魚+加]鱲，三鯧四馬[魚+加]",
+          "It4 bian2 ji7 ka1-la7, sann1 tshiunn1 si3 be2-ka1"
+        ],
+        [
+          "一[魚+午]三魴鯊，三鯧四馬[魚+加]",
+          "It4 ngoo2 ji7 hang1-sua1, sann1 tshiunn1 si3 be2-ka1"
+        ],
+        [
+          "一二三四，子仔落水無代誌",
+          "Tsit8 nng7 sann1 si3, gin2-a2 loh8-tsui2 bo5 tai7-tsi3"
+        ],
+        [
+          "一千元，毋值著一個親生子",
+          "Tsit8-tshing1 khoo1, m7-tat8-tioh8 tsit8 e5 tshin1-senn1-kiann2"
+        ],
+        [
+          "一千銀，毋值著一個親生子",
+          "Tsit8-tshing1 gin5, m7-tat8-tioh8 tsit8 e5 tshin1-senn1-kiann2"
+        ],
+        [
+          "一支牛尾，遮著一個牛尻川",
+          "Tsit8 ki1 gu5-bue2, jia1 tioh8 tsit8 e5 gu5 kha1-tshuinn1"
+        ],
+        [
+          "一支嘴啾啾叫，時到無半步",
+          "Tsit8 ki1 tshui3 tsiu3-tsiu3-kio3, si5-kau3 bo5-puann3-poo7"
+        ],
+        [
+          "一日落雙流，無死都變老猴",
+          "Tsit8 jit8 loh8 siang1-lau5, bo5-si2 to1 pian3 lau7-kau5"
+        ],
+        [
+          "一代姨，兩代表，三代煞了了",
+          "Tsit8 tai7 i5, nng7 tai7 piau2, sann1 tai7 suah4-liau2-liau2"
+        ],
+        [
+          "一句問，一句還，無問較清閒",
+          "Tsit8 ku3 mui7, tsit8 ku3 hing5, bo5 mui7 khah4 tshing1-ing5"
+        ],
+        [
+          "一好配一歹，無兩好通相排",
+          "Tsit8 ho2 phue3 tsit8 gai5, bo5 nng7 ho2 thang1 sio1 pai5"
+        ],
+        [
+          "一年三百六十個戇的入街",
+          "Tsit8 ni5 sann1-pah4 lak8-tsap8 e5 gong7--e5 jip8-ke1"
+        ],
+        [
+          "一尾龍較贏狗母蛇一大堆",
+          "Tsit8 bue2 liong5 khah4-iann5 kau2-bo2-tsua5 tsit8 tua7 tui1"
+        ],
+        [
+          "一枝吃，一枝舉，三枝著喝掠",
+          "Tsit8 ki1 tsiah8, tsit8 ki1 gia5, sann1 ki1 tioh8 huah4-liah8"
+        ],
+        [
+          "一個子仔較鬧熱三個大人",
+          "Tsit8 e5 gin2-a2 khah4 lau7-jiat8 sann1 e5 tua7-lang5"
+        ],
+        [
+          "一個枕頭叩，較贏三個宰相",
+          "Tsit8 e5 tsim2-thau5 khok4, khah4-iann5 sann1 e5 tsai2-siong3"
+        ],
+        [
+          "一個查某子，允廿四個子婿",
+          "Tsit8 e5 tsa1-boo2-kiann2, in2 ji7-si3 e5 kiann2-sai3"
+        ],
+        [
+          "一個[毛^火]尿的，換一個泄屎的",
+          "Tsit8 e5 tshua7-jio7 e5, uann7 tsit8 e5 siam3-sai2 e5"
+        ],
+        [
+          "一粒飯粒，擲死三隻烏狗公",
+          "Tsit8 liap8 puinn7-liap8, tan3-si2 sann1 tsiah4 oo1-kau2-kang1"
+        ],
+        [
+          "一歲一歲差，倒落無睏也快活",
+          "Tt8-hue3-tsit8-hue3 tsha1, to2 loh8 bo5 khun3 ia7 khuann3-uah8"
+        ],
+        [
+          "一暝皆皆頭路，天光無半步",
+          "Tsit8 me5 kai1-kai1 thau5-loo7, thinn1-kuinn1 bo5-puann3-poo7"
+        ],
+        [
+          "一暝體體頭路，天光無半步",
+          "Tsit8 me5 the2-the2 thau5-loo7, thinn1-kuinn1 bo5-puann3-poo7"
+        ],
+        [
+          "一二三四，子仔人跋倒無代志",
+          "Tsit8 nng7 sann1 si3, gin2-a2-lang5 puah8-to2 bo5 tai7-tsi3"
+        ],
+        [
+          "一人傳十，十人傳百，百人傳千",
+          "Tsit8 lang5 thuan5 tsap8, tsap8 lang5 thuan5 pah4, pah4 lang5 thuan5 tshing1"
+        ],
+        [
+          "一不作，二不休，三不作，結冤仇",
+          "Tsit8 put4-tsoh4, ji7 put4-hiu1, sann1 put4-tsoh4, kiat4-uan1-siu5"
+        ],
+        [
+          "一代親，兩代表，三代毋識了了",
+          "Tsit8 tai7 tshin1, nng7 tai7 piau2, sann1 tai7 m7-bat4 liau2-liau2"
+        ],
+        [
+          "一句話三十六角，角角攏傷人",
+          "Tsit8 ku3 ue7 sann1-tsap8-lak8 kak4, kak4-kak 4 long2 siong1 lang5"
+        ],
+        [
+          "一句話有三十六角，角角會傷人",
+          "Tsit8 ku3 ue7 u7 sann1-tsap8-lak8 kak4, kak4-kak4 e7 siong1-lang5"
+        ],
+        [
+          "一年新婦，兩年話拄，三年師傅",
+          "Tsit8 ni5 sim1-pu7, nng7 ni5 ue7-tu2, sann1 ni5 sai1-hu7"
+        ],
+        [
+          "一枝草一點露，隱龜食雙點露",
+          "Tsit8 ki1 tshau2 tsit8 tiam2 loo7, un2-ku1 tsiah8 siang1 tiam2 loo7"
+        ],
+        [
+          "一馬不備兩鞍，忠將不事二主",
+          "It4 ma2 put4 pi7 liong2 an1, tiong1-tsiong3 put4 su7 ji7 tsu2"
+        ],
+        [
+          "一項煩惱無夠，煩惱別項來湊",
+          "Tsit8 hang7 huan5-lo2 bo5-kau3, huan5-lo2 pat8-hang7 lai5 tau3"
+        ],
+        [
+          "一萬銀也毋值著一個親生子",
+          "Tsit8-ban7 gin5 ia7 m7-tat8-tioh8 tsit8 e5 tshin1-senn1-kiann2"
+        ],
+        [
+          "一人煩惱一樣，無人煩惱相親像",
+          "Tsit8 lang5 huan5-lo2 tsit8 iunn7, bo5 lang5 huan5-lo2 sio1-tshin1-tshiunn7"
+        ],
+        [
+          "一日寅時的時陣，就想趁錢顧家門",
+          "Tsit8-jit8 in5-si5 e5 si5-tsun7, tioh8 siunn7 than3-tsinn5 koo3 ka1-mng5"
+        ],
+        [
+          "一等官，二等客，三等寡婦惹不得",
+          "It4-ting2 kuann1, ji7-ting2 kheh4, sann1-ting2 kua2-hu7 jia2-put4-tik4"
+        ],
+        [
+          "一日煩惱日落申，一暝煩惱雞報寅",
+          "Tsit8-jit8 huan5-lo2 jit8 loh8 sin1, tsit8 me5 huan5-lo2 ke1 po3 in5"
+        ],
+        [
+          "一世人的父母，兩世人的妗仔兄嫂",
+          "Tsit8-si3-lang5 e5 pe7-bo2, nng7-se3-lang5 e5 kim7-a2 hiann1-so2"
+        ],
+        [
+          "一年之計在於春，一日之計在於寅",
+          "Tsit8 ni5 tsi1 ke3 tsai7-i5 tshun1, tsit8 jit8 tsi1 ke3 tsai7-i5 in5"
+        ],
+        [
+          "一男一女一枝花，五男二女受拖磨",
+          "It4 lam5 it4 li2 it4-ki1-hua1, goo7 lam5 ji7 li2 siu7 thua1-bua5"
+        ],
+        [
+          "一哥兩嫂無要緊，一嫂兩哥叮咚叮",
+          "Tsit8 ko1 nng7 so2 bo5-iau3-kin2, tsit8 so2 nng7 ko tin1-tong7-tin1"
+        ],
+        [
+          "一家之計在於和，一生之計在於勤",
+          "It4 ka tsi1 ke3 tsai7-i5 ho5, it4-sing1 tsi1 ke3 tsai7-i5 khin5"
+        ],
+        [
+          "一家養女百家求，一馬不行百馬憂",
+          "It4 ka1 iang2 li2 pah4 ka1 kiu5, tsit8 ma2 put4 hing5 pah4 ma2 iu1"
+        ],
+        [
+          "一暝想著全頭路，天光其實無半步",
+          "Tsit8 me5 siunn7 tioh8 tsuan5 thau5-loo7, thinn1-kuinn1 ki5-sit8 bo5-puann3-poo7"
+        ],
+        [
+          "一樣米飼百樣人，一樣雞啄百樣蟲",
+          "Tsit8 iunn7 bi2 tshi7 pah4 iunn7 lang5, tsit8 iunn7 ke1 tok4 pah4 iunn7 thang5"
+        ],
+        [
+          "一生不為中，一生不為保，一生無煩惱",
+          "It4-sing1 put4-ui5 tiong1, it4-sing1 put4-ui5 po2, it4-sing1 bo5 huan5-lo2"
+        ],
+        [
+          "一箸嘴在哺，一箸在半路，一箸金金顧",
+          "Tsit8 ti7 tshui3 teh4 poo7, tsit8 ti7 tsai7 puann3-loo7, tsit8 ti7 kim1-kim1 koo3"
+        ],
+        [
+          "一更窮，二更富，三更起大厝，四更拆[會+勿]赴",
+          "Tsit8-kenn1 khing5, ji7-kenn1 hu3, sann1-kenn1 khi2 tua7-tshu3, si3-kenn1 thiah4 be7-hu3"
+        ],
+        [
+          "一個錢一核，兩個錢兩核，三個錢任你掘",
+          "Tsit8 e5 tsinn5 tsit8 hut8, nng7 e5 tsinn5 nng7 hut8, sann e5 tsinn5 jin7 li2 kut8"
+        ],
+        [
+          "一粒田螺煮九碗湯，三粒田螺煮一醃缸",
+          "Tsit8 liap8 tshan5-le5 tsi2 kau2 uann2 thng1, sann1 liap8 tshan5-le5 tsi2 tsit8 am1-kng1"
+        ],
+        [
+          "一個愛吃鹹，一個愛吃淡，兩個相扑挵破鼎",
+          "Tsit8 e5 ai3 tsiah8 kiam5, tsit8 e5 ai3 tsiah8 tsiann2, nng7 e5 sio1-phah4 long3 phua3 tiann2"
+        ],
+        [
+          "一更窮，二更富，三更起大厝，四更五更走[會+勿]赴",
+          "Tsit8-kenn1 khing5, ji7-kenn1 hu3, sann1-kenn1 khi2 tua7-tshu3, si3-kenn1 goo7-kenn1 tsau2 be7-hu3"
+        ],
+        [
+          "一叢樹[會+勿]堪千刀萬刀剉，一個人[會+勿]堪千聲萬聲嘈",
+          "Tsit8 tsang5 tshiu7 be7-kham1 tshian1-to1 ban7-to1 tshoh4, tsit8 e5 lang5 be7-kham1 tshian1-siann1 ban7-siann1 tso5"
+        ],
+        [
+          "一代大新婦二代大子孫，一代娶矮某，三代出矮鼓",
+          "Tsit8 tai7 tua7 sim1-pu7 ji7 tai7 tua7 kiann2-sun1, tsit8 tai7 tshua7 e2 boo2, sann1 tai7 tshut4 e2-koo2"
+        ],
+        [
+          "一錢，二姻緣，三美，四少年，五好嘴，六敢跪，七皮，八棉爛，九強，十歹死",
+          "It4 tsinn5, ji7 in1-ian5, sann1 sui2, si3 siau3-lian5, goo7 ho2-tshui3, lak8 kann2 kui7, tshit4 phi5, peh4 mi5-nua7, kau2 kiong5, tsap8 phainn2-si2"
+        ],
+        [
+          "一青巷，二源巷，三行街，四王爺宮，五福路，六路頭，七仔寮，八郊，九嵌仔，十路頭",
+          "It4 tshinn1-hang7, ji7 guan5-hang7, sann1 hang5-kue1, si3 ong5-ia5-king1, goo7 hok4-loo7, lak8 loo7-thau5, tshit4-a2-liau5, pueh4 kau1, kau2 kham3-a2, tsap8 loo7-thau5"
+        ],
+        [
+          "丁，財，貴，三字全",
+          "Ting1, tsai5, kui3, sann1 ji7 tsuan5"
+        ],
+        [
+          "丁蘭孝父母，刻木為爺娘",
+          "Ting1 Lan5 hau3 pe7-bu2, khik4 bok8 ui5 ia5-niu5"
+        ],
+        [
+          "丁蘭刻木為爸母",
+          "Ting1 Lan5 khik4 bok8 ui5 pe7-bu2"
+        ],
+        [
+          "七七四十九，問娘何月有，除卻母生年，再添一十九，是男逢單數，是女必成雙，是男若變女，三五入黃泉",
+          "Tshit4-tshit4 si3-tsap8-kau2, mui7 niu5 ho5 gueh8 iu2, tu5-khioh4 bo2 senn1 ni5, tsai3 thiam1 it4-sip8-kiu2, si7 lam5 hong5 tan1-soo3, si7 li2 pit4 sing5-siang1, si7 lam5 jiok8 pian3 li2, sam1-ngoo2 jip8 hong5-tsuan5"
+        ],
+        [
+          "七十三，八十四",
+          "Tshit4-tsap8-sann1, peh4-tsap8-si3"
+        ],
+        [
+          "七十三，八十四，閻王無叫家治去",
+          "Tshit4-tsap8-sann1, peh4-tsap8-si3, giam5-ong5 bo5 kio3 ka1-ti7 khi3"
+        ],
+        [
+          "七十無扑，八十無罵",
+          "Tshit4-tsap8 bo5 phah4, peh4-tsap8 bo5 ma7"
+        ],
+        [
+          "七十銅，八十鐵",
+          "Tshit4-tsap8 tang5, peh4-tsap8 thih4"
+        ],
+        [
+          "七土八土",
+          "Tshit4-thoo2-peh4-thoo2"
+        ],
+        [
+          "七仆八笑",
+          "Tshit4-phak4-peh4-tshio3"
+        ],
+        [
+          "七孔八竅",
+          "Tshit4-khong2-peh4-khiau3"
+        ],
+        [
+          "七少年八少年",
+          "Tshit4-siau3-lian5 peh4-siau3-lian5"
+        ],
+        [
+          "七尺槌，著留三尺後",
+          "Tshit4 tshioh4 thui5, tioh8-lau5 sann1 tshioh4 au7"
+        ],
+        [
+          "七月半鴨仔－－毋知死",
+          "Tshit4-gueh8-puann3 ah4-a2 m7-tsai1 si2"
+        ],
+        [
+          "七月初一，一雷九颱來",
+          "Tshit4-gueh8 tshe1-it4, tsit8 lui5 kau2 thai1 lai5"
+        ],
+        [
+          "七月無閒司功和尚",
+          "Tshit4--gueh8 bo5 ing5 sai1-kong1 hue5-siunn7"
+        ],
+        [
+          "七月無閒和尚",
+          "Tshit4--gueh8 bo5 ing5 hue5-siunn7"
+        ],
+        [
+          "七月頓頓飽，八月攏無巧",
+          "Tshit4--gueh8 tui3-tui3 pa2, peh4--gueh8 long2 bo5 kha2"
+        ],
+        [
+          "七仔笑八仔",
+          "Tshit4-a2 tshio3 peh4-a2"
+        ],
+        [
+          "七仔莫笑八仔",
+          "Tshit4-a2 bok8 tshio3 peh4-a2"
+        ],
+        [
+          "七仔較興八仔",
+          "Tshit4-a2 khah4-hing3 peh4-a2"
+        ],
+        [
+          "七叮八叮",
+          "Tshit4-ting1-peh4-ting1"
+        ],
+        [
+          "七企，八倒，九斜，十落",
+          "Tshit4 khia7, peh4 to2, kau2 tshia5, tsap8 loh8"
+        ],
+        [
+          "七子戲仔呼萬兵",
+          "Tshit4-tsu2-hi3-a2 hoo1 ban7 ping1"
+        ],
+        [
+          "七成，八敗，九月歹飼",
+          "Tshit4 sing5, peh4 pai7, kau2-gueh8 phainn2-tshi7"
+        ],
+        [
+          "七老八拄",
+          "Tshit4-lau7-peh4-tuh4"
+        ],
+        [
+          "七坐，八爬，九發牙",
+          "Tshit4 tse7, peh4 pe5, kau2 huat-ge5"
+        ],
+        [
+          "七坐，八爬，九發乳牙",
+          "Tshit4 tse7, peh4 pe5, kau2 huat4 ling1-ge5"
+        ],
+        [
+          "七抄八抄",
+          "Tshit4-tshau1-peh4-tshau1"
+        ],
+        [
+          "七步成章，古今罕有",
+          "Tshit4-poo7-sing5-tsiong1, koo2-kim1 han2-iu2"
+        ],
+        [
+          "七里香，盤過牆",
+          "Tshit4-li2-hiunn1, puann5 kue3 tshiunn5"
+        ],
+        [
+          "七刺五扒",
+          "Tshit-tshiah4-goo7-pe5"
+        ],
+        [
+          "七呼二萬五",
+          "Tshit4 hoo1 nng7-ban7-goo7"
+        ],
+        [
+          "七姊八妹",
+          "Tshit4-tsi2-peh4-muai7"
+        ],
+        [
+          "七府六十三縣全遊透透",
+          "Tshit4 hu2 lak8-tsap8-sann1 kuan7 tsuan5 iu5 thau3-thau3"
+        ],
+        [
+          "七拄八毋著，串拄硓[石+古]石",
+          "Tshit4 tu2 peh4 m7-tioh8, tshuan3 tu2 lo2-koo2-tsioh8"
+        ],
+        [
+          "七歪八差",
+          "Tshit4-uai1-peh4-tsha1"
+        ],
+        [
+          "七食八食",
+          "Tshit4-tsiah8-peh4-tsiah8"
+        ],
+        [
+          "七做八毋著",
+          "Tshit4-tso3-peh4-m7-tioh8"
+        ],
+        [
+          "七創八創",
+          "Tshit4-tshong3-peh4-tshong3"
+        ],
+        [
+          "七嘴八舌",
+          "Tshit4-hue3-peh4-tsih8"
+        ],
+        [
+          "七開八開",
+          "Tshit4-khai1-peh4-khai1"
+        ],
+        [
+          "七嫌八嫌",
+          "Tshit4-hiam5-peh4-hiam5"
+        ],
+        [
+          "七嫌八嫌，嫌到臭屎",
+          "Tshit4-hiam5-peh4-hiam5, hiam5 kau3 tshau3-sai2"
+        ],
+        [
+          "七歲罵八歲夭壽",
+          "Tshit4 hue3 me7 peh4 hue3 iau2-siu7"
+        ],
+        [
+          "七歲識十四代人",
+          "Tshit4 hue3 bat4 tsap8-si3 tai7 lang5"
+        ],
+        [
+          "七歲騙八歲",
+          "Tshit4 hue3 phian3 peh4 hue3"
+        ],
+        [
+          "七溶八溶，溶了了",
+          "Tshit4-iunn5-peh4-iunn5, iunn5 liau2-liau2"
+        ],
+        [
+          "七煞八敗",
+          "Tshit4-suah4 peh4-pai7"
+        ],
+        [
+          "七爺八爺",
+          "Tshit4-ia5 peh4-ia5"
+        ],
+        [
+          "七腳八手",
+          "Tshit4-kha1-peh4-tshiu2"
+        ],
+        [
+          "七腳戲，報萬兵",
+          "Tshit4-kha1-hi3, po3 ban7 ping1"
+        ],
+        [
+          "七漏八漏",
+          "Tshit4-lau7-peh4-lau7"
+        ],
+        [
+          "七篇所致",
+          "Tshit4-phinn1-soo2-ti3"
+        ],
+        [
+          "七橫八直",
+          "Tshit4-huainn5-peh4-tit8"
+        ],
+        [
+          "七擰八刺",
+          "Tshit4-suann5-peh4-tshi3"
+        ],
+        [
+          "七講八毋著",
+          "Tshit4-kong2-peh4-m7-tioh8"
+        ],
+        [
+          "七講八講",
+          "Tshit4-kong2-peh4-kong2"
+        ],
+        [
+          "七顛八倒",
+          "Tshit4-tian1-peh4-to2"
+        ],
+        [
+          "七變八變",
+          "Tshit4-pian3-peh4-pian3"
+        ],
+        [
+          "九月九，日挐日，憨慢查某領[會+勿]直，十月日生翅",
+          "Kau2-gueh8-kau2, jit8-na2-jit8, ham1-ban7 tsa1-boo2 nia2-be7-tit8, tsap8-gueh8-jit8 senn1-sit8"
+        ],
+        [
+          "九月九，風吹馬馬哮",
+          "Kau2-gueh8-kau2, hong1-tshue1 ma2-ma2-hau2"
+        ],
+        [
+          "九月九風吹馬馬哮，十月十風吹落屎礐",
+          "Kau2-geh8-kau2 hong1-tshue1 ma2-ma2-hau2, tsap8-gueh8-tsap8 hong1-tshue1 loh8 sai2-hak8"
+        ],
+        [
+          "九月風颱無人知",
+          "Kau2-gueh8 hong1-thai1 bo5 lang5 tsai1"
+        ],
+        [
+          "九月烏，較好食豬腳箍",
+          "Kau2-gueh8 oo1, khah4-ho2 tsiah8 ti1-kha1-khoo1"
+        ],
+        [
+          "九月起九降，臭頭仔扒甲掐",
+          "Kau2--gueh8 khi2 kau2-kang3, tshau3-thau5-a2 pe5 kah4 khang3"
+        ],
+        [
+          "九月煞頭重，無死某也死尪",
+          "Kau2--gueh8 suah4-thau5 tang7, bo5 si2 boo2 ia7 si2 ang1"
+        ],
+        [
+          "九月颱，無人知",
+          "Kau2-gueh8 thai1, bo5 lang5 tsai1"
+        ],
+        [
+          "九牛，六娼，三寡婦",
+          "Kau2 gu5, lak8 tshang1, sann1 kua2-hu7"
+        ],
+        [
+          "九甲戲，崑腔做",
+          "Kau2-kah4-hi3, khun1-khiunn1-tso3"
+        ],
+        [
+          "九死一生",
+          "Kiu2-su2-it4-sing1"
+        ],
+        [
+          "九塊碗十個人，基隆",
+          "Kau2 teh4 uann2 tsap8 e5 lang5, ke1-lang5"
+        ],
+        [
+          "九萬二七千",
+          "Kau2 ban7 ji7-tshit4 tshing1"
+        ],
+        [
+          "九葬九遷，十葬萬年",
+          "Kau2 tsong3 kau2 tshian5, tsap8 tsong3 ban7 lian5"
+        ],
+        [
+          "九頓米糕無上算，一頓冷糜卻起來",
+          "Kau2 tng3 bi2-ko1 bo5 tsiunn7-sng3, tsit8 tng3 ling2 be5 khioh4--khi2-lai5"
+        ],
+        [
+          "九領牛皮做一下趕",
+          "Kau2 nia2 gu5-phue5 tso3-tsit8-e7 kuann2"
+        ],
+        [
+          "九頭鳥",
+          "Kau2-thau5-tsiau2"
+        ],
+        [
+          "九鍊成鋼",
+          "Kau2-lian7-sing5-kng3"
+        ],
+        [
+          "九歸熟透透，討錢沿路哭",
+          "Kau2 kui1 sik8 thau3-thau3, tho2-tsinn5 ian5-loo7 khau3"
+        ],
+        [
+          "九籠糖，十一個頭家",
+          "Kau2 lang2-tsng5, tsap8-it8 e5 thau5-ke1"
+        ],
+        [
+          "了丁甲失財",
+          "Liau2 ting1 kah4 sit4 tsai5"
+        ],
+        [
+          "了大錢，儉小錢",
+          "Liau2 tua7-tsinn5, khiam7 sio2-tsinn5"
+        ],
+        [
+          "了工蝕本錢",
+          "Liau2-kang1 sit8 pun2-tsinn5"
+        ],
+        [
+          "了家伙無相共",
+          "Liau2 ke1-hue2 bo5-sio1-kang5"
+        ],
+        [
+          "了錢，擱無體面",
+          "Liau2-tsinn5, koh4 bo5 the2-bian7"
+        ],
+        [
+          "了錢生理無人做，刣頭生理有人做",
+          "Liau2-tsinn5 sing1-li2 bo5 lang5 tso3,thai5-thau5 sing1-li2 u7 lang5 tso3"
+        ],
+        [
+          "了錢兼見笑",
+          "Liau2-tsinn5 kiam1 kian3-siau3"
+        ],
+        [
+          "了錢過運",
+          "Liau2-tsinn5 kue3-un7"
+        ],
+        [
+          "了錢擱無布目",
+          "Liau2-tsinn5 koh4 bo5 poo3-bak8"
+        ],
+        [
+          "二一添作五",
+          "Ji7-it4 thian1-tso3 goo7"
+        ],
+        [
+          "二九老",
+          "Ji7-kau2-lo2"
+        ],
+        [
+          "二九暝，誤了大事",
+          "Ji7-kau2-me5, goo7 liau2 tai7-su7"
+        ],
+        [
+          "二人[會+勿]比得一人",
+          "Nng7 lang5 be7-pi2-tit4 tsit8 lang5"
+        ],
+        [
+          "二八，亂穿衫",
+          "Ji7-pat4, luan7 tshing7-sann"
+        ],
+        [
+          "二八十六，四四也十六",
+          "Ji7-pat4 tsap8-lak8, su3-su3 ia7 tsap8-lak8"
+        ],
+        [
+          "二八好行船",
+          "Ji7-pat4 ho2 kiann5-tsun5"
+        ],
+        [
+          "二十八九，後月舉戽斗",
+          "Ji7-tsap8-peh4 kau2, au7-gueh8 gia5 hoo3-tau2"
+        ],
+        [
+          "二十六七，後月雨稍息",
+          "Ji7-tsap8-lak8 tshit4, au7-gueh8 hoo7 sio2-sit4"
+        ],
+        [
+          "二十兩－近視",
+          "Ji7-tsap8 niu2 － kin7-si7"
+        ],
+        [
+          "二月，踏草青",
+          "Ji7--gueh8, tah8-tshau2-tshenn1"
+        ],
+        [
+          "二月二，土地公搬老戲",
+          "Ji7-gueh8-ji7, thoo2-ti7-kong1 puann1 lau7 hi3"
+        ],
+        [
+          "二月三日晴，還要忌清明",
+          "Ji7-gueh8 sann1 jit8 tsing5, ia2-ai3 ki7 tshing1-bing5"
+        ],
+        [
+          "二比甘願。",
+          "Ji7-pi2 kam1-guan7."
+        ],
+        [
+          "二更更，三暝暝，四數錢，五燒香，六拜年",
+          "Ji7 kinn1-kinn1, sann1 mi5-mi5, si3 sng3-tsinn5, goo7 sio1-hiunn1, lak8 pai3-ni5"
+        ],
+        [
+          "二姑之間難為婦",
+          "Ji7-koo tsi1-kan1 lan5 ui5 hu7"
+        ],
+        [
+          "二姓合婚，冬尾雙生",
+          "Ji7 senn3 hap8-hun1, tang1-bue2 siang1-senn1"
+        ],
+        [
+          "二姓聯姻",
+          "Ji7 senn3 lian5 in1"
+        ],
+        [
+          "二婚親的，假呢",
+          "Ji7-hun1-tshin1--e5, ke2-ne1"
+        ],
+        [
+          "人，七成八敗",
+          "Lang5, tshit4 sing5 peh4 pai7"
+        ],
+        [
+          "人，各有所長",
+          "Lang5, koh4-u7 soo2-tiong5"
+        ],
+        [
+          "人一下衰，煮水也浹鼎",
+          "Lang5 tsit8-e7 sue1, hiann5-tsui2 ia7 kiap4 tiann2"
+        ],
+        [
+          "人人嫁尪傳後嗣",
+          "Lang5-lang5 ke3-ang1 thuan5 hio7-su5"
+        ],
+        [
+          "人也要命，鼠也要命",
+          "Lang5 ia7 ai3-mia7, tshi2 ia7 ai3-mia7"
+        ],
+        [
+          "人不可貌相，海水不可斗量",
+          "Jin5 put4-kho2 mau7-siong3, hai2-tsui2 put4-kho2 tau2-liong5"
+        ],
+        [
+          "人不學，不知義",
+          "Jin5 put4 hak8, put4 ti1 gi7"
+        ],
+        [
+          "人不勸不善，鐘不打不鳴",
+          "Jin5 put4 khuinn3 put4 sian7, tsing1 put4 tann2 put4 bing5"
+        ],
+        [
+          "人中進士，你替人挽羊尾",
+          "Lang5 tiong3 tsin3-su7, li2 the3 lang5 ban2 iunn5-bue2"
+        ],
+        [
+          "人心，牛腹肚",
+          "Lang5-sim1, gu5 pak4-too2"
+        ],
+        [
+          "人心不足",
+          "Jin5-sim1 put4-tsiok4"
+        ],
+        [
+          "人心不足，蛇吞象",
+          "Jin5-sim1 put4-tsiok4, tsua5 thun1 tshiunn7"
+        ],
+        [
+          "人心在內",
+          "Jin5-sim1 tsai7-lai7"
+        ],
+        [
+          "人心曲曲彎彎水，世事重重疊疊山",
+          "Jin5-sim1 khiau1-khiau1-uan1-uan1 sui2, se3-su7 ting5-ting5-thah8-thah8 san1"
+        ],
+        [
+          "人心似鐵，官法如爐",
+          "Jin5-sim1 su7 thih4, kuann1-huat4 ju5 loo5"
+        ],
+        [
+          "人心肝，牛腹肚",
+          "Lang5 sim1-kuann1, gu5 pak4-too2"
+        ],
+        [
+          "人心無窮",
+          "Jin5-sim1 bu5-king5"
+        ],
+        [
+          "人心節節高",
+          "Jin5-sim1 tsat4-tsat4-ko1"
+        ],
+        [
+          "人心難測水難量",
+          "Jin5-sim1 lan5 tshik4 tsui2 lan5 niu5"
+        ],
+        [
+          "人比人，氣死人",
+          "Lang5 pi2 lang5, khi3-si2-lang5"
+        ],
+        [
+          "人叫毋行，鬼叫隨伊蹓蹓走",
+          "Lang5 kio3 m7 kiann5, kui2 kio3 tue3 i1 liu3-liu3 tsau2"
+        ],
+        [
+          "人叫毋行，鬼叫蹓蹓隨",
+          "Lang5 kio3 m7 kiann5, kui2 kio3 liu3-liu3 tue3"
+        ],
+        [
+          "人外有人，天外有天",
+          "Jin5-gua7 iu2 jin5, thinn1-gua7 iu2 thinn1"
+        ],
+        [
+          "人未到，緣先到",
+          "Lang5 bue7-kau3, ian5 sing1-kau3"
+        ],
+        [
+          "人生一世，如白駒過隙",
+          "Jin5-sing1 it4-se3, ju5 pik8 ki1 kue3 khik4"
+        ],
+        [
+          "人生一世，草生一春",
+          "Jin5-sing1 it4-se3, tshau2-sing1 it4 tshun1"
+        ],
+        [
+          "人生七十古來稀",
+          "Jin5-sing1 tshit4-sip8 koo2 lai5 hi1"
+        ],
+        [
+          "人生不滿百，常懷千歲憂",
+          "Jin5-sing1 put4-mua2 pah4, siong5 huai5 tshian-sue3 iu1"
+        ],
+        [
+          "人生在世如春夢",
+          "Jin5-sing1 tsai7-se3 ju5 tshun1-bang7"
+        ],
+        [
+          "人生在世若春夢",
+          "Jin5-sing1 tsai7-se3 na7 tshun1-bang7"
+        ],
+        [
+          "人生有酒須當醉",
+          "Jin5-sing iu2 tsiu2 su1 tong1 tsui3"
+        ],
+        [
+          "人生百歲，七十者稀",
+          "Jin5-sing1 pah4 hue3, tshit4-sip8 tsia3 hi1"
+        ],
+        [
+          "人生你，你生人",
+          "Lang5 senn1 li2, li2 senn1 lang5"
+        ],
+        [
+          "人生若像走馬燈",
+          "Jin5-sing1 na2-tshiunn7 tsau2-be2-ting1"
+        ],
+        [
+          "人生親像大戲臺，苦齣笑科攏公開",
+          "Jin5-sing1 tshin1-tshiunn7 tua7-hi3-tai5, khoo2-tshut4 tshio3-khue1 long2 kong1-khai1"
+        ],
+        [
+          "人用財交，金用火試",
+          "Jin5 iong7 tsai5 kau1, kim1 iong7 hue2 tshi3"
+        ],
+        [
+          "人交的是關公劉備，你交的是林投竹刺",
+          "Lang5 kau1--e5 si7 kuan1-kong1 lau5-pi7, li2 kau1--e5 si7 na5-tau5 tik4-tshi3"
+        ],
+        [
+          "人同此心，心同此理",
+          "Jin5 tong5 tshu2 sim1, sim1 tong5 tshu2 li2"
+        ],
+        [
+          "人地兩疏",
+          "Jin5 te7 liong2 soo1"
+        ],
+        [
+          "人在人情在，人亡人情亡",
+          "Jin5 tsai7 jin5-tsing5 tsai7, jin5 bong5 jin5-tsing5 bong5"
+        ],
+        [
+          "人在食米粉，隨人喝燒",
+          "Lang5 ti7 tsiah8 bi2-hun2, tue3-lang5 huah4 sio1"
+        ],
+        [
+          "人在做，天在看",
+          "Lang5 teh4 tso3, thinn1 teh4 khuann3"
+        ],
+        [
+          "人好不如命好",
+          "Lang5 ho2 put4-ju5 mia7 ho2"
+        ],
+        [
+          "人如風中燭",
+          "Jin5 ju5 hong1-tiong1 tsik4"
+        ],
+        [
+          "人有人情理，賊有賊情理",
+          "jin5 u7 jin5 tsing5-li2, tshat8 u7 tshat8 tsing5-li2"
+        ],
+        [
+          "人有善願，天必從之",
+          "Jin5 iu2 sian7 guan7, thian1 pit4 tsiong5 tsi1"
+        ],
+        [
+          "人死留名，虎死留皮",
+          "Lang5 si2 lau5 mia5, hoo2 si2 lau5 phue5"
+        ],
+        [
+          "人老，心未老",
+          "Lang5 lau7, sim1 bue7 lau2"
+        ],
+        [
+          "人老心未老，人窮行莫窮",
+          "Jin5 lo2 sim1 bi7 lo2, jin5 king5 hing5 bok8 king5"
+        ],
+        [
+          "人老筋出，樹老根出",
+          "Lang5 lau7 kin1 tshut4, tshiu7 lau7 kin1 tshut4"
+        ],
+        [
+          "人老嘿無老",
+          "Lang5 lau7 he1 bo5 lau7"
+        ],
+        [
+          "人肉鹹鹹[會+勿]食得",
+          "Lang5-bah4 kiam5-kiam5 be7-tsiah8-tit4"
+        ],
+        [
+          "人似人形",
+          "Jin5 su7 jin5-hing5"
+        ],
+        [
+          "人呆看面嘛知",
+          "Lang5 tai1 khuann3 bin7 ma7 tsai1"
+        ],
+        [
+          "人身，借狗腹生",
+          "Lang5-sin1, tsioh4 kau2-pak4 senn1"
+        ],
+        [
+          "人來客去",
+          "Lang5 lai5 kheh4 khi3"
+        ],
+        [
+          "人來纔掃地，人走纔煎茶",
+          "Lang5 lai5 tshiah4 sau3-te7, lang5 tsau2 tshiah4 tsuann1-te5"
+        ],
+        [
+          "人兩腳，錢四腳",
+          "Lang5 nng7-kha1, tsinn5 si3-kha1"
+        ],
+        [
+          "人到中年萬事休",
+          "Lang5 to3 tiong1-lian5 ban7-su7 hiu1"
+        ],
+        [
+          "人到物就到",
+          "Lang5 kau3 mih8 tioh8 kau3"
+        ],
+        [
+          "人命關天",
+          "Jin5-bing7 kuan1-thian1"
+        ],
+        [
+          "人怕老，債怕討",
+          "Jin5 phann3 lo2, tse3 phann3 tho2"
+        ],
+        [
+          "人的心肝，牛的腹肚",
+          "Lang5 e5 sim1-kuann1, gu5 e5 pak4-too2"
+        ],
+        [
+          "人的心肝，毋是鐵扑的",
+          "Lang5 e5 sim1-kuann1, m7 si7 thih4 phah4--e5"
+        ],
+        [
+          "人的嘴[會+勿]鎖得",
+          "Lang5 e5 tshui3 be7-so2-tit4"
+        ],
+        [
+          "人信字，牛信鼻",
+          "Lang5 sin3 ji7, gu5 sin3 phinn7"
+        ],
+        [
+          "人前毋盞，人後拂大碗",
+          "Lang5-tsing5 m7 tsuann2, lang-au7 hut4 tua7 uann2"
+        ],
+        [
+          "人客走了纔煎茶",
+          "Lang5-kheh4 tsau2 liau2 tshiah4 tsuann1-te5"
+        ],
+        [
+          "人客客人",
+          "Lang5-kheh4 kheh4-lang5"
+        ],
+        [
+          "人是人扶的，神也是人扶的",
+          "Lang5 si7 lang5 hu5--e5, sin5 ia7 si7 lang5 hu5--e5"
+        ],
+        [
+          "人是有事纔求佛",
+          "Lang5 si7 u7 su7 tsiah4 kiu5 hut8"
+        ],
+        [
+          "人為制天工",
+          "Jin5-ui5 tse3 thian1-kong1"
+        ],
+        [
+          "人為財死，鳥為食亡",
+          "Jin5 ui7 tsai5 si2, niau2 ui7 sit8 bong5"
+        ],
+        [
+          "人為萬物之靈",
+          "Jin5 ui5 ban7-but8 tsi1 ling5"
+        ],
+        [
+          "人皆愛珠玉，我愛子孫賢",
+          "Jin5 kai1 ai3 tsu1-giok8, ngoo2 ai3 tsu2-sun1 hian5"
+        ],
+        [
+          "人要害人天毋肯，天要害人在目前",
+          "Lang5 beh4 hai7-lang5 thinn1 m7-khing2, thinn1 beh4 hai7-lang5 ti7 bak8-tsing5"
+        ],
+        [
+          "人重妝，佛重扛",
+          "Lang5 tiong7 tsng1, hut8 tiong7 kng1"
+        ],
+        [
+          "人面獸心",
+          "Jin5 bin7 siu3 sim1"
+        ],
+        [
+          "人食一點氣",
+          "Lang5 tsiah8 tsit8-tiam2 khui3"
+        ],
+        [
+          "人食魚，魚食水",
+          "Lang5 tsiah8 hi5, hi5 tsiah8 tsui2"
+        ],
+        [
+          "人食嘴水，魚食流水",
+          "Lang5 tsiah8 tshui3-tsui2, hi5 tsiah8 lau5-tsui2"
+        ],
+        [
+          "人倫有五，夫婦為先，大禮三千，婚姻最重",
+          "Jin5-lun5 iu2 ngoo2, hu1-hu7 ui5 sian1, tua7-le2 sam1-tshian1, hun1-in1 tsue3 tiong7"
+        ],
+        [
+          "人[會+勿]掛得無事牌",
+          "Lang5 be7-kua3-teh4 bo5-su7-pai5"
+        ],
+        [
+          "人[會+勿]當貌相，海[會+勿]當斗量",
+          "Lang5 be7-tang3 mau7-siong3, hai2 be7-tang3 tau2-liong5"
+        ],
+        [
+          "人[會+勿]賢得",
+          "Lang5be7-gau5-tit4"
+        ],
+        [
+          "人做天看",
+          "Lang5 tso3 thinn1 khuann3"
+        ],
+        [
+          "人情，較大腳桶",
+          "Jin5-tsing5, khah4-tua7 kha1-thang2"
+        ],
+        [
+          "人情世事陪到夠，無鼎共無灶",
+          "Jin5-tsing5 se3-su7 pue5 kah4 kau3, bo5 tiann2 kang7 bo5 tsau3"
+        ],
+        [
+          "人情留一線，日後好相看",
+          "Jin5-tsing5 lau5 tsit8 suann3, jit8-au7 ho2 sio1-khuann3"
+        ],
+        [
+          "人情較大天",
+          "Jin5-tsing5, khah4-tua7 thinn1"
+        ],
+        [
+          "人情較大腳",
+          "Jin5-tsing5, khah4-tua7 kha1"
+        ],
+        [
+          "人掠厝拆",
+          "Lang5 liah8 tshu3 thiah4"
+        ],
+        [
+          "人掠厝拆，雞仔鳥仔掠到無半隻",
+          "Lang5 liah8 tshu3 thiah4, ke-a2 tsiau2-a2 liah8 kah4 bo5-puann3-tsiah4"
+        ],
+        [
+          "人牽毋行，鬼牽蹓蹓走",
+          "Lang5 khan m7 kiann5, kui2 khan1 liu3-liu3 tsau2"
+        ],
+        [
+          "人細，膽大",
+          "Lang5 se3 tann2 tua7"
+        ],
+        [
+          "人莫知其子之惡",
+          "Jin5 bok8 ti1 ki5 tsu2 tsi1 ok4"
+        ],
+        [
+          "人貧智短，福至心靈",
+          "Jin5 pin5 ti3 te2, hok4 tsi3 sim1 ling5"
+        ],
+        [
+          "人傑地靈",
+          "Jin5 kiat8 te7 ling5"
+        ],
+        [
+          "人喝，隨人喝",
+          "Lang5-huah,4 tue3-lang5 huah4"
+        ],
+        [
+          "人喝亦喝",
+          "Lang5-huah4 iah8 huah4"
+        ],
+        [
+          "人喝你也喝，人駛大船你撽舢舨",
+          "Lang5-huah li2 ia7 huah4, lang5 sai2 tua7 tsun5 li2 ko3 sam1-pan2"
+        ],
+        [
+          "人嘴上毒",
+          "Lang5tshui3 siong7 tok8"
+        ],
+        [
+          "人嘴趁家風",
+          "Lang5tshui3 than3-ke1-hong1"
+        ],
+        [
+          "人嘴較毒飯匙倩",
+          "Lang5 tshui3 khah4 tok8 puinn7-si5-tshing3"
+        ],
+        [
+          "人插花伊插草，人坐新娘轎伊坐破畚斗",
+          "Lang5 tshah4 hue1 i1 tshah4 tshau2, lang5 tse7 sin1-niu5-kio7 i1 tse7 phua3 pun3-tau2"
+        ],
+        [
+          "人散計短，馬瘦毛長",
+          "Lang5 san3 ke3 te2, be2 san2 moo1 tng5"
+        ],
+        [
+          "人無十全",
+          "Lang5 bo5 sip8-tsuan5"
+        ],
+        [
+          "人無千日好，花無百日紅",
+          "Lang5 bo5 tshian1 jit8 ho2, hue1 bo5 pah4 jit8 ang5"
+        ],
+        [
+          "人無害虎心，虎有傷人意",
+          "Jin5 bo5 hai7 hoo2 sim1, hoo2 iu2 siong1 lang5i3"
+        ],
+        [
+          "人無艱苦計，難得世間財",
+          "Lang5 bo5 kan1-khoo2 ke3, lan5-tit se3-kan1 tsai5"
+        ],
+        [
+          "人無講毋知，鼓無扑[會+勿]響",
+          "Lang5 bo5 kong2 m7-tsai1, koo2 bo5 phah4 be7 hiang2"
+        ],
+        [
+          "人睏紅眠床，你睏屎礐口",
+          "Lang5 khun3 ang5-bin5-tshng5, li2 khun3 sai2-hak8-khau2"
+        ],
+        [
+          "人善人欺天不欺，人惡人怕天不怕",
+          "Jin5 sian7 jin5 khi1 thian1 put4 khi1, jin5 ok4 jin5 phann3 thian1 put4 phann3"
+        ],
+        [
+          "人善被人欺，馬善被人騎",
+          "Jin5 sian7 pi7 jin5 khi1, be2 sian7 phi7 jin5 khia5"
+        ],
+        [
+          "人著妝，佛著扛",
+          "Lang5 tioh8 tsng1, hut8 tioh8 kng1"
+        ],
+        [
+          "人間富貴花間露",
+          "Jin5-kan1 hu3-kui3 hua1-kan1 loo7"
+        ],
+        [
+          "人間萬事塞翁馬",
+          "Jin5-kan1 ban7-su7 sai3-ong1 ma2"
+        ],
+        [
+          "人愛人皮，樹愛樹皮",
+          "Lang5 ai3 lang5-phue5, tshiu7 ai3 tshiu7-phue5"
+        ],
+        [
+          "人敬有錢，狗敬放屎漢",
+          "Lang5 king3 u7-tsinn5, kau2 king3 pang3-sai2-han3"
+        ],
+        [
+          "人腳，狗鼻，和尚頭",
+          "Lang5 kha1, kau2 phinn7, hue5-siunn7 thau5"
+        ],
+        [
+          "人腳跡，肥",
+          "Lang5-kha1-tsiah8, pui5"
+        ],
+        [
+          "人過四十，天過晝",
+          "Lang5 kue3 si3-tsap8, thinn1 kue3 tau3"
+        ],
+        [
+          "人飼人一支骨，天飼人肥脺脺",
+          "Lang5 tshi7 lang5 tsit8 ki1 kut4, thinn1 tshi7 lang5 pui5-tsut4-tsut4"
+        ],
+        [
+          "人窮則變，變則通",
+          "Jin5 king5 tsik4 pian3, pian3 tsik4 thong1"
+        ],
+        [
+          "人賢，天做對頭",
+          "Lang5 gau5, thinn1 tso3 tui3-thau5"
+        ],
+        [
+          "人濟話就濟",
+          "Lang5 tse7 ue7 tioh8 tse3"
+        ],
+        [
+          "人講天，你講地",
+          "Lang5 kong2 thinn1, li2 kong2 te7"
+        ],
+        [
+          "人驚人，鬼驚鬼",
+          "Lang5 kiann1 lang5, kui2 kiann1 kui2"
+        ],
+        [
+          "人驚人，賊驚賊",
+          "Lang5 kiann1 lang5, tshat8 kiann1 tshat8"
+        ],
+        [
+          "人驚出名豬驚肥",
+          "Lang5 kiann1 tshut4-mia5 ti1 kiann1 pui5"
+        ],
+        [
+          "人驚老，債驚討",
+          "Lang5 kiann1 lo7, tse3 kiann1 tho2"
+        ],
+        [
+          "人驚鬼，鬼驚人",
+          "Lang5 kiann1 kui2, kui2 kiann1 lang5"
+        ],
+        [
+          "入人門，順人意",
+          "Jip8 lang5 mui5, sun7 lang5 i3"
+        ],
+        [
+          "入邦隨俗，入港隨灣",
+          "Jip8 pang sui5 siok8, jip8 kang2 sui5 uan1"
+        ],
+        [
+          "入虎口，就奧嘔",
+          "Jip8 hoo2-khau2, tioh8 o4 thau2"
+        ],
+        [
+          "入虎口，無死嘛烏拗",
+          "Jip8 hoo2-khau2, bo5 si2 ma7 oo1-au2"
+        ],
+        [
+          "入虎喉，無死嘛烏拗",
+          "Jip8 hoo2-au5, bo5 si2 ma7 oo1-au2"
+        ],
+        [
+          "入門，看人意",
+          "Jip8-mui5, khuann3 lang5 i3"
+        ],
+        [
+          "入門看人意，出門看山勢",
+          "Jip8-mui5 khuann3 lang5 i3, tshut4-mui5 khuann3 suann1-si3"
+        ],
+        [
+          "入門喜",
+          "Jip8-mui5-hi2"
+        ],
+        [
+          "入門禮識，出門禮毋識",
+          "Jip8-mui5 le2 bat4, tshut4-mui5 le2 m7-bat4"
+        ],
+        [
+          "入鬼門關",
+          "Jip8 kui2-mui5-kuan1"
+        ],
+        [
+          "入港隨灣，入風隨俗",
+          "Jip8 kang2 sui5 uan1, jip8 hong1 sui5 siok8"
+        ],
+        [
+          "入港隨灣，入鄉隨俗",
+          "Jip8 kang2 sui5 uan1, jip8 hiong1 sui5 siok8"
+        ],
+        [
+          "八月八落雨，八個月無焦土",
+          "Peh4-gueh8-peh4 loh8-hoo7, peh4 koo3 gueh8 bo5 ta1 thoo5"
+        ],
+        [
+          "八月大，草菜毋出門外",
+          "Peh4--gueh8 tua7, tshau2-tshai3 m7 tshut4 mui5-gua7"
+        ],
+        [
+          "八月半，田頭看",
+          "Peh4-gueh8-puann3, tshan5-thau5 khuann3"
+        ],
+        [
+          "八仙過海，隨人變通",
+          "Pat4-sian1 kue3-hai2, sui5 lang5 pian3-thong1"
+        ],
+        [
+          "八字、合著九字",
+          "Peh4-ji7, hah8 tioh8 kau2-ji7"
+        ],
+        [
+          "八字有合會做堆",
+          "Peh4-ji7 u7-hah8 e7 tso3-tui1"
+        ],
+        [
+          "八兩笑半斤",
+          "Peh4-niu2 tshio3 puann3-kin1"
+        ],
+        [
+          "八芝蘭米糕－食知影",
+          "Pat4-tsi1-lan5 bi2-ko1 －tsiah8 tsai1-iann2"
+        ],
+        [
+          "八珍燉雞",
+          "Pat4-tin1 tim7 ke1"
+        ],
+        [
+          "八面觀音，收羅漢",
+          "Peh4 bin7 kuan1-im1, siu1 lo5-han3"
+        ],
+        [
+          "刀仔嘴，豆腐心",
+          "To-a2 tshui3, tau7-hu7 sim1"
+        ],
+        [
+          "力尾結糖霜",
+          "Lat8-bue2 kiat4 thng5-sng1"
+        ],
+        [
+          "力重千斤，智無一兩",
+          "Lat8 tang7 tshian1 kin, ti3 bo5 tsit8 niu2"
+        ],
+        [
+          "十一支仔博久無到，坐久人真虛",
+          "Tsap8-it8-ki1-a2 puah8 ku2 bo5 kau3, tse7 ku2 lang5 tsin1 hi1"
+        ],
+        [
+          "十七八歲煩惱便，煩惱會老[會+勿]少年",
+          "Tsap8-tshit4-peh4 he3 huan5-lo2 pian7, huan5-lo2 e7 lau7 be7 siau3-lian5"
+        ],
+        [
+          "十七兩－翹翹",
+          "Tsap8-tshit4 niu2－ khiau3-khiau3"
+        ],
+        [
+          "十二十三讓你歹，十九二十你就知",
+          "Tsap8-ji7 tsap8-sann1 niu7 li2 phainn2, tsap8-kau2 ji7-tsap8 li2 tioh8 tsai1"
+        ],
+        [
+          "十二月卯，不見草",
+          "Tsap8-ji7-gueh8 mau5, put4 kian3 tshau2"
+        ],
+        [
+          "十二月甘蔗，倒尾甜",
+          "Tsap8-ji7-gueh8 kam1-tsia3, to3-bue2 tinn1"
+        ],
+        [
+          "十二月吃菜頭，六月才轉嗽",
+          "Tsap8-ji7-gueh8 tsiah8 tshai3-thau5, lak8--gueh8 tsiah4 tuinn2 sau3"
+        ],
+        [
+          "十二月肉湯－穩當",
+          "Tsap8-ji7-gueh8 bah4-thng1－ un2-tang3"
+        ],
+        [
+          "十二月芥菜",
+          "Tsap8-ji7-gueh8 kua3-tshai3"
+        ],
+        [
+          "十二月南風－現報",
+          "Tsap8-ji7-gueh8 lam5-hong1 －hian3-po3"
+        ],
+        [
+          "十二月南風－當面報",
+          "Tsap8-ji7-gueh8 lam5-hong － tng1-bin7 po3"
+        ],
+        [
+          "十二月屎桶－盡拼",
+          "Tsap8-ji7-gueh8 sai2-thang2 － tsin7-pian3"
+        ],
+        [
+          "十二月春，有通食擱有通剩",
+          "Tsap8-ji7-gueh8 tshun1, u7-thang1 tsiah8 k4 u7-thang1 tshun1"
+        ],
+        [
+          "十二月風吹－[犬+肖]到無尾溜",
+          "Tsap8-ji7-gueh8 hong1-tshue1 －siau2 kah4 bo5 bue2-liu1"
+        ],
+        [
+          "十二月厝尾頂－凍霜",
+          "Tsap8-ji7-gueh8 tshu3-bue2-ting2 － tang3-sng1"
+        ],
+        [
+          "十二月雷，毋免用豬鎚",
+          "Tsap8-ji7-gueh8 lui5, m7-bian2 iong7 ti1-tui5"
+        ],
+        [
+          "十二生肖排第九，毋是猩猩也是猴",
+          "Tsap8-ji7-senn1-siunn3 pai5 te7-kau2, m7 si7 sing1-sing1 ia7 si7 kau5"
+        ],
+        [
+          "十二生肖變透透",
+          "Tsap8-ji7 senn1-siunn3 pian3 thau3-thau3"
+        ],
+        [
+          "十二條身魂在宮",
+          "tsap8-ji7 tiau5 sin1-hun5 tsai7 kiong1"
+        ],
+        [
+          "十二點敲十二下",
+          "Tsap8-ji7 tiam2 kha3 tsap8-ji7 e7"
+        ],
+        [
+          "十人，九痔",
+          "Tsap8 lang5, kau2 ti7"
+        ],
+        [
+          "十人肥，九人福",
+          "Tsap8 lang5 pui5, kau2 lang5 hok4"
+        ],
+        [
+          "十八，廿二，是青春",
+          "Tsap8-peh4, ji7-ji7, si7 tshing1-tshun1"
+        ],
+        [
+          "十八仔廿二，青春少年時",
+          "Tsap8-peh4-a2 ji7-ji7, tshing1-tshun1 siau3-lian5-si5"
+        ],
+        [
+          "十八般武藝，件件皆能",
+          "Tsap8-peh4-puann1 bu2-ge7, kiann7-kiann7 kai1 ling5"
+        ],
+        [
+          "十八港腳行透透",
+          "Tsap8-peh4 kang2-kha1 kiann5-thau3-thau3"
+        ],
+        [
+          "十八歲查某子，摸壁趖",
+          "Tsap8-peh4 hue3 tsa1-boo2-kiann2, bong1-piah4-so5"
+        ],
+        [
+          "十八歲查某子－夠格（嫁）",
+          "Tsap8-peh4 hue3 tsa1-boo2-kiann2 － kau3-keh4"
+        ],
+        [
+          "十三省嘛奧找",
+          "Tsap8-sann1 sing2 ma7 oh4 tshue7"
+        ],
+        [
+          "十大，九獃",
+          "Tsap8 tua7, kau2 tai1"
+        ],
+        [
+          "十大九呆，無呆總兵才",
+          "Tsap8 tua7 kau2 tai1, bo5 tai1 tsong2-ping1-tsai5"
+        ],
+        [
+          "十女九帶，十男九淋",
+          "Tsap8 li2 kau2 tai3, tsap8 lam5 kau2 lim5"
+        ],
+        [
+          "十五支柺仔舉做兩手－七柺八柺",
+          "Tsap8-goo7 ki1 kuai2-a2 gia5-tso3 nng7 tshiu2－tshit4-kuai2-peh4-kuai2"
+        ],
+        [
+          "十五仙土地下做兩平－七土八土",
+          "Tsap8-goo7 sian1 thoo2-ti7 he7-tso3 nng7-ping5 － tshit4-thoo2-peh4-thoo2"
+        ],
+        [
+          "十支指頭，伸出來嘛[會+勿]平長",
+          "Tsap8 ki1 tsing2-thau5, tshun1--tshut4-lai5 ma7 be7 penn5-tng5"
+        ],
+        [
+          "十支崙九個坑",
+          "Tsap8 ki1 lun7 kau2 e5 khenn1"
+        ],
+        [
+          "十月，小陽春",
+          "Tsap8-gueh8, sio2-iong5-tshun1"
+        ],
+        [
+          "十月十，風吹落屎礐",
+          "Tsap8-gueh8-tsap8, hong1-tshue1 loh8 sai2-hak8"
+        ],
+        [
+          "十月日生翅，懶爛查某領[會+勿]直",
+          "Tsap8-gueh8 jit8 senn1-sit8, lan2-nua7 tsa1-boo2 nia2-be7-tit8"
+        ],
+        [
+          "十月雨連連，高山也是田",
+          "Tsap8-gueh8 hoo7 lian5-lian5, ko1-suann1 ia7 si7 tian5"
+        ],
+        [
+          "十月燒，乞食睏破蓆",
+          "Tsap8-gueh8 sio1, khit4-tsiah8 khun3 phua3 tshioh8"
+        ],
+        [
+          "十月懷胎，三年哺乳",
+          "Tsap8-gueh8-huai5-thai1, sann1 ni5 poo7 ling1"
+        ],
+        [
+          "十巧無通食",
+          "Tsap8 khiau2 bo5 thang1 tsiah8"
+        ],
+        [
+          "十全欠兩味－八珍",
+          "Sip8-tsuan5 khiam3 nng7 bi7 － pat4-tin1"
+        ],
+        [
+          "十子十心婦，剩一個老寡婦",
+          "Tsap8 kiann2 tsap8 sim1 pu7, tshun1 tsit8 e5 lau7 kua2-hu7"
+        ],
+        [
+          "十年水流東，十年水流西",
+          "Tsap8 ni5 tsui2 lau5 tang1, tsap8 ni5 tsui2 lau5 sai1"
+        ],
+        [
+          "十年窗下無人問，一舉成名天下知",
+          "Sip8 lian5 thang-ha7 bu5 jin5 bun7, it4 ku2 sing5-bing5 thian1-ha7 ti1"
+        ],
+        [
+          "十身都無夠死",
+          "Tsap8 sin1 to1 bo5-kau3 si2"
+        ],
+        [
+          "十身無夠死",
+          "Tsap8 sin1 bo5-kau3 si2"
+        ],
+        [
+          "十念八錢",
+          "Tsap8 liam7 peh4 tsinn5"
+        ],
+        [
+          "十肥九呆，無呆狀元才",
+          "Tsap8 pui5 kau2 tai1, bo5 tai1 tsiong7-guan5-tsai5"
+        ],
+        [
+          "十肥九富，無富就是小疕龜",
+          "Tsap8 pui5 kau2 hu3, bo5 hu3 tioh8-si7 siau2-phi2-ku1"
+        ],
+        [
+          "十指，有長短",
+          "Tsap8-tsainn2, u7 tng5-te2"
+        ],
+        [
+          "十指透心肝",
+          "Tsap8-tsainn2 tau3 sim1-kuann1"
+        ],
+        [
+          "十軍，九頭目",
+          "Tsap8 kun1, kau2 thau5-bak8"
+        ],
+        [
+          "十個女人九個嫉",
+          "Tsap8 e5 li2-jin5 kau2 e5 tsit8"
+        ],
+        [
+          "十個老人，九個唱當初時",
+          "Tsap8 e5 lau7-lang5, kau2 e5 tshiunn3 tong1-tshoo1-si5"
+        ],
+        [
+          "十個老人，九個當原差",
+          "Tsap8 e5 lau7-lang5, kau2 e5 tong1 guan5-tshe1"
+        ],
+        [
+          "十個子仔十樣生",
+          "Tsap8 e5 gin2-a2 tsap8 iunn7 senn1"
+        ],
+        [
+          "十個查某，九個嬈",
+          "Tsap8 e5 tsa1-boo2, kau2 e5 hiau5"
+        ],
+        [
+          "十個臭頭，九個剖豆",
+          "Tsap8 e5 tshau3-thau5, kau2 e5 pho3-tau7"
+        ],
+        [
+          "十個鐘較輸一個鐸",
+          "Tsap8 e5 tsing1 khah4-su1 tsit8 e5 tok8"
+        ],
+        [
+          "十婦，九妒",
+          "Tsap8 hu7, kau2 to3"
+        ],
+        [
+          "十條命也無夠死",
+          "Tsap8 tiau5 mia7 ia7 bo5-kau3 si2"
+        ],
+        [
+          "十鳥在樹，不如一鳥在手",
+          "Sip8 niau2 tsai7 tshiu7, put4-ju5 it4 niau2 tsai7 tshiu2"
+        ],
+        [
+          "十嘴，九尻川",
+          "Tsap8 tshui3, kau2 kha1-tshuinn1"
+        ],
+        [
+          "十嘴，九貓",
+          "Tsap8 tshui3, kau2 niau1"
+        ],
+        [
+          "十嘴，九頭目",
+          "Tsap8 tshui3, kau2 thau5-bak8"
+        ],
+        [
+          "十媒九誑",
+          "Tsap8 muai5 kau2 kong5"
+        ],
+        [
+          "十瘦九貧，十肥九富",
+          "Tsap8 san2 kau2 pin5, tsap8 pui5 kau2 hu3"
+        ],
+        [
+          "十賠九不足",
+          "Tsap8 pue5 kau2 put4-tsiok4"
+        ],
+        [
+          "十擺九擺無影",
+          "Tsap8 pai2 kau2 pai2 bo5-iann2"
+        ],
+        [
+          "十藝，九[會+勿]成",
+          "Tsap8 ge7, kau2 be7-sing5"
+        ],
+        [
+          "三七仔",
+          "Sam1-tshit-a2"
+        ],
+        [
+          "三八人",
+          "Sam1-pat4-lang5"
+        ],
+        [
+          "三八氣",
+          "Sam1-pat4-khi3"
+        ],
+        [
+          "三不等",
+          "Sam1-put4-ting2"
+        ],
+        [
+          "三字全",
+          "Sam1-ji7-tsuan5"
+        ],
+        [
+          "三牲胚",
+          "Sam1-sing1-phue1"
+        ],
+        [
+          "三堡三",
+          "Sann1-po2-sann1"
+        ],
+        [
+          "三人兩面",
+          "Sann lang5 nng7 bin7"
+        ],
+        [
+          "三八哩咾",
+          "Sam1-pat4-li1-lo1"
+        ],
+        [
+          "三三八八",
+          "Sam1-sam1-pat4-pat4"
+        ],
+        [
+          "三寸金蓮",
+          "Sam1-tshun3-kim1-lian5"
+        ],
+        [
+          "三山五岳",
+          "Sam1-san1-ngoo2-gak8"
+        ],
+        [
+          "三不五時",
+          "Sam1-put4-goo7-si5"
+        ],
+        [
+          "三元及第",
+          "Sam1-guan5 kip8-te7"
+        ],
+        [
+          "三心兩意",
+          "Sam1-sim1-liong2-i3"
+        ],
+        [
+          "三句半話",
+          "Sann1-ku3-puann3-ue7"
+        ],
+        [
+          "三句兩句",
+          "Sann1-ku3-nng7-ku3"
+        ],
+        [
+          "三字白音",
+          "Sann1 ji7 peh8 im1"
+        ],
+        [
+          "三更半暝",
+          "Sann1-kenn1 puann3-me5"
+        ],
+        [
+          "三男兩女",
+          "Sann1 lam5 liong2 li2"
+        ],
+        [
+          "三言兩語",
+          "Sam1-gian5-liong2-gi2"
+        ],
+        [
+          "三妻四妾",
+          "Sam1-tshe1-su3-tshiap4"
+        ],
+        [
+          "三金一牛",
+          "Sam1 kim1 it4 gu5"
+        ],
+        [
+          "三長兩短",
+          "Sann-tng5-nng7-te2"
+        ],
+        [
+          "三保六認",
+          "Sann1 po2 lak8 jin7"
+        ],
+        [
+          "三界公生",
+          "Sam1-kai3-kong1 senn1"
+        ],
+        [
+          "三[會+勿]囥得",
+          "Sann1 be7-khng3-tit4"
+        ],
+        [
+          "三從四德",
+          "Sam1-tsiong5-su3-tik4"
+        ],
+        [
+          "三斑攪家",
+          "Sam1-pan1 kiau2-ke1"
+        ],
+        [
+          "三款的頭",
+          "Sann1 khuann2 e5 thau5"
+        ],
+        [
+          "三請五催",
+          "Sann1-tshian2 goo7 tshui1"
+        ],
+        [
+          "三頭兩面",
+          "Sann1 thau5 nng7 bin7"
+        ],
+        [
+          "三聲無奈",
+          "Sann1-siann bo5-nai7"
+        ],
+        [
+          "三彎兩穵",
+          "Sann1-uan1-nng7-uat4"
+        ],
+        [
+          "三八，假厚禮",
+          "Sam1-pat4, ke2 kau7-le2"
+        ],
+        [
+          "三八，假賢慧",
+          "Sam1-pat4, ke2 hian5-hue7"
+        ],
+        [
+          "三八，無藥醫",
+          "Sam4-pat4, bo5-ioh8-i1"
+        ],
+        [
+          "三寸氣未斷",
+          "Sann1-tshun3-khui3 bue7 tuinn7"
+        ],
+        [
+          "三不等字號",
+          "Sam1-put4-ting2 ji7-ho7"
+        ],
+        [
+          "三行兩倒退",
+          "Sann1 kiann5 nng7 to3-the3"
+        ],
+        [
+          "三拄四毋著",
+          "Sann1 tu3 si3 m7-tioh8"
+        ],
+        [
+          "三思而後行",
+          "Sam1-su1 ji5-hio7 hing5"
+        ],
+        [
+          "三國歸一統",
+          "Sam1 kok4 kui1 it4-thong2"
+        ],
+        [
+          "三項[會+勿]囥的",
+          "Sann1 hang7 be7-khng3-tik4"
+        ],
+        [
+          "三歲教五歲",
+          "Sann1 hue3 kah4 goo7 hue3"
+        ],
+        [
+          "三講四交落",
+          "Sann1 kong2 si3 ka1-lauh8"
+        ],
+        [
+          "三講四毋著",
+          "Sann1 kong2 si3 m7-tioh8"
+        ],
+        [
+          "三七講，四六聽",
+          "Sam1-tshit4 kong2, su3-liok8 thiann1"
+        ],
+        [
+          "三人扛，四人扶",
+          "Sann1 lang5 kng, si3 lang5 hu5"
+        ],
+        [
+          "三人扶，四人插",
+          "Sann1 lang5 hu5, si3 lang5 tshah4"
+        ],
+        [
+          "三下手，兩輪半",
+          "Sann1-e7-tshiu2, nng7-lian3-puann3"
+        ],
+        [
+          "三下咬，未見餡",
+          "Sann1-e7 ka7, bue7-kinn3 ann7"
+        ],
+        [
+          "三分人，七分粧",
+          "Sann1 hun7 lang5, tshit4 hun1 tsng1"
+        ],
+        [
+          "三文錢，四文路",
+          "Sann1 bun5 tsinn5, si3 bun5 loo7"
+        ],
+        [
+          "三日大，五日小",
+          "Sann1 jit8 tua7, goo7 jit8 sio2"
+        ],
+        [
+          "三日風，兩日雨",
+          "Sann1 jit8 hong1, liong2 jit8 hoo7"
+        ],
+        [
+          "三交代，四吩咐",
+          "Sann1 kau-tai7, si3 huan1-hu3"
+        ],
+        [
+          "三交落，四著跋",
+          "Sann1 ka1-lauh8, si3 tioh8 puah8"
+        ],
+        [
+          "三年官，兩年滿",
+          "Sann1 ni5 kuann1, nng7 ni5 mua2"
+        ],
+        [
+          "三更窮，四更富",
+          "Sann1-kenn1 khing5, si3-kenn1 hu3"
+        ],
+        [
+          "三兩肉做四獻",
+          "Sann1 niu2 bah4 tso3 si3-hian3"
+        ],
+        [
+          "三時風，兩時雨",
+          "Sann1 si5 hong1, nng7 si5 hoo7"
+        ],
+        [
+          "三國歸司馬懿",
+          "Sam1-kok4 kui1 Su1-ma2 I3"
+        ],
+        [
+          "三欺二，二欺一",
+          "Sann1 khi1 ji7, ji7 khi1 it4"
+        ],
+        [
+          "三項烏毋通摸",
+          "Sann1 hang7 oo1 m7-thang1 bong1"
+        ],
+        [
+          "三溪水，洗[會+勿]清",
+          "Sann1 khe1-tsui2, se2-be7-tshenn1"
+        ],
+        [
+          "三碗飯，兩碗湯",
+          "Sann1 uann2 puinn7, nng7 uann2 thng1"
+        ],
+        [
+          "三碗飯，兩碗菜",
+          "Sann1 uann2 puinn7, nng7 uann2 tshai3"
+        ],
+        [
+          "三腳行，兩腳跳",
+          "Sann1-kha1 kiann5, nng7-kha1 thiau3"
+        ],
+        [
+          "三腳步一坎店",
+          "Sann1-kha1-poo7 tsit8 kham2 tiam3"
+        ],
+        [
+          "三腳走，兩腳跳",
+          "Sann1-kha1 tsau2, nng7-kha1 thiau3"
+        ],
+        [
+          "三腳桌企[會+勿]在",
+          "Sann1 kha1 toh4 khia7 be7-tsai7"
+        ],
+        [
+          "三腳貓，四目狗",
+          "Sann1 kha1 niau1, si3 bak8 kau2"
+        ],
+        [
+          "三腳躍，四腳跳",
+          "Sann1 kha1 tio5, si3 kha1 thiau3"
+        ],
+        [
+          "三頓前，兩頓後",
+          "Sann1 tuinn3 tsing5, nng7 tuinn3 au7"
+        ],
+        [
+          "三頓食封炕鹵",
+          "Sann1-tuinn3 tsiah8 hong1 khong3 loo2"
+        ],
+        [
+          "三頓飲，當衫飲",
+          "Sann1-tuinn3 lim1, tng3-sann1 lim1"
+        ],
+        [
+          "三鋤頭，一畚箕",
+          "Sann1 ti5-thau5, tsit8 pun3-ki1"
+        ],
+        [
+          "三鋤頭，兩畚箕",
+          "Sann1 ti5-thau5, nng7 pun3-ki1"
+        ],
+        [
+          "三雙來，六塊去",
+          "Sann siang1 lai5, lak8 te3 khi3"
+        ],
+        [
+          "三十二五著去賺",
+          "Sann1-tsap8 ji7-goo7 tioh8 khi3 tan3"
+        ],
+        [
+          "三十六計走為先",
+          "Sann1-tsap8-lak8-ki3 tsau2 ui5 sian1"
+        ],
+        [
+          "三千年一擺海漲",
+          "Sann1-tshing1 ni5 tsit8 pai2 hai2-tiang3"
+        ],
+        [
+          "三千年毋識食著",
+          "Sann1-tshing1 ni5 m7-bat4 tsiah8--tioh8"
+        ],
+        [
+          "三山五岳遊透透",
+          "Sam1-san1-ngoo2-gak8 iu5 thau3-thau3"
+        ],
+        [
+          "三山六海一分田",
+          "Sam1 san1 liok8 hai2 tsit8 hun1 tshan5"
+        ],
+        [
+          "三分人，四分打扮",
+          "Sann1 hun1 lang5, si3 hun7 tann2-pan7"
+        ],
+        [
+          "三分人事七分天",
+          "Sann1 hun1 jin5-su7 tshit4 hun1 thinn1"
+        ],
+        [
+          "三文買一褲頭",
+          "Sann1 bun5 be2 tsit8-khoo3-thau5"
+        ],
+        [
+          "三日早起當一工",
+          "Sann1 jit8 tsa2-khi2 tong3 tsit8 kang1"
+        ],
+        [
+          "三日風無一滴露",
+          "Sann1 jit8 hong1 bo5 tsit8 tih4 loo7"
+        ],
+        [
+          "三日無餾爬上樹",
+          "Sann1 jit8 bo5 liu7 peh4 tsiunn7 tshiu7"
+        ],
+        [
+          "三句不離本行",
+          "Sann1 ku3 put4 li7 pun2-hang5"
+        ],
+        [
+          "三句無兩句實的",
+          "Sann1 ku3 bo5 nng7 ku3 sit8--e5"
+        ],
+        [
+          "三句話不離本行",
+          "Sann1 ku3 ue7 put4 li7 pun2-hang5"
+        ],
+        [
+          "三色人講三色話",
+          "Sann1 sik4 lang5 kong2 sann1 sik4 ue7"
+        ],
+        [
+          "三更燈火五更雞",
+          "Sann1-kenn ting1-hue2 goo7-kenn1 ke1"
+        ],
+        [
+          "三兩人講四斤話",
+          "Sann1 niu2 lang5 kong2 si3 kin1 ue7"
+        ],
+        [
+          "三兩人講四兩話",
+          "Sann1 niu2 lang5 kong2 si3 niu2 ue7"
+        ],
+        [
+          "三姑做滿月－講暢",
+          "Sann1-koo1 tso3 mua2-gueh8 － kong2-thiong3"
+        ],
+        [
+          "三門大砲無礙翅",
+          "Sann1 mui5 tua7-phau3 bo5-gai7 sit8"
+        ],
+        [
+          "三個人，行五條路",
+          "Sann1 e5 lang5, kiann5 goo7 tiau5 loo7"
+        ],
+        [
+          "三國盡歸司馬懿",
+          "Sam1-kok4 tsin7 kui1 Su1-ma2 I3"
+        ],
+        [
+          "三塊豆干跳過桌",
+          "Sann1 te3 tau7-kuann1 thiau3--kue3 toh4"
+        ],
+        [
+          "三歲子仔定八十",
+          "Sann1 hue3 gin2-a2 ting7 peh4-tsap8"
+        ],
+        [
+          "三碗飯，兩碗菜湯",
+          "Sann1 uann2 puinn7, nng7 uann2 tshai3-thng1"
+        ],
+        [
+          "三醮婦人毋是人",
+          "Sam1-tsio3 hu7-jin5 m7 si7 lang5"
+        ],
+        [
+          "三人同行，必有我師",
+          "Sam1 jin5 tong5 hing5, pit4 u7 ngoo2 su1"
+        ],
+        [
+          "三八[月+之]，半年一千日",
+          "Sam1-pat4-tsi1, puann3 ni5 tsit8-tshing1 jit8"
+        ],
+        [
+          "三八[月+之]，放尿黏涕涕",
+          "Sam1-pat4-tsi1, pang3-jio7 liam5-thi1-thi1"
+        ],
+        [
+          "三十好過，四十難熬",
+          "Sann1-tsap8 ho2 kue3, si3-tsap8 lan5 au5"
+        ],
+        [
+          "三分前場，七分後場",
+          "Sann1 hun1 tsing5-tiunn5, tshit4 hun1 au7-tiunn5"
+        ],
+        [
+          "三分姿娘，七分打扮",
+          "Sann1 hun7 tsu1-niu5, tshit4 hun1 tann2-pan7"
+        ],
+        [
+          "三升米圓，睏[會+勿]得天光",
+          "Sann tsin1 bi2-inn5, khun3-be7-tit4 thinn1-kuinn1"
+        ],
+        [
+          "三文急燒食一個氣",
+          "Sann1 bun5 kip4-sio1 tsiah8 tsit8 e5 khui3"
+        ],
+        [
+          "三日大宴，五日小宴",
+          "Sann1 jit8 tua7 ian3, goo7 jit8 sio2 ian3"
+        ],
+        [
+          "三日討海，四日曝網",
+          "Sann1 jit8 tho2-hai2, si3 jit8 phak8 bang7"
+        ],
+        [
+          "三日偎東，四日偎西",
+          "Sann1 jit8 ua2 tang1, si3 jit8 ua2 sai1"
+        ],
+        [
+          "三日徙東，三日徙西",
+          "Sann1 jit8 sua2 tang1, sann1 jit8 sua2 sai1"
+        ],
+        [
+          "三日徙栽，四日跂黃",
+          "Sann1 jit8 sua2 tsai1, si3 jit8 khia7 uinn5"
+        ],
+        [
+          "三代粒積，一代開空",
+          "Sann1 tai7 liap8-tsik4, it4 tai7 khai1-khong1"
+        ],
+        [
+          "三年一閏，好歹照輪",
+          "Sann1 ni5 tsit8 lun7, ho2-phainn2 tsiau3-lun5"
+        ],
+        [
+          "三更無眠，四更無睏",
+          "Sann1-kenn bo5-bin5, si3-kenn1 bo5 khun3"
+        ],
+        [
+          "三兩雞仔，甲虎伴獅",
+          "Sann1 niu2 ke1-a2, kah4 hoo2 phuann7 sai1"
+        ],
+        [
+          "三兩雞仔，甲鳳伴飛",
+          "Sann1 niu2 ke1-a2, kah4 hong7 phuann7 pue1"
+        ],
+        [
+          "三思而行，再思可矣",
+          "Sam1-su1 ji5 hing5, tsai3 su1 kho2 i3"
+        ],
+        [
+          "三個錢，交關一坎店",
+          "Sann1 e5 tsinn5, kau1-kuan1 tsit8 kham2 tiam3"
+        ],
+        [
+          "三個錢販，兩個錢賣",
+          "Sann1 e5 tsinn5 huan3, nng7 e5 tsinn5 be7"
+        ],
+        [
+          "三個錢賭，四個錢賂",
+          "Sann1 e5 tsinn5 too2, si3 e5 tsinn5 loo3"
+        ],
+        [
+          "三歲看大，七歲到老",
+          "Sann1 hue3 khuann3 tua7, tshit4 hue3 kau3 lau7"
+        ],
+        [
+          "三腳貓，要笑一目狗",
+          "Sann1 kha1 niau1, beh4 tshio3 tsit8 bak8 kau2"
+        ],
+        [
+          "三銀佛仔栽七銀[髟^秋]",
+          "Sann1 gin5 hut8-a2 tsai1 tshit4 gin5 tshiu1"
+        ],
+        [
+          "三禮拜，六點鐘－食醋",
+          "Sann1 le2-pai3, lak8 tiam2-tsing1 － tsiah8-tshoo3"
+        ],
+        [
+          "三廳官難判家內事",
+          "Sann1-thiann1-kuann1 lan5 phuann3 ke1-lai7-su7"
+        ],
+        [
+          "三十六支骨頭動了了",
+          "Sann1-tsap8-lak8 ki1 kut4-thau5 tang7-liau2-liau2"
+        ],
+        [
+          "三文尪仔，栽四文嘴[髟^秋]",
+          "Sann1 bun5 ang1-a2, tsai1 si3 bun5 tshui3-tshiu1"
+        ],
+        [
+          "三文燈心，交關一坎店",
+          "Sann1 bun5 ting1-sim1, kau1-kuan1 tsit8 kham2 tiam3"
+        ],
+        [
+          "三年四月日纔會出師",
+          "Sann1 ni5 si3-gueh8-jit8 tshiah4 e7 tshut4-sai1"
+        ],
+        [
+          "三年耕，必有一年之食",
+          "Sann1 lian5 king1, pit4 iu2 tsit8 lian5 tsi1 sit8"
+        ],
+        [
+          "三條茄，毋值著一粒蟯",
+          "Sann tiau5 kio5, m7-tat8-tioh8 tsit8 liap8 gio5"
+        ],
+        [
+          "三腳馬仔有時會著躓",
+          "Sann1-kha1-be2-a2 u7-si5 e7 tioh8 tat4"
+        ],
+        [
+          "三餐五味，四碟一碗湯",
+          "Sann tshan1 goo7 bi7, si3 tiap8 tsit8 uann2 thng1"
+        ],
+        [
+          "三禮拜六點鐘，戽醋矸",
+          "Sann1 le2-pai3 lak8 tiam2-tsing1, hoo3 tshoo3-kan1"
+        ],
+        [
+          "三廳官[會+勿]判得家內事",
+          "Sann1-thiann1-kuann be7-phan3-tit4 ke1-lai7-su7"
+        ],
+        [
+          "三人共一心，烏土變成金",
+          "Sann lang5 kang7 tsit8 sim1, oo1-thoo5 pian3-sing5 kim1"
+        ],
+        [
+          "三八的無藥，亂神的定著",
+          "Sam1-pat4--e5 bo5-ioh8, lan7-sin5--e5 tiann7-tioh8"
+        ],
+        [
+          "三十不見子，終身磨到死",
+          "Sann1-tsap8 put4 kian3 tsu2, tsiong1-sin1 bua5 kau3 su2"
+        ],
+        [
+          "三十未娶某，講話臭乳呆",
+          "Sann1-tsap8 bue7 tshua7-boo2, kong2-ue7 tshau3-ling1-tai1"
+        ],
+        [
+          "三十未娶某，講話臭乳囐",
+          "Sann1-tsap8 bue7 tshua7-boo2, kong2-ue7 tshau3-ling1-hian3"
+        ],
+        [
+          "三十往後纔知天高地厚",
+          "Sann1-tsap8 ong2-au7 tshiah4 tsai1 thinn1-kuan5-te7-kau7"
+        ],
+        [
+          "三下扁擔刀，換無一碗麵",
+          "Sann1-e7 pin2-tann1 to1, uann7 bo5 tsit8 uann2 mi7"
+        ],
+        [
+          "三日扑到府，一暝溜到厝",
+          "Sann1 jit8 phah4 kau3 hu2, tsit8 me5 liu1 kau3 tshu3"
+        ],
+        [
+          "三月死魚鰡，六月風扑稻",
+          "Sann1--gueh8 si2 hi5-liu1, lak8--gueh8 hong1 phah4 tiu7"
+        ],
+        [
+          "三代無烘爐，四代無茶[石+古]",
+          "Sann1 tai7 bo5 hang1-loo5, si3 tai7 bo5 te5-koo2"
+        ],
+        [
+          "三年之耕，必有一年之食",
+          "Sann lian5 tsi1 king1, pit4 iu2 tsit8 lian5 tsi1 sit8"
+        ],
+        [
+          "三年水流東，三年水流西",
+          "Sann1 ni5 tsui2 lau5 tang1, sann1 ni5 tsui2 lau5 sai1"
+        ],
+        [
+          "三腳馬仔，有時也會著躓",
+          "Sann1-kha1-be2-a2, u7-si5 ia7 ke7 tioh8 tat7"
+        ],
+        [
+          "三人五目，日後無長短腳話",
+          "Sann lang5 goo7 bak8, jit8-au7 bo5 tng2-te2-kha1-ue7"
+        ],
+        [
+          "三千年的狗屎，也卻起來講",
+          "Sann1-tshing1 ni5 e5 kau2-sai2, ia7 khioh4--khi2-lai5 kong2"
+        ],
+        [
+          "三日風，三日霜，三日天清光",
+          "Sann1 jit8 hong1, sann1 jit8 sng1, sann1 jit8 thinn1 tshing1 kng1"
+        ],
+        [
+          "三更窮，四更富，五更起大厝",
+          "Sann1-kenn king5, si3-kenn1 hu3, goo7-kenn1 khi2 tua7-tshu3"
+        ],
+        [
+          "三個錢尪仔，栽四個錢嘴[髟^秋]",
+          "Sann1 e5 tsinn5 ang1-a2, tsai1 si3 e5 tsinn5 tshui3-tshiu1"
+        ],
+        [
+          "三人共五目，日後無長短腳話",
+          "Sann1 lang5 kiong7 goo7 bak8, jit8-au7 bo5 tng2-te2-kha1-ue7"
+        ],
+        [
+          "三十枵，四十嬈，五十挵破人豬稠",
+          "Sann1-tsap8 iau1, si3-tsap8 hiau5, goo7-tsap8 long3 phua3 lang5 ti1-tiau5"
+        ],
+        [
+          "三十枵，四十嬈，五十摃破人豬稠",
+          "Sann1-tsap8 iau1, si3-tsap8 hiau5, goo7-tsap8 kong3 phua3 lang5 ti1-tiau5"
+        ],
+        [
+          "三千年前的狗屎，也卻起來講",
+          "Sann1-tshing1 ni5-tsing5 e5 kau2-sai2, ia7 khioh4--khi2-lai5 kong2"
+        ],
+        [
+          "三句定，兩句冇，講話無黏蒂帶",
+          "Sann1 ku3 tiann7, nng7 ku3 phann3, kong2-ue7 bo5 liam5 ti3-tua3"
+        ],
+        [
+          "三年出狀元，出無一個好伙記",
+          "Sann1 ni5 tshut4 tsiong7-guan5, tshut4 bo5 tsit8 e5 ho2 hue2-ki3"
+        ],
+        [
+          "三年著賊偷，毋值一年火交落",
+          "Sann1 ni5 tioh8-tshat8-thau1, m7-tat8 tsit8 ni5 hue2 ka1-lauh8"
+        ],
+        [
+          "三年著賊偷，[會+勿]堪一把火失落",
+          "Sann1 ni5 tioh8-tshat8-thau1, be7-kham1 tsit8 pe2 hue2 sit4-loh8"
+        ],
+        [
+          "三更嘛好答應，也通等到白日",
+          "Sann1-kenn1 ma7 ho2 tah4-ing3, ia7 thang1 tan2 kau3 peh8-jit8"
+        ],
+        [
+          "三歲乖，四歲歹，五歲著押去刣",
+          "Sann1 hue3 kuai1, si3 hue3 phainn2, goo7 hue3 tioh8 ah4 khi3 thai5"
+        ],
+        [
+          "三年做大風颱，都毋飼人新婦仔栽",
+          "Sann1 ni5 tso3 tua7 hong1-thai1, tio1 m7 tshi7 lang5 sim1-pu7-a2-tsai1"
+        ],
+        [
+          "三十查甫是真銅，三十查某是老人",
+          "Sann1-tsap8 tsa1-poo si7 tsin1 tang5, sann1-tsap8 tsa1-boo2 si7 lau7-lang5"
+        ],
+        [
+          "三個小叔三擔柴，三個小姑諍嘴貓",
+          "Sann1 e5 sio2-tsik4 sann tann3 tsha5, sann1 e5 sio2-koo1 tsinn3-tshui3-niau1"
+        ],
+        [
+          "三十不豪，四十不富，五十相將，回死路",
+          "Sann1-tsap8 put4 ho5, si3-tsap8 put4 hu3, goo7-tsap8 siong3-tsiong3, hue5 si2-loo7"
+        ],
+        [
+          "三十不豪，四十不富，五十將來尋子助",
+          "Sann1-tsap8 put4 ho5, si3-tsap8 put4 hu3, goo7-tsap8 tsiong1-lai5 tshue7 kiann2 tsoo7"
+        ],
+        [
+          "三月無清明，四月無立夏，新米舊米價",
+          "Sann1--gueh8 bo5 tshing1-bing5, si3--gueh8 bo5 jip8-he7, sin bi2 ku7 bi2 ke3"
+        ],
+        [
+          "三十歲查甫是真銅，三十歲查某是老人",
+          "Sann1-tsap8 hue3 tsa1-poo1 si7 tsin1 tang5, sann1-tsap8 hue3 tsa1-boo2 si7 lau7-lang5"
+        ],
+        [
+          "三年出一個狀元，三年出無一個好伙記",
+          "Sann1 ni5 tshut4 tsit8 e5 tsiong7-guan5, sann1 ni5 tshut4 bo5 tsit8 e5 ho2 hue2-ki3"
+        ],
+        [
+          "三月三桃仔李趁頭擔，四月四桃仔李紅吱吱",
+          "Sann1-gueh8-sann1 tho5-a2-li2 thin3-thau5 tann1, si3-gueh8-si3 tho5-a2-li2 ang5-ki3-ki3"
+        ],
+        [
+          "下柴添火",
+          "He7 tsha5 thinn1 hue2"
+        ],
+        [
+          "下消",
+          "Ha7-siau1"
+        ],
+        [
+          "下蟳下蠔，到時攏無",
+          "He7 tsim5 he7 o5, kau3-si5 long2 bo5"
+        ],
+        [
+          "丈人丈姆真珠寶貝，老爸老母路邊柴皮",
+          "Tiunn7-lang5 tiunn7-m2 tsin1-tsu1 po2-pue3, lau7-pe7 lau7-bu2 loo7-pinn1 tsha5-phue5"
+        ],
+        [
+          "丈八柴，刣一枝艪蹄",
+          "Tng7-peh4 tsha5, thai5 tsit8 ki1 loo2-te5"
+        ],
+        [
+          "丈姆看子婿，愈看愈可愛",
+          "Tiunn7-m2 khuann3 kiann2-sai3, lu2 khuann3 lu2 kho2-ai3"
+        ],
+        [
+          "丈姆厝好迌",
+          "Tiunn7-m2 tshu3 ho2 thit4-tho5"
+        ],
+        [
+          "丈姆請子婿，米粉包雞屎",
+          "Tiunn7-m2 tshiann2 kiann2-sai3, bi2-hun2 pau1 ke1-sai2"
+        ],
+        [
+          "上人船，愛人船走",
+          "Tsiunn7 lang5 tsun5, ai3 lang5 tsun5 tsau2"
+        ],
+        [
+          "上山，看馬相踢",
+          "Tsiunn7-suann1, khuann3 be2 sio1 that4"
+        ],
+        [
+          "上山一工，落海亦一工",
+          "Tsiunn7-suann tsit8 kang1, loh8-hai2 iah8 tsit8 kang1"
+        ],
+        [
+          "上山看山勢，入門看人意",
+          "Tsiunn7-suann1 khuann3 suann-se3, jip8-mui5 khuann3 lang5 i3"
+        ],
+        [
+          "上不正，下則歪",
+          "Siong7 put4-tsing3, ha7 tsik4 uai1"
+        ],
+        [
+          "上不正，下就慢",
+          "Siong7 put4-tsing3, ha7 tioh8 ban7"
+        ],
+        [
+          "上天仙",
+          "Siong7-thinn1-sian1"
+        ],
+        [
+          "上天無路，入地無步",
+          "Tsiunn7-thinn1 bo5 loo7, jip8-te7 bo5-poo7"
+        ],
+        [
+          "上天講價，就地還錢",
+          "Tsiunn7-thinn1 kong2-ke3, tsiu7-te7 hing5-tsinn5"
+        ],
+        [
+          "上古仙",
+          "Siong7-koo2-sian1"
+        ],
+        [
+          "上古開天",
+          "Siong7-koo2 khai1-thian1"
+        ],
+        [
+          "上卌就[會+勿]攝",
+          "Tsiunn7-siap4 tioh8 be7 liap4"
+        ],
+        [
+          "上門踏戶",
+          "Tsiunn7-mui5-tah8-hoo7"
+        ],
+        [
+          "上帝公扑斷轎杠，扛[會+勿]得入境",
+          "Siong7-te3-kong1 phah4-tuinn7 kio7-kng3, kng1 be7-tit4 jip8-king2"
+        ],
+        [
+          "上帝爺博輸繳－當龜",
+          "Siong7-te3-ia5 puah8 su1 kiau2 －tng1-ku1"
+        ],
+        [
+          "上帝廟坅墘，水仙宮簾前",
+          "Siong7-te3-bio7 gim5-kinn5, tsui2-sian1-kiong1 ni5-tsinn5"
+        ],
+        [
+          "上海雞，頭[身+長][身+長]",
+          "Siong7-hai2 ke1, thau5-lo3-lo3"
+        ],
+        [
+          "上海雞，鵝腱",
+          "Siong7-hai2 ke1, go5-kian7"
+        ],
+        [
+          "上高樓看馬相踢",
+          "Siong7 kuan5-lau5 khuann3 be2 sio1 that4"
+        ],
+        [
+          "上清火",
+          "Siong7-tshing1 hue2"
+        ],
+        [
+          "上富方，錢銀屯粟倉",
+          "Siong7 hu3 hong1, tsinn5-gin5 tun1 tshik4-tshng1"
+        ],
+        [
+          "上等人講作穡，下等人講飲食",
+          "Siong7-ting2-lang5 kong2 tsoh4-sit4, e7-teng2-lang5 kong2 im2-sit8"
+        ],
+        [
+          "上踏枋，續要上眼床",
+          "Tsiunn7 tah8-pang1, sua3 beh4 tsiu7 bin5-tshng5"
+        ],
+        [
+          "上頭衫仔褲",
+          "Tsiunn7-thau5 sann1-a2-khoo3"
+        ],
+        [
+          "上頭戴髻",
+          "Tsiunn7-thau5 ti3 kue3"
+        ],
+        [
+          "上轎十八變",
+          "Tsiunn7-kio7 tsap8-peh4-pian3"
+        ],
+        [
+          "上轎纔縛腳",
+          "Tsiunn7-kio7 tshiah4 pak8-kha1"
+        ],
+        [
+          "凡事從實，得福自厚",
+          "Huan5-su7 tsing7-sit8, tit4 hok4 tsu7 kau7"
+        ],
+        [
+          "凡事著存後步",
+          "Huan5-su7 tioh8 tshun5 au7-poo7"
+        ],
+        [
+          "凡事著看破，毋通佔便宜",
+          "Huan5-su7 tioh8 khuann3-phua3, m7-thang1 tsiam3 pan5-gi5"
+        ],
+        [
+          "凡事須當三思",
+          "Huan5-su7 su1 tong1 sam1-su1"
+        ],
+        [
+          "凡事當留餘地，得意不宜再往",
+          "Huan5-su7 tong1 liu5 i5-te7, tik4-i3 put4-gi5 tsai3 ong2"
+        ],
+        [
+          "久雨望庚晴，久旱望庚雨",
+          "Ku2 hoo7 ng3 kenn1 tsing5, ku2 uann7 ng3 kenn1 hoo7"
+        ],
+        [
+          "久病成名醫",
+          "Ku2 penn7 sing5 mia5-i1"
+        ],
+        [
+          "久病無孝子",
+          "Ku2 penn7 bo5 hau3-tsu2"
+        ],
+        [
+          "久博神仙輸",
+          "Ku2 puah8 sin5-sian1 su1"
+        ],
+        [
+          "久慣成自然",
+          "Ku2 kuan3 sing5 tsu7-jian5"
+        ],
+        [
+          "久鍊成鋼",
+          "Ku2 lian7 sing5 kng3"
+        ],
+        [
+          "也要爸，也要饅頭",
+          "Ia7 beh4 pe7, ia7 beh4 bun7-thau5"
+        ],
+        [
+          "也要食，也要掠",
+          "Ia7 beh4 tsiah8, ia7 beh4 liah8"
+        ],
+        [
+          "也[會+勿]好，也[會+勿]倒",
+          "Ia7 be7 ho2, ia7 be7 to3"
+        ],
+        [
+          "也[會+勿]呼雞，也[會+勿]噴火，也[會+勿]哭爸",
+          "Ia7 be7 khoo1 ke1, ia7 be7 phun3 hue2, ia7 be7 khau3 pe7"
+        ],
+        [
+          "也[會+勿]擔蟶。也[會+勿]算錢",
+          "Ia7 be7 tann1 than1, ia7 be7 suinn3 tsinn5"
+        ],
+        [
+          "也著神。也著人",
+          "Ia7 tioh8 sin5, ia7 tioh8 jin5"
+        ],
+        [
+          "也著箠，也著糜",
+          "Ia7 tioh8 tshe5, ia7 tioh8 be5"
+        ],
+        [
+          "也著顧船，也著顧載",
+          "Ia7 tioh8 koo3 tsun5, ia7 tioh8 koo3 tsai3"
+        ],
+        [
+          "也會粗，也會幼",
+          "Ia7 e7 tshoo1, ia7 e7 iu3"
+        ],
+        [
+          "乞食趕廟公",
+          "Khit4-tsiah8 kuann2 bio7-kong1"
+        ],
+        [
+          "乞哀求憐",
+          "Khit ai1 kiu5 lian5"
+        ],
+        [
+          "乞食，好命八月日，歹命四月日",
+          "Khit4-tsiah8, ho2-mia7 peh4-gueh8-jit8, phainn2-mia7 si3-gueh8-jit8"
+        ],
+        [
+          "乞食，有食會弄柺仔花",
+          "Khit4-tsiah8, u7 tsiah8 e7 lang7 kuai2-a2-hue1"
+        ],
+        [
+          "乞食七",
+          "Khit4-tsiah8-tshit4"
+        ],
+        [
+          "乞食下大願",
+          "Khit4-tsiah8 he7 tua7 guan7"
+        ],
+        [
+          "乞食也有四月日剩糧",
+          "Khit4-tsiah8 ia7 u7 si3-gueh8-jit8 tshun1 niu5"
+        ],
+        [
+          "乞食也是一世人",
+          "Khit4-tsiah8 ia7 si7 tsit8-si3-lang5"
+        ],
+        [
+          "乞食有你份",
+          "Khit4-tsiah8 u7 li2 hun7"
+        ],
+        [
+          "乞食死在馬槽內",
+          "Khit4-tsiah8 si2 ti7 be2-tso5 lai7"
+        ],
+        [
+          "乞食伴羅漢",
+          "Khit4-tsiah8 phuann7 lo5-han3"
+        ],
+        [
+          "乞食伴羅漢，好味好素",
+          "Khit4-tsiah8 phuann7 lo5-han3, ho2-bi7-ho2-soo3"
+        ],
+        [
+          "乞食伴羅漢腳好味好素",
+          "Khit4-tsiah8 phuann7 lo5-han3-kha1 ho2-bi7-ho2-soo3"
+        ],
+        [
+          "乞食灶，無論好歹柴",
+          "Khit4-tsiah8 tsau3, bo5-lun7 ho2-phainn2 tsha5"
+        ],
+        [
+          "乞食灶孔，濫糝擠",
+          "Khit4-tsiah8 tsau3-khang1, lam7-sam2 ji7"
+        ],
+        [
+          "乞食身，皇帝嘴",
+          "Khit4-tsiah8 sin1, hong5-te3 tshui3"
+        ],
+        [
+          "乞食拜墓－－洩祖公",
+          "Khit4-tsiah8 pai3 bong7－－ sia3 tsoo2-kong1"
+        ],
+        [
+          "乞食相",
+          "Khit4-tsiah8-siong3"
+        ],
+        [
+          "乞食相爭門屋",
+          "Khit4-tsiah8 sio1-tsenn1 mui5-ok4"
+        ],
+        [
+          "乞食相爭巷仔頭",
+          "Khit4-tsiah8 sio1-tsenn1 hang7-a2-thau5"
+        ],
+        [
+          "乞食背葫蘆－－假仙",
+          "Khit4-tsiah8 phainn7 hoo5-loo5－－ke2-sian1"
+        ],
+        [
+          "乞食要比仙",
+          "Khit4-tsiah8 beh4 pi2 sian1"
+        ],
+        [
+          "乞食神，孝男面，早睏。晚精神",
+          "Khit4-tsiah8-sin5, hau3-lam5-bin7, tsa2 khun3, uann3 tsing-sin5"
+        ],
+        [
+          "乞食神上你身",
+          "Khit4-tsiah8-sin5 tsiunn7 li2 sin1"
+        ],
+        [
+          "乞食骨",
+          "Khit4-tsiah8-kut4"
+        ],
+        [
+          "乞食鬼",
+          "Khit4-tsiah8-kui2"
+        ],
+        [
+          "乞食假仙",
+          "Khit4-tsiah8 ke2-sian1"
+        ],
+        [
+          "乞食假紳士",
+          "Khit4-tsiah8 ke2 sin1-su7"
+        ],
+        [
+          "乞食做忌洩祖公",
+          "Khit4-tsiah8 tso3-ki3 sia3 tsoo2-kong1"
+        ],
+        [
+          "乞食唱山歌－窮開心",
+          "Khit4-tsiah8 tshiunn3 san1-ko1 －king5-khai1-sim1"
+        ],
+        [
+          "乞食婆，也趁人走番仔反",
+          "Khit4-tsiah8-po5, ia7 than3--lang5 tsau2 huan1-a2-huan2"
+        ],
+        [
+          "乞食婆，呵咾好身份",
+          "Khit4-tsiah8-po5, o1-lo2 ho2 sin1-hun7"
+        ],
+        [
+          "乞食婆，無空厝間",
+          "Khit4-tsiah8-po5, bo5 khang1 tshu3-king1"
+        ],
+        [
+          "乞食婆，趁人走反",
+          "Khit4-tsiah8-po5 than3--lang5 tsau2 huan2"
+        ],
+        [
+          "乞食婆有食，弄柺仔花",
+          "Khit4-tsiah8-po5 u7 tsiah8, lang7 kuai2-a21-hue1"
+        ],
+        [
+          "乞食婆有時擱會弄柺仔花",
+          "Khit4-tsiah8-po5 u7-si5 koh4 e7 lang7 kuai2-a2-hue1"
+        ],
+        [
+          "乞食婆揀好漢",
+          "Khit4-tsiah8-po5 king2 ho2-han3"
+        ],
+        [
+          "乞食婆趁人走賊",
+          "Khit4-tsiah8-po5 than3--lang5 tsau2 tshat8"
+        ],
+        [
+          "乞食無交落粿",
+          "Khit4-tsiah8 bo5 ka1-lauh8 kue2"
+        ],
+        [
+          "乞食無通交落粿",
+          "Khit4-tsiah8 bo5 thang1 ka1-lauh8 kue2"
+        ],
+        [
+          "乞食跋倒－啥講",
+          "Khit4-tsiah8 puah8-to2 －siang2-kong2"
+        ],
+        [
+          "乞食嫌飯餿",
+          "Khit4-tsiah8 hiam5 puinn7 sau1"
+        ],
+        [
+          "乞食過溪，行李濟",
+          "Khit4-tsiah8 kue3 khe1, hing5-li2 tse7"
+        ],
+        [
+          "乞食飼畫眉，羅漢腳飼細姨",
+          "Khit4-tsiah8 tshi7 ue7-bi5, lo5-han3-kha1 tshi7 se3-i5"
+        ],
+        [
+          "乞食嘛有三年好運",
+          "Khit4-tsiah8 ma7 u7 sann1 ni5 ho2-un7"
+        ],
+        [
+          "乞食緊，等奧",
+          "Khit4-tsiah8 kin2, tan2 oh4"
+        ],
+        [
+          "乞食擱飼貓",
+          "Khit4-tsiah8 koh4 tshi7 niau1"
+        ],
+        [
+          "乞食營選好婿",
+          "Khit4-tsiah8-iann5 suan2 ho2 sai3"
+        ],
+        [
+          "乞食舉虻甩仔－假仙",
+          "Khit4-tsiah8 gia5 bang2-sut4-a2－ ke2-sian1"
+        ],
+        [
+          "乞食舉虻甩－假仙",
+          "Khit4-tsiah8 gia5 bang2-sut4－ ke2-sian1"
+        ],
+        [
+          "乞食講仙話",
+          "Khit4-tsiah8 kong2 sian1 ue7"
+        ],
+        [
+          "乞食轉厝－倒贏",
+          "Khit4-tsiah8 tuinn2 tshu3 －to2 iann5"
+        ],
+        [
+          "乞龜",
+          "Khit4-ku1"
+        ],
+        [
+          "千人見，毋值著一人識",
+          "Tshian1 jin5 kinn3, m7-tat8-tioh8 it4 jin5 sit4"
+        ],
+        [
+          "千人所指，無病而死",
+          "Tshian1 jin5 soo2 ki2, bo5 penn7 ji5 si2"
+        ],
+        [
+          "千口難分",
+          "Tshian1 khau2 lan7 hun1"
+        ],
+        [
+          "千山萬水",
+          "Tshian1 san1 ban7 sui2"
+        ],
+        [
+          "千斤力，毋值四兩命",
+          "Tshian1 kin1 lat8, m7-tat8 si3 niu2 mia7"
+        ],
+        [
+          "千斤石板壓心頭",
+          "Tshian1 kin1 tsioh8-pan2 te3 sim1-thau5"
+        ],
+        [
+          "千日長，一日短",
+          "Tshian1 jit8 tng5, tsit8 jit8 te2"
+        ],
+        [
+          "千日剖柴，一日燒",
+          "Tshian1 jit8 phua3 tsha5, tsit8 jit8 sio1"
+        ],
+        [
+          "千叮嚀，萬吩咐",
+          "Tshian1 ting1-ling5, ban7 huan1-hu3"
+        ],
+        [
+          "千好萬好，毋值咱厝好",
+          "Tshian1 ho2 ban7 ho2, m7-tat8 lan2 tshu3 ho2"
+        ],
+        [
+          "千年田，八百主",
+          "Tshian1 ni5 tshan5, peh4-pah4 tsu2"
+        ],
+        [
+          "千年龜，萬年鼈",
+          "Tshian1 ni5 ku1, ban7 ni5 pih4"
+        ],
+        [
+          "千形萬狀",
+          "Tshian1 hing5 ban7 tsong7"
+        ],
+        [
+          "千言萬語",
+          "Tshian1 gian5 ban7 gi2"
+        ],
+        [
+          "千辛萬苦",
+          "Tshian1 sin1 ban7 khoo2"
+        ],
+        [
+          "千里送炭",
+          "Tshian1 li2 sang3 thuann3"
+        ],
+        [
+          "千里送鵝毛",
+          "Tshian1 li2 sang3 go5-moo1"
+        ],
+        [
+          "千里馬，縛在將軍柱",
+          "Tshian1-li2-be2, pak8 ti7 tsiong1-kun1 thiau7"
+        ],
+        [
+          "千里眼，順風耳",
+          "Tshian1-li2-gan2, sun7-hong1-ni2"
+        ],
+        [
+          "千里路途三五步，百萬軍兵六七人",
+          "Tshian1 li2 loo7-too5 sann1-goo7 poo7, pah4 ban7 kun1-ping1 lak8-tshit4 lang5"
+        ],
+        [
+          "千枝萬葉",
+          "Tshian1 ki1 ban7 hioh8"
+        ],
+        [
+          "千金小姐要出嫁－大庄",
+          "Tshian1-kim1-sio2-tsia2 beh4 tshut4-ke3 － tua7-tsng1"
+        ],
+        [
+          "千金易得，好語難求",
+          "Tshian1 kim1 i7 tik4, ho2 gi2 lan5 kiu5"
+        ],
+        [
+          "千金買厝，萬金買厝邊",
+          "Tshian1 kim1 be2 tshu3, ban7 kim1 be2 tshu3-pinn1"
+        ],
+        [
+          "千金難買親生子",
+          "Tshian1 kim1 lan7 be2 tshin1-senn1-kiann2"
+        ],
+        [
+          "千門萬戶",
+          "Tshian1 mui5 ban7 hoo7"
+        ],
+        [
+          "千思萬想",
+          "Tshian1 su1 ban7 siong3"
+        ],
+        [
+          "千家富，[會+勿]顧一家散",
+          "tshing-ke pu3, bue7 koo3 tsit8-ke san3"
+        ],
+        [
+          "千書（經）萬典，孝義為先",
+          "Tshian1 tsu1 (king1) ban7 tian2, hau3 gi7 ui5 sian1"
+        ],
+        [
+          "千草[艹^寮]土地－守鬼",
+          "Tshian1-tshau2-liau5 thoo2-te7 － tsiu2-kui2"
+        ],
+        [
+          "千富萬富，毋值家治厝",
+          "Tshian1 hu3 ban7 hu3, m7-tat8 ka1-ti7 tshu3"
+        ],
+        [
+          "千富萬濺",
+          "Tshian1 hu3 ban7 tsuann7"
+        ],
+        [
+          "千富萬爛",
+          "Tshian1 hu3 ban7 nua7"
+        ],
+        [
+          "千滾無[疒@皇]，萬滾無毒",
+          "Tshian1 kun2 bo5 hong5, ban7 kun2 bo5 tok8"
+        ],
+        [
+          "千算，毋值拄當",
+          "Tshian1 suinn3, m7-tat8 tu2-tng7"
+        ],
+        [
+          "千算萬算，毋值天一劃",
+          "Tshian1 suinn3 ban7 suinn3, m7-tat8 thinn1 tsit8 ue7"
+        ],
+        [
+          "千慮一失",
+          "Tshian1 li7 it4 sit4"
+        ],
+        [
+          "千頭萬緒，一刀兩斷",
+          "Tshian1-thau5-ban7-su7, it1-to1-liong2-tuan7"
+        ],
+        [
+          "千變萬化，毋值著造化",
+          "Tshian1-pian3-ban7-hua3, m7-tat8-tioh8 tso7-hua3"
+        ],
+        [
+          "叉嚨喉腮",
+          "Tshak8 na5-au5 tshi1"
+        ],
+        [
+          "口出蓮花",
+          "Khau2 tshut4 lian5-hue1"
+        ],
+        [
+          "口是傷人斧，言是割舌刀",
+          "Khau2 si7 siong1 jin5 poo2, gian5 si7 kuah4 tsih8 to1"
+        ],
+        [
+          "口是禍之門",
+          "Khau2 si7 ho7 tsi1 mui5"
+        ],
+        [
+          "口蜜腹劍",
+          "Khau2-bit8 pak4-kiam3"
+        ],
+        [
+          "口說不如身逢，再聞不如目見",
+          "Khau2 sueh4 put4-ju5 sin1 hong5, tsai3 bun5 put4-ju5 bak8 kinn3"
+        ],
+        [
+          "土水差寸，木匠差分",
+          "Thoo5-tsui2 tsha1 tshun3, bak8-tshiunn7 tsha1 hun1"
+        ],
+        [
+          "土水驚掠漏，醫生驚治嗽",
+          "Thoo5-tsui2 kiann1 liah8 lau7, i1-senn1 kiann1 ti7 sau3"
+        ],
+        [
+          "土牛入海－往而不返",
+          "Thoo5-gu5 jip8 hai2 － ong2 ji5 put4 huan2"
+        ],
+        [
+          "土生金",
+          "Thoo5 senn1 kim1"
+        ],
+        [
+          "土甲搖櫓",
+          "Thoo5 kah4 io5-loo2"
+        ],
+        [
+          "土地公，土地婆，許汝蟶，許汝蚵，到時逐項無",
+          "Thoo2-ti7-kong1, thoo2-ti7-po5, he7 li2 than1, he2 li2 o5, kau3-si5 tak8-hang7 bo5"
+        ],
+        [
+          "土地公白目眉，無人請家治來",
+          "Thoo2-ti7-kong1 peh8 bak8-bai5, bo5 lang5 tshian2 ka1-ti7 lai5"
+        ],
+        [
+          "土地公流清汗",
+          "Thoo2-ti7-kong1 lau5 tshinn1-kuann7"
+        ],
+        [
+          "土地公看傀儡－愈看愈花",
+          "Thoo2-ti7-kong1 khuann3 ka1-le2 －lu2 khuann3 lu2 hue1"
+        ],
+        [
+          "土地公無畫號，虎毋敢咬人",
+          "Thoo2-ti7-kong1 bo5 ue7-ho7, hoo2 m7-kann2 ka7 lang5"
+        ],
+        [
+          "土地公癢腳底",
+          "Thoo2-ti7-kong1 giau1 kha1-te2"
+        ],
+        [
+          "土州賣鴨卵",
+          "Thoo5-tsiu1 be7 ah4-nui7"
+        ],
+        [
+          "土豆剝開－愛人",
+          "Thoo5-tau7 peh4-khui1 － ai3-jin5"
+        ],
+        [
+          "土豆落落豬血桶－－廢人",
+          "Thoo5-tau7 lak4 loh8 ti1-hueh4-thang2 －－ hui3-jin5"
+        ],
+        [
+          "土貝毋是三牲材",
+          "Thoo5-pue3 m7 si7 sam1-sing1 tsai5"
+        ],
+        [
+          "土拳直扑，橫直撞著人",
+          "Thoo2-kun5 tit8 phah4, huainn5-tit8 long3 tioh8 lang5"
+        ],
+        [
+          "土猴損五穀",
+          "Thoo5-kau5 sun2 ngoo2-kok4"
+        ],
+        [
+          "土礱無換耳",
+          "Thoo5-lang5 bo5 uann7 hi7"
+        ],
+        [
+          "夕霞，明仔日雨",
+          "Sik8 ha5, bin5-a2-jit8 hoo7"
+        ],
+        [
+          "大袋",
+          "Tua7-te7"
+        ],
+        [
+          "大耳神",
+          "Tua7-hi7-sin5"
+        ],
+        [
+          "大官虎",
+          "Tua7-kuann1-hoo2"
+        ],
+        [
+          "大相狗",
+          "Tua7-siong3-kau2"
+        ],
+        [
+          "大面神",
+          "Tua7-bin7-sin5"
+        ],
+        [
+          "大細目",
+          "Tua7-se3-bak8"
+        ],
+        [
+          "大腱的",
+          "Tua7-kian7-e5"
+        ],
+        [
+          "大箍呆",
+          "Tua7-khoo1-tai1"
+        ],
+        [
+          "大嚨喉",
+          "Tua7-na5-au5"
+        ],
+        [
+          "大鐵齒",
+          "Tua7 thi3-khi2"
+        ],
+        [
+          "大人大種",
+          "Tua7-lang5-tua7-tsing2"
+        ],
+        [
+          "大牛惜力",
+          "Tua7 gu5 sioh4 lat8"
+        ],
+        [
+          "大牛換肩",
+          "Tua7-gu5-uann7-king1"
+        ],
+        [
+          "大主大意",
+          "Tua7-tsu2-tua7-i3"
+        ],
+        [
+          "大本乞食",
+          "Tua7-pun2-khit4-tsiah8"
+        ],
+        [
+          "大目新娘",
+          "Tua7-bak8-sin1-niu5"
+        ],
+        [
+          "大名望家",
+          "Tua7 bing5-bong7-ka1"
+        ],
+        [
+          "大好大敗",
+          "Tua7 ho2 tua7 pai7"
+        ],
+        [
+          "大舌興啼",
+          "Tua7-tsih8 hing3 thi5"
+        ],
+        [
+          "大炮放煏",
+          "Tua7-phau3 pang3 piak4"
+        ],
+        [
+          "大食親姆",
+          "Tua7-tsiah8 tshenn1-m2"
+        ],
+        [
+          "大眠小死",
+          "Tua7-bin5-sio2-si2"
+        ],
+        [
+          "大船入港",
+          "Tua7-tsun5 jip8-kang2"
+        ],
+        [
+          "大嘴開開",
+          "Tua7-tshui3 khui1-khui1"
+        ],
+        [
+          "大猴哄雞",
+          "Tua7 kau5 hang2 ke1"
+        ],
+        [
+          "大爺壁籠",
+          "Tua7-ia5 piah4-long1"
+        ],
+        [
+          "大摸四界",
+          "Tua7-bong2-si3-ke3"
+        ],
+        [
+          "大器小用",
+          "Tua7 khi3 sio2 iong7"
+        ],
+        [
+          "大頭大面",
+          "Tua7-thau5-tua7-bin7"
+        ],
+        [
+          "大嚨喉孔",
+          "Tua7 na5-au5-khang1"
+        ],
+        [
+          "大人騙囝仔",
+          "Tua7-lang5 phian3 gin2-a2"
+        ],
+        [
+          "大孔掙[會+勿]痛",
+          "Tua7-khang1 tsing1 be7 thiann3"
+        ],
+        [
+          "大日，曝死虎",
+          "Tua7-jit8, phak8-si2 hoo2"
+        ],
+        [
+          "大水流破布",
+          "Tua7 tsui2 lau5 phua3-poo3"
+        ],
+        [
+          "大水蓋草埔",
+          "Tua7-tsui2 kham3 tshau2-poo1"
+        ],
+        [
+          "大牛無惜力",
+          "Tua7 gu5 bo5 sioh4 lat8"
+        ],
+        [
+          "大仙到滾龍",
+          "Tua7-sian1 kah4 kun2-liong5"
+        ],
+        [
+          "大乳壓細子",
+          "Tua7 ling1 te3 se3 kiann2"
+        ],
+        [
+          "大姊挽荔枝",
+          "Tua7-tsi2 ban2 nai7-tsi1"
+        ],
+        [
+          "大風吹冇粟",
+          "Tua7 hong1 tshue1 phann3-tshik4"
+        ],
+        [
+          "大格雞慢啼",
+          "Tua7-keh4 ke1 ban7 thi5"
+        ],
+        [
+          "大隻雞慢啼",
+          "Tua7 tsiah4 ke1 ban7 thi5"
+        ],
+        [
+          "大船奧起碇",
+          "Tua7 tsun5 oh4 khi2-tiann7"
+        ],
+        [
+          "大普，枵死鬼",
+          "Tua7-phoo2, iau1-si2 kui2"
+        ],
+        [
+          "大暑，著要熱",
+          "Tai7-si2, tioh8-ai3 juah8"
+        ],
+        [
+          "大猴哄小雞",
+          "Tua7 kau5 hang1 sio2 ke1"
+        ],
+        [
+          "大碗擱滿墘",
+          "Tua7 uann2 koh4 buan2 kinn5"
+        ],
+        [
+          "大腸告小腸",
+          "Tua7-tng5 ko3 sio2-tng5"
+        ],
+        [
+          "大腸透尾口",
+          "Tua7-tng5 thau3 bue2-khau2"
+        ],
+        [
+          "大腳假細鞋",
+          "Tua7 kha1 ke2 se3 e5"
+        ],
+        [
+          "大腳假細蹄",
+          "Tua7 kha1 ke2 se3 te5"
+        ],
+        [
+          "大暢就會痛",
+          "Tua7 thiong3 tioh8 e7 thiann3"
+        ],
+        [
+          "大樹剉有柴",
+          "Tua7 tshiu7 tsho3 u7 tsha5"
+        ],
+        [
+          "大樹會蔭人",
+          "Tua7 tshiu7 e7 im3 lang5"
+        ],
+        [
+          "大聲嚇死鬼",
+          "Tua7 siann1 hang2-si2 kui2"
+        ],
+        [
+          "大人言，囝仔話",
+          "Tua7-lang5 gian5, gin2-a2 ue7"
+        ],
+        [
+          "大人言，君子口",
+          "Tua7-lang5 gian5, kun1-tsu2 khau2"
+        ],
+        [
+          "大人趁囝仔邊",
+          "Tua7-lang5 thin7 gin2-a2 pinn1"
+        ],
+        [
+          "大人嘛著子扶",
+          "Tua7-lang5 ma7 tioh8 kiann2 hu5"
+        ],
+        [
+          "大人講囝仔話",
+          "Tua7-lang5 kong2 gin2-a2 ue7"
+        ],
+        [
+          "大丈夫，男子漢",
+          "Tai7-tiong7-hu1, lam5-tsu2-han3"
+        ],
+        [
+          "大孔欺負我軟",
+          "Tua7 khang1 khi1-hu7 gua2 nui2"
+        ],
+        [
+          "大光明兼說明",
+          "Tua7-kong1-bing5 kiam1 suat4-bing5"
+        ],
+        [
+          "大社欺負細社",
+          "Tua7 sia7 khi1-hu7 se3 sia7"
+        ],
+        [
+          "大是兄，細是弟",
+          "Tua7 si7 hiann1, se3 si7 ti7"
+        ],
+        [
+          "大若豆，細若瘊",
+          "Tua7 na7 tau7, se3 na7 kau5"
+        ],
+        [
+          "大若鱟，細若豆",
+          "Tua7 na7 hau7, se3 na7 tau7"
+        ],
+        [
+          "大家互相褪褲",
+          "Tai7-ke1 hoo7-siong1 thuinn3 khoo3"
+        ],
+        [
+          "大格雞較慢啼",
+          "Tua7-keh4 ke1 kah4 ban7 thi5"
+        ],
+        [
+          "大海毋驚大水",
+          "Tua7 hai2 m7-kiann1 tua7-tsui2"
+        ],
+        [
+          "大敗必有大興",
+          "Tai7 pai7 pit4 u7 tai7 hing1"
+        ],
+        [
+          "大細目，高低耳",
+          "Tua7-se3-bak8, kuan5-ke7-hi7"
+        ],
+        [
+          "大細漢差彼濟",
+          "Tua7-se3-han3 tsha1 hiah4 tse7"
+        ],
+        [
+          "大麥較貴春種",
+          "Tua7-beh8 kah4 kui3 tshun1-tsing2"
+        ],
+        [
+          "大尊大，細尊細",
+          "Tua7 tsun 1tua7, se3 tsun1 se3"
+        ],
+        [
+          "大貴必有大賤",
+          "Tai7 kui3 pit4 u7 tai7 tsian7"
+        ],
+        [
+          "大暢就會大痛",
+          "Tua7 thiong3 tioh8 e7 tua7 thiann3"
+        ],
+        [
+          "大榕樹，好蔭影",
+          "Tua7 tshing5-tshiu7, ho2 im3 iann2"
+        ],
+        [
+          "大箍人，好看頭",
+          "Tua7-khoo1-lang5, ho2-khuann3-thau5"
+        ],
+        [
+          "大箍呆，鎮厝內",
+          "Tua7-khoo1-tai1, tin3 tshu3-lai7"
+        ],
+        [
+          "大箍健，勇身命",
+          "Tua7-khoo1 kiann7, iong2 sin1-mia7"
+        ],
+        [
+          "大箍菜頭冇心",
+          "Tua7-khoo1 tshai3-thau5 phann3-sim1"
+        ],
+        [
+          "大樹倒，剖有柴",
+          "Tua7 tshiu7 to2, phua3 u7 tsha5"
+        ],
+        [
+          "大人較輸過囝仔",
+          "Tua7-lang5 kah4 su1-kue3 gin2-a2"
+        ],
+        [
+          "大丈夫能屈能伸",
+          "Tai7-tiong7-hu1 ling5 khut4 ling5 tshun1"
+        ],
+        [
+          "大兄無坐正－歪哥",
+          "Tua7-hiann1 bo5 tse7-tsiann3－ uai1-ko1"
+        ],
+        [
+          "大目新娘尋無灶",
+          "Tua7-bak8 sin1-niu5 tshue7 bo5 tsau3"
+        ],
+        [
+          "大石嘛著石仔鞏",
+          "Tua7 tsioh8 ma7 tioh8 tsioh8-a2 king7"
+        ],
+        [
+          "大石嘛著細石鞏",
+          "Tua7 tsioh8 ma7 tioh8 se3 tsioh8 king7"
+        ],
+        [
+          "大家落水平平沈",
+          "Tai7-ke1 loh8-tsui2 penn5-penn5 tim5"
+        ],
+        [
+          "大鵬有翅恨天低",
+          "Tua7 ping5 iu2 sit4 hin7 thunn1 ke7"
+        ],
+        [
+          "大人爬起，囝仔佔椅",
+          "Tua7-lang5 peh4 khi2, gin2-a2 tsiam3 i2"
+        ],
+        [
+          "大水[會+勿]流得石舂臼",
+          "Tua7 tsui2 be7-lau5-tit4 tsioh8-tsing1-khu7"
+        ],
+        [
+          "大北門外祭無頭鬼",
+          "Tua7-pak4-mui5-gua7 tse3 bo5 thau5 kui2"
+        ],
+        [
+          "大目上粧，細目廢荒",
+          "Tua7-bak8 tsiunn7-tsng1, se3-bak8 hui3-hng1"
+        ],
+        [
+          "大目新娘，無看著灶",
+          "Tua7-bak8-sin1-niu5, bo5 khuann3 tioh8 tsau3"
+        ],
+        [
+          "大姊做鞋，二姊照樣",
+          "Tua7-tsi2 tso3 ue5, ji7-tsi2 tsiau3 iunn7"
+        ],
+        [
+          "大狗爬牆，小狗看樣",
+          "Tua7 kau2 peh4 tshiunn5, sio2 kau2 khuann3 iunn7"
+        ],
+        [
+          "大狗爬牆，小狗趁樣",
+          "Tua7 kau2 peh4 tshiunn5, sio2 kau2 than3 iunn7"
+        ],
+        [
+          "大家平平是蕃薯子",
+          "Tai7-ke1 penn5-penn5 si7 han1-tsi5-kiann2"
+        ],
+        [
+          "大家有嘴，新婦無嘴",
+          "Ta7-ke1 u7-tshui3, sim1-pu7 bo5 tshui3"
+        ],
+        [
+          "大家有話，新婦無嘴",
+          "Ta7-ke1 u7 ue7, sim1-pu7 bo5 tshui3"
+        ],
+        [
+          "大寒不寒，人馬不安",
+          "Tai7-han5 put4 han5, lang5 ma2 put4 an1"
+        ],
+        [
+          "大富由天，小富由儉",
+          "Tua7 hu3 iu5 thinn1, sio2 hu3 iu5 khiam7"
+        ],
+        [
+          "大富由命，小富由勤",
+          "Tua7 hu3 iu5 mia7, sio2 hu3 iu5 khin5"
+        ],
+        [
+          "大廟不收，小廟不留",
+          "Tua7 bio7 put4 siu1, sio2 bio7 put4 liu5"
+        ],
+        [
+          "大甲溪放草魚－有準無",
+          "Tai7-kah4-khe pang3 tshau2-hu5 －u7-tsun2-bo5"
+        ],
+        [
+          "大目降牛販－先講先贏",
+          "Tua7-bak8-kang3 gu5-huan3 －sing1 kong2 sing1 iann5"
+        ],
+        [
+          "大將跋落馬下－活踏死",
+          "Tai7-tsiong3 puah8 loh8 be2-ha7－uah8-tah8-si2"
+        ],
+        [
+          "大富由天小富由勤儉",
+          "Tua7 hu3 iu5 thinn1 sio2 hu3 iu5 khin5-khiam7"
+        ],
+        [
+          "大鼎未滾，細鼎沖沖滾",
+          "Tua7 tiann2 bue7 kun2, se3 tiann2 tshiang5-tshiang5-kun2"
+        ],
+        [
+          "大鼎未滾，鼎仔沖沖滾",
+          "Tua7 tiann2 bue7 kun2, tiann2-a2 tshiang5-tshiang5-kun2"
+        ],
+        [
+          "大箍冬瓜，好看無好食",
+          "Tua7-khoo1 tang1-kue1, ho2-khuann3 bo5 ho2-tsiah8"
+        ],
+        [
+          "大人咬一嘴，囝仔食到畏",
+          "Tua7-lang5 ka7 tsit8 tshui3, gin2-a2 tsiah8 kah4 ui3"
+        ],
+        [
+          "大人亂操操，囝仔要年兜",
+          "Tua7-lang5 luan7-tshau1-tshau1, gin2-a2 ai3 ni5-tau1"
+        ],
+        [
+          "大工無人請，小工毋願行",
+          "Tua7-kong1 bo5 lang5 tshian3, sio2-kang1 m7 guan7 kiann5"
+        ],
+        [
+          "大五甲大七，毋免動手筆",
+          "Tua7 goo7 kah4 tua7 tshit4, m7-bian2 tang7 tshiu2-pit4"
+        ],
+        [
+          "大舌興講話，瘸腳興踢球",
+          "Tua7-tsih8 hing3 kong2-ue7, khue5-kha1 hing3 that4 kiu5"
+        ],
+        [
+          "大事化小事，小事化無事",
+          "Tai7 su7 hua3 sio2 su7, sio2 su7 hua3 bo5 su7"
+        ],
+        [
+          "大姑大若婆，小姑賽閻羅",
+          "Tua7-koo1 tua7 na7 po5, sio2-koo1 sai3 giam5-lo5"
+        ],
+        [
+          "大屎拼[手+亥]掉，卻鳥屎蔭肥",
+          "Tua7 sai2 piann3 hinn3-tiau7, khioh4 tsiau2-sai2 im3 pui5"
+        ],
+        [
+          "大食無出處，博繳有來去",
+          "Tua7-tsiah8 bo5 tshut4-tshu3, puah8-kiau2 u7 lai5-khi3"
+        ],
+        [
+          "大厝大海海，餓死無人知",
+          "Tua7 tshu3 tua7-hai2-hai2, go7-si2 bo5 lang5 tsai1"
+        ],
+        [
+          "大厝有硿硿，老皮[會+勿]過風",
+          "Tua7 tshu3 u7 khong7-khong7, lau7-phue5 be7 kue3-hong1"
+        ],
+        [
+          "大賊劫小賊，魷魚劫墨鰂",
+          "Tua7 tshat8 kiap4 sio2 tshat8, jiu5-hi5 kiap4 bak8-tsat8"
+        ],
+        [
+          "大丈夫一言放出，駟馬難追",
+          "Tai7-tiong7-hu1 it4 gan5 hong3 tshut4, su3 ma2 lan5 tui1"
+        ],
+        [
+          "大水流破布，流到彼、住到彼",
+          "Tua7 tsui2 lau5 phua3-poo3, lau5 kah4 hia1, tua7 kah4 hia1"
+        ],
+        [
+          "大好大敗，無好無歹纔久長",
+          "Tua7 ho2 tua7 pai7, bo5 ho2 bo5 bai2 tshiah4 ku2-tng5"
+        ],
+        [
+          "大好大敗，無好無歹纔長在",
+          "Tua7 ho2 tua7 pai7, bo5 ho2 bo5 bai2 tshiah4 tshing5-tsai7"
+        ],
+        [
+          "大海水[會+勿]焦，死窟仔水緊焦",
+          "Tua7 hai2 tsui2 be7 ta1, si2 khut4-a2 tsui2 kin2 ta1"
+        ],
+        [
+          "大人生日食肉，囝仔生日著扑",
+          "Tua7-lang5 senn1-jit8 tsiah8 bah4, gin2-a2 senn1-jit8 tioh8-phah4"
+        ],
+        [
+          "大人煩惱無錢，囝仔歡喜過年",
+          "Tua7-lang5 huan5-lo2 bo5 tsinn5, gin2-a2 huann1-hi2 kue3-ni5"
+        ],
+        [
+          "大紅花毋知醜，圓仔花醜毋知",
+          "Tua7-ang5-hue1 m7-tsai1 bai2, inn5-a2-hue1 bai2 m7-tsai1"
+        ],
+        [
+          "大面好抹粉，大尻川好坐金屯",
+          "Tua7 bin7 ho2 buah4-hun2, tua7 kha1-tshuinn1 ho2 tse7 kim1-tun2"
+        ],
+        [
+          "大厝是媽祖宮，曠床是戲臺頂",
+          "Tua7 tshu3 si7 ma2-tsoo2-king1, khong3-tshng5 si7 hi3-tai5-ting2"
+        ],
+        [
+          "大貴必有大賤，大敗必有大興",
+          "Tai7 kui3 pit4 u7 tai7 tsian7, tai7 pai7 pit4 u7 tai7 hing1"
+        ],
+        [
+          "大媽鎮殿，二媽食便，三媽出戰",
+          "Tua7-ma2 tin3 tian7, ji7-ma2 tsiah8-pian7, sann1-ma2 tshut4-tsian3"
+        ],
+        [
+          "大道公甲媽祖婆鬥法，風雨齊到",
+          "Tai7-to7-kong1 kah4 ma2-tsoo2-po5 tau3-huat4, hong1-hoo7 tsiau5 kau3"
+        ],
+        [
+          "大隻水牛細條索，大漢新娘細漢哥",
+          "Tua7 tsiah4 tsui2-gu5 se3 tiau5 soh4, tua7-han3 sin1-niu5 se3-han3 ko1"
+        ],
+        [
+          "大路毋行行彎嶺，好人毋做做歹子",
+          "Tua7 loo7 m7 kiann5 kiann5 uan1 nia2, ho2-lang5 m7 tso3 tso3 phainn2-kiann2"
+        ],
+        [
+          "大本營發表，輸的攏記在敵人的帳－贏到食[會+勿]了",
+          "Tua7-pun2-iann5 huat4-piau2, su4--e5 long2 ki3 tsai7 tik8-jin5 e5 siau3－ iann5 kah4 tsiah8 be7 liau2"
+        ],
+        [
+          "大厝大鞏鞏，百年乃一喪，兄不見弟死，父不見子亡",
+          "Tua7-tshu3 tua7 kong5-kong5, pah4 ni5 nai2 it4 song1, hing1 put4 kian3 te7 su2, hu7 put4 kian3 tsu2 bong5"
+        ],
+        [
+          "大道公想灑媽祖婆的花粉，媽祖婆欲吹大道公的龍袞",
+          "Tai7-to7-kong1 siunn7 ia7 ma2-tsoo2-po5 e5 hue1-hun2, ma2-tsoo2-po5 beh4 tshue1 tai7-to7-kong1 e5 liong5-kun2"
+        ],
+        [
+          "女人心，海底針",
+          "Li2-jin5 sim1, hai2-te2 tsiam1"
+        ],
+        [
+          "女人要嫁趁年輕，蝦要跳著趁生",
+          "Li2-jin5 beh4 ke3 than3 ni5-khin1, he5 beh4 thiau3 tioh8 than3 tshinn1"
+        ],
+        [
+          "女大不可留，強留必有仇",
+          "Li2 tua7 put4 kho2 liu5, kiong5 liu5 pit4 iu2 siu5"
+        ],
+        [
+          "女子無才便是德",
+          "Li2-tsu2 bo5 tsai5 pian7 si7 tik4"
+        ],
+        [
+          "女死男門斷，男死女轉厝",
+          "Li2 si2 lam5 mui5 tuinn2, lam5 si2 li2 tuinn2 tshu3"
+        ],
+        [
+          "女兒要嫁尪，著會當飼尪",
+          "Li2-ji5 beh4 ke3 ang1, tioh8 e7-tang3 tshi7 ang1"
+        ],
+        [
+          "寸土屬王",
+          "Tshun3 thoo2 siok8 ong5"
+        ],
+        [
+          "小人見利忘義",
+          "Siau2-jin5 kian3 li7 bong5 gi7"
+        ],
+        [
+          "小人得志",
+          "Siau2-jin5 tik4-tsi3"
+        ],
+        [
+          "小人得志，搖頭拌耳",
+          "Siau2-jin5 tik4-tsi3, io5 thau5 puann7 hi7"
+        ],
+        [
+          "小小恆春鎮，三間豆腐店，城裏扑尻川，城外聽得見",
+          "Sio2-sio2 hing5-tshun1-tin3, sann1 king1 tau7-hu7 tiam3, siann5-lai7 phah4 kha1-tshuinn1, siann5-gua7 thiann1-tit4-kinn3"
+        ],
+        [
+          "小孔毋補，大孔叫苦",
+          "Sio2 khang1 m7 poo2, tua7 khang1 kio3 khoo2"
+        ],
+        [
+          "小水不容大舟",
+          "Sio2 tsui2 put4 iong5 tua7 tsiu1"
+        ],
+        [
+          "小犬不知，嫌路狹",
+          "Sio2 khian2 put4 ti1, hiam5 loo7 eh8"
+        ],
+        [
+          "小可錢，醫大病",
+          "Sio2-khua2 tsinn5, i1 tua7 penn7"
+        ],
+        [
+          "小弟仔，害大兄",
+          "Sio2-ti7-a2, hai7 tua7-hiann1"
+        ],
+        [
+          "小兒的心，像佛心",
+          "Sio2-ji5 e5 sim1, tshiunn7 hut8 sim1"
+        ],
+        [
+          "小和尚唸經，有嘴無心",
+          "Sio2 hue5-siunn7 liam7-king1, u7 tshui3 bo5 sim1"
+        ],
+        [
+          "小所見，多所怪",
+          "Sio2 soo2 kian3, to1 soo2 kuai3"
+        ],
+        [
+          "小雨[會+勿]堪輒落",
+          "Sio2 hoo7 be7-kham1 tsiap8 loh8"
+        ],
+        [
+          "小時偷針，大時偷金",
+          "Sio2-si5 thau1 tsiam1, tua7-si5 thau1 kim1"
+        ],
+        [
+          "小鬼仔毋曾見著大豬頭",
+          "Sio2-kui2-a2 m7-bat47 kinn3 tioh8 tua7 ti1-thau5"
+        ],
+        [
+          "小鬼仔面",
+          "Siau2-kui2-a2 bin7"
+        ],
+        [
+          "小鬼仔想要食閻羅王",
+          "Sio2-kui2-a2 siunn7 beh4 tsiah8 giam5-lo5-ong5"
+        ],
+        [
+          "小鬼毋敢摸王爺尻川",
+          "Sio2-kui2 m7-kann2 bong1 ong5-ia5 kha1-tshuinn1"
+        ],
+        [
+          "小鬼毋識看見大豬頭",
+          "Sio2-kui2 m7-bat4 khuann3-kinn3 tua7 ti1-thau5"
+        ],
+        [
+          "小船[會+勿]堪得重載",
+          "Sio2 tsun5 be7-kham1-tit4 tang7 tsai7"
+        ],
+        [
+          "小貪戴雞籠",
+          "Siau2-tham1 ti3 ke1-lam1"
+        ],
+        [
+          "小暑，青粟，無青米",
+          "Siau2-si2, tshenn1 tshik4, bo5 tshenn1 bi2"
+        ],
+        [
+          "小錢毋願賺，大錢[會+勿]予伊姦",
+          "Sio2 tsinn5 m7 guan7 tan7, tua7 tsinn5 be7 hoo7 i1 kan3"
+        ],
+        [
+          "小題大做",
+          "Sio2 te5 tai7 tso3"
+        ],
+        [
+          "山中也有千年樹",
+          "Suann1-tiong1 ia7 u7 tshian1 ni5 tshiu7"
+        ],
+        [
+          "山中有直[木+臭]，世上無直人",
+          "Suann1-tiong1 iu2 tit8 hiu3, se3-siong7 bo5 tit8-lang5"
+        ],
+        [
+          "山中自有千年樹，世上難逢百歲人",
+          "Suann1-tiong1 tsu7-iu2 tshian1 ni5 tshiu7, se3-siong7 lan5 hong5 pah4 hue3 lang5"
+        ],
+        [
+          "山內猴，食樹子",
+          "Suann1-lai7 kau5, tsiah8 tshiu7-tsi2"
+        ],
+        [
+          "山孔爆裂縫",
+          "Suann1-khang1 pit4 lih8-phang7"
+        ],
+        [
+          "山外有山，天外有天",
+          "Suann1-gua7 iu2 suann1, thinn1-gua7 iu2 thinn1"
+        ],
+        [
+          "山東響馬，看做呂宋嫖客",
+          "Suann1-tang hiang2-be2, khuann3 tso3 li7-song3 phiau5-kheh4"
+        ],
+        [
+          "山狗較厚雞",
+          "Suann1 kau2 khah4 kau7 ke1"
+        ],
+        [
+          "山食都會崩",
+          "Suann1 tsiah8 to1 e7 pang1"
+        ],
+        [
+          "山高，皇帝遠",
+          "Suann1 kuan5, hong5-te3 huinn7"
+        ],
+        [
+          "山高水牛大",
+          "Suann1 kuan5 tsui2-gu5 tua7"
+        ],
+        [
+          "山高毋免有神，大販毋免有錢",
+          "Suann1 kuan5 m7-bian2 u7 sin5, tua7-huan3 m7-bian2 u7 tsinn5"
+        ],
+        [
+          "山崩，見太平",
+          "Suann1 pang1, kinn3 thai3-ping5"
+        ],
+        [
+          "山崩地裂",
+          "Suann1 pang1 te7 lih8"
+        ],
+        [
+          "山頂一蕊花，毋值平洋一枝草",
+          "Suann1-ting2 tsit8 lui2 hue1, m7-tat8 penn5-iunn5 tsit8 ki1 tshau2"
+        ],
+        [
+          "山頂無好叫，山下無好應",
+          "Suann1-ting2 bo5 ho2 kio3, suann1-kha1 bo5 ho2 in3"
+        ],
+        [
+          "山裡鷓鴣羗，海裡馬[魚+加]鯧",
+          "Suann1-nih8 tsia3-koo1 khiu1, hai2--nih8 be2-ka1 tshiunn1"
+        ],
+        [
+          "山豬毋曾食米糠",
+          "Suann1-ti m7-bat4 tsiah8 bi2-khng1"
+        ],
+        [
+          "山貓想海魚",
+          "Suann1-niau1 siunn7 hai2 hi5"
+        ],
+        [
+          "山蟉蠘",
+          "Suann1-ka1-tsua7"
+        ],
+        [
+          "山醫命卜相，盡識是半仙",
+          "Suann1 i1 mia7 pok4 siong3, tsin7 bat4 si7 puan3-sian1"
+        ],
+        [
+          "山雞甲海鴨爭食",
+          "Suann1-ke1 kah4 hai2 ah4 tsenn1 tsiah8"
+        ],
+        [
+          "山雞想水鴨",
+          "Suann1-ke1 siunn7 tsui2-ah4"
+        ],
+        [
+          "工夫在手，無論早晚",
+          "Kang1-hu1 tsai7 tshiu2, bo5-lun7 tsa2-uann3"
+        ],
+        [
+          "工字無出頭",
+          "Kang1--ji7 bo5 tshut4-thau5"
+        ],
+        [
+          "工字無吐",
+          "Kang1--ji7 bo5 thoo2"
+        ],
+        [
+          "工作嚴，物配鹹",
+          "Kang1-tsok4 giam5, mih8 phue3 kiam5"
+        ],
+        [
+          "干證頭在人手裡，那使辯",
+          "Kan1-tsing3-thau5 ti7 lang5 tshiu2--nih8, na2-sai2 pian7"
+        ],
+        [
+          "丑仔腳，那有將才",
+          "Thiu2-a2-kha1, na2-u7 tsiong3-tsai5"
+        ],
+        [
+          "不七不八",
+          "Put4-tshit4-put4-pat4"
+        ],
+        [
+          "不了了之",
+          "Put4-liau2-liau2-tsi"
+        ],
+        [
+          "不入虎穴，焉得虎子",
+          "Put4 jip8 hoo2 hiat4, ian1 tit4 hoo2 tsu2"
+        ],
+        [
+          "不三不四",
+          "Put4-sam1-put4-su3"
+        ],
+        [
+          "不三似二",
+          "Put4-sann1-su7-ji7"
+        ],
+        [
+          "不士鬼",
+          "Put4-su3-kui2"
+        ],
+        [
+          "不可思議",
+          "Put4-kho2-su1-gi7"
+        ],
+        [
+          "不可鬧，一鬧一臭",
+          "Put4 kho2 nau7, tsit8 nau7 tsit8 tshau3"
+        ],
+        [
+          "不打，不成親家",
+          "Put4 tann2, put4 sing5 tshin1-ke1"
+        ],
+        [
+          "不孝生子免歡喜，忤逆原生忤逆兒",
+          "Put4-hau3 senn1-kiann2 bian2 huann1-hi2, ngoo2-gik8 uan5-senn1 ngoo2-gik8 ji5"
+        ],
+        [
+          "不孝有三，無後為大",
+          "Put4-hau3 iu2 sam1, bo5 hio7 ui5 tai7"
+        ],
+        [
+          "不孝怨爸母，欠債怨財主",
+          "Put4-hau3 uan3 pe7-bu2, khiam3-tse3 uan3 tsai5-tsu2"
+        ],
+        [
+          "不孝新婦三頓燒，有孝查某子路裏搖",
+          "Put4-hau3 sim1-pu7 sann1-tuinn3 sio1, iu2-hau3 tsa1-boo2-kiann2 loo7--lih io5"
+        ],
+        [
+          "不服水土",
+          "Put4-hok8-tsui2-thoo2"
+        ],
+        [
+          "不知不罪",
+          "Put4 ti1 put4 tsue7"
+        ],
+        [
+          "不為良相，當為良醫",
+          "Put4 ui5 liong5 siong3, tong1 ui5 liong5 i1"
+        ],
+        [
+          "不要觀音面，只要夫星現",
+          "Put4-iau3 kuan1-im1 bian7, tsi2-iau3 hu1-tshenn1 hian3"
+        ],
+        [
+          "不郎不秀",
+          "Put4-long5-put4-siu3"
+        ],
+        [
+          "不能治家，焉能治國",
+          "Put4 ling5 ti7 ka1, ian1 ling5 ti7 kok4"
+        ],
+        [
+          "不通桶",
+          "Put4-thong1-thang2"
+        ],
+        [
+          "不答不七",
+          "Put4-tap4-put4-tshit4"
+        ],
+        [
+          "不經一事，不長一智",
+          "Put4 king1 it4 su7, put4 tiang2 it4 ti3"
+        ],
+        [
+          "不漳不泉",
+          "Put4 tsiang1 put4 tsuann5"
+        ],
+        [
+          "不管三七二十一",
+          "Put4-kuan2 sann1-tshit4 ji7-tsap8-it4"
+        ],
+        [
+          "不癡不聾，無成大家倌",
+          "Put4 tshi1 put4 long5, bo5-sing5 tai7-ke1-kuann1"
+        ],
+        [
+          "不顛二界",
+          "Put4-tian1-ji7-kai3"
+        ],
+        [
+          "不顛臘界",
+          "Put4-tian1-lah8-kai3"
+        ],
+        [
+          "不櫜不束",
+          "Put4-lok4-put4-sok4"
+        ],
+        [
+          "中主人意，便是好工夫",
+          "Tiong3 tsu2-lang5 i3, pian7 si7 ho2 kang1-hu1"
+        ],
+        [
+          "中年失妻，親像三歲囝仔無老爸",
+          "Tiong1-lian5 sit4 tshe1, tshin1-tshiunn7 sann1-hue3-gin2-a2 bo5 lau7-pe7"
+        ],
+        [
+          "中你講，毋中人聽",
+          "Tiong3 li2 kong2, m7 tiong3 lang5 thiann1"
+        ],
+        [
+          "中斑弄濁水",
+          "Tiong1-pan1 long7 lo5-tsui2"
+        ],
+        [
+          "丹膏丸散，真仙難辨",
+          "Tan1 ko1 uan5 san3, tsin1 sian1 lan5 pian7"
+        ],
+        [
+          "予人消毒",
+          "Hoo7 lang5 siau1-tok8"
+        ],
+        [
+          "予人[會+勿]刁得",
+          "Hoo7 lang5 be7-tiau1-tit4"
+        ],
+        [
+          "予人騙崁也[會+勿]散，終世騙人會+勿]好額",
+          "Hoo7 lang5 phian3 kham3 ia7 be7 san3, tsiong1-se3 phian3-lang5 be7 ho2-giah8"
+        ],
+        [
+          "予你生粒仔，病子",
+          "Hoo7 li2 senn1 liap8-a2, penn7-kiann2"
+        ],
+        [
+          "予你知，嘴[髟^秋]會扑結",
+          "Hoo7 li2 tsai1, tshui3-tshiu1 e7 phah4-kat4"
+        ],
+        [
+          "予你食一個粗飽",
+          "Hoo7 li2 tsiah8-tsit8-e5 tshoo1-pa2"
+        ],
+        [
+          "予你無腳無手",
+          "Hoo7 li2 bo5 kha1 bo5 tshiu2"
+        ],
+        [
+          "予我架腳嫌你衰",
+          "Hoo7 gua2 khue3-kha1 hiam5 li2 sue1"
+        ],
+        [
+          "予我食，予我穿，欠錢毋免還",
+          "Hoo7 gua2 tsiah8, hoo7 gua2 tshing7, khiam3-tsinn5 m7-bian2 hing5"
+        ],
+        [
+          "予我罩毋見天",
+          "Hoo7 gua2 ta3-m7-khian3-thinn1"
+        ],
+        [
+          "予補鼎人姦去，尋扑鐵人討錢",
+          "Hoo7 poo2-tiann2-lang5 kan3--khi3, tshue7 phah4-thih4-lang5 tho2-tsinn5"
+        ],
+        [
+          "井水化做酒，亦嫌豬無糟",
+          "Tsenn2-tsui2 hua3-tso3 tsiu2, iah4 hiam5 ti1 bo5 tsau1"
+        ],
+        [
+          "井底蛙仔",
+          "Tsenn2-te2 kap4-a2"
+        ],
+        [
+          "井深續索",
+          "Tsenn2 tshim1 suah4 soh4"
+        ],
+        [
+          "井欄看做石舂臼",
+          "Tsenn2-lan5 khuann3 tso3 tsioh8 tsing1-ku7"
+        ],
+        [
+          "五、六無善北",
+          "Goo7, lak8 bu5 sian7 pak4"
+        ],
+        [
+          "五十歲食爸，五十年食子",
+          "Goo7-tsap8 hue3 tsiah8 pe7, goo7-tsap8 ni5 tsiah8 kiann2"
+        ],
+        [
+          "五女之家賊毋過",
+          "Goo7 li2 tsi1 ka1 tshat8 m7 kue3"
+        ],
+        [
+          "五分五分",
+          "Goo7-hun1-goo7-hun1"
+        ],
+        [
+          "五支指頭仔咬起來逐支嘛痛",
+          "Goo7 ki1 tsng2-thau5-a2 ka7--khi2-lai5 tak8 ki1 ma7 thiann3"
+        ],
+        [
+          "五支指頭咬落去逐支痛",
+          "Goo7 ki1 tsng2-thau5 ka7--loh8-khi3 tak8 ki1 thiann3"
+        ],
+        [
+          "五支[髟^秋]，鳥屎面",
+          "Goo7 ki1 tshiu1, tsiau2-sai2-bin7"
+        ],
+        [
+          "五斗矼掛綰－－大奸",
+          "Goo7 tau2 kng1 kua3 kuann7－－ tua7-kan1"
+        ],
+        [
+          "五斗壺掛綰－大矸（奸）",
+          "Goo7 tau2 oo5 kua3 kuann7－ tua7-kan1"
+        ],
+        [
+          "五斤蕃薯，臭八十一兩",
+          "Ggoo2 kin1 han1-tsi5, tshau3 peh4-tsap8-it4 niu2"
+        ],
+        [
+          "五日大宴，三日小宴",
+          "Goo7 jit8 tua7 ian3, sann1 jit8 sio2 ian3"
+        ],
+        [
+          "五日節粽未食，破裘毋甘放",
+          "Goo7-jit8-tseh4 tsang3 bue7 tsiah8, phua3-hiu5 m7-kam1 pang3"
+        ],
+        [
+          "五月十三－－麼旗嘛有（無奇不有）",
+          "Goo7-gueh8 tsap8-sann1－－ mih4 ki5 ma7 u7 (bu5-ki5-put4-iu2)"
+        ],
+        [
+          "五月五，龍船鼓滿街路",
+          "Goo7-gueh8-goo7, liong5-tsun5 koo2 mua2 ke1-loo7"
+        ],
+        [
+          "五月某會相誤",
+          "Goo7-gueh8 boo2 e7 sio1-goo7"
+        ],
+        [
+          "五月相誤，六月[會+勿]出尾，七月娶鬼某",
+          "Goo7--gueh8 sio1-goo7, lak8--gueh8 be7 tshut4-bue2, tshit4--gueh8 tshua7 kui2 boo2"
+        ],
+        [
+          "五月端午前，風高雨亦連",
+          "Goo7-gueh8 tuann1-ngoo2-tsian5, hong1 ko1 hoo7 iah8 lian5"
+        ],
+        [
+          "五牛分屍",
+          "Ngoo2 gu5 hun1 si1"
+        ],
+        [
+          "五代無阿公",
+          "Goo7 tai7 bo5 a1-kong1"
+        ],
+        [
+          "五子登科",
+          "Ngoo2 tsi2 ting1-kho1"
+        ],
+        [
+          "五年兩閏，好歹照輪",
+          "Goo7 ni5 nng7 lun7, ho2-phainn2 tsiau3-lun5"
+        ],
+        [
+          "五百斤鹽，鑄一口鼎",
+          "Goo7-pah4 kin1 iam5, tsu3 tsit8 khau2 tiann2"
+        ],
+        [
+          "五百年前姻緣，天註定",
+          "Goo7-pah4 ni5-tsing5 in1-ian5, thinn1-tsu3-tiann7"
+        ],
+        [
+          "五百姻緣，天註定",
+          "Goo7-pah4 in1-ian5, thinn1-tsu3-tiann7"
+        ],
+        [
+          "五色人，講十色話",
+          "Ngoo2 sik4 lang5, kong2 tsap8 sik4 ue7"
+        ],
+        [
+          "五步一秀，十步一舉",
+          "Goo7 poo7 it4 siu3. tsap8 poo7 it4 ki2"
+        ],
+        [
+          "五男二女",
+          "Goo7 lam5 ji7 li2"
+        ],
+        [
+          "五里[厲+鳥]鷂占七里雞仔",
+          "Goo7 li2 lai7-hioh8 tsiam3 tshit4 li2 ke1-a2"
+        ],
+        [
+          "五枝[髟^秋]",
+          "Goo7 ki1 tshiu1"
+        ],
+        [
+          "五花十色",
+          "Ngoo2-hue1-tsap8-sik4"
+        ],
+        [
+          "五虎下西山",
+          "Ngoo2 hoo2 ha7 se1-san1"
+        ],
+        [
+          "五個十個",
+          "Goo7 e5 tsap8 e5"
+        ],
+        [
+          "五馬分屍",
+          "Ngoo2 ma2 hun1 si1"
+        ],
+        [
+          "五鬼絕命",
+          "Ngoo2 kui2 tsuat8-mia7"
+        ],
+        [
+          "五張叫扑批，輸著[會+勿]呼雞",
+          "Goo7 tiunn1 kio3 phah4-phe1, su1 tioh8 be7 khoo1-ke1"
+        ],
+        [
+          "五術，非儒不精",
+          "Ngoo2 sut8, hui1 ju5 put4 tsing1"
+        ],
+        [
+          "五路行透透",
+          "Ngoo2-loo7 kiann5-thau3-thau3"
+        ],
+        [
+          "五路財神",
+          "Ngoo2-loo7 tsai5-sin5"
+        ],
+        [
+          "五跪，三叩頭",
+          "Goo7 kui7, sann1 khau3-thau5"
+        ],
+        [
+          "五腳出現",
+          "Goo7-kha1 tshut4-hian7"
+        ],
+        [
+          "五福臨門",
+          "Ngoo2 hok4 lim5 mui5"
+        ],
+        [
+          "五福難得求，富貴財子壽",
+          "Ngoo2 hok4 lan5-tit4 kiu5, hu3 kui3 tsai5 tsu2 siu7"
+        ],
+        [
+          "五穀豐盛，雨水接應",
+          "Ngoo2-kok4 hong1-sing7, u2-sui2 tsiap4-ing3"
+        ],
+        [
+          "五穀豐登，雨水昌盛",
+          "Ngoo2-kok4 hong1-ting1, u2-sui2 tshiong1-sing7"
+        ],
+        [
+          "五嶽歸來，不看山",
+          "Ngoo2-gak8 kui1--lai5, put4 kian3 san1"
+        ],
+        [
+          "仁義莫交財",
+          "Jjin5-gi7 bok8 kau1 tsai5"
+        ],
+        [
+          "仁義禮智信",
+          "Jin5 gi7 le2 ti3 sin3"
+        ],
+        [
+          "什麼命，食到竹塹餅",
+          "Siann2-mih4-mia7, tsiah8 kau3 tik4-tsham3 piann2"
+        ],
+        [
+          "今日不知明日事",
+          "Kim1-jit8 put4 ti1 bing5-jit8 su7"
+        ],
+        [
+          "今日錢做人",
+          "Kim1-jit8 tsinn5 tso3-lang5"
+        ],
+        [
+          "今世做，今世報",
+          "Kim1-se3 tso3, kim1-se3 po3"
+        ],
+        [
+          "今世做，後世收",
+          "Kim1-se3 tso3, au7-se3 siu1"
+        ],
+        [
+          "今晚食飯，不知明早事",
+          "Enn5-am2 tsiah8-puinn7, m7-tsai1 mia5-tsai2 su7"
+        ],
+        [
+          "今朝有酒今朝醉，明日愁來明日當",
+          "Kim1 tiau1 iu2 tsiu2 kim1 tiau1 tsui3, bing5 jit8 siu5 lai5 bing5 jit8 tng1"
+        ],
+        [
+          "今著轎門兩邊開，金銀財寶做一堆，新娘新婿入房內，生子生孫進秀才",
+          "Kim1 tioh8 kio7-mui5 liong2 ping5 khui1, kim1-gin5 tsai5-po2 tso3-tsit8-tui1, sin1-niu5 sin1-sai3 jip8 pang5-lai7, senn1 kiann2 senn1 sun1 tsin3 siu3-tsai5"
+        ],
+        [
+          "今暝，尋毋見早起頓",
+          "Enn5-huinn1, tshue7 m7-kinn3 tsa2-khi2-tuinn3"
+        ],
+        [
+          "允人定定，誤人空行",
+          "in2--lang5 tiann7-tiann7, goo7-lang5 khang-kiann5"
+        ],
+        [
+          "允人較慘欠人",
+          "In2--lang5 khah4 tsham2 khiam3--lang5"
+        ],
+        [
+          "內山猴",
+          "Lai7-suann1-kau5"
+        ],
+        [
+          "內山猴，食樹子",
+          "Lai7-suann1-kau5, tsiah8 tshiu7-tsi2"
+        ],
+        [
+          "內山菅蓁",
+          "Lai7-suann1 kuann1-tsin1"
+        ],
+        [
+          "內山貿龍眼",
+          "Lai7-suann1 bauh8 ling5-king2"
+        ],
+        [
+          "內山舉人",
+          "Lai7-suann1 ki2-jin5"
+        ],
+        [
+          "內神通外鬼",
+          "Lai7 sin5 thong1 gua7 kui2"
+        ],
+        [
+          "內場較濟九腳",
+          "Lai7-tiunn5 khah4 tse3 kau2-kha1"
+        ],
+        [
+          "內褲，穿顛倒爿",
+          "Lai7-khoo3, tshing7 tian1-to3-ping5"
+        ],
+        [
+          "六十無孫，老來無根",
+          "Lak8-tsap8 bo5 sun1, lau7--lai5 bo5 kin1"
+        ],
+        [
+          "六月十九，無風，水會哮",
+          "Lak8-gueh8 tsap8-kau2, bo5 hong1, tsui2 e7 hau2"
+        ],
+        [
+          "六月十二彭祖忌，無風也雨意",
+          "Lak8-gueh8 sip8-ji7 phinn5-tsoo2 ki7, bo5 hong1 ia7 hoo7 i3"
+        ],
+        [
+          "六月六，扑藍碡",
+          "Lak8-gueh8-lak8, phah4 na5-tak8"
+        ],
+        [
+          "六月六，做田人扑藍碡",
+          "Lak8-gueh8-lak8, tso3-tshan5-lang5 phah4 na5-tok8"
+        ],
+        [
+          "六月六落雨，百日見霜",
+          "Lak8-gueh8-lak8 loh8-hoo7, pah4 jit8 kinn3 sng1"
+        ],
+        [
+          "六月六落雨，百日霜",
+          "Lak8-gueh8-lak8 loh8-hoo7, pah4 jit8 sng1"
+        ],
+        [
+          "六月水牛－－等運",
+          "Lak8-gueh8 tsui2-gu5 －－ tan2 un7"
+        ],
+        [
+          "六月防初，七月防半",
+          "Lak8--gueh8 hong5 tshe1, tshit4--gueh8 hong5 puann3"
+        ],
+        [
+          "六月芥菜－－假有心",
+          "Lak8-gueh8 kua3-tshai3－－ ke2-u7-sim1"
+        ],
+        [
+          "六月初三雨，七十二雲風",
+          "Lak8-gueh8 tshe1-sann1 hoo7, tshit4-tsap8-ji7 hun5-hong1"
+        ],
+        [
+          "六月初六落雨，百日霜",
+          "Lak8-gueh8 tshe1-lak8 loh8-hoo7, pah4 jit8 sng1"
+        ],
+        [
+          "六月厝頂雪，半天[厲+鳥]鷂屍，貓腱水蛙毛",
+          "Lak8-gueh8 tshu3-ting2 seh4, puann3-thinn1 lai7-hioh8 si1, niau1-kian7 tsui2-ke1 moo1"
+        ],
+        [
+          "六月起風颱，寒死囝仔栽",
+          "Lak8--gueh8 khi2-hong1-thai1, kuann5-si2 gin2-a2-tsai1"
+        ],
+        [
+          "六月娶半年某",
+          "Lak8--gueh8 tshua7 puann3 ni5 boo2"
+        ],
+        [
+          "六月割青稻，無戇人",
+          "Lak8--gueh8 kuah4 tshenn1 tiu7, bo5 gong7-lang5"
+        ],
+        [
+          "六月棉被，揀人蓋",
+          "Lak8-gueh8 mi5-phue7, king2 lang5 kah4"
+        ],
+        [
+          "六月無洗身軀－臭死了",
+          "Lak8--gueh8 bo5 se2-sin1-khu1 － tshau3--si2 liau2"
+        ],
+        [
+          "六月賣火籠",
+          "Lak8-gueh8 be7 hue2-lang1"
+        ],
+        [
+          "六月霜，凍人[會+勿]死",
+          "Lak8-gueh8 sng1, tang3 lang5 be7 si2"
+        ],
+        [
+          "六月曝田埕，較慘死阿娘",
+          "Lak8--gueh8 phak8 tshan5-tiann5, khah4 tsham2 si2 a1-nia5"
+        ],
+        [
+          "六出祈山－拖老命",
+          "Liok8 tshut4 ki5 san1 － thua1-lau7-mia7"
+        ],
+        [
+          "六面骰仔，博無一面",
+          "Lak8 bin7 tau5-a2, puah8 bo5 tsit8 bin7"
+        ],
+        [
+          "六畜興旺",
+          "Liok8-thiok4 hing1-ong7"
+        ],
+        [
+          "六無小神仙，一斤八兩家治掀，身苦病痛叫皇天",
+          "Lak8-bo5 sio2 sin5-sian,1 tsit8 kin1 peh4 niu2 ka1-ti7 hian1, sin1-khoo2-penn7-thiann3 kio3 hong5-thian1"
+        ],
+        [
+          "六頭三擔",
+          "Lak8 thau5 sann1 tann3"
+        ],
+        [
+          "公車無車栓，公牛四人扛",
+          "Kong1-tshia bo5 tshia1-sng1, kong1 gu5 si3 lang5 kng1"
+        ],
+        [
+          "公修公行，婆修婆行",
+          "Kong1 siu1 kong1 hing5, po5 siu1 po5 hing5"
+        ],
+        [
+          "公眾某肥律律，公眾牛剩一支骨",
+          "Kong1-tsiong3-boo2 pui5-lut8-lut8, kong1-tsiong3-gu5 tshun1 tsit8 ki1 kut4"
+        ],
+        [
+          "公眾錢，解私寄願",
+          "Kong1-tsiong3 tsinn5, kai2 sai1-khia1 guan7"
+        ],
+        [
+          "公媽疼大孫，爸母疼幼子",
+          "Kong1-ma2 thiann3 tua7-sun1, pe7-bu2 thiann3 iu3-kiann2"
+        ],
+        [
+          "公道眠床舖大路",
+          "Kong1-to7 bun5-tshng5 phoo1 tua7 loo7"
+        ],
+        [
+          "公說公有理。婆說婆有理",
+          "Kpng1 sue3 kong1 iu2 li2, po5 sue3 po5 iu2 li2"
+        ],
+        [
+          "公學讀六冬，毋識屎桶枋",
+          "Kong1-hak8 thak8 lak8 tang1, m7-bat4 sai2-thang2 pang1"
+        ],
+        [
+          "公學讀六冬，毋識屎礐仔枋",
+          "Kong1-hak8 thak8 lak8 tang1, m7-bat4  sai2-hak8-a2 pang1"
+        ],
+        [
+          "公親變事主",
+          "Kong1-tshin pian3 su7-tsu2"
+        ],
+        [
+          "分久必合，合久必分",
+          "Hun ku2 pit4 hap8, hap8 ku2 pit4 hun1"
+        ],
+        [
+          "分屍拆腿",
+          "Hun1 si1 thiah4 thui2"
+        ],
+        [
+          "分查某子哭腳尾",
+          "Pun1 tsa1-boo2-kiann2 khau3 kha1-bue2"
+        ],
+        [
+          "分無平，扑到廿九暝",
+          "Pun1 bo5-pinn5, phah4 kau3 ji7-kau2-mi5"
+        ],
+        [
+          "勿營華屋，勿謀良田",
+          "But4 ing5 hua1 ok4, but4 boo5 liong5-tian5"
+        ],
+        [
+          "午前日景，風起北平",
+          "Ngoo2-tsian5 jit8 king2, hong1 khi2 pak4-ping5"
+        ],
+        [
+          "午後日暈，風勢須防",
+          "Ngoo2-au7 jit8 hun1, hong1-se3 su1 hong5"
+        ],
+        [
+          "午時水",
+          "Goo7-si5 tsui2"
+        ],
+        [
+          "午時水，食肥擱美",
+          "Goo7-si5 tsui2, tsiah8 pui5 koh4 sui2"
+        ],
+        [
+          "卅九的，問四十的",
+          "Sam1-kau2--e5, mui7 si3-tsap8--e5"
+        ],
+        [
+          "卅不豪，四十不富，五十尋子助",
+          "Sam1 put4 hau5, si3-tsap8 put4 hu3, goo7-tsap8 tshue7 kiann2 tsoo7"
+        ],
+        [
+          "卅不豪，四十不富，五十尋死路",
+          "Sam1 put4 hau5, si3-tsap8 put4 hu3, goo7-tsap8 tshue7 si2-loo7"
+        ],
+        [
+          "友兮",
+          "Iu2--e5"
+        ],
+        [
+          "反死狗仔車巴輪",
+          "Ping2 si2-kau2-a2 tshia1-pa1-lian1"
+        ],
+        [
+          "反面無常",
+          "Huan2-bin7 bu5-siong5"
+        ],
+        [
+          "反起反倒",
+          "Huan2 khi2 huan2 to2"
+        ],
+        [
+          "反照黃光，明日風狂",
+          "Huan2-tsiau3 ng5 kong1, bing5 jit8 hong1 kong5"
+        ],
+        [
+          "天，不生無祿之人",
+          "Thian1, put4 sing1 bu5 lok8 tsi1 jin5"
+        ],
+        [
+          "天，會光會暗",
+          "Thinn1, e7 kuinn1 e7 am3"
+        ],
+        [
+          "天下火碗",
+          "Thian1-ha7 hue2-uann2"
+        ],
+        [
+          "天下火碗平平大",
+          "Thian1-ha7 hue2-uann2 pienn5-penn5-tua7"
+        ],
+        [
+          "天下君親師",
+          "Thian1-ha7 kun1 tshin1 su1"
+        ],
+        [
+          "天下無事，閑人擾取",
+          "Thian1-ha7 bo5 su7, ing5 jin5 jiau2 tshu2"
+        ],
+        [
+          "天下遍遍，毋值福建",
+          "Thian1-ha7 pian3-pian3, m7-tat8 hok4-kian3"
+        ],
+        [
+          "天上人間，方便第一",
+          "Thian1-siong7 jin5-kan1, hong1-pian7 te7-it4"
+        ],
+        [
+          "天上星多月不明，地上人多心不平",
+          "Thian1-siong7 sing1 to1 gueh8 put4 bing5, te7-siong7 jin5 to1 sim1 put4 ping5"
+        ],
+        [
+          "天上無雲毋落雨，地下無媒毋成親",
+          "Thian1-siong7 bo5 hun5 m7 loh8-hoo7, te7-ha7 bo5 mui5 m7 sing5 tshin1"
+        ],
+        [
+          "天大地大",
+          "Thinn1-tua7-te7-tua7"
+        ],
+        [
+          "天不從人願",
+          "Thian1 put4 tsiong5 jin5 guan7"
+        ],
+        [
+          "天公地道",
+          "Thinn1-kong1 te7-to7"
+        ],
+        [
+          "天公疼戇人",
+          "Thinn1-kong1 thiann3 gong7-lang5"
+        ],
+        [
+          "天公酒甕",
+          "Thinn1-kong1 tsiu2-ang3"
+        ],
+        [
+          "天公帳簿",
+          "Thinn1-kong1 siau3-phoo7"
+        ],
+        [
+          "天公帳簿－－大冊",
+          "Thinn1-kong1 siau3-phoo7 －－ tua7 tsheh4"
+        ],
+        [
+          "天公無目睭",
+          "Thinn1-kong1 bo5 bak8-tsiu1"
+        ],
+        [
+          "天反地亂",
+          "Thinn huan2 te7 luan7"
+        ],
+        [
+          "天天廿九瞑",
+          "Thian1-thian1 ji7-kau2-me5"
+        ],
+        [
+          "天外起游絲，久晴便可期",
+          "Thinn1-gua7 khi2 iu5 si1, ku2 tsing5 pian7 kho2 ki5"
+        ],
+        [
+          "天扑天成",
+          "Thinn1-phah4-thinn1-tshiann5"
+        ],
+        [
+          "天未光，狗未吠",
+          "Thinn1 bue7 kuinn1, kau2 bue7 pui7"
+        ],
+        [
+          "天生天化",
+          "Thian1 sing1 thian1 hua3"
+        ],
+        [
+          "天生地養",
+          "Thian1 sing1 te7 iang2"
+        ],
+        [
+          "天地，無餓死人",
+          "Thinn1-te7, bo5 go7-si2 lang5"
+        ],
+        [
+          "天地日月相交易，由神由佛在推排",
+          "Thinn1-te7 jit8-guat8 sio1 kau1-ik8, iu5 sin5 iu5 hut8 leh4 tshui1 pai5"
+        ],
+        [
+          "天地火碗",
+          "Thian1-te7 hue2-uann2"
+        ],
+        [
+          "天地有目",
+          "Thinn1-te7 u7 bak8"
+        ],
+        [
+          "天地所設，毋是弟子作孽",
+          "Thinn1-te7 soo2 siat4, m7 si7 te7-tsu2 tsoh4-giat8"
+        ],
+        [
+          "天地保忠厚",
+          "Thinn-te7 po2 tiong1-hoo7"
+        ],
+        [
+          "天地神明做證據",
+          "Thinn1-te7 sin5-bing5 tso3 tsing3-ki3"
+        ],
+        [
+          "天地無私",
+          "Thinn1-te7 bu5 su1"
+        ],
+        [
+          "天地圓輪輪，串餓是單身",
+          "Thinn1-te7 inn5-lin1-lin1, tshuan3 go7 si7 tuann1-sin1"
+        ],
+        [
+          "天地愛忠厚",
+          "Thinn1-te7 ai3 tiong1-hoo7"
+        ],
+        [
+          "天有不測風雲",
+          "Thian1 iu2 put4 tshik4 hong1-hun5"
+        ],
+        [
+          "天有不測風雲，人豈無朝夕禍福",
+          "Thian1 iu2 put4 tshik4 hong1-hun5, jin5 khi2 bo5 tiau1-sik4 ho7-hok4"
+        ],
+        [
+          "天有目",
+          "Thinn1 u7 bak8"
+        ],
+        [
+          "天有萬物予人，人無一物予天",
+          "Thinn1 u7 ban7-but8 hoo7 lang5, lang5 bo5 tsit8 but8 hoo7 thinn1"
+        ],
+        [
+          "天兵扑著",
+          "Thian1-ping1 phah4--tioh8"
+        ],
+        [
+          "天災橫禍",
+          "Thian1-tsai1 huainn5-ho7"
+        ],
+        [
+          "天空，地空，人也空",
+          "Thian1 khong1, te7 khong1, jin5 ia7 khong1"
+        ],
+        [
+          "天長地久",
+          "Thian1-tiang5-te7-kiu2"
+        ],
+        [
+          "天門開",
+          "Thinn1-mui5 khui1"
+        ],
+        [
+          "天若要予人飼創，鐵槌槓[會+勿]死",
+          "Thinn1 na7 beh4 hoo7 lang5 tshi7-tshng3, thih4-thui5 kong3 be7 si2"
+        ],
+        [
+          "天害人纔會死，人害人[會+勿]死",
+          "Thinn1 hai7-lang5 tshiah4 e7 si2, lang5 hai7-lang5 be7 si2"
+        ],
+        [
+          "天師壇出鬼",
+          "Thian1-su1 tuann5 tshut4-kui2"
+        ],
+        [
+          "天時不如地利，地利不如人和",
+          "Thian1-si5 put4-ju5 te7-li7, te7-li7 put4-ju5 jin5-ho5"
+        ],
+        [
+          "天秤，捋到加一",
+          "Thian1 ping5, lut4 kah4 ka1 it4"
+        ],
+        [
+          "天秤尖，按去正",
+          "Thian1 ping5 tsiam1, an7 khi3 tsiann3"
+        ],
+        [
+          "天[會+勿]害人",
+          "Thinn1 be7 hai7 lang5"
+        ],
+        [
+          "天財天送來",
+          "Thian1 tsai5 thian1 song3 lai5"
+        ],
+        [
+          "天高未是高，人心節節高",
+          "Thinn1 kuan5 bue7 si7 kuan5, jin5-sim1 tsat4-tsat4-kuan5"
+        ],
+        [
+          "天國有門你毋入，地獄無門你闖入來",
+          "Thian1-kok4 u7 mui5 li2 m7 jip8, te7-gak8 bo5 mui5 li2 long3--jip8-lai5"
+        ],
+        [
+          "天理昭昭，地理何在",
+          "Thian1-li2 tsiau1-tsiau1, te7-li2 ho5-tsai7"
+        ],
+        [
+          "天頂天公，地下母舅公",
+          "Thinn1-ting2 thinn1-kong1, te7-e7 bo2-ku7-kong1"
+        ],
+        [
+          "天頂出半節虹，要做風颱敢會成",
+          "Thinn1-ting2 tshut4 puann3-tsat4 khing7, beh4 tso3 hong1-thai1 kann2-e7 sing5"
+        ],
+        [
+          "天頂百百仙，地下萬萬仙",
+          "Thinn1-ting2 pah4-pah4 sian1, te7-e7 ban7-ban7 sian1"
+        ],
+        [
+          "天頂無好叫，地下無好應",
+          "Thinn1-ting2 bo5 ho2 kio3, te7-e7 bo5 ho2 in3"
+        ],
+        [
+          "天無目",
+          "Thinn1 bo5 bak8"
+        ],
+        [
+          "天無雨，人無路",
+          "Thinn1 bo5 hoo7, lang5 bo5 loo7"
+        ],
+        [
+          "天無照甲子，人無照天理",
+          "Thinn1 bo5 tsiau3 kah4-tsi2, lang5 bo5 tsiau3 thinn1-li2"
+        ],
+        [
+          "天無錯對",
+          "Thinn1 bo5 tsho3-tui3"
+        ],
+        [
+          "天無邊，海無角",
+          "Thinn1 bo5 pinn1, hai2 bo5 kak4"
+        ],
+        [
+          "天無邊海無底，鴨仔出世無娘禮",
+          "Thinn1 bo5 pinn1 hai2 bo5 te2, ah4-a2 tshut4-si3 bo5 niu5-le2"
+        ],
+        [
+          "天塌高人拄",
+          "Thinn1 lap4 kuan5 lang5 tu2"
+        ],
+        [
+          "天會烏一邊",
+          "Thinn1 e7 oo1 tsit8 ping5"
+        ],
+        [
+          "天會落紅雨",
+          "Thinn1 e7 loh8 ang5 hoo7"
+        ],
+        [
+          "天落紅雨，馬發角",
+          "Thinn1 loh8 ang5 hoo7, be2 huat4 kak4"
+        ],
+        [
+          "天飼人，肥律律，人飼人，剩一支骨",
+          "Thinn1 tshi7 lang5, pui5-lut8-lut8, lang5 tshi7 lang5, tshun1 tsit8 ki1 kut4"
+        ],
+        [
+          "天網恢恢",
+          "Thian1-bong2-hue1-hue1"
+        ],
+        [
+          "天數難逃",
+          "Thian1-soo3 lan5 to5"
+        ],
+        [
+          "天龍地虎",
+          "Thian1 liong5 te7 hoo2"
+        ],
+        [
+          "天翻地覆",
+          "Thian1-huan1-te7-hok4"
+        ],
+        [
+          "天邊海角",
+          "Thinn1-pinn1 hai2-kak4"
+        ],
+        [
+          "夫死三年妻大孝",
+          "Hu1 si2 sann1 ni5 tshe1 tua7-ha3"
+        ],
+        [
+          "夫妻本是同林鳥，父子本是怨業潲",
+          "Hu1-tshe1 pun2 si7 tong5-lim5-niau2, hu7-tsu2 pun2 si7 uan3 giap8 sau5"
+        ],
+        [
+          "夫妻百百年",
+          "Hu1-tshe1 pah4-pah4 ni5"
+        ],
+        [
+          "夫妻相和合，琴瑟甲笙簧",
+          "Hu1-tshe1 siong1 ho5-hap8, khim5-sik4 kah4 sing1-hong5"
+        ],
+        [
+          "夫妻無隔夜之仇",
+          "Hu1-tshe1 bo5 keh4 ia7 tsi1 siu5"
+        ],
+        [
+          "夫唱婦隨",
+          "Hu1 tshiang3 hu7 sui5"
+        ],
+        [
+          "夫婦，相敬如賓",
+          "Hu1-hu7, siong1 king3 ju5 pin1"
+        ],
+        [
+          "太公釣魚，願者上鉤",
+          "Thai3-kong1 tio3-hi5, guan7 tsia3 tsiunn7 kau1"
+        ],
+        [
+          "太古松柏－－出樠",
+          "Thai3-koo2 tshing5-pik4－－ tshut4-mia5"
+        ],
+        [
+          "太好就會賣命",
+          "Thai3 ho2 tioh8 e7 be7 mia7"
+        ],
+        [
+          "太魯閣出來的",
+          "Thai3-loo2-koh4 tshut4--lai5-e5"
+        ],
+        [
+          "天下無難事，只怕有心人",
+          "Thian1-ha7 bo5 lan5-su7, tsi2 phann3 iu2-sim1-jin5"
+        ],
+        [
+          "夭壽死囝仔",
+          "Iau2-siu7 si2-gin2-a2"
+        ],
+        [
+          "夭壽骨",
+          "Iau2-siu7-kut4"
+        ],
+        [
+          "夭壽短命",
+          "Iau2-siu7-te2-mia7"
+        ],
+        [
+          "孔，一孔掠幾若尾",
+          "Khang1, tsit8 khang1 liah8 kui2-lo7 bue2"
+        ],
+        [
+          "孔八",
+          "Khong2-pat4"
+        ],
+        [
+          "孔子，生知之質",
+          "Khong2-tsu2, sing1 ti1 tsi1 tsit4"
+        ],
+        [
+          "孔子公，毋值得孔方兄",
+          "Khong2-tsu2-kong1, m7-tat8-tit4 khong2-hong1-hiann1"
+        ],
+        [
+          "孔子公，毋敢收人隔暝帖",
+          "Khong2-tsu2-kong1, m7-kann2 siu1 lang5 keh4-me5 thiap4"
+        ],
+        [
+          "孔子公放屁－－文氣沖天",
+          "Khong2-tsu2-kong1 pang3-phui3－－ bun5 khi3 tshiong1 thian1"
+        ],
+        [
+          "孔子公請落去，財神爺請起來",
+          "Khong2-tsu2-kong1 tshiann2--loh8-khi3, tsai5-sin5-ia5 tshiann2--khi2-lai5"
+        ],
+        [
+          "孔子毋敢收人隔暝帖",
+          "Khong2-tsu2 m7-kann2 siu1 lang5 keh4-me5 thiap4"
+        ],
+        [
+          "孔子媽教的",
+          "Khong2-tsu2-ma2 ka3--e5"
+        ],
+        [
+          "孔明氣死周瑜",
+          "Khong2 Bing5 khi3-si2 Tsiu1 Ju5"
+        ],
+        [
+          "少年某嫁老尪，梳妝抹粉無彩工",
+          "Siau3-lian5 boo2 ke3 lau7 ang1, se1-tsng1 buah4-hun2 bo5-tshai2-kang1"
+        ],
+        [
+          "少年若無一擺戇，路邊那有有應公",
+          "Siau3-lian5 na7-bo5 tsit8 pai2 gong7, loo7-pinn1 na2-u7 iu2-ing3-kong1"
+        ],
+        [
+          "少年[會+勿]曉想，食老毋成樣",
+          "Siau3-lian5 be7-hiau2 siunn7, tsiah8-lau2 m7-tsiann5 iunn7"
+        ],
+        [
+          "少年得志大不幸",
+          "Siau3-lian5 tik4-tsi3 tua7 put4-hing7"
+        ],
+        [
+          "少年無風騷，食老才想錯",
+          "Siau3-lian5 bo5 hong1-so1, tsiah8-lau2 tsiah4 siunn7tsho3"
+        ],
+        [
+          "少飲是人參，加飲誤了身",
+          "Tsio2im2 si7 jin5-sim1, ke1 im2 goo7liau2 sin1"
+        ],
+        [
+          "尺有所短，寸有所長",
+          "Tshioh4 iu2 soo2 te2, tshun3 u7 soo2 tng5"
+        ],
+        [
+          "巴里巴扎",
+          "Pa1-li2-pa1-tsa1"
+        ],
+        [
+          "廿九三十下昏",
+          "Ji7-kau2 sann1-tsap8 e5-huinn1"
+        ],
+        [
+          "廿九暝，無枵新婦",
+          "Ji7-kau2-me5, bo5 iau1 sim1-pu7"
+        ],
+        [
+          "廿九暝，誤了大事",
+          "Ji7-kau2-me5, goo7liau2 tai7-su7"
+        ],
+        [
+          "廿二歲查某子",
+          "Ji7-ji7 hue3 tsa1-boo2-kiann2"
+        ],
+        [
+          "廿四送神，廿五挽面，廿六要去阿媽兜，廿七要轉來食腥臊",
+          "Ji7-si3 sang3-sin5, ji7-goo7 ban2-bin7, ji7-lak8 beh4 khi3 a1-ma2 tau1, ji7-tshit4 beh4 tuinn2lai5 tsiah8 tshenn-1tshau1"
+        ],
+        [
+          "引鬼入宅",
+          "In2 kui2 jip8 theh8"
+        ],
+        [
+          "引線入針",
+          "In2 suann3 jip8 tsiam1"
+        ],
+        [
+          "心歹無人知，嘴歹上厲害",
+          "Sim1 phainn2 bo5 lang5 tsai1, tshui3 phainn2 siong7 li7-hai7"
+        ],
+        [
+          "心狂火熱",
+          "Sim1 kong5 hue2 jiat8"
+        ],
+        [
+          "心肝十個五個",
+          "Sim1-kuann1 tsap8 e5 goo7 e5"
+        ],
+        [
+          "心肝大，無造化",
+          "Sim1-kuann1 tua7, bo5 tso7-hua3"
+        ],
+        [
+          "心肝有所貪，頭殼鑽雞籠",
+          "Sim1-kuann1 iu2-soo2 tham1, thau5-khak4 nui3 ke1-lam1"
+        ],
+        [
+          "心肝挖（剖）出來，狗毋鼻",
+          "Sim1-kuann1 oo2 (phua3) tshut4--lai5, kau2 m7 phinn7"
+        ],
+        [
+          "心肝若好，風水免討",
+          "Sim1-kuann1 na7 ho2, hong1-sui2 bian2 tho2"
+        ],
+        [
+          "心肝若鐵扑的",
+          "Sim1-kuann1 na7 thih4 phah4--e5"
+        ],
+        [
+          "心肝剖開予你食，你嫌臭臊",
+          "Sim1-kuann phua3-khui1 hoo7 li2 tsiah8, li2 hiam5 tshau3-tsho1"
+        ],
+        [
+          "心肝剖開狗都毋嚊",
+          "Sim1-kuann1 phua3-khui1 kau2 to1 m7 phinn7"
+        ],
+        [
+          "心肝烏到若破布",
+          "Sim1-kuann1 oo1 kah4 na2 phua3-poo3"
+        ],
+        [
+          "心肝掠坦橫",
+          "Sim1-kuann1 liah8 than2-huainn5"
+        ],
+        [
+          "心肝較大牛肺",
+          "Sim1-kuann1 khah4 tua7 gu5-hi3"
+        ],
+        [
+          "心肝較硬鐵",
+          "Sim1-kuann1 khah4 ting7 thih4"
+        ],
+        [
+          "心肝齊向，神有鑒納",
+          "Sim1-kuann1 tse5-hiong3, sin5 u7 kam3-lap8"
+        ],
+        [
+          "心肝親像彈月琴",
+          "Sim1-kuann1 tshin1-tshiunn7 tuann5 gueh8-khim5"
+        ],
+        [
+          "心肝擾刺碴掠[會+勿]著",
+          "Sim1-kuann1 ngiau7-tshi7-tsha7 liah8 be7tioh8"
+        ],
+        [
+          "心思無定，抽籤算命",
+          "Sim1-su1 bo5-tiann7, thiu1-tshiam1 suinn3-mia7"
+        ],
+        [
+          "心病只有心藥醫",
+          "Sim1-penn7 tsi2 u7 sim1 ioh8 i1"
+        ],
+        [
+          "心堅即是佛",
+          "Sim1 kian1 tsik4 si7 hut8"
+        ],
+        [
+          "心堅意切",
+          "Sim1 kian1 i3 tshiat4"
+        ],
+        [
+          "心涼脾吐開",
+          "Sim1-liang5-pi5-thoo2-khui1"
+        ],
+        [
+          "心無邪，毋驚鬼",
+          "Sim1 bo5 sia5, m7-kiann1 kui2"
+        ],
+        [
+          "心腹之交",
+          "Sim1-pak4 tsi1 kau1"
+        ],
+        [
+          "心靜自然涼",
+          "Sim1 tsing7 tsu7-jian5 liang5"
+        ],
+        [
+          "心頭若無定，錢就要無命",
+          "Sim1-thau5 na7 bo5-tiann7, tsinn5 tioh8 beh4 bo5-mia7"
+        ],
+        [
+          "心頭掠乎定",
+          "Sim1-thau5 liah8 hoo7 tiann7"
+        ],
+        [
+          "戶口板仔釘住電火柱",
+          "Hoo7-khau2-pai5-a2 ting1 ti7 tian7-hue2-thiau7"
+        ],
+        [
+          "戶碇較高門楣",
+          "Hoo7-ting7 khah4 kuan5 mui5-bai5"
+        ],
+        [
+          "戶樞[會+勿]蛀，流水[會+勿]腐",
+          "Hoo7-tshu1 be7 tsiu3, liu5-sui2 be7 au2"
+        ],
+        [
+          "戶蠅弄屎耙",
+          "Hoo7-sin5 lang7 sai2-pe1"
+        ],
+        [
+          "戶蠅沾棕蓑－－食無",
+          "Hoo7-sin5 tsam1 tsang1-sui1－－tsiah8 bo5"
+        ],
+        [
+          "戶蠅食人[會+勿]死，穢人腸仔",
+          "Hoo7-sin5 tsiah8 lang5be7 si2, ue3--lang5 tng5-a2"
+        ],
+        [
+          "戶蠅貪甜",
+          "Hoo7-sin5 tham1 tinn1"
+        ],
+        [
+          "戶蠅跋落湆",
+          "Hoo7-sin5 puah8loh8 am2"
+        ],
+        [
+          "戶蠅跋落鼎－－吵死",
+          "Hoo7-sin5 puah8loh8 tiann2－－tsha2--si2"
+        ],
+        [
+          "戶蠅惹衰腳",
+          "Hoo7-sin5 jia2 sue1-kha1"
+        ],
+        [
+          "戶蠅閟龍眼殼－崁頭崁面",
+          "Hoo7-sin5 bih4 ling5-king2-khak4－kham3 thau5 kham3 bin7"
+        ],
+        [
+          "戶蠅戴龍眼乾殼",
+          "Hoo7-sin5 ti3 ling5-king2-kuann1-khak4"
+        ],
+        [
+          "手巾仔搵水雙頭湛",
+          "Tshiu2-kin1-a2 un3 tsui2 siang1-thau5 tam5"
+        ],
+        [
+          "手去篾縛",
+          "Tshiu2 khi3 bih8 pak8"
+        ],
+        [
+          "手曲，屈入，無屈出",
+          "Tshiu2-khiau1, khut4 jip8, bo5 khut4 tshut4"
+        ],
+        [
+          "手尾",
+          "Tshiu2-bue2"
+        ],
+        [
+          "手尾錢",
+          "Tshiu2-bue2-tsinn5"
+        ],
+        [
+          "手底也是肉、手盤也是肉",
+          "Tshiu2-te2 ia7si7 bah4, tshiu2-puann5 ia7si7 bah4"
+        ],
+        [
+          "手抱孩兒，纔知父母疼咱時",
+          "Tshiu2 pho7 hai5-ji5, tshiah4 tsai1 pe7-bu2 thiann3 lan2 si5"
+        ],
+        [
+          "手空空[會+勿]當做人客",
+          "Tshiu2 khang1-khang1 be7-tang tso3 lang5-kheh4"
+        ],
+        [
+          "手後[骨+丁]屈入無屈出",
+          "Tshiu2-au7-tenn1 khut4 jip8 bo5 khut4 tshut4"
+        ],
+        [
+          "手面賺食",
+          "Tshiu2-bin7 tan3-tsiah8"
+        ],
+        [
+          "手敢若篾縛",
+          "Tshiu2 kan2-na2 bih8 pak8"
+        ],
+        [
+          "手無舉刀，心內閒囉囉",
+          "Tshiu2 bo5 gia5 to1, sim1-lai7 ing5-lo1-lo1"
+        ],
+        [
+          "手蹄賤",
+          "Tshiu2-te5-tsian7"
+        ],
+        [
+          "手頭在苦旱",
+          "Tshiu2-thau5 ti7 khoo2-uann7"
+        ],
+        [
+          "手頭緊",
+          "Tshiu2-thau5 an5"
+        ],
+        [
+          "手頭鬆",
+          "Tshiu2-thau5 sang1"
+        ],
+        [
+          "手擱曲彎倒出",
+          "Tsiu2-ko2-khiau1 uan1 to2 tshut4"
+        ],
+        [
+          "手舉大兄，嘴喝賊",
+          "Tshiu2 gia5 tua7-hiann1, tshui3 huah4 tshat8"
+        ],
+        [
+          "手舉孝杖，纔知苦哀",
+          "Tshiu2 gia5 ha3-thng7, tshiah4 tsai1 khoo2 ai1"
+        ],
+        [
+          "手舉扁擔予狗逐",
+          "Tshiu2 gia5 pin1-tann1 hoo7 kau2 jik8"
+        ],
+        [
+          "手舉刣豬刀，嘴唸阿彌陀",
+          "Tshiu2 gia5 tai5-ti1-to1, tshui3 liam7 oo1-mi3-to5"
+        ],
+        [
+          "扎胸崁骨",
+          "Tsa2 hing1 kham2 kut4"
+        ],
+        [
+          "文王拖車──一步一步好",
+          "Bun5-ong5 thua1-tshia1－tsit8 poo7 tsit8 poo7 ho2"
+        ],
+        [
+          "文官不愛錢，武將不惜死",
+          "Bun5-kuann1 put4 ai3 tsian5, bu2-tsiong3put4 sioh4 su2"
+        ],
+        [
+          "文東武西",
+          "Bun5 tang1 bu2 sai1"
+        ],
+        [
+          "文毋成童生，武毋成鐵兵",
+          "Bun5 m7-tsiann5 tong5-sing1, bu2 m7-tsiann5 thih4-ping1"
+        ],
+        [
+          "文章風水茶，識的無幾個",
+          "Bun5-tsiong1 hong1-sui2 te5, bat4--e5 bo5 kui2 e5"
+        ],
+        [
+          "文戲金，武戲土",
+          "Bun5 hi3 kim1, bu2 hi3 thoo5"
+        ],
+        [
+          "文臚鰻何賜卿，武臚鰻高老榮",
+          "Bun5 loo5-mua5 Ho5 Su3-khing1, bu2 loo5-mua5 Ko1 Lau2-ing5"
+        ],
+        [
+          "斗米三錢",
+          "Tau2 bi2 sann1 tsinn5"
+        ],
+        [
+          "斤雞斗米",
+          "Kin1 ke1 tau2 bi2"
+        ],
+        [
+          "斤雞兩鼈",
+          "K1n1 ke1 niu2 pih4"
+        ],
+        [
+          "方人便馬",
+          "Hong1-jin5-pian7-ma2"
+        ],
+        [
+          "日之卯，遇雲無雨也天陰",
+          "Jit8 tsi1 mau5, tu2 hun5 bo5 hoo7 ia7 thinn1 im1"
+        ],
+        [
+          "日日食肉也[會+勿]肥，月月流血也[會+勿]死",
+          "Jit8-jit8 tsiah8-bah4 ia7 be7 pui5, gueh8-gueh8 lau5-hueh4 ia7 be7 si2"
+        ],
+        [
+          "日出，著存雨來糧",
+          "Jit8-tshut4, tioh8tshun5 hoo7-lai5 niu5"
+        ],
+        [
+          "日出紅霞，水淋頭哪，日落紅霞，曬死老爺",
+          "Jit8-tshut4 ang5-ha5, tsui2 lam5 thau5-na2, jit8-loh8 ang5-ha5, phak4-si2 lau7-ia5"
+        ],
+        [
+          "日本仔保正－好勢",
+          "Jit8-pun2-a2 po2-tsiann3－ho2-se3"
+        ],
+        [
+          "日本銅鼎－無才（臍）",
+          "Jit8-pun2 tang5-tiann2－bo5-tsai5"
+        ],
+        [
+          "日子未到，毋是天道無報",
+          "Jit8-tsi2 bi7 to3, m7 si7 thian1-to7 bo5 po3"
+        ],
+        [
+          "日色暗紅，無雨必風",
+          "Jit8 sik4 am3 hong5, bo5 hoo7 pit4 hong1"
+        ],
+        [
+          "日長如少年",
+          "Jit8 tng5 ju5 siau3-lian5"
+        ],
+        [
+          "目屎四淋垂",
+          "Bak8-sai2 si3-lam5-sue5"
+        ],
+        [
+          "日紅如灼，三日必雨",
+          "Jit8 ang5 ju5 tsik4, sann1 jit8 pit4 hoo7"
+        ],
+        [
+          "日時走拋拋，暝時守燈腳",
+          "Jit8-si5 tsau2-pha1-pha1, me5-si5 tsiu2 ting1-kha1"
+        ],
+        [
+          "日時走拋拋，暝時抱佛腳",
+          "Jit8-si5 tsau2-pha1-pha1, me5-si5 moo3-put8-kha1"
+        ],
+        [
+          "日時毋通講人、暝時毋通講鬼",
+          "Jit8-si5 m7-thang1 kong2 lang5, me5-si5 m7-thang1 kong2 kui2"
+        ],
+        [
+          "日飲百盃，夜吟千首",
+          "Jit8 im2 pah4 pue1, ia7 gim5 tshian1 siu2"
+        ],
+        [
+          "日圖三餐，夜圖一宿",
+          "Jit8 too5 sann1 tshan1, ia7 too5 it4 siok4"
+        ],
+        [
+          "日暮途窮",
+          "Jit8 boo7 too5 khing5"
+        ],
+        [
+          "日頭赤炎炎，隨人顧性命",
+          "Jit8-thau5 tshiah4-iann7-iann7,sui5 lang5koo3 senn3-mia7"
+        ],
+        [
+          "日頭要落的人",
+          "jit8-thau5 beh4-loh8 e5 lang5"
+        ],
+        [
+          "日頭當上的人",
+          "Jit8-thau5 tng1-tsiunn7 e5 lang5"
+        ],
+        [
+          "日頭當要上",
+          "Jit8-thau5 tng1-beh4 tsiunn7"
+        ],
+        [
+          "日頭曝尻川",
+          "Jit8-thau5 phak8 kha1-tshuinn1"
+        ],
+        [
+          "日頭曝到尻川",
+          "Jit8-thau5 phak8 kau3 kha1-tshuinn1"
+        ],
+        [
+          "日[犬+肖]雞，暝[犬+肖]狗",
+          "Jit8 siau2 ke1, me5 siau2 kau2"
+        ],
+        [
+          "月上講到月落",
+          "Gueh8 tsiunn7 kong2 kau3 gueh8 loh8"
+        ],
+        [
+          "月仔光咚咚，賊仔偷挖孔",
+          "Gueh8-a2 kuinn1-tang1-tang1, tshat8-a2 thau1 oo2 khang1"
+        ],
+        [
+          "月仔光映映，賊仔偷挖壁",
+          "Gueh8-a2 kuinn1-hiann3-hiann3, tshat8-a2 thau1 ue2 piah4"
+        ],
+        [
+          "月仔崎，米粟相揶",
+          "Gueh8-a2-kia7, bi2-tshik4 sio1 ia7"
+        ],
+        [
+          "月光，[會+勿]曝得粟",
+          "Gueh8-kuinn1, be7 phak8-tit4 tshik4"
+        ],
+        [
+          "月光下看光影",
+          "Gueh8-kuinn1-e7 khuann3 kuinn1-iann2"
+        ],
+        [
+          "月光遍天下",
+          "Gueh8-kuinn1 pian3 thian1-ha7"
+        ],
+        [
+          "月到十五光明少，人到中年萬事休",
+          "Gueh8 kau3 tsap8-goo7 kong1-bing5 tsio2, lang5 kau3 tiong1-lian5 ban7-su7 hiu1"
+        ],
+        [
+          "月娘下，看影仔－自看自大",
+          "Gueh8-niu5-e7, khuann3 iann2-a2－ tsu7 khuann3 tsu7 tai7"
+        ],
+        [
+          "月娘若破缺",
+          "Gueh8-niu5 na2 phua3-kiah4"
+        ],
+        [
+          "月圍箍，予雨沃，月圍笠，予日曝",
+          "Gueh8 ui5 khoo1, hoo7 hoo7 ak4, gueh8 ui5 leh8, hoo7 jit8 phak8"
+        ],
+        [
+          "月圍箍，火燒埔",
+          "Gueh8 ui5 khoo1, hue2-sio1-poo1"
+        ],
+        [
+          "月圍箍，要落雨",
+          "Gueh8 ui5 khoo1, beh4 loh8-hoo7"
+        ],
+        [
+          "木生火",
+          "Bok8 sing1 hue2"
+        ],
+        [
+          "木蝨食客",
+          "Bat8-sat4 tsiah8-kheh4"
+        ],
+        [
+          "木蝨笑尿蜱",
+          "Bat8-sat4 tshio3 jio7-pi1"
+        ],
+        [
+          "木蝨笑樹魏",
+          "Bat8-sat4 tshio3 tshiu7-ui7"
+        ],
+        [
+          "欠人教示",
+          "Khiam3-lang5 ka3-si7"
+        ],
+        [
+          "欠久著害",
+          "Khiam3 ku2 tioh8 hai7"
+        ],
+        [
+          "欠子債，舉子伽",
+          "Khiam3 kiann2 tse3, gia5 kiann2 ke5"
+        ],
+        [
+          "欠角是鬼",
+          "Khiam3 kak4 si7 kui2"
+        ],
+        [
+          "欠兩支角是鬼",
+          "Khiam3 nng7 ki1 kak4 si7 kui2"
+        ],
+        [
+          "欠債，怨財主",
+          "Khiam3-tse3, uan3 tsai5-tsu2"
+        ],
+        [
+          "欠豬狗債",
+          "Khiam3 ti1-kau2-tse3"
+        ],
+        [
+          "欠錢，走主顧",
+          "Khiam3-tsinn5, tsau2 tsu2-koo3"
+        ],
+        [
+          "欠錢大王，討錢司傅",
+          "Khiam3-tsinn5 tai7-ong5, tho2-tsinn5 sai1-hu7"
+        ],
+        [
+          "欠錢行店後",
+          "Khiam3-tsinn5 kiann5 tiam3-au7"
+        ],
+        [
+          "歹人子兒，好人成持",
+          "Phainn2-lang5 kiann2-ji5, ho2-lang5 tsiann5-ti5"
+        ],
+        [
+          "歹人長歲壽",
+          "Phainn2-lang5 tng5-hue3-siu7"
+        ],
+        [
+          "歹人[會+勿]出好子孫",
+          "Phainn2-lang5 be7 tshut4 ho2 kiann2-sun1"
+        ],
+        [
+          "歹心予雷唚",
+          "Phainn2-sim1 hoo7 lui5 tsim1"
+        ],
+        [
+          "歹心肝、烏腸肚、要死就初一、十五，要埋風甲雨，要抾骨尋無墓仔埔",
+          "Phainn2 sim1-kuann1, oo1 tng5-too7, beh4 si2 tioh8 tshe1-it4, tsap8-goo7, beh4 tai5 hong1 kah4 hoo7, beh4 khioh4-kut4 tshue7 bo5 bong7-a2-poo1"
+        ],
+        [
+          "歹心烏胳肚，要死初一、十五，要埋風甲雨",
+          "Phainn2-sim1 oo1-lok8-too7, beh4 si2 tshe1-it4, tsap8-goo7, beh4 tai5 hong1 kah4 hoo7"
+        ],
+        [
+          "歹手爪",
+          "Phainn2-tshiu2-jiau2"
+        ],
+        [
+          "歹手路",
+          "Phainn2 tshiu2-loo7"
+        ],
+        [
+          "歹歹人客，較贏一個好好親家",
+          "Phainn2-phainn2 lang5-kheh4, khah4-iann5 tsit8 e5 ho2-ho2 tshin1-ke1"
+        ],
+        [
+          "歹歹也是進士骨",
+          "Phainn2-phainn2 ia7 si7 tsin3-su7-kut4"
+        ],
+        [
+          "歹歹尪，食[會+勿]空",
+          "Phainn2-phainn2 ang1, tsiah8 be7 khang1"
+        ],
+        [
+          "歹歹尪，食[會+勿]焦",
+          "Phainn2-phainn2 ang1, tsiah8 be7 ta1"
+        ],
+        [
+          "歹歹新婦三頓燒，有孝查某子路頭搖",
+          "Phainn2-phainn2 sim1-pu7 sann1-tuinn3 sio1, iu2-hau3 tsa1-boo2-kiann2 loo7-thau5 io5"
+        ],
+        [
+          "歹[毛^火]頭",
+          "Phainn2-tshua7-thau5"
+        ],
+        [
+          "歹司功，拄著好日子",
+          "Phainn2 sai1-kong1, tu2 tioh8 ho2 jit8-tsi2"
+        ],
+        [
+          "歹瓜厚子，歹人厚言語",
+          "Phainn2 kue1 kau7 tsi2, phainn2 lang5 kau7 gian5-gi2"
+        ],
+        [
+          "歹田望後冬",
+          "Phainn2 tshan5 bang7 au7-tang1"
+        ],
+        [
+          "歹尻川底",
+          "Phainn2-kha1-tshuinn1-te2"
+        ],
+        [
+          "歹子串飼父",
+          "Phainn2 kiann2 tshuan3 tshi7 pe7"
+        ],
+        [
+          "歹子兒，好人成持",
+          "Phainn2 kiann2-ji5, ho2-lang5 tshiann5-ti5"
+        ],
+        [
+          "歹子飼父",
+          "Phainn2 kiann2 tshi7 pe7"
+        ],
+        [
+          "歹竹出好局；好竹出龜崙",
+          "Phainn2-tik4 tshut4 ho2-kik8; ho2-tik tshut kui-nng5"
+        ],
+        [
+          "歹竹出好筍",
+          "Phainn2-tik4 tshut4 ho2-sun2"
+        ],
+        [
+          "歹囝仔厚瀾頭",
+          "Phainn2 gin2-a2 kau7 nua7-thau5"
+        ],
+        [
+          "歹尪罵某歹鑼累鼓",
+          "Phainn2 ang1 me7 boo2 phainn2 lo5 lui7 koo2"
+        ],
+        [
+          "歹到無人問",
+          "Phainn2 kah4 bo5 lang5 mui7"
+        ],
+        [
+          "歹性地",
+          "Phainn2-sing3-te7"
+        ],
+        [
+          "歹油厚滓，歹人厚目屎",
+          "Phainn2 iu5 kau7 tai2, phainn2-lang5 kau7 bak8-sai2"
+        ],
+        [
+          "歹油厚滓，歹查某厚目屎",
+          "Phainn2 iu5 kau7 tai2, phainn2-tsa1-boo2 kau7 bak8-sai2"
+        ],
+        [
+          "歹剃頭",
+          "Phainn2-thi3-thau5"
+        ],
+        [
+          "歹某孽子，無法通治",
+          "Phainn2 boo2 giat8-tsu2, bo5-huat4 thang1 ti7"
+        ],
+        [
+          "歹查甫，厚同年；歹查某，厚姑姨",
+          "Phainn2-tsa1-poo1, kau7 tang5-ni5; phainn2-tsa1-boo2, kau7 koo1-i5"
+        ],
+        [
+          "歹面好交關",
+          "Phainn2 bin7 ho2 kau1-kuan1"
+        ],
+        [
+          "歹食是歹食，卻是米粉底的",
+          "Phainn2-tsiah8 si7 phainn2-tsiah8, khiok4-si7 bi2-hun2-ti2--e5"
+        ],
+        [
+          "歹馬也有一步踢",
+          "Phainn2 be2 ia7-u7 tsit8 poo7 that4"
+        ],
+        [
+          "歹船拄著好港路",
+          "Phainn2 tsun5 tu2 tioh8 ho2 kang2-loo7"
+        ],
+        [
+          "歹鳥不知飛，歹柴剖[會+勿]開",
+          "Phainn2 tsiau2 put4 ti1 pue1, phainn2 tsha5 phua3 be7 khui1"
+        ],
+        [
+          "歹粿要會甜，歹某要會生",
+          "Phainn2 kue2 ai3 e7 tinn1, phainn2 boo2 ai3 e7 sinn1"
+        ],
+        [
+          "歹粟下落好米籮",
+          "Phainn2 tshik4 he7-loh8 ho2 bi2-lua5"
+        ],
+        [
+          "歹勢轉生氣",
+          "Phainn2-se3 tuinn2 siunn7-khi3"
+        ],
+        [
+          "歹落樓梯",
+          "Phainn2-loh8-lau5-thui1"
+        ],
+        [
+          "歹貓，賢嚊尋；歹查某，厚姊妹",
+          "phainn2-niau, gau5 (khau2 phinn7) siam5; phainn2-tsa-boo2, hoo7 tsi2-be7"
+        ],
+        [
+          "歹頭彩",
+          "Phainn2-thau5-tshai2"
+        ],
+        [
+          "歹戲拄著神明生",
+          "Phainn2-hi3 tu2 tioh8 sin5-bing5-senn1"
+        ],
+        [
+          "歹戲拖棚",
+          "Phainn2-hi3 thua1-penn5"
+        ],
+        [
+          "歹戲要穿好鞋",
+          "Phainn2-hi3 beh4 tshing7 ho2 e5"
+        ],
+        [
+          "歹戲賢拖棚",
+          "Phainn2-hi3 gau5 thua1-penn5"
+        ],
+        [
+          "歹鑼累鼓，歹尪累某",
+          "Phainn2 lo5 lui7 koo2, phainn2 ang1 lui7 boo2"
+        ],
+        [
+          "比上不足，比下有餘",
+          "Pi2 siong7 put4-tsiok4, pi2 ha7 iu2 i5"
+        ],
+        [
+          "比乞食較濟",
+          "Pi2 khit4-tsiah8 khah4 tse7"
+        ],
+        [
+          "比拳頭母",
+          "Pi2 kun5-thau5-bo2"
+        ],
+        [
+          "比嘴切肉",
+          "Pi2 tshui3 tshiat4 bah4"
+        ],
+        [
+          "比嘴做粿",
+          "Pi2 tshui3 tso3 kue2"
+        ],
+        [
+          "毛孔出汗的錢",
+          "Moo5-khong2 tshut4-kuann7 e5 tsinn5"
+        ],
+        [
+          "[毛^火]尿，換泄屎",
+          "Tshua7-jio7, uann7 siam3-sai2"
+        ],
+        [
+          "毛尾甲毛尾，八個結做夥，縛在樹仔尾",
+          "Moo5-bue2 kah4 moo5-bue2, peh4 e5 kiat4 tso3-hue2, pak8 ti7 tshiu7-a2-bue2"
+        ],
+        [
+          "毛呼龜粿粽，紅包由你送",
+          "Moo5-hoo1 ku1 kue2 tsang3, ang5-pau1 iu5 li2 sang3"
+        ],
+        [
+          "毛管孔出汗賺的錢",
+          "Moo5-kuinn2-khang1 tshut4-kuann7 tan 7 e5 tsinn5"
+        ],
+        [
+          "毛管孔流汗的錢",
+          "Moo5-kuinn2-khang1 lau5-kuann7 e5 tsinn5"
+        ],
+        [
+          "毛蟹無腳，[會+勿]行得路",
+          "Moo5-he7 bo5 kha1, be7-kiann5-tit4 loo7"
+        ],
+        [
+          "水，三年流東，三年流西",
+          "Tsui2, sann1 ni5 lau5 tang1, sann1 ni5 lau5 sai1"
+        ],
+        [
+          "水井內的水蛙",
+          "Tsui2-tsenn2-lai7 e5 tsui2-ke1"
+        ],
+        [
+          "水水查某守空房",
+          "Sui2-sui2 tsa1-boo2 tsiu2-khang1-pang5"
+        ],
+        [
+          "水水無十全，醜醜[會+勿]全醜",
+          "Sui2 sui2 bo5 sip8-tsuan5, bai2 bai2 be7 tsuan5 bai2"
+        ],
+        [
+          "水火無情",
+          "Tsui2 hue2 bo5-tsing5"
+        ],
+        [
+          "水牛肉灌水──答滴",
+          "Tsui2-gu5 bah4 kuan3 tsui2 ── tap4-tih4"
+        ],
+        [
+          "水牛連角吞",
+          "Tsui2-gu5 lian5 kak4 thun1"
+        ],
+        [
+          "水牛無牽過溪，屎尿毋甘放",
+          "Tsui2-gu5 bo5 khan1 kue3-khe1, sai2-jio7 m7-kam1 pang3"
+        ],
+        [
+          "水牛過溪厚屎尿",
+          "Tsui2-gu5 kue3-khe1 kau7 sai2-jio7"
+        ],
+        [
+          "水牛漏屎",
+          "Tsui2-gu5 lau3-sai2"
+        ],
+        [
+          "水生木",
+          "Tsui2 sing1 bok8"
+        ],
+        [
+          "水守爺",
+          "Tsui2-siu2-ia5"
+        ],
+        [
+          "水尖，定鱗肉",
+          "Tsui2-tsiam1, ting7-lan5 bah4"
+        ],
+        [
+          "水尚清就無魚，人尚急就無智",
+          "Tsui2 siunn1 tshing1 tioh8 bo5 hi5, lang5 siunn1 kip4 tioh8 bo5 ti3"
+        ],
+        [
+          "水底無一位燒",
+          "Tsui2-te2 bo5 tsit8 ui7 sio1"
+        ],
+        [
+          "水底無魚，三界娘仔做大",
+          "Tsui2-te2 bo5 hi5, sam-kai3-niu5-a2 tso3 tua7"
+        ],
+        [
+          "水性楊花",
+          "Tsui2-sing3-iang5-hua1"
+        ],
+        [
+          "水花在人叢，水某在人房",
+          "Sui2-hue1 tsai7 lang5 tsang5, sui2-boo2 tsai7 lang5 pang5"
+        ],
+        [
+          "水按圳行",
+          "Tsui2 an3 tsun3 kiann5"
+        ],
+        [
+          "水流破布",
+          "Tsui2 lau5 phua3-poo3"
+        ],
+        [
+          "水流破布──行到彼，磕到彼",
+          "Tsui2 lau5 phua3-poo3 ── kiann5 kau3 hia1, khap8 kau3 hia1"
+        ],
+        [
+          "水缸破損，壺仔序大",
+          "Tsui2-kng1 phua3-sun2, oo5-a2 si7-tua7"
+        ],
+        [
+          "水缸摃破，壺仔序大",
+          "Tsui2-kng1 kong3 phua3, oo5-a2 si7-tua7"
+        ],
+        [
+          "水缺做久無換變田崩，長工做久無換變老尪",
+          "Tsui2-khiah4 tso3 ku2 bo5 uann7 pinn3 tshian1-pang1, tng5-kang1 tso3 ku2 bo5 uann7 pinn3 lau2-ang1"
+        ],
+        [
+          "水鬼、羅漢、乞食",
+          "Tsui2-kui2, lo5-han3, khit4-tsiah8"
+        ],
+        [
+          "水鬼升城隍──升格",
+          "Tsui2-kui2 sing1 sing5-hong5 ── sing1-keh4"
+        ],
+        [
+          "水鬼叫交替",
+          "Tsui2-kui2 kio3 kau1-the3"
+        ],
+        [
+          "水鬼叫跛腳瑞",
+          "Tsui2-kui2 kio3 pai2-kha1-sui7"
+        ],
+        [
+          "水鬼陞城隍",
+          "Tsui2-kui2 sing1 sing5-hong5"
+        ],
+        [
+          "水鬼掠交替",
+          "Tsui2-kui2 liah8 kau1-the3"
+        ],
+        [
+          "水鬼擱舉重枷",
+          "Tsui2-kui2 koh4 gia5 tang7 ke5"
+        ],
+        [
+          "水鬼舉重枷",
+          "Tsui2-kui2 gia5 tang7 ke5"
+        ],
+        [
+          "水鬼羅漢",
+          "Tsui2-kui2 lo5-han3"
+        ],
+        [
+          "水鬼騙城隍",
+          "Tsui2-kui2 phian3 sing5-hong5"
+        ],
+        [
+          "水鬼騙城隍──瞞不了",
+          "Tsui2-kui2 phian3 sing5-hong5 ── mua5-put4-liau2"
+        ],
+        [
+          "水將杖探知淺深，人用所財交便見心",
+          "Tsui2 tsiong1 thiang7 tham3 ti1 tshian2 tshim1, jin5 iong7 tsai5 kau1 pian7 kian3 sim1"
+        ],
+        [
+          "水淺不容大魚",
+          "Tsui2 tshian2 put4-iong5 tua7 hi5"
+        ],
+        [
+          "水清，魚就定",
+          "Tsui2 tshing1, hi5 tioh8 tiann7"
+        ],
+        [
+          "水清魚現",
+          "Tsui2 tshing1 hi5 hian7"
+        ],
+        [
+          "水清無大魚",
+          "Tsui2 tshing1 bo5 tua7 hi5"
+        ],
+        [
+          "水淹到頷滾──拄著",
+          "Tsui2 im1 kau3 am7-kun2 ──tu2--tioh8"
+        ],
+        [
+          "水晶鏡照玻璃",
+          "Tsui2-tsinn1 kiann3 tsio3 po1-le5"
+        ],
+        [
+          "水著一路透",
+          "Tsui2 tioh8 tsit8-loo7 thau3"
+        ]
+      ],
+      "篇名": "福全台諺語典03"
+    }
+  ]
+}
